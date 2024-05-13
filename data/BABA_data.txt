@@ -1,0 +1,2829 @@
+[Company Introduction]:
+Alibaba Group Holding Ltd is a leading entity in the Retail sector. Incorporated and publicly traded since 2014-09-19, the company has established its reputation as one of the key players in the market. As of today, Alibaba Group Holding Ltd has a market capitalization of 188201.26 in CNY, with 19469.00 shares outstanding.
+Alibaba Group Holding Ltd operates primarily in the CN, trading under the ticker BABA on the NEW YORK STOCK EXCHANGE, INC.. As a dominant force in the Retail space, the company continues to innovate and drive progress within the industry.
+
+
+[Address]:
+Main office address is in 26/F TOWER ONE TIMES SQUARE, 1 MATHESON STREET CAUSEWAY BAY,K3 00000
+tel: 852-2215-5100
+
+
+[Stock]:
+Entity Common Stock, Shares Outstanding this means Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument.
+
+
+[News]:
+[Date]:2024-05-12 01:04:52
+[Headline]:Wall Street Breakfast: The Week Ahead
+[Summary]:Upcoming U.S. retail sales and CPI reports could impact Federal Reserve interest rate cut expectations.
+
+[Date]:2024-05-11 22:00:21
+[Headline]:Alibaba leverages cloud business to become a leading AI investor in China
+[Summary]:Alibaba has been leveraging its vast cloud computing infrastructure to become a leading investor in China’s generative artificial intelligence...
+
+[Date]:2024-05-11 09:00:00
+[Headline]:1 Growth Stock Down 75% to Buy Right Now
+[Summary]:Shares of China's e-commerce giant Alibaba don't reflect the company's full potential, but they soon could.
+
+[Date]:2024-05-11 05:01:00
+[Headline]:Chinese equities bear sentiment is still a contrarian play with opportunities - BTIG
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-11 00:50:00
+[Headline]:Tweedy, Browne 2024 Client Letter
+[Summary]:Despite exposure to âMag 7,â Tweedy, Browneâs managed account portfolios made substantial financial progress over the last year. Click here to read more.
+
+[Date]:2024-05-10 15:44:31
+[Headline]:Investing Action Plan: Walmart, Alibaba, JD.com Paint A Picture Of Online Retail
+[Summary]:Walmart, Home Depot launch retail earnings. Alibaba leads some of China's biggest earnings stories. Inflation data could influence the week.
+
+[Date]:2024-05-10 15:00:32
+[Headline]:Walmart earnings, CPI, housing data: What to Watch Next Week
+[Summary]:Market Domination Overtime Hosts Josh Lipton and Julie Hyman preview the biggest headlines and events for investors next week, including earnings out from major retailers Walmart (WMT) and Home Depot (HD), April's Consumer Price Index (CPI) inflation print, and the latest round of US housing data. For more expert insight and the latest market action, click here to watch this full episode of Market Domination Overtime. This post was written by Luke Carberry Mogan.
+
+[Date]:2024-05-10 09:50:17
+[Headline]:Stocks to watch next week: Burberry, Vodafone, BT and Walmart
+[Summary]:Earnings preview of key companies reporting next week and what to look out for.
+
+[Date]:2024-05-10 06:40:00
+[Headline]:10 Consumer Discretionary Stocks With Whale Alerts In Today's Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 06:01:00
+[Headline]:About 70% of S&P 500 names beat EPS, while 47% soar past revenue estimates this week - Earnings Scorecard
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 05:37:00
+[Headline]:Buffett’s Understudies: 3 Stocks The Oracle’s Protégés Are Betting Big On
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 03:10:00
+[Headline]:Smart Money Is Betting Big In BABA Options
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 02:27:00
+[Headline]:Stocks To Watch Next Week: AMAT, CSCO, GRAB, MNDY, BABA And More
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 00:22:00
+[Headline]:7 Undervalued Stocks Ready to Skyrocket from Their Yearly Lows
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 00:16:00
+[Headline]:The 3 Best Chinese Stocks to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 23:03:00
+[Headline]:7 Once-in-a-Decade Buying Opportunities to Seize Now
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 20:01:00
+[Headline]:Catalyst Watch: Retail heavyweights Walmart and Home Depot report, OpenAI vs. Google, and EV tariff drama
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 17:53:00
+[Headline]:PR executive reportedly departs China's Baidu after comments glorifying overwork draw backlash
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 11:29:08
+[Headline]:PDD Holdings: Jump On The Northbound Train Before It Leaves (Upgrade)
+[Summary]:PDD's market outperformance over the past year demonstrates the bullish conviction in its fundamentally strong growth story. Read more about PDD stock here.
+
+[Date]:2024-05-09 09:42:16
+[Headline]:Alibaba's New AI Model Claims to Beat OpenAI's GPT-4 in Language Skills
+[Summary]:On Thursday, Alibaba Group Holding Limited (NYSE:BABA) Alibaba Cloud announced the release of the latest version of its large language model, which has already seen more than 90,000 deployments by companies. Jingren Zhou, the chief technology officer of Alibaba Cloud, expressed enthusiasm about working with customers and developers to capitalize on the substantial growth opportunities presented by the latest rise in generative AI development, CNBC reports. Also Read: Alibaba and Lenovo Team Up t
+
+[Date]:2024-05-09 06:39:00
+[Headline]:10 Consumer Discretionary Stocks Whale Activity In Today's Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 04:34:00
+[Headline]:PR executive at Chinese tech firm Baidu apologizes for comments seen as glorifying overwork
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 04:34:00
+[Headline]:Top public relations executive at Chinese technology firm Baidu apologizes after sparking backlash
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 03:55:00
+[Headline]:BABA June 28th Options Begin Trading
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 01:10:54
+[Headline]:Alibaba Says Its 'Qwen' Large Language AI Models Have 90,000 Enterprise Clients
+[Summary]:By Tracy Qu Alibaba Group's large language models have attracted more than 90,000 business users, potentially giving the Chinese ecommerce giant a boost in efforts to reverse slowing growth in...
+
+[Date]:2024-05-09 00:15:15
+[Headline]:Alibaba Cloud's Qwen Models Attract over 90,000 Enterprise Adoptions Within its First Year; The MaaS Pioneer Upgrades its AI Development Platform, Unveils Enhanced Propriety LLM Model, and Expands Open-source Offerings to Cater for Soaring Generative AI Demand
+[Summary]:London, UK - Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, today announced a major milestone for Qwen , its family of proprietary large language models . Since...
+
+[Date]:2024-05-08 21:19:00
+[Headline]:Alibaba Cloud unveils latest version of large language model amid robust AI demand
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 20:19:57
+[Headline]:UPDATE 2-Chinese megacity Hangzhou, home to Alibaba, lifts all home purchase curbs
+[Summary]:China's eastern metropolis of Hangzhou, among the country's most thriving cities, on Thursday said it will lift all home purchase restrictions to shore up its real estate market, raising the prospect of other cities following suit.  As of May 9, Hangzhou's government will no longer vet the eligibility of potential buyers, the city housing authority said in a notice.
+
+[Date]:2024-05-08 15:45:11
+[Headline]:Alibaba (BABA) Stock Moves -1.15%: What You Should Know
+[Summary]:Alibaba (BABA) closed the most recent trading day at $78.46, moving -1.15% from the previous trading session.
+
+[Date]:2024-05-08 07:11:14
+[Headline]:Hong Kong to launch weekly options for stocks including HSBC, Alibaba
+[Summary]:Hong Kong's bourse operator said on Wednesday it plans to launch by the end of the year weekly options for 10 locally listed stocks, including HSBC Holdings and Alibaba Group Holding, in a bid to offer investors additional risk-management tools.  Options are derivatives that offer the right to buy or sell particular securities, and can be used by investors to manage risks or execute trading strategies.  The 10 stocks also include the Hong Kong Exchanges and Clearing Ltd (HKEX), Tencent Holdings, JD.com, Baidu and BYD Co, HKEX said in a statement on its website.
+
+[Date]:2024-05-08 05:06:00
+[Headline]:Chinese Stocks Surge As Investors Bet On Economic Turnaround: 7 ETFs To Watch
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 03:30:00
+[Headline]:3 Ridiculously Undervalued Stocks to Buy Hand Over Fist Right Now in May
+[Summary]:Investing in cheap stocks brings unique risks because there is usually a reason the companies are undervalued.
+
+[Date]:2024-05-08 01:47:13
+[Headline]:Tencent, Alibaba Earnings Are Key to Longer China Stock Rally
+[Summary]:(Bloomberg) -- The bounceback in Chinese stocks from their multi-year lows risks running out of steam unless the nation’s tech giants can deliver on their earnings next week.Most Read from BloombergTrump Judge Indefinitely Postpones Documents Case TrialOne Out of Every 24 New York City Residents Is Now a MillionaireTrump’s Private Life Exposed in Intimate Stormy Daniels TestimonyIsrael Says a Cease-Fire Plan Backed by Hamas Falls ShortIndex heavyweights Tencent Holdings Ltd. and Alibaba Group Ho
+
+[Date]:2024-05-07 09:41:38
+[Headline]:Alibaba's To Overhaul Taobao In Strategic Move to Reclaim E-commerce Dominance
+[Summary]:Alibaba Group Holding Ltd (NYSE:BABA) is revamping the webpage of its Taobao e-commerce platform, launching the most significant update in seven years, to enhance the shopping experience ahead of China’s major 618 shopping festival. This initiative by Taobao and Tmall Group, Alibaba’s domestic e-commerce unit, aims to streamline the layout and simplify the search and purchase process for users and merchants. Alibaba is focusing on this upgrade to attract new users and reclaim its leading positio
+
+[Date]:2024-05-07 05:32:50
+[Headline]:5 Chinese Growth Stocks That Trade Like Value Stocks
+[Summary]:Discover five Chinese tech stocks poised to thrive from China's stimulus measures.
+
+[Date]:2024-05-07 05:04:00
+[Headline]:Shein beefing up forced labor compliance to appease U.S. regulators - report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 04:26:00
+[Headline]:Chinese tech stocks dip amid earnings of US cloud software companies
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 03:30:00
+[Headline]:Should Investors Buy Alibaba Stock Before May 14?
+[Summary]:Alibaba is on a mission to accelerate growth after stagnating for an extended time.
+
+[Date]:2024-05-07 01:34:00
+[Headline]:NVIDIA To Rally More Than 19%? Here Are 10 Top Analyst Forecasts For Tuesday
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 01:21:00
+[Headline]:Analysts’ Opinions Are Mixed on These Consumer Cyclical Stocks: Adient (ADNT), Alibaba (BABA) and Booking Holdings (BKNG)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 00:33:00
+[Headline]:Alibaba price target lowered by $1 at Truist, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 21:46:00
+[Headline]:3 Michael Burry Stocks Set to Double Your Money by 2027
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 21:00:00
+[Headline]:Tuesday Talk: Still Flying
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 19:19:00
+[Headline]:The 3 Most Undervalued Chinese Stocks to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 19:03:00
+[Headline]:IBKR says investors poured into Starbucks stock, sold Apple shares in weekly moves
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 19:00:00
+[Headline]:When Investors Should Look At The Monthly Charts
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 11:16:36
+[Headline]:Alibaba: On The Verge Of A Downfall
+[Summary]:Alibaba's stock slump continues, facing regulatory hurdles, fading marketplace dominance, and declining financial performance. Learn more on BABA stock here.
+
+[Date]:2024-05-06 08:32:19
+[Headline]:Jack Ma Backed Ant Group's Alipay+ Broadens Payment Reach Across Continents: How It's Shaping Global Commerce?
+[Summary]:Alibaba Group Holding Limited (NYSE:BABA) fintech affiliate Ant Group is enhancing its global presence through its digital platform, Alipay+, aiming to unify mobile payment apps worldwide. Ant International, the group’s global division, launched Alipay+ in 2020. It allows users to make payments with apps from their home countries via Alipay’s QR code network and local partners abroad. Douglas Feagin, Senior VP at Ant Group, emphasized that travelers prefer using their trusted home-country e-wall
+
+[Date]:2024-05-06 07:00:18
+[Headline]:Alibaba Group Holding Limited (BABA) is Attracting Investor Attention: Here is What You Should Know
+[Summary]:Alibaba (BABA) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.
+
+[Date]:2024-05-06 06:20:00
+[Headline]:How China's Central Bank Gold Buying Frenzy Drove Prices To Record Highs, Attracting Gen Z To 'Gold Beans'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 04:01:00
+[Headline]:BABA September 2025 Options Begin Trading
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 23:32:11
+[Headline]:Africa's Business Heroes Takes 40 Entrepreneurs to China and Extends 2024 Application Deadline
+[Summary]:Between April 20-27, the Africa's Business Heroes Prize Competition , a philanthropic initiative sponsored by the Jack Ma Foundation and Alibaba Philanthropy, hosted 40 participants-consisting of...
+
+[Date]:2024-05-05 23:11:10
+[Headline]:Africa’s Business Heroes Takes 40 Entrepreneurs to China and Extends 2024 Application DeadlineUS$1.5 million in grant funding will be distributed among the top 10 finalists; the first prize winner will receive an award of US$300,000
+[Summary]:Between April 20-27, the Africa’s Business Heroes Prize Competition , a philanthropic initiative sponsored by the Jack Ma Foundation and Alibaba Philanthropy, hosted 40 participants–consisting of...
+
+[Date]:2024-05-05 08:25:42
+[Headline]:The Underdog Uprising: 3 Stocks Poised for a Miraculous Comeback
+[Summary]:In the current stock market, companies poised for a notable turnaround frequently present prospects for profitable investments. This is a fascinating story of three undervalued comeback stocks offering unique investment potential. Like high-yield assets, these businesses show encouraging signals of growth and recovery despite confronting their unique set of obstacles. To start, the first one is poised for greater profitability and market dominance due to the strong revenue growth in its division
+
+[Date]:2024-05-05 02:15:00
+[Headline]:Alibaba Stock: Buy, Sell, or Hold?
+[Summary]:Is Alibaba a value or a value trap?
+
+[Date]:2024-05-04 08:13:00
+[Headline]:3 Ultra-Cheap Stocks You Can Buy For Less Than $100 Right Now
+[Summary]:These stocks have been underwhelming investments this year, but in the long run, they may prove to be excellent buys.
+
+[Date]:2024-05-03 10:56:00
+[Headline]:PDD Holdings Inc. (PDD) Surges 10.5%: Is This an Indication of Further Gains?
+[Summary]:PDD Holdings Inc. (PDD) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.
+
+[Date]:2024-05-03 04:47:00
+[Headline]:June 14th Options Now Available For Alibaba Group Holding (BABA)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-03 04:15:00
+[Headline]:Rowan Street Q1 2024 Letter
+[Summary]:Rowan Street gained +25.6% (net) in Q1 2024 and over the past 12 months the fund gained +70.6% (net). Click here to read more.
+
+[Date]:2024-05-03 01:20:00
+[Headline]:Top 2 Consumer Stocks That May Plunge This Quarter
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-02 22:27:00
+[Headline]:Sam Altman's OpenAI And Amazon-Backed Anthropic Face Serious Competition From These Chinese Startups Backed By Alibaba, Xiaomi And More
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-02 20:46:00
+[Headline]:Alibaba Stock May Reverse Massively
+[Summary]:Alibaba stock's missed targets and internal problems raise concerns, but there are reasons to believe in a potential stock recovery in the near term. Read more here.
+
+[Date]:2024-05-02 12:15:09
+[Headline]:Apple's Disastrous Q2 2024 Results Overshadowed By $110B Buybacks
+[Summary]:Apple's uncertain AI strategy and lack of growth initiatives poses risks to its valuation outlook. Read why we seeÂ limited near-term respite for AAPL stock.
+
+[Date]:2024-05-02 03:00:00
+[Headline]:Massive News for Alibaba Stock Investors
+[Summary]:Management is taking action, signaling it believes its shares are significantly undervalued.
+
+[Date]:2024-05-01 21:16:00
+[Headline]:BABA Crosses Above Key Moving Average Level
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 21:09:00
+[Headline]:Stock market today: Asian shares advance ahead of US jobs report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 20:05:00
+[Headline]:Why Are Chinese Stocks BABA, PDD, BIDU, JD Up Today?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 15:45:20
+[Headline]:Alibaba (BABA) Ascends While Market Falls: Some Facts to Note
+[Summary]:In the latest trading session, Alibaba (BABA) closed at $75.51, marking a +0.88% move from the previous day.
+
+[Date]:2024-05-01 11:21:22
+[Headline]:After Nvidia and Apple, Alibaba Chases Vietnam: New Data Center to Boost Control and Meet Local Laws
+[Summary]:Alibaba Group Holding Limited (NYSE:BABA) plans to construct a data center in Vietnam to meet legal requirements for local data storage and to cater to increasing demand in one of Asia’s fastest-growing economies. Currently, Alibaba rents server space from Vietnamese state-owned telecommunications companies Viettel and VNPT. The arrangement follows Vietnam’s contentious 2022 law mandating that companies store data within the country—a regulation that sparked resistance from major tech firms like
+
+[Date]:2024-05-01 07:30:09
+[Headline]:Is Alibaba (BABA) a Buy as Wall Street Analysts Look Optimistic?
+[Summary]:According to the average brokerage recommendation (ABR), one should invest in Alibaba (BABA). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?
+
+[Date]:2024-05-01 01:45:00
+[Headline]:Largest borrow rate increases among liquid names
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 08:45:53
+[Headline]:PDD Holdings: A Good GARP Stock Made Even Better By Stable Margins
+[Summary]:PDD Holdings beat profit expectations with robust cost-control measures, and with stable margins is a potential GARP opportunity. Learn more on PDD stock here.
+
+[Date]:2024-04-30 06:39:00
+[Headline]:Alibaba Stock Celebrated the Longest Winning Streak Since 2018. Why It’s Ending Now.
+[Summary]:Alibaba stock has been in the doldrums since late 2020 despite repeated calls for a rebound. after a crackdown on the tech sector by Chinese regulators through much of 2021 and 2022 which wreaked havoc.
+
+[Date]:2024-04-30 04:35:00
+[Headline]:Alibaba Stock Analysis: Why BABA Is a China Bet That Requires Nerves of Steel
+[Summary]:If any company reflects the state of China’s economy, it would be e-commerce and cloud-computing firm Alibaba (NYSE:BABA). Perhaps Alibaba stock is a bullish bet on China’s economic recovery, just as much as a wager on Alibaba as a company. In that light, there are definite risks to investing in Alibaba, though there are also potential rewards. As I’ve previously discussed, Alibaba is very reasonably valued and offers some portfolio exposure to generative artificial intelligence. I’m not against
+
+[Date]:2024-04-30 04:30:00
+[Headline]:3 Comeback Stocks to Buy on the Cusp of Explosive Gains
+[Summary]:The past few years have been a rollercoaster ride for investors, with many quality stocks declining substantially from their peaks and yet to regain lost ground. However, solid businesses with strong fundamentals rarely disappoint in the long-run. Though temporarily beaten down, these companies are likely to make a full recovery and deliver substantial returns, for those with the patience to hold through the storm. While timing the exact bottom is impossible, there are bargains emerging among st
+
+[Date]:2024-04-30 03:05:00
+[Headline]:Huawei's Q1 profit soars amid rising challenge to Apple in China - report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 03:00:00
+[Headline]:Alibaba Group Will Announce March Quarter 2024 and Full Fiscal Year 2024 Results on May 14, 2024
+[Summary]:HANGZHOU, China, April 30, 2024--Alibaba Group Holding Limited (NYSE: BABA and HKEX: 9988 (HKD Counter) and 89988 (RMB Counter), "Alibaba" or "Alibaba Group") today announced that it will report its unaudited financial results for the quarter and fiscal year ended March 31, 2024 before the U.S. market opens on Tuesday, May 14, 2024, and will hold a conference call to discuss the financial results at 7:30 a.m. U.S. Eastern Time (7:30 p.m. Hong Kong Time) the same day.
+
+[Date]:2024-04-30 00:32:00
+[Headline]:Alibaba Group Schedules Annual Results Release
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-29 19:18:00
+[Headline]:The 3 Best ETFs to Ride the Emerging Markets Recovery Wave
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-29 07:45:00
+[Headline]:Seeking Exposure To China's Technology Industry
+[Summary]:FTSE Russell developed a number of indexing solutions to support investors seeking exposure to Chinaâs technology industry. Read what investors need to know.
+
+[Date]:2024-04-29 06:39:00
+[Headline]:3 Top Undervalued Stocks Primed for a Multibagger Recovery
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-29 03:39:00
+[Headline]:BIDU Stock Pops as Baidu, Tesla Team Up on Self-Driving Deal
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-26 07:38:00
+[Headline]:Alibaba Stock Is Rising Amid Longest Winning Streak in a Year. Don’t Be Fooled.
+[Summary]:Alibaba  stock rose on Friday amid its longest winning streak in a year, but investors shouldn’t be too excited: shares in the Chinese tech giant are still near multiyear lows, with lots of reason for caution even as the bull case looks exciting.  Shares in  Alibaba  rose 2% in U.S. premarket trading on Friday, with the stock on track for its seventh consecutive day in the green.  Alibaba stock is down more than 75% from its late-2020 record high.
+
+[Date]:2024-04-26 06:45:00
+[Headline]:Got $1,000? 3 Stocks to Buy Now While They're On Sale
+[Summary]:They're all great companies -- and they're even better investments after their shares' recent sell-offs.
+
+[Date]:2024-04-26 03:30:00
+[Headline]:Chinese tech stocks jump amid positive earnings of US giants Microsoft, Alphabet
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-26 02:25:00
+[Headline]:As US Tightens Screws On Nvidia, Intel Chip Exports To China, Huawei's Latest Phone Uses Made-In-China Chipset
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-25 22:41:00
+[Headline]:Market Today: Tech Giants Reignite AI Craze, Alibaba Continues Winning Streak
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-25 21:10:00
+[Headline]:Alibaba Group notches seventh consecutive session of gains
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-25 16:07:57
+[Headline]:10 Best E-Commerce Stocks To Buy According to Analysts
+[Summary]:In this article, we discuss the 10 best e-commerce stocks to buy according to analysts. To skip our analysis of the e-commerce and online retail industry, go directly to the 5 Best E-commerce Stocks To Buy According to Analysts. E-commerce had been steadily on the rise for a while, but with the onset of the […]
+
+[Date]:2024-04-25 15:45:17
+[Headline]:Why the Market Dipped But Alibaba (BABA) Gained Today
+[Summary]:In the closing of the recent trading day, Alibaba (BABA) stood at $75.11, denoting a +0.64% change from the preceding trading day.
+
+[Date]:2024-04-25 05:15:00
+[Headline]:Baron Emerging Markets Fund Q1 2024 Shareholder Letter
+[Summary]:Baron Emerging Markets Fund gained 2.50% (Institutional Shares) during Q1 2024, while its primary benchmark index was up 2.37%. Click here to read more.
+
+[Date]:2024-04-25 03:57:00
+[Headline]:Is Baozun's Risky Leap Into Brand Management Starting To Pay Off?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-25 02:10:00
+[Headline]:March's Dividend Portfolio Update Sets New All-Time Record - 100 Holdings, 21 Buys
+[Summary]:Portfolio changes in March focus on BDCs, aiming to increase dividend income by at least $100 each month. Click here for a detailed analysis.
+
+[Date]:2024-04-25 00:33:00
+[Headline]:Analysts Offer Insights on Consumer Cyclical Companies: G-III Apparel Group (GIII), Alibaba (BABA) and O’Reilly Auto (ORLY)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-24 12:39:33
+[Headline]:Alibaba: Let's Clear Up Some Misconceptions
+[Summary]:
+
+[Date]:2024-04-24 05:41:00
+[Headline]:New Strong Sell Stocks for April 24th
+[Summary]:BABA, TCPC and DHC have been added to the Zacks Rank #5 (Strong Sell) List on April 24, 2024.
+
+[Date]:2024-04-24 05:30:00
+[Headline]:Artisan International Value Fund Q1 2024 Commentary
+[Summary]:The NAV of the Artisan International Value Fund increased by 4.38% during the quarter while the MSCI EAFE Index increased by 5.78%. Click here to read more.
+
+[Date]:2024-04-24 04:00:00
+[Headline]:Alibaba’s Risky Gamble: Can the E-Commerce Titan Bounce Back from Its Missteps?
+[Summary]:Alibaba (NYSE:BABA) is an example of a stock that took its eye off the ball and struck out big. Now it is scrambling to regain its footing. Alibaba’s ongoing restructuring has failed to win over the market, resulting in a 9% year-to-date decline in its stock, a 22% decline over the last 12 months, and a more than 31% drop from its 52-week high. Although founder Jack Ma endorsed the Chinese online retailer’s turnaround plans, investors might not want to rush in. Alibaba is a behemoth. Righting th
+
+[Date]:2024-04-24 03:30:00
+[Headline]:Snowflake unveils flagship AI model Arctic to woo enterprises
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-23 23:34:00
+[Headline]:China's SenseTime surges on unveiling new AI model, rival to GPT-4 Turbo
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-23 21:45:00
+[Headline]:Madison International Stock Fund Q1 2024 Investment Strategy Letter
+[Summary]:The MSCI ACWI ex-US Index was up 4.69% in the first quarter with a mixture of positive and negative elements.
+
+[Date]:2024-04-23 07:00:18
+[Headline]:Alibaba Group Holding Limited (BABA) Is a Trending Stock: Facts to Know Before Betting on It
+[Summary]:Recently, Zacks.com users have been paying close attention to Alibaba (BABA). This makes it worthwhile to examine what the stock has in store.
+
+[Date]:2024-04-23 00:25:08
+[Headline]:World Squash Federation and Alibaba Cloud sign Memorandum of Understanding
+[Summary]:London UK - The World Squash Federation , the international federation responsible for squash, has signed a Memorandum of Understanding with Alibaba Cloud, the digital technology and intelligence...
+
+[Date]:2024-04-23 00:18:00
+[Headline]:China’s Chip Crackdown: 2 Semiconductor Stocks to Dump, 1 Primed to Pop
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 22:32:00
+[Headline]:Alibaba Group Holding Ltd. ADR rises Tuesday, outperforms market
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 20:24:00
+[Headline]:UBS Upgrades China Stocks Amid 'Valuation Collapse': What Investors Need to Know
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 19:54:00
+[Headline]:What's Going On With Nvidia and AMD Stocks On Tuesday?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 08:38:03
+[Headline]:Where Will Alibaba Stock Be in 5 Years?
+[Summary]:Alibaba's earnings growth has slowed considerably.
+
+[Date]:2024-04-22 03:49:00
+[Headline]:Alibaba Gr Holding Unusual Options Activity For April 22
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-21 01:45:00
+[Headline]:Alibaba Is Counting on These 2 Strategies to Regain Its Glory. Can It Pay Off for Investors?
+[Summary]:Alibaba could be a big winner if it pulls off its turnaround plan.
+
+[Date]:2024-04-20 06:26:34
+[Headline]:15 Fastest Declining Countries in Asia
+[Summary]:In this article, we will take a look at the 15 fastest declining countries in Asia. If you want to skip our discussion on the population trends in Asia, you can go directly to the 5 Fastest Declining Countries in Asia. The Asia-Pacific region is home to a population of over 4.8 billion people as […]
+
+[Date]:2024-04-19 09:33:05
+[Headline]:Olympics-Games' broadcaster embracing AI but remains wary of deepfakes
+[Summary]:As part of a push by the International Olympic Committee to embrace artificial intelligence (AI) in Paris, the Games' broadcaster is stepping up its use of the technology -- but not without concerns about the risk of "deepfakes".  Olympic Broadcasting Services (OBS), which produces the live television, radio and digital coverage of the Olympic and Paralympic Games that is then sold to clients, first began using AI at the PyeongChang Winter Games in 2018.  "In Paris we will take this to a completely different level," Yiannis Exarchos, OBS chief executive, told Reuters at an event in London on Friday to discuss the role AI will play at the Paris 2024 Games.
+
+[Date]:2024-04-19 09:00:24
+[Headline]:12 Best Diversified Stocks To Invest In
+[Summary]:In this article, we will take a look at the 12 best diversified stocks to invest in. To know more about the top stocks, go directly to 5 Best Diversified Stocks To Invest In. Forbes asked a group of experts about the changing global landscape and its effect on investors. These experts included Justin Onuekwusi (JO), […]
+
+[Date]:2024-04-19 07:30:31
+[Headline]:Alibaba and Lenovo Team Up to For AI PCs, Setting New Standards in Tech
+[Summary]:Alibaba Group Holding Limited (NYSE:BABA) and Lenovo Group are joining forces to develop a suite of artificial intelligence (AI) products, marking a significant move as Chinese tech giants vie for dominance in the burgeoning field of generative AI. These offerings will feature AI PCs—computers embedded with chips capable of performing generative AI operations locally—alongside other AI-driven devices and business intelligence solutions. This collaboration was unveiled at Lenovo’s Tech World even
+
+[Date]:2024-04-19 02:18:00
+[Headline]:Alibaba's Taobao Launches 3D Shopping App for Apple's Vision Pro - A New Era for Online Retail in China
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 23:44:00
+[Headline]:JD.com Stock (NASDAQ:JD) Could Face a Downturn, Says Analyst
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 20:57:00
+[Headline]:Barclays Reaffirms Their Buy Rating on Alibaba (BABA)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 10:22:18
+[Headline]:Joe Tsai, Co-Founder of Alibaba, Says That There's A 'Wealth Effect' From Property Downturn
+[Summary]:Alibaba co-founder Joe Tsai said that he's noticed that a wealth effect from a property downturn tends to make consumers more hesitant to spend their money — here's why. In an interview with Norges Bank Investment Management, Tsai spoke about all things wealth, including consumer confidence during property downturns. He provided context on the Chinese economy, explaining that it makes up about 31% of global production, but its consumers participate in around 14% of global consumption. Compared t
+
+[Date]:2024-04-18 09:20:00
+[Headline]:Alibaba (BABA) Aids U.S. Businesses With Logistics Marketplace
+[Summary]:Alibaba (BABA) launches Logistics Marketplace to offer seamless logistics solutions in the United States, boosting its logistics services portfolio.
+
+[Date]:2024-04-18 07:38:46
+[Headline]:Alibaba: Cheap But Risky, My Strategy For Reducing Downside Risk
+[Summary]:Alibaba faces strong competition from domestic peer Pinduoduo, which is outperforming the company in e-commerce growth rates. Learn more on BABA stock here.
+
+[Date]:2024-04-18 05:02:00
+[Headline]:JD.com bought back $1.2B shares in Q1; Morgan Stanley expects stock to fall in 30 days
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 04:25:00
+[Headline]:7 Michael Burry Stocks to Buy if You’re Looking for Deep Value
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 04:20:00
+[Headline]:Hold On to Alibaba Stock! There Is a Light at the End of the Tunnel.
+[Summary]:Jack Ma, the founder of Chinese e-commerce firm Alibaba (NYSE:BABA), isn’t the company’s decision maker anymore. Yet, Alibaba got a major shot in the arm when Ma released a memo to the company’s employees. Not only that, but Ma has skin in the game, financially speaking, and you should too, if you see the value in Alibaba stock. Alibaba is making headway in China’s market for generative artificial intelligence. Sure, there’s room for Alibaba to grow and improve in that area. But then, the prospe
+
+[Date]:2024-04-18 04:16:00
+[Headline]:Bernstein Reaffirms Their Hold Rating on Alibaba (BABA)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 21:36:00
+[Headline]:7 Top Dividend Stocks Set for 200%+ Gains by 2028
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 15:48:55
+[Headline]:The 3 Most Overlooked Stocks Set for a Triple-Digit Comeback
+[Summary]:Hidden treasures sometimes go overlooked in the busy world of financial markets. Here, attention is frequently drawn to the names with the most sparkle. The purpose of this piece is to highlight three of these less shiny treasures. The first one sticks out for its unwavering dedication to pharmaceutical innovation. The company may grow long term with a strong pipeline driven by cutting-edge technologies like AI and a record year of Food and Drug Administration (FDA) approvals in 2023. The second
+
+[Date]:2024-04-17 10:55:53
+[Headline]:3 Consumer Stocks to Buy Now: Q2 Edition
+[Summary]:Consumer stocks to buy now aren’t just a fleeting trend. As the second quarter (Q2) rolls in, consumer stocks present themselves as excellent bets, offering the dual benefit of steady portfolio growth and attractive shareholder rewards. Moreover, we’ve seen in recent quarters how the U.S. continues to exhibit robust signs of growth, outperforming analyst estimates. The robust consumer spending environment leads to higher profits and a more stable economic landscape. Despite the possibility of pr
+
+[Date]:2024-04-17 08:00:00
+[Headline]:Alibaba.com Unveils Affordable, Customizable Logistics Solutions for U.S. SMEs
+[Summary]:Alibaba.com, a leading platform for global business-to-business (B2B) e-commerce, today officially introduced its Logistics Marketplace, providing U.S. small and medium-sized enterprises (SMEs) with access to affordable and customizable logistics services to streamline their supply chains and gain global reach with greater ease.
+
+[Date]:2024-04-17 06:55:00
+[Headline]:International Wide-Moat Stocks On Sale - The April 2024 Heat Map
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 04:59:40
+[Headline]:SMIN: Forget China, India Is Still The Way To Go
+[Summary]:SMIN is a small-cap ETF with companies which will profit from the rise of economic well-being by the large population and priced reasonably. Read more here.
+
+[Date]:2024-04-17 04:38:00
+[Headline]:Indiana AG leading inquiry into Webull ties to Chinese Communist Party
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 03:01:00
+[Headline]:Big News for Alibaba Stock Investors
+[Summary]:Short-term pain for long-term gain.
+
+[Date]:2024-04-17 02:50:00
+[Headline]:Got $1,000? These 3 Artificial Intelligence (AI) Stocks Are Still a Bargain
+[Summary]:Not all AI stocks trade at stratospheric valuations.
+
+[Date]:2024-04-17 02:26:00
+[Headline]:Taiwan Semiconductor, ARM Holdings, Alcoa, Alibaba, And Tesla: Why These 5 Stocks Are On Investors' Radars Today
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 00:24:00
+[Headline]:TikTok sees EU regulator's query on TikTok Lite's launch in France, Spain - report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 00:17:00
+[Headline]:Alibaba Leverages Open Source to Supercharge AI
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 21:26:00
+[Headline]:A Mightier Dollar: 6 Stocks that Benefit from Booming Bucks
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 09:28:00
+[Headline]:China Economic Growth Smashes Forecasts but Alibaba Stock Is Falling. Here’s Why.
+[Summary]:While headline growth picked up in the first quarter, key parts of China's economy continue to exhibit signs of weakness.
+
+[Date]:2024-04-16 05:49:00
+[Headline]:Morgan Stanley sees room for Alibaba top-line estimates to rise
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 04:39:00
+[Headline]:China Growth Tops Forecasts but Alibaba Stock Is Falling. Here’s Why.
+[Summary]:While headline growth picked up in the first quarter, key parts of China's economy continue to exhibit signs of weakness.
+
+[Date]:2024-04-16 03:36:00
+[Headline]:Buy Rating Affirmed for Alibaba on Technological Advancements and Enhanced Marketing Strategies
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 15:45:21
+[Headline]:Alibaba (BABA) Stock Moves -0.94%: What You Should Know
+[Summary]:The latest trading day saw Alibaba (BABA) settling at $70.62, representing a -0.94% change from its previous close.
+
+[Date]:2024-04-15 10:16:20
+[Headline]:Alibaba Stock Today: Sell This Call Spread, Earn $75 Immediately
+[Summary]:Alibaba broke back below the 50-day moving average on Friday and continues to show deterioration in relative strength.  A bear call spread involves selling an out-of-the-money call and buying a further out-of-the-money call.  A June 21-expiring bear call spread on BABA stock using the 80 to 85 strike prices could get sold for around $0.75 per set of contracts, based on recent action.
+
+[Date]:2024-04-15 07:45:30
+[Headline]:7 Stable Stocks for 50% Returns by Early 2025
+[Summary]:Investors who seek 50% returns in less than 12 months generally will have many choices within stable stocks. The general maxim regarding risk and return applies here: Risky, unstable stocks tend to offer much higher return potential. It logically follows that stability and high returns don’t often go together. This has led to this list of stable stocks for returns. That’s the point of this article. I’ve used a screener tool to identify stocks that have a low beta and are also projected to increa
+
+[Date]:2024-04-15 07:30:10
+[Headline]:Brokers Suggest Investing in Alibaba (BABA): Read This Before Placing a Bet
+[Summary]:The average brokerage recommendation (ABR) for Alibaba (BABA) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?
+
+[Date]:2024-04-15 07:26:44
+[Headline]:Alibaba Rival Temu Joins Tech Giants List Under EU Scrutiny, Crosses User Threshold for Enhanced Regulation
+[Summary]:Alibaba Group Holding Limited (NYSE:BABA) rival PDD Holdings Inc’s (NASDAQ:PDD) Temu will be subject to stringent EU online content regulations that currently affect major tech firms like Meta Platforms Inc (NASDAQ:META), Alphabet Inc (NASDAQ:GOOG) (NASDAQ:GOOGL) Google, Elon Musk’s X, and TikTok. This development follows as Temu’s average monthly users in Europe surpassed the significant threshold of 45 million. According to the European Union’s Digital Services Act (DSA), platforms with over 4
+
+[Date]:2024-04-15 07:06:05
+[Headline]:The Fall of China’s Tech Giant: How Alibaba’s Woes Expose the Perils of Xi’s Crackdown
+[Summary]:Back in the last decade, I told anyone who would listen about the great news of Alibaba stock (NASDAQ:BABA). I even bought some shares. Alibaba was one of China’s three “Cloud Emperors.” Its hyperscaled data centers, like those of Tencent (OTCMKTS:TCEHY) and Baidu (NASDAQ:BIDU), were serious threats to Amazon (NASDAQ:AMZN), Microsoft (NASDAQ:MSFT), and Alphabet (NASDAQ:GOOGL, NASDAQ:GOOG) in the cloud. Now Alibaba stock is down 60% from 5 years ago and I wouldn’t touch it with a barge pole. It’s
+
+[Date]:2024-04-15 06:03:00
+[Headline]:Unpacking the Latest Options Trading Trends in Alibaba Gr Holding
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 04:17:00
+[Headline]:Morgan Stanley Identifies Top 'Alpha' Stocks In APAC, One With Potential 28% Upside
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 03:00:43
+[Headline]:Alibaba: $4.8B Buyback Did Not Move The Needle - What's Next?
+[Summary]:BABA's stock has lost its 2022/2023 gains while trading sideways, with the massive share repurchases/ dividend payouts barely moving the needle. Read more here.
+
+[Date]:2024-04-15 00:12:00
+[Headline]:Temu could see stricter rules under EU's Digital Services Act as users grow - report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-13 10:12:13
+[Headline]:10 Most Undervalued Value Stocks To Buy Now
+[Summary]:In this piece, we will take a look at the ten most undervalued value stocks to buy now. If you want to skip our overview of value stocks and undervalued stocks, then you can check out 5 Most Undervalued Stocks To Buy Now. Among the several categories that stocks can be divided into, two categories […]
+
+[Date]:2024-04-13 06:08:00
+[Headline]:My Alibaba Stock Price Prediction for 2024
+[Summary]:Alibaba is sometimes known as the Amazon of China.
+
+[Date]:2024-04-12 18:39:28
+[Headline]:Coupang Stock (NYSE:CPNG): Should You Ride This Rocket Higher?
+[Summary]:Maybe you’ve seen the trending stock tickers today and noticed that Coupang (NYSE:CPNG) stock was on a rocket ride higher. There’s nothing wrong with momentum, but investors should look into the reason for the move and make their own decisions. I am bearish on CPNG stock, and as we delve into what’s actually going on with Coupang, you might decide to find better investment opportunities elsewhere. The easiest way to describe Coupang is as South Korea’s version of Amazon (NASDAQ:AMZN). It’s a pop
+
+[Date]:2024-04-12 15:10:17
+[Headline]:Why Alibaba, JD.com, and PDD Holdings Stocks Were Sliding Today
+[Summary]:Chinese stocks pulled back on a disappointing export report.
+
+[Date]:2024-04-12 10:58:15
+[Headline]:Underestimated Giants: 7 Stocks Set to Take Wall Street by Storm
+[Summary]:If you’re on the hunt for overlooked stocks to buy, look no further. Below is a carefully chosen list of seven underappreciated treasures, all full of unrealized potential and ready to cause a stir on Wall Street. First, the first one became a major force in the entertainment industry by carefully growing its worldwide presence. As this was happening, the second one honed its financial edge, implementing cost-cutting strategies to support profitability in a highly competitive market. The third c
+
+[Date]:2024-04-12 07:00:14
+[Headline]:Investors Heavily Search Alibaba Group Holding Limited (BABA): Here is What You Need to Know
+[Summary]:Alibaba (BABA) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.
+
+[Date]:2024-04-12 00:48:00
+[Headline]:Top China Stocks Slump Amid Waning Confidence
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-11 20:29:16
+[Headline]:Alibaba: I Was Fooled By The Valuation (Downgrade)
+[Summary]:Underestimating the challenges in Chinese e-commerce and Alibaba's struggles in cloud infrastructure, read an examination of BABA stock here.
+
+[Date]:2024-04-11 19:07:00
+[Headline]:Alibaba: Strong Long-Term Growth Prospects Justify Buy Rating Amid Short-Term Investments
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-11 09:13:00
+[Headline]:Alibaba (BABA) to Boost Global Cloud Reach With Price Cut Move
+[Summary]:Alibaba (BABA) trims cloud prices for international customers by up to 59% in a bid to strengthen its competitive position.
+
+[Date]:2024-04-11 04:14:00
+[Headline]:BABA May 31st Options Begin Trading
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-11 02:37:00
+[Headline]:What's Going On With Alibaba Stock Thursday?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 22:59:00
+[Headline]:Jack Ma supporting Alibaba during restructuring, Bloomberg reports
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 20:21:00
+[Headline]:Alibaba Gr Holding Options Trading: A Deep Dive into Market Sentiment
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 05:09:49
+[Headline]:Stocks to Watch Wednesday: Delta Air Lines, Alibaba, XPeng, Microsoft
+[Summary]:↗️ **Delta Air Lines (DAL)**: The carrier reported record revenue for the first quarter and said it expected strong summer demand. Its stock rallied over 4% in premarket trading. Shares of United Airlines (UAL) and American Airlines (AAL) also rose.
+
+[Date]:2024-04-10 08:20:00
+[Headline]:Apple, TSMC, Super Micro Computer, AMD, and Other Tech Stocks in Focus Today
+[Summary]:Alibaba co-founder Jack Ma boosts company morale with a rare memo to employees, and Taiwan Semiconductor posts its fastest monthly revenue growth since November 2022.
+
+[Date]:2024-04-10 08:00:01
+[Headline]:Searching for the Dawn After Alibaba's Downturn
+[Summary]:The company has been navigating through storms
+
+[Date]:2024-04-10 07:56:36
+[Headline]:Alibaba stock up on co-founder Jack Ma's show of support
+[Summary]:Share of Alibaba (BABA) are gaining Wednesday after receiving a vote of confidence from the company's co-founder, Jack Ma. As the e-commerce giant undergoes a major restructuring effort, Ma has voiced his support for the current leadership, stating that the company is returning to "the highest levels of efficiency." Yahoo Finance's Seana Smith and Brad Smith break down the details. For more expert insight and the latest market action, click here to watch this full episode of Morning Brief. Editor's note: This article was written by Angel Smith
+
+[Date]:2024-04-10 07:39:12
+[Headline]:What's Going On With Alibaba Stock Wednesday?
+[Summary]:Alibaba Group Holding Limited (NYSE:BABA), under the guidance of Jack Ma, is undergoing a significant restructuring to rejuvenate the company. Ma expressed his support on an internal Alibaba forum in a rare public gesture, marking his second appearance in recent months to bolster morale among employees of the Chinese e-commerce giant he helped establish. The stock price climbed after the report. Having stepped back from the limelight in the past few years, the billionaire drafted a detailed memo
+
+[Date]:2024-04-10 06:55:00
+[Headline]:Is Jack Ma Coming Back? Alibaba Founder's Rare Memo To Employees Sparks Curiosity
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 06:53:00
+[Headline]:Alibaba Stock (NYSE:BABA): Could Earnings Come Under Pressure in Q4?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 06:19:00
+[Headline]:Chinese Equities in Hong Kong Near Bull Market Amid Positive Trends
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 05:17:36
+[Headline]:Alibaba shares jump after founder Jack Ma says the company is successfully fixing the ‘diseases of a big company’
+[Summary]:Ma is being more vocal about Alibaba's direction as the Chinese tech giant struggles to implement its ambitious restructuring plans.
+
+[Date]:2024-04-10 05:17:26
+[Headline]:News Highlights : Top Company News of the Day - Wednesday at 11 AM ET
+[Summary]:Macy's Adds Two Directors Backed by Investor to Its Board The new members will help evaluate the investor group's proposal to acquire the retailer. Delta's stock leaps, as accelerating...
+
+[Date]:2024-04-10 05:14:00
+[Headline]:TikTok Parent ByteDance's Profits Rise 60% Year-Over-Year As Company Grapples With Potential US Ban
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 04:22:00
+[Headline]:Why Jefferies Is Pounding the Table on Zillow (Z) Stock
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 04:07:00
+[Headline]:SOUN Stock Alert: The $150 Million Reason SoundHound AI Is Down Today
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 03:41:00
+[Headline]:Jack Ma Is Giving Alibaba (BABA) Stock a Big Boost
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 03:30:00
+[Headline]:Jack Ma steps into 'mistakes' brouhaha to boost Alibaba's morale, urges staff to embrace change and prepare for AI to upend e-commerce
+[Summary]:Alibaba Group Holding has fundamentally changed its corporate culture to put customers first in its adaptation of technology, its co-founder Jack Ma wrote, as he stepped into a social media hubbub over the hubris that caused what was once the world's largest e-commerce platform to lose ground to competitors. "We hacked away at the big-company disease," according to Ma's memo to Alibaba employees. "We turned the company from a cumbersome organisation into one that is simple and agile, where effic
+
+[Date]:2024-04-10 03:28:00
+[Headline]:Alibaba rises after Jack Ma backs restructuring efforts in rare memo - report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 02:55:27
+[Headline]:Jack Ma Cheers Alibaba’s Latest Overhaul Plan in Rare Memo
+[Summary]:(Bloomberg) -- Jack Ma took to an internal Alibaba forum to voice his support for a company undergoing a turbulent restructuring, emerging from seclusion for the second time in months to try and shore up sagging morale at the Chinese e-commerce pioneer he co-created. Most Read from BloombergUS Slams Strikes on Russia Oil Refineries as Risk to Oil MarketsUS Inflation Refuses to Bend, Fanning Fears It Will Get StuckChinese Cement Maker Halted After 99% Crash in 15 MinutesBond Trader Places Record
+
+[Date]:2024-04-10 02:29:00
+[Headline]:Jack Ma Praises Alibaba’s Leadership, Restructuring in Rare Memo
+[Summary]:The Alibaba co-founder praised the company’s leadership and the ongoing restructuring in a memo to employees, a rare move for the billionaire since stepping away from the spotlight in recent years.
+
+[Date]:2024-04-10 02:19:00
+[Headline]:JD.com earmarks $138M in incentives to boost live-stream shopping - report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 02:13:00
+[Headline]:4 stocks to watch on Wednesday: BABA, NVDA and more
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 01:00:00
+[Headline]:Alibaba (NYSE:BABA) Gains as Jack Ma Emerges From the Shadows
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 00:53:17
+[Headline]:ByteDance Profit Jumps 60%, Taking It Past Archrival Tencent
+[Summary]:(Bloomberg) -- ByteDance Ltd.’s profit surged roughly 60% in 2023, outpacing the growth of online peers Tencent Holdings Ltd. and Alibaba Group Holding Ltd. in a sign of the TikTok owner’s resilience in the face of an economic downturn.Most Read from BloombergUS Slams Strikes on Russia Oil Refineries as Risk to Oil MarketsUS Inflation Refuses to Bend, Fanning Fears It Will StickChinese Cement Maker Halted After 99% Crash in 15 MinutesS&P 500 Hit by Fed-Pivot Rethink and War Jitters: Markets Wrap
+
+[Date]:2024-04-09 23:15:24
+[Headline]:News Highlights : Top Company News of the Day - Wednesday at 5 AM ET
+[Summary]:Blizzard Videogames to Return to China in New NetEase Deal Blizzard Entertainment will collaborate with China's NetEase to bring its blockbuster game titles back to the mainland Chinese market...
+
+[Date]:2024-04-09 23:07:00
+[Headline]:TikTok's parent ByteDance sees profit surge nearly 60% in 2023 -report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 22:03:04
+[Headline]:Alibaba's Jack Ma steps out from the shadows with morale-boosting post
+[Summary]:SHANGHAI (Reuters) -Alibaba co-founder Jack Ma has penned a lengthy memo to employees that expresses support for the internet giant's restructuring efforts, a rare move from the billionaire after spending the last few years out of the spotlight.  Alibaba's Hong Kong-listed shares surged 5% after the post.  The post, made in an internal company forum, comes one year after Alibaba announced its decision to split into six units - the biggest shake-up in its 25-year history.
+
+[Date]:2024-04-09 15:45:17
+[Headline]:Alibaba (BABA) Laps the Stock Market: Here's Why
+[Summary]:In the closing of the recent trading day, Alibaba (BABA) stood at $72.99, denoting a +1.78% change from the preceding trading day.
+
+[Date]:2024-04-09 07:16:04
+[Headline]:KWEB: A Compelling Valuation, But The Technicals Must Turn Around
+[Summary]:KWEB sports very weak momentum but a low PEG ratio, suggesting that it could be a solid long-term value. Find out why I reiterate a hold rating on KWEB.
+
+[Date]:2024-04-09 04:44:00
+[Headline]:7 Mega-Cap Stocks Poised to Double Your Money in 3 Years
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 03:46:00
+[Headline]:Buy Rating Affirmed for Alibaba on Strategic Growth and Diversification Prospects
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 03:36:00
+[Headline]:Alibaba price target lowered by $5 at JPMorgan, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 03:30:00
+[Headline]:Alibaba-backed Moonshot AI narrows gap with Baidu's Ernie Bot as China's generative AI rivalry heats up
+[Summary]:The competition among Chinese artificial intelligence (AI) chatbots is heating up, as Moonshot AI, a 12 month old start-up, has overtaken Alibaba Group Holding's Tongyi Qianwen and is narrowing the gap with domestic leader Baidu's Ernie Bot, according to new data. Moonshot AI's Kimi saw total traffic to its website and app reach 12.6 million views in March, more than quadruple the number from a month earlier, according to AIcpb.com, a site that tracks the popularity of AI products worldwide. As
+
+[Date]:2024-04-09 03:30:00
+[Headline]:Alibaba's AliExpress pushes '10 billion yuan of subsidies' campaign to entice more Chinese brands and merchants to sell in overseas markets
+[Summary]:Alibaba Group Holding's international online shopping platform, AliExpress, will provide fresh subsidies to entice more Chinese brands and merchants to sell overseas, as the e-commerce giant moves to fend off growing competition from PDD Holdings' Temu and fast-fashion retailer Shein. The campaign called "10 billion yuan of subsidies" - a typical mainland marketing phrase used to tout large online allotments - will be given to an initial batch of 1,000 Chinese brands and merchants, including tho
+
+[Date]:2024-04-09 03:18:00
+[Headline]:Global Venture Capital Investment Drops by 30% Amid Economic Uncertainty
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 03:03:00
+[Headline]:10 Analysts Have This To Say About Alibaba Gr Holding
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 03:00:00
+[Headline]:2 Growth Stocks Down 78% to Buy Before It's Too Late
+[Summary]:Investors should look for bargains with the stock market close to all-time highs.
+
+
+
+[Fileings]:
+
+
+[Stock Movements]:
+[Date]:2023-05-12 00:00:00
+[Open]:86.70999908447266
+[High]:86.70999908447266
+[Low]:84.76000213623047
+[Close]:85.33999633789062
+[Adj Close]:84.20801544189453
+[Volume]:19031400
+
+[Date]:2023-05-15 00:00:00
+[Open]:87.12999725341797
+[High]:88.4000015258789
+[Low]:85.83300018310547
+[Close]:88.33999633789062
+[Adj Close]:87.16822052001953
+[Volume]:23691200
+
+[Date]:2023-05-16 00:00:00
+[Open]:87.11000061035156
+[High]:89.37000274658203
+[Low]:87.05999755859375
+[Close]:88.76000213623047
+[Adj Close]:87.58265686035156
+[Volume]:18177900
+
+[Date]:2023-05-17 00:00:00
+[Open]:88.45999908447266
+[High]:91.43000030517578
+[Low]:88.01000213623047
+[Close]:90.68000030517578
+[Adj Close]:89.47718811035156
+[Volume]:27670700
+
+[Date]:2023-05-18 00:00:00
+[Open]:90.80999755859375
+[High]:91.0
+[Low]:85.0
+[Close]:85.7699966430664
+[Adj Close]:84.63230895996094
+[Volume]:60258600
+
+[Date]:2023-05-19 00:00:00
+[Open]:83.8499984741211
+[High]:85.19999694824219
+[Low]:83.4800033569336
+[Close]:83.9800033569336
+[Adj Close]:82.8660659790039
+[Volume]:21538500
+
+[Date]:2023-05-22 00:00:00
+[Open]:85.66999816894531
+[High]:87.4800033569336
+[Low]:85.6500015258789
+[Close]:86.0999984741211
+[Adj Close]:84.95793914794922
+[Volume]:16951300
+
+[Date]:2023-05-23 00:00:00
+[Open]:84.16000366210938
+[High]:84.9749984741211
+[Low]:82.69999694824219
+[Close]:82.87999725341797
+[Adj Close]:81.78064727783203
+[Volume]:19917800
+
+[Date]:2023-05-24 00:00:00
+[Open]:82.16500091552734
+[High]:82.5999984741211
+[Low]:80.87999725341797
+[Close]:81.20999908447266
+[Adj Close]:80.13279724121094
+[Volume]:17045800
+
+[Date]:2023-05-25 00:00:00
+[Open]:80.58999633789062
+[High]:80.70999908447266
+[Low]:78.12000274658203
+[Close]:78.77999877929688
+[Adj Close]:77.73503112792969
+[Volume]:21811600
+
+[Date]:2023-05-26 00:00:00
+[Open]:79.9000015258789
+[High]:81.56600189208984
+[Low]:78.4000015258789
+[Close]:80.97000122070312
+[Adj Close]:79.89598846435547
+[Volume]:16399200
+
+[Date]:2023-05-30 00:00:00
+[Open]:80.12000274658203
+[High]:80.69999694824219
+[Low]:78.16999816894531
+[Close]:78.66999816894531
+[Adj Close]:77.6264877319336
+[Volume]:21209600
+
+[Date]:2023-05-31 00:00:00
+[Open]:79.58000183105469
+[High]:79.66500091552734
+[Low]:77.7699966430664
+[Close]:79.55000305175781
+[Adj Close]:78.49481964111328
+[Volume]:16206300
+
+[Date]:2023-06-01 00:00:00
+[Open]:79.3499984741211
+[High]:84.0
+[Low]:79.3499984741211
+[Close]:83.0
+[Adj Close]:81.89905548095703
+[Volume]:23217600
+
+[Date]:2023-06-02 00:00:00
+[Open]:85.08000183105469
+[High]:86.02999877929688
+[Low]:84.13999938964844
+[Close]:84.2699966430664
+[Adj Close]:83.15220642089844
+[Volume]:17574200
+
+[Date]:2023-06-05 00:00:00
+[Open]:83.98999786376953
+[High]:84.56999969482422
+[Low]:83.23999786376953
+[Close]:84.4000015258789
+[Adj Close]:83.28048706054688
+[Volume]:8204000
+
+[Date]:2023-06-06 00:00:00
+[Open]:83.5
+[High]:87.05999755859375
+[Low]:83.37000274658203
+[Close]:86.69999694824219
+[Adj Close]:85.54998016357422
+[Volume]:18452000
+
+[Date]:2023-06-07 00:00:00
+[Open]:85.72000122070312
+[High]:86.94999694824219
+[Low]:85.08999633789062
+[Close]:85.27999877929688
+[Adj Close]:84.14881134033203
+[Volume]:12886700
+
+[Date]:2023-06-08 00:00:00
+[Open]:85.16999816894531
+[High]:86.94999694824219
+[Low]:85.16999816894531
+[Close]:86.13999938964844
+[Adj Close]:84.99740600585938
+[Volume]:11281000
+
+[Date]:2023-06-09 00:00:00
+[Open]:86.05999755859375
+[High]:86.83799743652344
+[Low]:85.06500244140625
+[Close]:85.5
+[Adj Close]:84.36589813232422
+[Volume]:12882700
+
+[Date]:2023-06-12 00:00:00
+[Open]:86.01000213623047
+[High]:87.29000091552734
+[Low]:85.62999725341797
+[Close]:85.86000061035156
+[Adj Close]:84.72112274169922
+[Volume]:11559000
+
+[Date]:2023-06-13 00:00:00
+[Open]:87.95999908447266
+[High]:89.22000122070312
+[Low]:87.25
+[Close]:87.51000213623047
+[Adj Close]:86.34923553466797
+[Volume]:16814100
+
+[Date]:2023-06-14 00:00:00
+[Open]:87.97000122070312
+[High]:90.12000274658203
+[Low]:87.70999908447266
+[Close]:89.36000061035156
+[Adj Close]:88.17469787597656
+[Volume]:21519300
+
+[Date]:2023-06-15 00:00:00
+[Open]:91.45999908447266
+[High]:92.7699966430664
+[Low]:90.5999984741211
+[Close]:92.19999694824219
+[Adj Close]:90.97702026367188
+[Volume]:26570500
+
+[Date]:2023-06-16 00:00:00
+[Open]:94.0
+[High]:94.29000091552734
+[Low]:91.5199966430664
+[Close]:92.0999984741211
+[Adj Close]:90.87834930419922
+[Volume]:25048200
+
+[Date]:2023-06-20 00:00:00
+[Open]:89.83000183105469
+[High]:90.19999694824219
+[Low]:87.31999969482422
+[Close]:87.93000030517578
+[Adj Close]:86.76366424560547
+[Volume]:23382900
+
+[Date]:2023-06-21 00:00:00
+[Open]:87.37999725341797
+[High]:89.16000366210938
+[Low]:86.62000274658203
+[Close]:86.7699966430664
+[Adj Close]:85.61904907226562
+[Volume]:15159900
+
+[Date]:2023-06-22 00:00:00
+[Open]:86.77999877929688
+[High]:87.31500244140625
+[Low]:85.31999969482422
+[Close]:86.88999938964844
+[Adj Close]:85.73745727539062
+[Volume]:10272700
+
+[Date]:2023-06-23 00:00:00
+[Open]:85.80999755859375
+[High]:85.93800354003906
+[Low]:84.37000274658203
+[Close]:84.91999816894531
+[Adj Close]:83.79358673095703
+[Volume]:14830800
+
+[Date]:2023-06-26 00:00:00
+[Open]:85.31999969482422
+[High]:86.70999908447266
+[Low]:85.20999908447266
+[Close]:85.47000122070312
+[Adj Close]:84.33629608154297
+[Volume]:10808700
+
+[Date]:2023-06-27 00:00:00
+[Open]:86.81999969482422
+[High]:87.61499786376953
+[Low]:86.71499633789062
+[Close]:87.12999725341797
+[Adj Close]:85.97427368164062
+[Volume]:13994500
+
+[Date]:2023-06-28 00:00:00
+[Open]:85.75
+[High]:85.75
+[Low]:84.37999725341797
+[Close]:84.58999633789062
+[Adj Close]:83.46796417236328
+[Volume]:14113800
+
+[Date]:2023-06-29 00:00:00
+[Open]:83.38999938964844
+[High]:83.98999786376953
+[Low]:83.0
+[Close]:83.55000305175781
+[Adj Close]:82.44176483154297
+[Volume]:13362500
+
+[Date]:2023-06-30 00:00:00
+[Open]:83.2300033569336
+[High]:84.2300033569336
+[Low]:83.01000213623047
+[Close]:83.3499984741211
+[Adj Close]:82.24441528320312
+[Volume]:12154300
+
+[Date]:2023-07-03 00:00:00
+[Open]:84.87000274658203
+[High]:85.63500213623047
+[Low]:84.0
+[Close]:84.06999969482422
+[Adj Close]:82.95486450195312
+[Volume]:11514400
+
+[Date]:2023-07-05 00:00:00
+[Open]:83.9800033569336
+[High]:84.69000244140625
+[Low]:82.81999969482422
+[Close]:84.30000305175781
+[Adj Close]:83.18181610107422
+[Volume]:11203900
+
+[Date]:2023-07-06 00:00:00
+[Open]:83.12000274658203
+[High]:83.94999694824219
+[Low]:82.63999938964844
+[Close]:83.83999633789062
+[Adj Close]:82.72791290283203
+[Volume]:12930300
+
+[Date]:2023-07-07 00:00:00
+[Open]:86.76000213623047
+[High]:91.56999969482422
+[Low]:86.62999725341797
+[Close]:90.55000305175781
+[Adj Close]:89.34891510009766
+[Volume]:46815900
+
+[Date]:2023-07-10 00:00:00
+[Open]:90.05000305175781
+[High]:92.04000091552734
+[Low]:89.5999984741211
+[Close]:90.55999755859375
+[Adj Close]:89.35877990722656
+[Volume]:25401800
+
+[Date]:2023-07-11 00:00:00
+[Open]:91.0199966430664
+[High]:92.31999969482422
+[Low]:89.01000213623047
+[Close]:91.79000091552734
+[Adj Close]:90.57246398925781
+[Volume]:20768800
+
+[Date]:2023-07-12 00:00:00
+[Open]:94.11000061035156
+[High]:95.02999877929688
+[Low]:92.55000305175781
+[Close]:94.0
+[Adj Close]:92.7531509399414
+[Volume]:24161400
+
+[Date]:2023-07-13 00:00:00
+[Open]:95.02999877929688
+[High]:97.00499725341797
+[Low]:94.5999984741211
+[Close]:96.61000061035156
+[Adj Close]:95.32852935791016
+[Volume]:24021400
+
+[Date]:2023-07-14 00:00:00
+[Open]:95.22000122070312
+[High]:96.08999633789062
+[Low]:94.23999786376953
+[Close]:94.55999755859375
+[Adj Close]:93.30571746826172
+[Volume]:18870000
+
+[Date]:2023-07-17 00:00:00
+[Open]:92.25
+[High]:93.55000305175781
+[Low]:91.04000091552734
+[Close]:93.41000366210938
+[Adj Close]:92.17098236083984
+[Volume]:17317300
+
+[Date]:2023-07-18 00:00:00
+[Open]:91.54000091552734
+[High]:92.20999908447266
+[Low]:90.1500015258789
+[Close]:91.19999694824219
+[Adj Close]:89.99028778076172
+[Volume]:20249700
+
+[Date]:2023-07-19 00:00:00
+[Open]:93.56999969482422
+[High]:94.70999908447266
+[Low]:92.08999633789062
+[Close]:92.08999633789062
+[Adj Close]:90.86848449707031
+[Volume]:17228100
+
+[Date]:2023-07-20 00:00:00
+[Open]:91.69000244140625
+[High]:93.12000274658203
+[Low]:91.3499984741211
+[Close]:91.9000015258789
+[Adj Close]:90.6810073852539
+[Volume]:14753000
+
+[Date]:2023-07-21 00:00:00
+[Open]:92.88999938964844
+[High]:93.2300033569336
+[Low]:91.54000091552734
+[Close]:92.16999816894531
+[Adj Close]:90.94742584228516
+[Volume]:13882900
+
+[Date]:2023-07-24 00:00:00
+[Open]:92.06999969482422
+[High]:97.46900177001953
+[Low]:91.30000305175781
+[Close]:96.3499984741211
+[Adj Close]:95.07197570800781
+[Volume]:33376100
+
+[Date]:2023-07-25 00:00:00
+[Open]:98.16999816894531
+[High]:98.48999786376953
+[Low]:94.61000061035156
+[Close]:94.9800033569336
+[Adj Close]:93.72015380859375
+[Volume]:25827300
+
+[Date]:2023-07-26 00:00:00
+[Open]:94.94999694824219
+[High]:97.54499816894531
+[Low]:94.83999633789062
+[Close]:97.13999938964844
+[Adj Close]:95.85150146484375
+[Volume]:15833400
+
+[Date]:2023-07-27 00:00:00
+[Open]:97.75
+[High]:97.98999786376953
+[Low]:95.16100311279297
+[Close]:95.44000244140625
+[Adj Close]:94.1740493774414
+[Volume]:18685500
+
+[Date]:2023-07-28 00:00:00
+[Open]:98.06999969482422
+[High]:101.22000122070312
+[Low]:97.95999908447266
+[Close]:100.55000305175781
+[Adj Close]:99.21627044677734
+[Volume]:31956500
+
+[Date]:2023-07-31 00:00:00
+[Open]:99.79000091552734
+[High]:102.5
+[Low]:99.72000122070312
+[Close]:102.16000366210938
+[Adj Close]:100.80491638183594
+[Volume]:17726500
+
+[Date]:2023-08-01 00:00:00
+[Open]:99.87000274658203
+[High]:101.16000366210938
+[Low]:99.30000305175781
+[Close]:100.0999984741211
+[Adj Close]:98.7722396850586
+[Volume]:14333700
+
+[Date]:2023-08-02 00:00:00
+[Open]:97.72000122070312
+[High]:97.73999786376953
+[Low]:94.55999755859375
+[Close]:95.06999969482422
+[Adj Close]:93.8089599609375
+[Volume]:19452300
+
+[Date]:2023-08-03 00:00:00
+[Open]:96.70999908447266
+[High]:98.48999786376953
+[Low]:96.58000183105469
+[Close]:97.58000183105469
+[Adj Close]:96.2856674194336
+[Volume]:15370900
+
+[Date]:2023-08-04 00:00:00
+[Open]:97.73500061035156
+[High]:98.48999786376953
+[Low]:96.69000244140625
+[Close]:96.9000015258789
+[Adj Close]:95.61468505859375
+[Volume]:13434800
+
+[Date]:2023-08-07 00:00:00
+[Open]:97.77999877929688
+[High]:97.80000305175781
+[Low]:95.02999877929688
+[Close]:96.55999755859375
+[Adj Close]:95.27919006347656
+[Volume]:13893900
+
+[Date]:2023-08-08 00:00:00
+[Open]:93.51000213623047
+[High]:94.4800033569336
+[Low]:92.9219970703125
+[Close]:94.22000122070312
+[Adj Close]:92.97023010253906
+[Volume]:13504700
+
+[Date]:2023-08-09 00:00:00
+[Open]:96.0250015258789
+[High]:96.30000305175781
+[Low]:94.08000183105469
+[Close]:94.8499984741211
+[Adj Close]:93.59187316894531
+[Volume]:18640100
+
+[Date]:2023-08-10 00:00:00
+[Open]:98.30999755859375
+[High]:101.83999633789062
+[Low]:97.12000274658203
+[Close]:99.20999908447266
+[Adj Close]:97.89404296875
+[Volume]:53193100
+
+[Date]:2023-08-11 00:00:00
+[Open]:97.33999633789062
+[High]:97.6500015258789
+[Low]:94.33999633789062
+[Close]:95.72000122070312
+[Adj Close]:94.4503402709961
+[Volume]:25185600
+
+[Date]:2023-08-14 00:00:00
+[Open]:94.23999786376953
+[High]:94.44999694824219
+[Low]:92.52999877929688
+[Close]:93.45999908447266
+[Adj Close]:92.2203140258789
+[Volume]:17581000
+
+[Date]:2023-08-15 00:00:00
+[Open]:93.0
+[High]:93.01000213623047
+[Low]:90.74500274658203
+[Close]:91.58999633789062
+[Adj Close]:90.37511444091797
+[Volume]:14756300
+
+[Date]:2023-08-16 00:00:00
+[Open]:89.62999725341797
+[High]:90.5
+[Low]:88.29000091552734
+[Close]:89.12000274658203
+[Adj Close]:87.93788146972656
+[Volume]:23292400
+
+[Date]:2023-08-17 00:00:00
+[Open]:91.94000244140625
+[High]:91.94999694824219
+[Low]:90.26000213623047
+[Close]:90.6500015258789
+[Adj Close]:89.44758605957031
+[Volume]:15732300
+
+[Date]:2023-08-18 00:00:00
+[Open]:87.77999877929688
+[High]:88.36000061035156
+[Low]:86.86000061035156
+[Close]:88.02999877929688
+[Adj Close]:86.86233520507812
+[Volume]:20391400
+
+[Date]:2023-08-21 00:00:00
+[Open]:87.5999984741211
+[High]:88.81999969482422
+[Low]:87.22000122070312
+[Close]:88.56999969482422
+[Adj Close]:87.39517211914062
+[Volume]:14167300
+
+[Date]:2023-08-22 00:00:00
+[Open]:89.27999877929688
+[High]:89.48999786376953
+[Low]:87.86000061035156
+[Close]:88.08000183105469
+[Adj Close]:86.91167449951172
+[Volume]:11611600
+
+[Date]:2023-08-23 00:00:00
+[Open]:88.37000274658203
+[High]:90.58999633789062
+[Low]:88.30999755859375
+[Close]:89.83999633789062
+[Adj Close]:88.64832305908203
+[Volume]:12185700
+
+[Date]:2023-08-24 00:00:00
+[Open]:90.48999786376953
+[High]:90.91999816894531
+[Low]:89.04000091552734
+[Close]:89.11000061035156
+[Adj Close]:87.92801666259766
+[Volume]:10684500
+
+[Date]:2023-08-25 00:00:00
+[Open]:89.25
+[High]:90.04000091552734
+[Low]:88.2699966430664
+[Close]:89.81999969482422
+[Adj Close]:88.62859344482422
+[Volume]:11382200
+
+[Date]:2023-08-28 00:00:00
+[Open]:91.5
+[High]:92.7699966430664
+[Low]:91.29000091552734
+[Close]:92.23999786376953
+[Adj Close]:91.01649475097656
+[Volume]:14613800
+
+[Date]:2023-08-29 00:00:00
+[Open]:93.44999694824219
+[High]:94.09500122070312
+[Low]:92.33999633789062
+[Close]:94.02999877929688
+[Adj Close]:92.78275299072266
+[Volume]:16928000
+
+[Date]:2023-08-30 00:00:00
+[Open]:92.55000305175781
+[High]:94.25
+[Low]:92.47000122070312
+[Close]:93.6500015258789
+[Adj Close]:92.40779113769531
+[Volume]:13779900
+
+[Date]:2023-08-31 00:00:00
+[Open]:92.9800033569336
+[High]:93.36000061035156
+[Low]:92.16000366210938
+[Close]:92.9000015258789
+[Adj Close]:91.66773986816406
+[Volume]:13332400
+
+[Date]:2023-09-01 00:00:00
+[Open]:94.55000305175781
+[High]:96.68000030517578
+[Low]:94.5199966430664
+[Close]:95.01000213623047
+[Adj Close]:93.749755859375
+[Volume]:17452400
+
+[Date]:2023-09-05 00:00:00
+[Open]:94.52999877929688
+[High]:95.39199829101562
+[Low]:94.06999969482422
+[Close]:94.6500015258789
+[Adj Close]:93.39453125
+[Volume]:10097600
+
+[Date]:2023-09-06 00:00:00
+[Open]:94.1500015258789
+[High]:95.80000305175781
+[Low]:94.12999725341797
+[Close]:94.44999694824219
+[Adj Close]:93.19718170166016
+[Volume]:10123600
+
+[Date]:2023-09-07 00:00:00
+[Open]:91.63999938964844
+[High]:91.76000213623047
+[Low]:88.95500183105469
+[Close]:89.97000122070312
+[Adj Close]:88.77660369873047
+[Volume]:18667200
+
+[Date]:2023-09-08 00:00:00
+[Open]:89.5999984741211
+[High]:90.30000305175781
+[Low]:88.7300033569336
+[Close]:90.05000305175781
+[Adj Close]:88.85554504394531
+[Volume]:10333300
+
+[Date]:2023-09-11 00:00:00
+[Open]:89.7300033569336
+[High]:90.3499984741211
+[Low]:87.70999908447266
+[Close]:88.70999908447266
+[Adj Close]:87.53331756591797
+[Volume]:15773500
+
+[Date]:2023-09-12 00:00:00
+[Open]:88.19000244140625
+[High]:89.95999908447266
+[Low]:88.18000030517578
+[Close]:88.30000305175781
+[Adj Close]:87.1287612915039
+[Volume]:10262500
+
+[Date]:2023-09-13 00:00:00
+[Open]:87.94000244140625
+[High]:88.29000091552734
+[Low]:87.38200378417969
+[Close]:87.63999938964844
+[Adj Close]:86.47750854492188
+[Volume]:10634900
+
+[Date]:2023-09-14 00:00:00
+[Open]:88.55000305175781
+[High]:88.5999984741211
+[Low]:87.44000244140625
+[Close]:88.0
+[Adj Close]:86.83273315429688
+[Volume]:8643100
+
+[Date]:2023-09-15 00:00:00
+[Open]:87.7699966430664
+[High]:88.22000122070312
+[Low]:86.81999969482422
+[Close]:87.06999969482422
+[Adj Close]:85.91506958007812
+[Volume]:10130900
+
+[Date]:2023-09-18 00:00:00
+[Open]:86.1500015258789
+[High]:87.16999816894531
+[Low]:85.3949966430664
+[Close]:87.0199966430664
+[Adj Close]:85.86573028564453
+[Volume]:9291600
+
+[Date]:2023-09-19 00:00:00
+[Open]:86.12000274658203
+[High]:87.87999725341797
+[Low]:86.08000183105469
+[Close]:87.11000061035156
+[Adj Close]:85.95454406738281
+[Volume]:9247000
+
+[Date]:2023-09-20 00:00:00
+[Open]:86.97000122070312
+[High]:87.5
+[Low]:85.6500015258789
+[Close]:85.73999786376953
+[Adj Close]:84.60271453857422
+[Volume]:9228200
+
+[Date]:2023-09-21 00:00:00
+[Open]:83.86000061035156
+[High]:84.7750015258789
+[Low]:83.76000213623047
+[Close]:84.11000061035156
+[Adj Close]:82.99433898925781
+[Volume]:10622200
+
+[Date]:2023-09-22 00:00:00
+[Open]:87.36499786376953
+[High]:88.875
+[Low]:87.11000061035156
+[Close]:88.30000305175781
+[Adj Close]:87.1287612915039
+[Volume]:22469600
+
+[Date]:2023-09-25 00:00:00
+[Open]:85.87999725341797
+[High]:87.2699966430664
+[Low]:85.7699966430664
+[Close]:87.22000122070312
+[Adj Close]:86.0630874633789
+[Volume]:9897200
+
+[Date]:2023-09-26 00:00:00
+[Open]:86.45999908447266
+[High]:87.06999969482422
+[Low]:85.69999694824219
+[Close]:85.91000366210938
+[Adj Close]:84.77046203613281
+[Volume]:9666600
+
+[Date]:2023-09-27 00:00:00
+[Open]:86.37999725341797
+[High]:86.55000305175781
+[Low]:85.30000305175781
+[Close]:86.19000244140625
+[Adj Close]:85.04674530029297
+[Volume]:7233900
+
+[Date]:2023-09-28 00:00:00
+[Open]:84.88999938964844
+[High]:85.88999938964844
+[Low]:84.30500030517578
+[Close]:85.54000091552734
+[Adj Close]:84.40536499023438
+[Volume]:10093600
+
+[Date]:2023-09-29 00:00:00
+[Open]:87.29000091552734
+[High]:87.94999694824219
+[Low]:86.6050033569336
+[Close]:86.73999786376953
+[Adj Close]:85.58944702148438
+[Volume]:9647300
+
+[Date]:2023-10-02 00:00:00
+[Open]:86.75
+[High]:87.1050033569336
+[Low]:85.88999938964844
+[Close]:86.52999877929688
+[Adj Close]:85.38223266601562
+[Volume]:8209800
+
+[Date]:2023-10-03 00:00:00
+[Open]:84.5
+[High]:85.0
+[Low]:83.94999694824219
+[Close]:84.54000091552734
+[Adj Close]:83.41863250732422
+[Volume]:11448800
+
+[Date]:2023-10-04 00:00:00
+[Open]:84.2750015258789
+[High]:84.54000091552734
+[Low]:83.6500015258789
+[Close]:84.08000183105469
+[Adj Close]:82.96473693847656
+[Volume]:8904700
+
+[Date]:2023-10-05 00:00:00
+[Open]:83.5199966430664
+[High]:83.70999908447266
+[Low]:82.44999694824219
+[Close]:83.66999816894531
+[Adj Close]:82.56017303466797
+[Volume]:10334500
+
+[Date]:2023-10-06 00:00:00
+[Open]:84.25
+[High]:86.51499938964844
+[Low]:84.0
+[Close]:86.05999755859375
+[Adj Close]:84.91846466064453
+[Volume]:13410200
+
+[Date]:2023-10-09 00:00:00
+[Open]:83.91000366210938
+[High]:85.20999908447266
+[Low]:83.56999969482422
+[Close]:84.8499984741211
+[Adj Close]:83.72451782226562
+[Volume]:10880000
+
+[Date]:2023-10-10 00:00:00
+[Open]:85.66999816894531
+[High]:87.73999786376953
+[Low]:85.56999969482422
+[Close]:87.16999816894531
+[Adj Close]:86.01374053955078
+[Volume]:13557800
+
+[Date]:2023-10-11 00:00:00
+[Open]:88.01000213623047
+[High]:88.7959976196289
+[Low]:87.1449966430664
+[Close]:87.77999877929688
+[Adj Close]:86.61565399169922
+[Volume]:11111500
+
+[Date]:2023-10-12 00:00:00
+[Open]:87.58000183105469
+[High]:87.66999816894531
+[Low]:84.19999694824219
+[Close]:84.51000213623047
+[Adj Close]:83.38903045654297
+[Volume]:16158100
+
+[Date]:2023-10-13 00:00:00
+[Open]:84.05999755859375
+[High]:85.48999786376953
+[Low]:83.75
+[Close]:84.0199966430664
+[Adj Close]:82.90552520751953
+[Volume]:10325500
+
+[Date]:2023-10-16 00:00:00
+[Open]:83.69999694824219
+[High]:84.96499633789062
+[Low]:82.62999725341797
+[Close]:84.30999755859375
+[Adj Close]:83.19168090820312
+[Volume]:10075300
+
+[Date]:2023-10-17 00:00:00
+[Open]:82.75
+[High]:84.36000061035156
+[Low]:82.55999755859375
+[Close]:83.91000366210938
+[Adj Close]:82.79698944091797
+[Volume]:8270000
+
+[Date]:2023-10-18 00:00:00
+[Open]:82.95999908447266
+[High]:83.7300033569336
+[Low]:82.76000213623047
+[Close]:83.01000213623047
+[Adj Close]:81.90892791748047
+[Volume]:9321600
+
+[Date]:2023-10-19 00:00:00
+[Open]:81.4800033569336
+[High]:82.3949966430664
+[Low]:81.11499786376953
+[Close]:81.61000061035156
+[Adj Close]:80.52749633789062
+[Volume]:12624100
+
+[Date]:2023-10-20 00:00:00
+[Open]:80.2300033569336
+[High]:80.86000061035156
+[Low]:79.78299713134766
+[Close]:79.94000244140625
+[Adj Close]:78.87964630126953
+[Volume]:14618600
+
+[Date]:2023-10-23 00:00:00
+[Open]:79.41999816894531
+[High]:80.9260025024414
+[Low]:79.0199966430664
+[Close]:80.51000213623047
+[Adj Close]:79.44208526611328
+[Volume]:12715200
+
+[Date]:2023-10-24 00:00:00
+[Open]:80.44999694824219
+[High]:83.31999969482422
+[Low]:80.44000244140625
+[Close]:82.87000274658203
+[Adj Close]:81.77078247070312
+[Volume]:17925800
+
+[Date]:2023-10-25 00:00:00
+[Open]:81.30000305175781
+[High]:82.0
+[Low]:80.77999877929688
+[Close]:81.02999877929688
+[Adj Close]:79.95518493652344
+[Volume]:11390200
+
+[Date]:2023-10-26 00:00:00
+[Open]:81.26499938964844
+[High]:83.08999633789062
+[Low]:81.19999694824219
+[Close]:82.51000213623047
+[Adj Close]:81.41555786132812
+[Volume]:13010400
+
+[Date]:2023-10-27 00:00:00
+[Open]:83.87000274658203
+[High]:84.12000274658203
+[Low]:82.4800033569336
+[Close]:82.81999969482422
+[Adj Close]:81.72144317626953
+[Volume]:10795600
+
+[Date]:2023-10-30 00:00:00
+[Open]:83.62999725341797
+[High]:84.23999786376953
+[Low]:83.01100158691406
+[Close]:83.13999938964844
+[Adj Close]:82.03720092773438
+[Volume]:8980500
+
+[Date]:2023-10-31 00:00:00
+[Open]:81.94000244140625
+[High]:82.54000091552734
+[Low]:80.87999725341797
+[Close]:82.54000091552734
+[Adj Close]:81.44515991210938
+[Volume]:12094300
+
+[Date]:2023-11-01 00:00:00
+[Open]:81.70500183105469
+[High]:82.48999786376953
+[Low]:81.20999908447266
+[Close]:82.4800033569336
+[Adj Close]:81.38595581054688
+[Volume]:9550000
+
+[Date]:2023-11-02 00:00:00
+[Open]:83.6500015258789
+[High]:83.9800033569336
+[Low]:83.02999877929688
+[Close]:83.41000366210938
+[Adj Close]:82.30362701416016
+[Volume]:10606300
+
+[Date]:2023-11-03 00:00:00
+[Open]:84.94000244140625
+[High]:86.08000183105469
+[Low]:84.5
+[Close]:85.30999755859375
+[Adj Close]:84.17841339111328
+[Volume]:15122600
+
+[Date]:2023-11-06 00:00:00
+[Open]:86.55000305175781
+[High]:86.72000122070312
+[Low]:85.2300033569336
+[Close]:85.36000061035156
+[Adj Close]:84.22775268554688
+[Volume]:9786400
+
+[Date]:2023-11-07 00:00:00
+[Open]:84.86000061035156
+[High]:85.66000366210938
+[Low]:84.11000061035156
+[Close]:85.41000366210938
+[Adj Close]:84.27709197998047
+[Volume]:8829400
+
+[Date]:2023-11-08 00:00:00
+[Open]:84.62000274658203
+[High]:85.7300033569336
+[Low]:84.4800033569336
+[Close]:84.80000305175781
+[Adj Close]:83.67518615722656
+[Volume]:8154600
+
+[Date]:2023-11-09 00:00:00
+[Open]:84.58000183105469
+[High]:84.69000244140625
+[Low]:82.4749984741211
+[Close]:82.7300033569336
+[Adj Close]:81.63264465332031
+[Volume]:10885100
+
+[Date]:2023-11-10 00:00:00
+[Open]:82.41000366210938
+[High]:82.87000274658203
+[Low]:81.66000366210938
+[Close]:82.75
+[Adj Close]:81.65237426757812
+[Volume]:9779500
+
+[Date]:2023-11-13 00:00:00
+[Open]:82.75
+[High]:83.31500244140625
+[Low]:82.08000183105469
+[Close]:82.26000213623047
+[Adj Close]:81.16887664794922
+[Volume]:11236900
+
+[Date]:2023-11-14 00:00:00
+[Open]:82.76000213623047
+[High]:84.53500366210938
+[Low]:82.31999969482422
+[Close]:83.87000274658203
+[Adj Close]:82.75752258300781
+[Volume]:20897600
+
+[Date]:2023-11-15 00:00:00
+[Open]:86.95999908447266
+[High]:87.83000183105469
+[Low]:85.88999938964844
+[Close]:87.06999969482422
+[Adj Close]:85.91506958007812
+[Volume]:28991000
+
+[Date]:2023-11-16 00:00:00
+[Open]:79.5199966430664
+[High]:80.7699966430664
+[Low]:78.23100280761719
+[Close]:79.11000061035156
+[Adj Close]:78.06065368652344
+[Volume]:63008500
+
+[Date]:2023-11-17 00:00:00
+[Open]:77.0199966430664
+[High]:78.46600341796875
+[Low]:76.75
+[Close]:77.5999984741211
+[Adj Close]:76.57068634033203
+[Volume]:35497300
+
+[Date]:2023-11-20 00:00:00
+[Open]:76.91000366210938
+[High]:78.74500274658203
+[Low]:76.55999755859375
+[Close]:78.45999908447266
+[Adj Close]:77.41928100585938
+[Volume]:31506800
+
+[Date]:2023-11-21 00:00:00
+[Open]:77.8499984741211
+[High]:79.2750015258789
+[Low]:77.5999984741211
+[Close]:78.94000244140625
+[Adj Close]:77.89291381835938
+[Volume]:20525500
+
+[Date]:2023-11-22 00:00:00
+[Open]:79.27999877929688
+[High]:79.70999908447266
+[Low]:78.12999725341797
+[Close]:78.95999908447266
+[Adj Close]:77.91264343261719
+[Volume]:18958600
+
+[Date]:2023-11-24 00:00:00
+[Open]:78.2699966430664
+[High]:79.06999969482422
+[Low]:78.20999908447266
+[Close]:78.48999786376953
+[Adj Close]:77.4488754272461
+[Volume]:12251700
+
+[Date]:2023-11-27 00:00:00
+[Open]:77.55500030517578
+[High]:79.25
+[Low]:77.08999633789062
+[Close]:77.52999877929688
+[Adj Close]:76.5016098022461
+[Volume]:18248200
+
+[Date]:2023-11-28 00:00:00
+[Open]:76.55999755859375
+[High]:76.83999633789062
+[Low]:75.26000213623047
+[Close]:76.73999786376953
+[Adj Close]:75.72209167480469
+[Volume]:23682200
+
+[Date]:2023-11-29 00:00:00
+[Open]:75.0
+[High]:75.45600128173828
+[Low]:74.42500305175781
+[Close]:74.66999816894531
+[Adj Close]:73.67955017089844
+[Volume]:30969100
+
+[Date]:2023-11-30 00:00:00
+[Open]:74.69999694824219
+[High]:74.94000244140625
+[Low]:74.01000213623047
+[Close]:74.87999725341797
+[Adj Close]:73.88676452636719
+[Volume]:17884200
+
+[Date]:2023-12-01 00:00:00
+[Open]:73.12000274658203
+[High]:74.13999938964844
+[Low]:72.12000274658203
+[Close]:73.98999786376953
+[Adj Close]:73.0085678100586
+[Volume]:27946500
+
+[Date]:2023-12-04 00:00:00
+[Open]:72.66999816894531
+[High]:73.58000183105469
+[Low]:72.4800033569336
+[Close]:73.02999877929688
+[Adj Close]:72.0613021850586
+[Volume]:21074900
+
+[Date]:2023-12-05 00:00:00
+[Open]:72.04000091552734
+[High]:72.69999694824219
+[Low]:71.91999816894531
+[Close]:72.37999725341797
+[Adj Close]:71.419921875
+[Volume]:19129000
+
+[Date]:2023-12-06 00:00:00
+[Open]:72.36000061035156
+[High]:72.94999694824219
+[Low]:71.48999786376953
+[Close]:71.48999786376953
+[Adj Close]:70.5417251586914
+[Volume]:30394400
+
+[Date]:2023-12-07 00:00:00
+[Open]:71.54499816894531
+[High]:72.37000274658203
+[Low]:71.44000244140625
+[Close]:72.33000183105469
+[Adj Close]:71.37059020996094
+[Volume]:18966700
+
+[Date]:2023-12-08 00:00:00
+[Open]:72.0199966430664
+[High]:72.44000244140625
+[Low]:71.83000183105469
+[Close]:72.13999938964844
+[Adj Close]:71.18310546875
+[Volume]:16868700
+
+[Date]:2023-12-11 00:00:00
+[Open]:70.48999786376953
+[High]:71.61000061035156
+[Low]:70.08000183105469
+[Close]:71.37000274658203
+[Adj Close]:70.42332458496094
+[Volume]:19719300
+
+[Date]:2023-12-12 00:00:00
+[Open]:71.37999725341797
+[High]:71.95500183105469
+[Low]:70.93000030517578
+[Close]:71.38999938964844
+[Adj Close]:70.44305419921875
+[Volume]:14725900
+
+[Date]:2023-12-13 00:00:00
+[Open]:70.91000366210938
+[High]:71.4800033569336
+[Low]:70.12000274658203
+[Close]:71.45999908447266
+[Adj Close]:70.51213073730469
+[Volume]:21721600
+
+[Date]:2023-12-14 00:00:00
+[Open]:71.47000122070312
+[High]:73.23999786376953
+[Low]:71.41999816894531
+[Close]:72.51000213623047
+[Adj Close]:71.54820251464844
+[Volume]:25199300
+
+[Date]:2023-12-15 00:00:00
+[Open]:74.0
+[High]:75.54499816894531
+[Low]:73.31999969482422
+[Close]:74.51000213623047
+[Adj Close]:73.52167510986328
+[Volume]:31266700
+
+[Date]:2023-12-18 00:00:00
+[Open]:74.05000305175781
+[High]:74.2300033569336
+[Low]:73.20999908447266
+[Close]:73.83999633789062
+[Adj Close]:72.86055755615234
+[Volume]:17233500
+
+[Date]:2023-12-19 00:00:00
+[Open]:74.4000015258789
+[High]:76.01000213623047
+[Low]:74.22000122070312
+[Close]:75.38999938964844
+[Adj Close]:74.38999938964844
+[Volume]:20939300
+
+[Date]:2023-12-20 00:00:00
+[Open]:74.58000183105469
+[High]:75.29499816894531
+[Low]:73.33000183105469
+[Close]:73.3499984741211
+[Adj Close]:73.3499984741211
+[Volume]:27540200
+
+[Date]:2023-12-21 00:00:00
+[Open]:74.86000061035156
+[High]:76.29000091552734
+[Low]:74.3499984741211
+[Close]:76.26000213623047
+[Adj Close]:76.26000213623047
+[Volume]:20812100
+
+[Date]:2023-12-22 00:00:00
+[Open]:74.5
+[High]:75.68000030517578
+[Low]:74.44000244140625
+[Close]:75.27999877929688
+[Adj Close]:75.27999877929688
+[Volume]:19962800
+
+[Date]:2023-12-26 00:00:00
+[Open]:76.16000366210938
+[High]:76.96900177001953
+[Low]:75.7300033569336
+[Close]:75.8499984741211
+[Adj Close]:75.8499984741211
+[Volume]:13121300
+
+[Date]:2023-12-27 00:00:00
+[Open]:76.27999877929688
+[High]:76.44999694824219
+[Low]:75.41000366210938
+[Close]:76.11000061035156
+[Adj Close]:76.11000061035156
+[Volume]:14904500
+
+[Date]:2023-12-28 00:00:00
+[Open]:77.2300033569336
+[High]:77.79000091552734
+[Low]:76.9800033569336
+[Close]:77.23999786376953
+[Adj Close]:77.23999786376953
+[Volume]:18937900
+
+[Date]:2023-12-29 00:00:00
+[Open]:77.05999755859375
+[High]:77.63500213623047
+[Low]:76.81999969482422
+[Close]:77.51000213623047
+[Adj Close]:77.51000213623047
+[Volume]:14035500
+
+[Date]:2024-01-02 00:00:00
+[Open]:76.05000305175781
+[High]:76.07499694824219
+[Low]:74.51000213623047
+[Close]:74.76000213623047
+[Adj Close]:74.76000213623047
+[Volume]:21739600
+
+[Date]:2024-01-03 00:00:00
+[Open]:74.33000183105469
+[High]:76.69000244140625
+[Low]:74.06999969482422
+[Close]:76.58999633789062
+[Adj Close]:76.58999633789062
+[Volume]:24444600
+
+[Date]:2024-01-04 00:00:00
+[Open]:75.55999755859375
+[High]:75.7249984741211
+[Low]:74.44000244140625
+[Close]:74.66000366210938
+[Adj Close]:74.66000366210938
+[Volume]:18454900
+
+[Date]:2024-01-05 00:00:00
+[Open]:74.0
+[High]:74.0
+[Low]:72.86000061035156
+[Close]:73.01000213623047
+[Adj Close]:73.01000213623047
+[Volume]:21679000
+
+[Date]:2024-01-08 00:00:00
+[Open]:71.25
+[High]:73.05999755859375
+[Low]:70.91999816894531
+[Close]:72.87999725341797
+[Adj Close]:72.87999725341797
+[Volume]:22000000
+
+[Date]:2024-01-09 00:00:00
+[Open]:71.25
+[High]:72.12000274658203
+[Low]:70.95999908447266
+[Close]:72.0199966430664
+[Adj Close]:72.0199966430664
+[Volume]:21451800
+
+[Date]:2024-01-10 00:00:00
+[Open]:71.37999725341797
+[High]:71.7750015258789
+[Low]:71.04499816894531
+[Close]:71.41000366210938
+[Adj Close]:71.41000366210938
+[Volume]:19540000
+
+[Date]:2024-01-11 00:00:00
+[Open]:72.54499816894531
+[High]:73.12999725341797
+[Low]:71.52999877929688
+[Close]:72.37999725341797
+[Adj Close]:72.37999725341797
+[Volume]:18095300
+
+[Date]:2024-01-12 00:00:00
+[Open]:72.58999633789062
+[High]:73.43000030517578
+[Low]:71.80999755859375
+[Close]:71.83999633789062
+[Adj Close]:71.83999633789062
+[Volume]:16119900
+
+[Date]:2024-01-16 00:00:00
+[Open]:70.12999725341797
+[High]:70.53099822998047
+[Low]:69.30000305175781
+[Close]:69.45999908447266
+[Adj Close]:69.45999908447266
+[Volume]:27606900
+
+[Date]:2024-01-17 00:00:00
+[Open]:67.72000122070312
+[High]:69.0
+[Low]:67.26000213623047
+[Close]:68.93000030517578
+[Adj Close]:68.93000030517578
+[Volume]:22684400
+
+[Date]:2024-01-18 00:00:00
+[Open]:68.5999984741211
+[High]:69.08000183105469
+[Low]:68.0
+[Close]:68.05000305175781
+[Adj Close]:68.05000305175781
+[Volume]:19307000
+
+[Date]:2024-01-19 00:00:00
+[Open]:67.19999694824219
+[High]:69.90499877929688
+[Low]:66.91999816894531
+[Close]:69.41999816894531
+[Adj Close]:69.41999816894531
+[Volume]:34388900
+
+[Date]:2024-01-22 00:00:00
+[Open]:67.27999877929688
+[High]:68.73799896240234
+[Low]:66.62999725341797
+[Close]:68.62999725341797
+[Adj Close]:68.62999725341797
+[Volume]:27294200
+
+[Date]:2024-01-23 00:00:00
+[Open]:72.75499725341797
+[High]:74.5
+[Low]:72.55000305175781
+[Close]:74.0199966430664
+[Adj Close]:74.0199966430664
+[Volume]:53017700
+
+[Date]:2024-01-24 00:00:00
+[Open]:75.28500366210938
+[High]:75.62000274658203
+[Low]:74.22000122070312
+[Close]:75.19999694824219
+[Adj Close]:75.19999694824219
+[Volume]:36503300
+
+[Date]:2024-01-25 00:00:00
+[Open]:75.19000244140625
+[High]:75.5
+[Low]:73.55999755859375
+[Close]:73.8499984741211
+[Adj Close]:73.8499984741211
+[Volume]:23268600
+
+[Date]:2024-01-26 00:00:00
+[Open]:73.0999984741211
+[High]:74.72000122070312
+[Low]:72.91999816894531
+[Close]:74.01000213623047
+[Adj Close]:74.01000213623047
+[Volume]:19418200
+
+[Date]:2024-01-29 00:00:00
+[Open]:74.66999816894531
+[High]:74.80999755859375
+[Low]:72.83000183105469
+[Close]:73.58000183105469
+[Adj Close]:73.58000183105469
+[Volume]:17537400
+
+[Date]:2024-01-30 00:00:00
+[Open]:72.45999908447266
+[High]:73.06500244140625
+[Low]:72.08499908447266
+[Close]:72.31999969482422
+[Adj Close]:72.31999969482422
+[Volume]:17089600
+
+[Date]:2024-01-31 00:00:00
+[Open]:71.49500274658203
+[High]:72.94000244140625
+[Low]:71.49500274658203
+[Close]:72.16999816894531
+[Adj Close]:72.16999816894531
+[Volume]:15743600
+
+[Date]:2024-02-01 00:00:00
+[Open]:73.15499877929688
+[High]:73.47000122070312
+[Low]:72.12000274658203
+[Close]:72.45999908447266
+[Adj Close]:72.45999908447266
+[Volume]:14445800
+
+[Date]:2024-02-02 00:00:00
+[Open]:72.12999725341797
+[High]:72.2300033569336
+[Low]:71.05000305175781
+[Close]:71.8499984741211
+[Adj Close]:71.8499984741211
+[Volume]:18799300
+
+[Date]:2024-02-05 00:00:00
+[Open]:72.16999816894531
+[High]:75.1500015258789
+[Low]:71.86000061035156
+[Close]:74.62999725341797
+[Adj Close]:74.62999725341797
+[Volume]:27721000
+
+[Date]:2024-02-06 00:00:00
+[Open]:77.04499816894531
+[High]:78.33999633789062
+[Low]:75.7300033569336
+[Close]:78.2300033569336
+[Adj Close]:78.2300033569336
+[Volume]:39069100
+
+[Date]:2024-02-07 00:00:00
+[Open]:74.55500030517578
+[High]:76.16999816894531
+[Low]:73.1500015258789
+[Close]:73.63999938964844
+[Adj Close]:73.63999938964844
+[Volume]:53766300
+
+[Date]:2024-02-08 00:00:00
+[Open]:71.88500213623047
+[High]:73.19999694824219
+[Low]:70.6500015258789
+[Close]:70.77999877929688
+[Adj Close]:70.77999877929688
+[Volume]:33070600
+
+[Date]:2024-02-09 00:00:00
+[Open]:70.80000305175781
+[High]:72.08499908447266
+[Low]:70.0
+[Close]:72.0199966430664
+[Adj Close]:72.0199966430664
+[Volume]:18998400
+
+[Date]:2024-02-12 00:00:00
+[Open]:72.30999755859375
+[High]:74.12999725341797
+[Low]:72.30999755859375
+[Close]:73.13999938964844
+[Adj Close]:73.13999938964844
+[Volume]:18151100
+
+[Date]:2024-02-13 00:00:00
+[Open]:71.95999908447266
+[High]:73.02999877929688
+[Low]:71.41999816894531
+[Close]:71.5999984741211
+[Adj Close]:71.5999984741211
+[Volume]:13560600
+
+[Date]:2024-02-14 00:00:00
+[Open]:72.30999755859375
+[High]:73.41000366210938
+[Low]:72.2300033569336
+[Close]:73.38999938964844
+[Adj Close]:73.38999938964844
+[Volume]:12817500
+
+[Date]:2024-02-15 00:00:00
+[Open]:73.22000122070312
+[High]:74.13999938964844
+[Low]:73.08499908447266
+[Close]:73.81999969482422
+[Adj Close]:73.81999969482422
+[Volume]:12078100
+
+[Date]:2024-02-16 00:00:00
+[Open]:74.86000061035156
+[High]:75.37000274658203
+[Low]:73.9000015258789
+[Close]:73.91000366210938
+[Adj Close]:73.91000366210938
+[Volume]:16371000
+
+[Date]:2024-02-20 00:00:00
+[Open]:73.45999908447266
+[High]:73.66999816894531
+[Low]:72.18000030517578
+[Close]:73.13999938964844
+[Adj Close]:73.13999938964844
+[Volume]:14353300
+
+[Date]:2024-02-21 00:00:00
+[Open]:74.4800033569336
+[High]:76.38999938964844
+[Low]:74.06999969482422
+[Close]:75.58000183105469
+[Adj Close]:75.58000183105469
+[Volume]:23533800
+
+[Date]:2024-02-22 00:00:00
+[Open]:75.0999984741211
+[High]:76.37999725341797
+[Low]:75.0
+[Close]:76.12000274658203
+[Adj Close]:76.12000274658203
+[Volume]:14836600
+
+[Date]:2024-02-23 00:00:00
+[Open]:76.4800033569336
+[High]:76.93499755859375
+[Low]:75.1500015258789
+[Close]:75.95999908447266
+[Adj Close]:75.95999908447266
+[Volume]:12301700
+
+[Date]:2024-02-26 00:00:00
+[Open]:75.62000274658203
+[High]:76.56999969482422
+[Low]:75.33999633789062
+[Close]:76.51000213623047
+[Adj Close]:76.51000213623047
+[Volume]:13973100
+
+[Date]:2024-02-27 00:00:00
+[Open]:77.52999877929688
+[High]:78.05000305175781
+[Low]:77.25
+[Close]:77.68000030517578
+[Adj Close]:77.68000030517578
+[Volume]:14490200
+
+[Date]:2024-02-28 00:00:00
+[Open]:76.0199966430664
+[High]:76.18000030517578
+[Low]:74.44999694824219
+[Close]:74.58999633789062
+[Adj Close]:74.58999633789062
+[Volume]:16905300
+
+[Date]:2024-02-29 00:00:00
+[Open]:74.68000030517578
+[High]:75.04000091552734
+[Low]:73.80000305175781
+[Close]:74.02999877929688
+[Adj Close]:74.02999877929688
+[Volume]:12549200
+
+[Date]:2024-03-01 00:00:00
+[Open]:74.4800033569336
+[High]:75.08999633789062
+[Low]:74.37000274658203
+[Close]:74.62000274658203
+[Adj Close]:74.62000274658203
+[Volume]:11955900
+
+[Date]:2024-03-04 00:00:00
+[Open]:73.7300033569336
+[High]:73.7300033569336
+[Low]:71.69999694824219
+[Close]:72.0
+[Adj Close]:72.0
+[Volume]:19550100
+
+[Date]:2024-03-05 00:00:00
+[Open]:71.25
+[High]:72.70999908447266
+[Low]:71.04000091552734
+[Close]:72.06999969482422
+[Adj Close]:72.06999969482422
+[Volume]:15804500
+
+[Date]:2024-03-06 00:00:00
+[Open]:74.19999694824219
+[High]:74.72000122070312
+[Low]:73.61000061035156
+[Close]:73.70999908447266
+[Adj Close]:73.70999908447266
+[Volume]:19785300
+
+[Date]:2024-03-07 00:00:00
+[Open]:72.5999984741211
+[High]:72.75800323486328
+[Low]:71.76000213623047
+[Close]:72.54000091552734
+[Adj Close]:72.54000091552734
+[Volume]:12374700
+
+[Date]:2024-03-08 00:00:00
+[Open]:72.80999755859375
+[High]:73.76000213623047
+[Low]:72.76000213623047
+[Close]:73.55000305175781
+[Adj Close]:73.55000305175781
+[Volume]:16402500
+
+[Date]:2024-03-11 00:00:00
+[Open]:74.62999725341797
+[High]:76.05999755859375
+[Low]:74.55000305175781
+[Close]:74.86000061035156
+[Adj Close]:74.86000061035156
+[Volume]:13510400
+
+[Date]:2024-03-12 00:00:00
+[Open]:75.87000274658203
+[High]:76.4800033569336
+[Low]:75.21499633789062
+[Close]:76.05999755859375
+[Adj Close]:76.05999755859375
+[Volume]:13314700
+
+[Date]:2024-03-13 00:00:00
+[Open]:75.94000244140625
+[High]:77.44999694824219
+[Low]:75.94000244140625
+[Close]:76.38999938964844
+[Adj Close]:76.38999938964844
+[Volume]:15319800
+
+[Date]:2024-03-14 00:00:00
+[Open]:75.23500061035156
+[High]:75.38999938964844
+[Low]:73.2300033569336
+[Close]:73.4000015258789
+[Adj Close]:73.4000015258789
+[Volume]:18923500
+
+[Date]:2024-03-15 00:00:00
+[Open]:73.57499694824219
+[High]:74.12999725341797
+[Low]:73.38999938964844
+[Close]:73.41999816894531
+[Adj Close]:73.41999816894531
+[Volume]:10223900
+
+[Date]:2024-03-18 00:00:00
+[Open]:73.41999816894531
+[High]:74.0199966430664
+[Low]:73.33000183105469
+[Close]:73.5199966430664
+[Adj Close]:73.5199966430664
+[Volume]:8542500
+
+[Date]:2024-03-19 00:00:00
+[Open]:73.08000183105469
+[High]:73.73500061035156
+[Low]:72.8499984741211
+[Close]:73.41999816894531
+[Adj Close]:73.41999816894531
+[Volume]:8164200
+
+[Date]:2024-03-20 00:00:00
+[Open]:73.55000305175781
+[High]:74.33000183105469
+[Low]:73.30000305175781
+[Close]:74.18000030517578
+[Adj Close]:74.18000030517578
+[Volume]:11123200
+
+[Date]:2024-03-21 00:00:00
+[Open]:74.30000305175781
+[High]:74.73999786376953
+[Low]:73.7699966430664
+[Close]:73.83000183105469
+[Adj Close]:73.83000183105469
+[Volume]:11860700
+
+[Date]:2024-03-22 00:00:00
+[Open]:72.4800033569336
+[High]:72.62000274658203
+[Low]:72.04000091552734
+[Close]:72.12999725341797
+[Adj Close]:72.12999725341797
+[Volume]:12756000
+
+[Date]:2024-03-25 00:00:00
+[Open]:71.94000244140625
+[High]:72.48999786376953
+[Low]:71.36000061035156
+[Close]:71.45999908447266
+[Adj Close]:71.45999908447266
+[Volume]:12422100
+
+[Date]:2024-03-26 00:00:00
+[Open]:71.83999633789062
+[High]:71.87000274658203
+[Low]:71.08999633789062
+[Close]:71.4800033569336
+[Adj Close]:71.4800033569336
+[Volume]:10881900
+
+[Date]:2024-03-27 00:00:00
+[Open]:70.88999938964844
+[High]:71.69000244140625
+[Low]:70.58300018310547
+[Close]:71.58999633789062
+[Adj Close]:71.58999633789062
+[Volume]:13281300
+
+[Date]:2024-03-28 00:00:00
+[Open]:72.08000183105469
+[High]:72.58999633789062
+[Low]:72.05500030517578
+[Close]:72.36000061035156
+[Adj Close]:72.36000061035156
+[Volume]:14073400
+
+[Date]:2024-04-01 00:00:00
+[Open]:73.23999786376953
+[High]:73.58200073242188
+[Low]:72.80999755859375
+[Close]:73.37000274658203
+[Adj Close]:73.37000274658203
+[Volume]:14311700
+
+[Date]:2024-04-02 00:00:00
+[Open]:72.56999969482422
+[High]:73.13999938964844
+[Low]:72.51000213623047
+[Close]:72.87999725341797
+[Adj Close]:72.87999725341797
+[Volume]:17290400
+
+[Date]:2024-04-03 00:00:00
+[Open]:72.41999816894531
+[High]:72.87000274658203
+[Low]:72.11000061035156
+[Close]:72.44000244140625
+[Adj Close]:72.44000244140625
+[Volume]:11777900
+
+[Date]:2024-04-04 00:00:00
+[Open]:72.9800033569336
+[High]:73.2300033569336
+[Low]:71.9000015258789
+[Close]:71.94999694824219
+[Adj Close]:71.94999694824219
+[Volume]:11087100
+
+[Date]:2024-04-05 00:00:00
+[Open]:71.68000030517578
+[High]:72.0250015258789
+[Low]:71.41000366210938
+[Close]:71.66000366210938
+[Adj Close]:71.66000366210938
+[Volume]:12246400
+
+[Date]:2024-04-08 00:00:00
+[Open]:71.95999908447266
+[High]:72.38999938964844
+[Low]:71.55999755859375
+[Close]:71.70999908447266
+[Adj Close]:71.70999908447266
+[Volume]:10560000
+
+[Date]:2024-04-09 00:00:00
+[Open]:72.37000274658203
+[High]:73.23999786376953
+[Low]:72.30999755859375
+[Close]:72.98999786376953
+[Adj Close]:72.98999786376953
+[Volume]:14075900
+
+[Date]:2024-04-10 00:00:00
+[Open]:74.44499969482422
+[High]:75.16999816894531
+[Low]:73.73999786376953
+[Close]:74.58999633789062
+[Adj Close]:74.58999633789062
+[Volume]:20572200
+
+[Date]:2024-04-11 00:00:00
+[Open]:75.21499633789062
+[High]:75.43000030517578
+[Low]:74.37000274658203
+[Close]:74.8499984741211
+[Adj Close]:74.8499984741211
+[Volume]:14986800
+
+[Date]:2024-04-12 00:00:00
+[Open]:72.94000244140625
+[High]:72.9800033569336
+[Low]:71.29000091552734
+[Close]:71.29000091552734
+[Adj Close]:71.29000091552734
+[Volume]:18196100
+
+[Date]:2024-04-15 00:00:00
+[Open]:71.7300033569336
+[High]:72.05000305175781
+[Low]:70.16999816894531
+[Close]:70.62000274658203
+[Adj Close]:70.62000274658203
+[Volume]:15903900
+
+[Date]:2024-04-16 00:00:00
+[Open]:70.0199966430664
+[High]:70.30699920654297
+[Low]:69.29000091552734
+[Close]:69.61000061035156
+[Adj Close]:69.61000061035156
+[Volume]:17478900
+
+[Date]:2024-04-17 00:00:00
+[Open]:69.70999908447266
+[High]:70.01000213623047
+[Low]:68.7249984741211
+[Close]:68.81999969482422
+[Adj Close]:68.81999969482422
+[Volume]:12760600
+
+[Date]:2024-04-18 00:00:00
+[Open]:69.08999633789062
+[High]:69.625
+[Low]:68.80000305175781
+[Close]:68.87999725341797
+[Adj Close]:68.87999725341797
+[Volume]:9491000
+
+[Date]:2024-04-19 00:00:00
+[Open]:68.41999816894531
+[High]:69.1500015258789
+[Low]:68.36000061035156
+[Close]:69.06999969482422
+[Adj Close]:69.06999969482422
+[Volume]:12860700
+
+[Date]:2024-04-22 00:00:00
+[Open]:69.69499969482422
+[High]:70.9000015258789
+[Low]:69.12000274658203
+[Close]:70.68000030517578
+[Adj Close]:70.68000030517578
+[Volume]:15015600
+
+[Date]:2024-04-23 00:00:00
+[Open]:71.08000183105469
+[High]:72.80000305175781
+[Low]:70.98999786376953
+[Close]:72.51000213623047
+[Adj Close]:72.51000213623047
+[Volume]:15268200
+
+[Date]:2024-04-24 00:00:00
+[Open]:73.73999786376953
+[High]:74.69999694824219
+[Low]:73.5
+[Close]:74.62999725341797
+[Adj Close]:74.62999725341797
+[Volume]:16375200
+
+[Date]:2024-04-25 00:00:00
+[Open]:73.80500030517578
+[High]:75.19999694824219
+[Low]:73.80500030517578
+[Close]:75.11000061035156
+[Adj Close]:75.11000061035156
+[Volume]:11921900
+
+[Date]:2024-04-26 00:00:00
+[Open]:76.18499755859375
+[High]:76.93000030517578
+[Low]:75.05999755859375
+[Close]:75.55000305175781
+[Adj Close]:75.55000305175781
+[Volume]:14216100
+
+[Date]:2024-04-29 00:00:00
+[Open]:75.6500015258789
+[High]:76.52999877929688
+[Low]:75.22000122070312
+[Close]:76.41000366210938
+[Adj Close]:76.41000366210938
+[Volume]:13076400
+
+[Date]:2024-04-30 00:00:00
+[Open]:75.88999938964844
+[High]:76.29000091552734
+[Low]:74.4800033569336
+[Close]:74.8499984741211
+[Adj Close]:74.8499984741211
+[Volume]:12856000
+
+[Date]:2024-05-01 00:00:00
+[Open]:74.98999786376953
+[High]:76.25
+[Low]:74.87000274658203
+[Close]:75.51000213623047
+[Adj Close]:75.51000213623047
+[Volume]:10549100
+
+[Date]:2024-05-02 00:00:00
+[Open]:77.58999633789062
+[High]:81.41500091552734
+[Low]:77.16000366210938
+[Close]:80.33000183105469
+[Adj Close]:80.33000183105469
+[Volume]:36663900
+
+[Date]:2024-05-03 00:00:00
+[Open]:81.2699966430664
+[High]:81.37000274658203
+[Low]:79.69999694824219
+[Close]:81.33000183105469
+[Adj Close]:81.33000183105469
+[Volume]:19355800
+
+[Date]:2024-05-06 00:00:00
+[Open]:81.75499725341797
+[High]:82.22000122070312
+[Low]:80.5
+[Close]:81.55000305175781
+[Adj Close]:81.55000305175781
+[Volume]:11826100
+
+[Date]:2024-05-07 00:00:00
+[Open]:79.93000030517578
+[High]:79.93000030517578
+[Low]:78.81500244140625
+[Close]:79.37000274658203
+[Adj Close]:79.37000274658203
+[Volume]:14589100
+
+[Date]:2024-05-08 00:00:00
+[Open]:77.91999816894531
+[High]:78.98999786376953
+[Low]:77.80999755859375
+[Close]:78.45999908447266
+[Adj Close]:78.45999908447266
+[Volume]:11327100
+
+[Date]:2024-05-09 00:00:00
+[Open]:79.5
+[High]:79.91999816894531
+[Low]:78.70999908447266
+[Close]:79.45999908447266
+[Adj Close]:79.45999908447266
+[Volume]:9627300
+
+[Date]:2024-05-10 00:00:00
+[Open]:80.08000183105469
+[High]:80.5199966430664
+[Low]:79.7699966430664
+[Close]:80.04000091552734
+[Adj Close]:80.04000091552734
+[Volume]:10782400
+

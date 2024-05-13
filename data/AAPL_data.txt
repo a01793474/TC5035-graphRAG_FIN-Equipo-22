@@ -1,0 +1,2913 @@
+[Company Introduction]:
+Apple Inc is a leading entity in the Technology sector. Incorporated and publicly traded since 1980-12-12, the company has established its reputation as one of the key players in the market. As of today, Apple Inc has a market capitalization of 2806903.83 in USD, with 15441.88 shares outstanding.
+Apple Inc operates primarily in the US, trading under the ticker AAPL on the NASDAQ NMS - GLOBAL MARKET. As a dominant force in the Technology space, the company continues to innovate and drive progress within the industry.
+
+
+[Address]:
+Main office address is in ONE APPLE PARK WAY None CUPERTINO,CA 95014
+tel: (408) 996-1010
+
+
+[Stock]:
+Entity Common Stock, Shares Outstanding this means Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument.
+
+
+[News]:
+[Date]:2024-05-12 07:00:00
+[Headline]:Warren Buffett Sold Apple and Paramount. Here's What He's Buying Instead.
+[Summary]:The Oracle of Omaha keeps selling more stocks than he's buying. Here's what's on his shopping list.
+
+[Date]:2024-05-12 06:30:20
+[Headline]:Here's 1 big investing mistake you are probably still making
+[Summary]:Maybe a 5% CD isn't the best choice for your hard-earned money.
+
+[Date]:2024-05-12 05:40:00
+[Headline]:3 Key Takeaways From Buffett's Sale of Apple Stock
+[Summary]:Berkshire is unlikely to sell all of its Apple stock, but the sale could make investors rethink Buffett's perception of Apple and possibly the market as a whole.
+
+[Date]:2024-05-12 04:19:47
+[Headline]:British Newspaper groups warn Apple over ad-blocking plans, FT reports
+[Summary]:British newspaper group News MediaAssociation has warned Apple that any move toimpose a so-called web eraser tool to block advertisementswould put the financial sustainability of journalism at...
+
+[Date]:2024-05-12 03:30:00
+[Headline]:Warren Buffett Has Trimmed 13% of His Apple Stock. Should You?
+[Summary]:The Oracle of Omaha gave his reasoning for selling some of his Apple position at this year's Berkshire Hathaway annual meeting.
+
+[Date]:2024-05-12 02:15:00
+[Headline]:Is It Too Late to Buy Apple Stock?
+[Summary]:The company had a challenging 2023 but is making moves to come back strong in the coming years.
+
+[Date]:2024-05-12 00:42:43
+[Headline]:QQQ: Macro Trends Favor Non-Tech Areas, Bullish Seasonal Trends
+[Summary]:Invesco QQQ Trust ETF's sector valuation is high, and sector rotation suggests it may not be best positioned for relative gains. Find out why QQQ is a Hold.
+
+[Date]:2024-05-11 19:48:00
+[Headline]:Apple Retail Employees at Maryland Store Vote to Authorize Strike
+[Summary]:The iPhone maker is continuing to negotiate with the union representing about 100 workers at a store near Baltimore.
+
+[Date]:2024-05-11 15:59:14
+[Headline]:Apple's Maryland store workers vote to authorize strike
+[Summary]:Workers at Apple's store inTowson, Maryland, have voted in favor of authorizing a strike,the International Association of Machinists and AerospaceWorkers said in a statement late on Saturday. ...
+
+[Date]:2024-05-11 15:59:14
+[Headline]:Apple's New Jersey store workers vote against unionizing, Bloomberg reports
+[Summary]:Workers at Apple's store inShort Hills, New Jersey, have voted against unionizing,Bloomberg News reported on Saturday. Communications Workers of America , which filedcomplaints with...
+
+[Date]:2024-05-11 08:00:46
+[Headline]:Apple Thought Different and Paid the Consequences
+[Summary]:In this Weekend edition: the Musk whisperer; our favorite power-dining spots; and how Apple thought different and paid the consequences.
+
+[Date]:2024-05-11 07:45:00
+[Headline]:Big Energy
+[Summary]:The narrative in the equity markets is that Big Oil has passed the reins to Big Tech. Big Tech is the new energy business. AIâs growing power requirements make this concrete. Read more here.
+
+[Date]:2024-05-11 05:33:00
+[Headline]:Buffett Is Selling Apple Stock. The Reason Why Is Eye-Opening.
+[Summary]:Apple has been Berkshire's top stock for nearly a decade.
+
+[Date]:2024-05-11 04:45:00
+[Headline]:40.2% of Warren Buffett's $362 Billion Portfolio Is Invested in 2 Artificial Intelligence (AI) Stocks
+[Summary]:You won't catch Warren Buffett chasing the latest stock market trend, but many companies in Berkshire Hathaway's portfolio are benefiting from AI nonetheless.
+
+[Date]:2024-05-11 04:15:00
+[Headline]:Apple Unveiled a Historic $110 Billion Stock Buyback, but Is It the Right Move?
+[Summary]:Its shares might be too expensive right now, and all that money could be put to better use in AI.
+
+[Date]:2024-05-11 03:34:00
+[Headline]:Load Up on Apple Stock as the AI Story Is About to Unfold, Says Top Analyst
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-11 03:01:00
+[Headline]:Here’s how Apple might take AI to the next level
+[Summary]:Also, new index ETFs to help investors narrow their focus and an interview with Maurice Saatchi.
+
+[Date]:2024-05-11 02:42:00
+[Headline]:Tesla's Ongoing Austerity Measures, Rivian-Apple Partnership Buzz, Biden Administration's Clampdown: Biggest EV Stories Of The Week
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-11 02:31:00
+[Headline]:Benzinga Bulls And Bears: Nvidia, Starbucks, Palantir And Crypto Investor's Playbook For Making 'MemeMillions' From Shiba Inu, Dogecoin
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-11 02:20:00
+[Headline]:Best Stock to Buy Right Now: Amazon vs. Apple
+[Summary]:These companies beat earnings estimates in their recent quarters and are worth considering right now.
+
+[Date]:2024-05-11 01:40:00
+[Headline]:67.3% of Warren Buffett's $361 Billion Portfolio Is Invested in Just 4 Stocks
+[Summary]:Buffett isn't afraid of portfolio concentration when his biggest investments are as wonderful as these companies.
+
+[Date]:2024-05-11 01:35:00
+[Headline]:Warren Buffett's Berkshire Hathaway Cuts Apple Stake by 12.9%. Time to Sell?
+[Summary]:Berkshire is raising cash and sees limited opportunities in the market.
+
+[Date]:2024-05-11 01:00:00
+[Headline]:The Party Is Over For FANG+ Stocks - Are You Prepared?
+[Summary]:Value stocks vs. growth stocks: Will the era of low inflation end? FANG+ stocks dominate S&P 500, but their advantage may be fading. Read more here.
+
+[Date]:2024-05-11 00:50:00
+[Headline]:Elliott Wave Analysis For Nasdaq 100 & Tech Stocks: Insights & Strategies For NDX, SP500
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-11 00:50:00
+[Headline]:Tweedy, Browne 2024 Client Letter
+[Summary]:Despite exposure to âMag 7,â Tweedy, Browneâs managed account portfolios made substantial financial progress over the last year. Click here to read more.
+
+[Date]:2024-05-11 00:31:00
+[Headline]:‘AI Breakthrough Is Near,’ Says Top Analyst About Apple Stock
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 23:26:00
+[Headline]:Apple, OpenAI said to be finalizing talks to bring ChatGPT to iPhone
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 21:16:00
+[Headline]:The 3 Best Mutual Funds to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 19:51:00
+[Headline]:5 Stocks Driving Dow's Market-Beating Performance
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 19:35:50
+[Headline]:Apple Scores Win in Labor Case Involving Fired Retail Staff
+[Summary]:(Bloomberg) -- The National Labor Relations Board dismissed the most serious allegations against Apple Inc. in a high-profile case involving fired retail store employees, though officials still maintain that the company mistreated workers.Most Read from BloombergElon Musk Pledges to Grow Supercharger Business He Just DecimatedBiden Set to Hit China EVs, Strategic Sectors With TariffsJim Simons, Code Breaker Who Mastered Investing, Dies at 86Ackman Scolded Over DEI Views at Closed-Door Milken Ses
+
+[Date]:2024-05-10 19:00:00
+[Headline]:Tech Giants Start to Treat Southeast Asia Like Next Big Thing
+[Summary]:(Bloomberg) -- Long considered a tech hinterland, Southeast Asia is fast emerging as a center of gravity for the industry.Most Read from BloombergElon Musk Pledges to Grow Supercharger Business He Just DecimatedBiden Set to Hit China EVs, Strategic Sectors With TariffsJim Simons, Code Breaker Who Mastered Investing, Dies at 86Ackman Scolded Over DEI Views at Closed-Door Milken SessionFord Cuts Battery Orders as EV Losses Top $100,000 Per CarThe CEOs of Apple Inc., Microsoft Corp. and Nvidia Corp
+
+[Date]:2024-05-10 17:29:55
+[Headline]:Apple Says No Major App Developers Accept New Outside Payments
+[Summary]:(Bloomberg) -- No major app developers have signed up to use outside payment options that Apple Inc. introduced earlier this year for its App Store because the fees they pay would be at least as high as they were before, according to testimony presented to a federal judge.Most Read from BloombergElon Musk Pledges to Grow Supercharger Business He Just DecimatedBiden Set to Hit China EVs, Strategic Sectors With TariffsJim Simons, Code Breaker Who Mastered Investing, Dies at 86Ackman Scolded Over D
+
+[Date]:2024-05-10 16:27:45
+[Headline]:AI Revolution 'On the Doorstep:' The 'Tidal Wave' Is Well Underway, Analyst Says
+[Summary]:The recent earnings season has made it abundantly clear that the AI revolution is not just knocking on the door but has forcefully entered the tech world. The impressive results from tech giants such as Microsoft Corp. (NYSE:MSFT), Alphabet Inc. (NASDAQ:GOOGL)(NASDAQ:GOOG) and Amazon.com Inc. (NASDAQ:AMZN) underscored this transition, according to Daniel Ives, an equity analyst at Wedbush. These companies have reported “eye-popping capital expenditure numbers,” initiating an “AI tidal wave” in s
+
+[Date]:2024-05-10 16:26:17
+[Headline]:Apple to Announce Siri AI Upgrades Next Month
+[Summary]:Apple has focused on improving Siri for tasks people already use it for, like setting timers and creating grocery lists.
+
+[Date]:2024-05-10 16:09:06
+[Headline]:Stocks Surge On Healthy Earnings Season, Rising Jobless Claims: This Week In The Markets
+[Summary]:It's been a quiet week in the markets, marked by a dearth of major economic news and a consistent flow of positive indicators from the first-quarter earnings season. As of May 7, 424 companies in the S&P 500 have disclosed their earnings, with 78% surpassing earnings expectations and 61% exceeding revenue forecasts. The S&P 500 continued its upward trend, marking its third consecutive week of gains and nearly recouping losses from April, while the Dow Jones boasted eight consecutive sessions in
+
+[Date]:2024-05-10 12:45:00
+[Headline]:Life on the Edge: A Guide to the Newest Frontier in Computing
+[Summary]:Trends in artificial intelligence are boosting demand for “edge computing,” which shifts more processing to users’ devices. That could be good news for Apple.
+
+[Date]:2024-05-10 11:30:19
+[Headline]:Warren Buffett Used A $20 Flip Phone Until Upgrading To An iPhone Only Four Years Ago — Despite Having Over $100 Billion Invested In Apple
+[Summary]:Warren Buffett, the esteemed CEO of Berkshire Hathaway and a symbol of prudent investing, is known for his simple lifestyle and frugal choices, despite his billionaire status. Buffett used a $20 flip phone for years, even after investing billions in Apple, a company synonymous with cutting-edge technology. This continued use of a basic phone highlighted his preference for simplicity and practicality. Don't Miss: Warren Buffett flipped his neighbor's $67,000 life savings into a $50 million fortun
+
+[Date]:2024-05-10 11:08:20
+[Headline]:Jamf Holding Corp (JAMF) Q1 2024 Earnings: Exceeds Revenue Forecasts and Demonstrates Robust Growth
+[Summary]:Comprehensive Analysis of Jamf's First Quarter Financial Performance
+
+[Date]:2024-05-10 11:03:21
+[Headline]:Apple Buy Signals (Technical Analysis, Upgrade)
+[Summary]:At Apple Inc., Tim Cook's announcements boost stock as new iPad and AI developments drive positive performance. Read more about AAPL stock here.
+
+[Date]:2024-05-10 09:31:20
+[Headline]:Novavax-Sanofi vaccine deal, Yelp and Sweetgreen earnings: Morning Brief
+[Summary]:On today's episode of The Morning Brief, Hosts Seana Smith and Brad Smith break down some of the biggest news affecting the market (^DJI, ^IXIC, ^GSPC). President Biden is reportedly set to release a new wave of tariffs targeting China in critical sectors, including electric vehicles, semiconductors, and solar equipment. Novavax (NVAX) shares skyrocket following the announcement of a $1.2 billion deal with Sanofi (SNY) to commercialize its combined COVID-19 and flu shot. Restaurant and business review platform Yelp (YELP) misses first-quarter earnings estimates as US consumer spending remains relatively weak. Taiwan Semiconductor (TSM) sales jumped nearly 60% year-over-year as the artificial intelligence race heats up and demand for chips rises. Wedbush Securities Managing Director Dan Ives joins Yahoo Finance to discuss "the fourth Industrial Revolution" in AI and Apple's (AAPL) position among other Big Tech competitors. Sweetgreen (SG) shares soar after topping first-quarter revenue expectations and raising its full-year guidance. CEO Jonathan Neman joins to discuss the company's plans moving forward. This post was written by Melanie Riehl
+
+[Date]:2024-05-10 09:05:46
+[Headline]:With Apple entering the fight, the AI chip wars have gone nuclear
+[Summary]:The AI PC chip wars are going nuclear as Apple officially joins the fight with its M4 processor.
+
+[Date]:2024-05-10 09:03:19
+[Headline]:Market Chatter: Apple Apologizes for New iPad Pro Advertisement Video
+[Summary]:Market Chatter: Apple Apologizes for New iPad Pro Advertisement Video
+
+[Date]:2024-05-10 08:29:25
+[Headline]:Apple is catching up with the AI revolution: Dan Ives
+[Summary]:As Big Tech companies reported earnings, they also revealed a massive wave of planned spending on AI projects and infrastructure. Some companies like Alphabet (GOOG, GOOGL), Meta (META), and Microsoft (MSFT) have pulled ahead, while others, like Apple (AAPL), have faced mounting challenges. Wedbush Securities Managing Director Dan Ives joins The Morning Brief to discuss what he calls "the fourth industrial revolution" in AI and Apple's advances on the front. Ives states that Apple's annual Worldwide Developers Conference will be paramount for Apple: "I think it's probably the most important event for Apple that we've seen potentially in a decade because this is going to be [CEO Tim] Cook laying out the AI strategy on the services side for developers, what I believe is really the start of an AI app store in terms of how that's going to morph and then its proprietary AI technology in iPhone 16, which will launch in September." For more expert insight and the latest market action, click here to watch this full episode of Morning Brief. This post was written by Nicholas Jacobino
+
+[Date]:2024-05-10 08:01:17
+[Headline]:Apple forced to apologize after new iPad Pro ad sparks controversy online: 'We missed the mark. We’re sorry'
+[Summary]:A new iPad Pro ad caused a stir on social media, with several users responding critically, forcing Apple to apologize.
+
+[Date]:2024-05-10 07:28:34
+[Headline]:Apple: Beating Expectations Amidst The Gloomy Sentiment
+[Summary]:Apple's Q2 24 beat expectations and assured investors that things are not as bad as they seem.Â See why I think it is difficult to argue against owning AAPL stock.
+
+[Date]:2024-05-10 06:44:00
+[Headline]:Apple Makes Rare Apology for iPad Pro Ad. What Its Misstep Means for the Stock.
+[Summary]:The tech giant issued a rare apology and admitted it “missed the mark” with its controversial iPad Pro ad, which featured creative tools such as a piano, books and paint pots being crushed.
+
+[Date]:2024-05-10 06:40:00
+[Headline]:10 Information Technology Stocks With Whale Alerts In Today's Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 06:22:00
+[Headline]:The 3 Best Blue-Chip Stocks to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 06:18:00
+[Headline]:3 High-Growth Tech Stocks That Also Pay Dividends Now
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 05:42:00
+[Headline]:Earnings-Proof Tech Plays: 3 Stocks Set to Stay Hot Beyond Reporting Season
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 05:15:26
+[Headline]:Why Cirrus Logic Was Rocketing Higher This Week
+[Summary]:Blowout fundamentals are possible when your top client is doing well.
+
+[Date]:2024-05-10 05:09:00
+[Headline]:Monumental Funding Has Elon Musk AI Venture Primed For Takeoff
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 05:03:00
+[Headline]:What You Missed On Wall Street This Morning
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 05:00:03
+[Headline]:The next union organizing wave is at Apple
+[Summary]:Apple faces plenty of challenges this year including regulatory scrutiny in Washington, sluggish sales in China and a competitive landscape in AI. Now its leaders also have to contend with labor unrest.
+
+[Date]:2024-05-10 05:00:00
+[Headline]:Aggressive Stock Buying On Rising Layoffs And Revenue Rise At The Largest Chip Manufacturer TSMC
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 04:58:00
+[Headline]:Apple’s iPad Gaffe Is a Concern but Its Future Rests on AI, and 5 Other Things to Know Today
+[Summary]:Biden set to unveil tariffs on China electric vehicles, says report, stock buybacks outpace last year and are expected to keep rising, and other news to start your day.
+
+[Date]:2024-05-10 04:30:29
+[Headline]:Apple forced into rare apology for ‘tone-deaf’ iPad advert: ‘We missed the mark with this video’
+[Summary]:Apple’s Tor Myhren said the Big Tech giant had "missed the mark" with the video released this week, and apologized to customers who called out the brand for its "tone-deaf" marketing.
+
+[Date]:2024-05-10 04:23:00
+[Headline]:Taiwan Semiconductor spurs chip gains amid AI-related surge in sales
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 04:11:00
+[Headline]:The Smartest Dividend Stocks to Buy With Under $1,000 Right Now
+[Summary]:These compounders should become legendary dividend growth stocks over the coming decades.
+
+[Date]:2024-05-10 04:00:03
+[Headline]:Welcome to the AI dystopia no one asked for, courtesy of Silicon Valley
+[Summary]:A couple of weeks ago, I rewatched Jurassic Park for probably the 10th time since the movie came out 30 years ago. (As an aside, it really holds up — 10/10, no notes.)
+
+[Date]:2024-05-10 04:00:00
+[Headline]:Market Clubhouse Morning Memo - May 10th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 03:30:54
+[Headline]:Trending tickers: TSMC, Novavax, Anglo American and IAG
+[Summary]:The latest investor updates on stocks that are trending on Friday
+
+[Date]:2024-05-10 03:30:00
+[Headline]:Bundles Are the Hottest New Show in Streaming
+[Summary]:Warner and Disney’s push for bundling makes sense with mergers off the table, but old rivalries will need to be curbed to make deals work.
+
+[Date]:2024-05-10 03:25:00
+[Headline]:2 Artificial Intelligence ETFs to Buy Before the Stock Market Makes a New All-Time High
+[Summary]:The S&P 500 index has been in a pullback since late March, and it's presenting investors with a buying opportunity.
+
+[Date]:2024-05-10 03:16:00
+[Headline]:5 Metrics That Are Far More Important Than a Stock's Dividend Yield
+[Summary]:When it comes to dividends, quality is more important than quantity.
+
+[Date]:2024-05-10 03:10:00
+[Headline]:Apple Inches Closer To Choosing Sam Altman-Led OpenAI To Integrate ChatGPT On iPhones: Report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 03:08:01
+[Headline]:Apple apologises after iPad advert backlash
+[Summary]:The tech giant was accused of being ‘tone deaf’ after a new advert for the latest iPad showed creative tools being crushed by a hydraulic press.
+
+[Date]:2024-05-10 02:59:00
+[Headline]:Apple Chooses Sam Altman-Led OpenAI To Integrate ChatGPT Into iPhone, Deal Almost Done: Report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 02:50:00
+[Headline]:Microsoft prepares to open online mobile game store in July
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 02:33:00
+[Headline]:Stanford Researchers Unveil AR Glasses Prototype Resembling 'Everyday Pair Of Glasses,' Contrasting Bulky Apple Vision Pro: 'Imagine A Surgeon... Or Airplane Mechanic Using Them'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 02:16:00
+[Headline]:SoftBank Vision Fund selling public stakes amid shift to chips, AI: report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 02:01:00
+[Headline]:Morning Brew: Stock Futures Rise Ahead of Key Economic Reports
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 01:54:00
+[Headline]:A $1.8 Trillion Market Is Poised To Explode As Personal Health Spending Catches Fire
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 01:46:00
+[Headline]:Morning Brew: Tesla Announces Expansion Plans Amidst Market Volatility
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 01:15:43
+[Headline]:News Highlights : Top Company News of the Day - Friday at 7 AM ET
+[Summary]:Tesla to Spend Over $500 Million on Charger Network This Year Tesla plans to spend more than $500 million to expand its EV charging network this year, days after the carmaker laid off much of...
+
+[Date]:2024-05-10 00:59:00
+[Headline]:AMC Networks slips as Q1 results miss expectations
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 00:44:35
+[Headline]:Foxconn's Q1 profit to jump from low base, AI to power growth
+[Summary]:Taiwan's Foxconn, the world's largest contract electronics maker, is expected to report on Tuesday that first-quarter profit more than doubled on robust demand for artificial intelligence servers and after coming off a low base a year ago.  Net profit for January-March for Apple's top iPhone assembler likely came in at T$29.3 billion ($904.6 million), according to an LSEG consensus estimate of 15 analysts.  That would represent a 129% increase from the same period a year ago when profit sagged after the company took a T$17.3 billion writedown related to its 34% stake in Japanese electronics maker Sharp Corp. It would also mark a third consecutive quarter of profit growth.
+
+[Date]:2024-05-09 23:29:00
+[Headline]:The 3 Best Auto Stocks to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 23:13:00
+[Headline]:Apple apologizes for iPad advertisement video, FT reports
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 23:12:00
+[Headline]:Apple apologizes for new iPad ad that shows musical instruments being crushed
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 23:08:00
+[Headline]:Semiconductor Superstars: 3 Chip Stocks Powering the Tech Boom in 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 22:59:00
+[Headline]:Microsoft Challenges Apple And Google with Web-Based Gaming Store: Report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 22:48:00
+[Headline]:Apple signs pact with Samsung Display for foldable devices, DigiTimes reports
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 22:30:00
+[Headline]:Taiwan Semiconductor rises after April sales soar 60%; approves NT$4 dividend for Q1
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 21:41:00
+[Headline]:Microsoft (NASDAQ:TTWO) Prepares Launch of its Own Mobile Game Store in July
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 21:40:00
+[Headline]:Microsoft (NASDAQ:TTWO) to Launch Own Mobile Game Store in July
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 21:13:00
+[Headline]:What You Missed On Wall Street On Friday
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 21:07:50
+[Headline]:Biden Set to Impose Tariffs on China EVs, Strategic Sectors
+[Summary]:(Bloomberg) -- President Joe Biden’s administration is poised to unveil a sweeping decision on China tariffs as soon as next week, one that’s expected to target key strategic sectors while rejecting the across-the-board hikes sought by Donald Trump, people familiar with the matter said.Most Read from Bloomberg‘Seriously Underwater’ Home Mortgages Tick Up Across the USApple Apologizes for iPad Pro Ad, Scraps Plan to Air It on TVMarjorie Taylor Greene Finally Got What She Deserved: DefeatMicrosoft
+
+[Date]:2024-05-09 21:01:00
+[Headline]:Apple (NASDAQ:AAPL) Apologizes After iPad Ad Gets “Crushed”
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 20:44:00
+[Headline]:Apple's Vision Pro Headset Becomes Surgeons' Tool Of Choice For 'Keyhole' Surgeries
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 20:30:00
+[Headline]:Apple Analyst Says Rumors Of In-House AI Chip 'Another Breadcrumb' Ahead Of WWDC: 'Cupertino Ready To Play Chess...While Others Playing Checkers'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 15:11:00
+[Headline]:Apple Apologizes for iPad Ad Depicting Crushed Creative Tools
+[Summary]:The company said it wouldn’t run the advertisement on TV after it faced widespread criticism on social media.
+
+[Date]:2024-05-09 19:24:00
+[Headline]:Apple to announce generative AI coming to Siri, NY Times reports
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 19:08:06
+[Headline]:Apple apologizes for iPad Pro 'Crush' ad, Ad Age says
+[Summary]:An Apple spokesperson declined to comment but directed inquiries to the Ad Age report.  The advertisement titled "Crush" has over a million views on Apple's YouTube channel and was shared by CEO Tim Cook on social media platform X. It shows a variety of creative tools and objects such as a camera, guitar, piano and paint being destroyed by an industrial crusher.
+
+[Date]:2024-05-09 19:06:12
+[Headline]:CORRECTED-Apple apologizes for iPad Pro 'Crush' ad, Ad Age says
+[Summary]:Apple apologized on Thursday after an advertisement for its latest iPad Pro model sparked criticism by showing an animation of musical instruments and other symbols of creativity being crushed, Ad Age magazine reported.  An Apple spokesperson declined to comment but directed inquiries to the Ad Age report.  The advertisement titled "Crush" has over a million views on Apple's YouTube channel and was shared by CEO Tim Cook on social media platform X. It shows a variety of creative tools and objects such as a camera, guitar, piano and paint being destroyed by an industrial crusher.
+
+[Date]:2024-05-09 18:36:10
+[Headline]:MORNING BID EUROPE-Rate cut hopes fan risk rally
+[Summary]:A look at the day ahead in European and global markets fromAnkur Banerjee Investors are wearing their risk-on hats ahead of theweekend as renewed hopes of monetary...
+
+[Date]:2024-05-09 18:30:00
+[Headline]:Baron Durable Advantage Fund Q1 2024 Shareholder Letter
+[Summary]:Baron Durable Advantage Fund (Inst.) gained 10.9% during Q1 2024, slightly ahead of the 10.6% gain for the S&P 500 Index. Click here to read the full letter.
+
+[Date]:2024-05-09 17:15:09
+[Headline]:Apple apologizes for its controversial iPad Pro ad
+[Summary]:Apple has apologized and admitted it “missed the mark” with its latest iPad Pro advertisement.
+
+[Date]:2024-05-09 16:29:23
+[Headline]:Strategically Rebalance Your Dividend Portfolio In May 2024 For Optimal Risk-Reward Outcomes
+[Summary]:Learn why rebalancing your dividend portfolio is crucial for long-term investment success and discover effective strategies to reduce risk.
+
+[Date]:2024-05-09 16:26:54
+[Headline]:Tracking Ken Fisher's Fisher Asset Management Portfolio - Q1 2024 Update
+[Summary]:Check here to learn more on the latest updates on Fisher's investment portfolio as holdings decrease but value increases, with major stakes in tech giants.
+
+[Date]:2024-05-09 15:51:13
+[Headline]:More Money, More Streams: Netflix, Disney+, AppleTV+ And Hulu See Higher Usage Among Wealthier Americans
+[Summary]:Despite feeling overwhelmed by the growing number of streaming platforms, Americans continue to subscribe, and a new survey reveals the most popular choices among middle-income levels compared to others. What Happened: Even as consumer face financial pressure to reduce spending on streaming subscriptions or switch to more affordable, ad-supported plans, leading streaming companies like Netflix and Disney continue to experience subscriber growth. The leading streaming companies are thriving, with
+
+[Date]:2024-05-09 15:24:00
+[Headline]:Apple Apologizes for iPad Pro Ad, Scraps Plan to Air It on TV
+[Summary]:(Bloomberg) -- Apple Inc. issued a rare apology for an advertisement touting its latest iPad Pro that upset many creatives and other customers. The company also said it won’t air the ad on television as planned.Most Read from BloombergMicrosoft’s Xbox Is Planning More Cuts After Studio Closings‘Seriously Underwater’ Home Mortgages Tick Up Across the USAmericans Are Racking Up ‘Phantom Debt’ That Wall Street Can’t TrackMarjorie Taylor Greene Finally Got What She Deserved: DefeatThe ad, which depi
+
+[Date]:2024-05-09 15:12:18
+[Headline]:Hugh Grant accuses Apple of destroying human experience with iPad advert
+[Summary]:Hugh Grant has accused Apple of “the destruction of the human experience” amid a backlash after the tech giant crushed musical instruments and art in an iPad advert.
+
+[Date]:2024-05-09 15:00:00
+[Headline]:3 Stocks to Buy Following Positive Earnings Results
+[Summary]:Earnings season continues to chug along, with a wide variety of companies reporting over the last week. And concerning post-earnings fireworks, all three of these companies enjoyed buying pressure post-release.
+
+[Date]:2024-05-09 13:35:02
+[Headline]:Apple ad obliterates the tools of human creativity with a hydraulic press to hype its ‘thinnest product yet.’ Offended consumers flipped it to make a less ‘horrific corporate nightmare’
+[Summary]:The spot appears to be having the unintended effect of turning people off their devices: “This ad effectively convinced me I need less technology in my life,” a user posted on X.
+
+[Date]:2024-05-09 12:19:26
+[Headline]:Apple to power AI servers with its chips, Bloomberg News reports
+[Summary]:The company is putting its chips in cloud-computing servers capable of processing advanced AI tasks coming to Apple devices, the report stated, citing people familiar with the matter.  Apple did not immediately respond to a Reuters request for comment.  The chips are similar to those that power Apple's Mac computers, the report said, adding that simpler AI-related tasks will be processed on-device.
+
+[Date]:2024-05-09 11:55:00
+[Headline]:Apple Stock Has Room to Rise. Don’t ‘Underestimate’ the iPhone.
+[Summary]:The iPhone brought in $45.96 billion in sales in Apple’s fiscal second quarter. Total revenue was $90.75 billion.
+
+[Date]:2024-05-09 11:45:52
+[Headline]:Technology crushing human creativity? Apple's 'disturbing' new iPad ad has struck a nerve online
+[Summary]:A newly released ad promoting Apple's new iPad Pro has struck quite a nerve online.  “The most powerful iPad ever is also the thinnest,” a narrator says at the end of the commercial.  Apple's intention seems straightforward: Look at all the things this new product can do.
+
+[Date]:2024-05-09 11:34:18
+[Headline]:Tech Little Changed Amid Mixed Earnings Fortunes - Tech Roundup
+[Summary]:Shares of technology companies rose, but not by as much as the broad market, amid mixed earnings fortunes. Intel shares were more or less flat after the semiconductor giant said its revenue for...
+
+[Date]:2024-05-09 11:28:39
+[Headline]:Apple to Power AI Tools With In-House Server Chips This Year
+[Summary]:(Bloomberg) -- Apple Inc. will deliver some of its upcoming artificial intelligence features this year via data centers equipped with its own in-house processors, part of a sweeping effort to infuse its devices with AI capabilities. Most Read from BloombergMicrosoft’s Xbox Is Planning More Cuts After Studio ClosingsAmericans Are Racking Up ‘Phantom Debt’ That Wall Street Can’t Track‘Seriously Underwater’ Home Mortgages Tick Up Across the USMarjorie Taylor Greene Finally Got What She Deserved: De
+
+[Date]:2024-05-09 11:13:55
+[Headline]:Technology crushing human creativity? Apple's new iPad ad has struck a nerve online
+[Summary]:NEW YORK — A newly released ad promoting Apple's new iPad Pro has struck quite a nerve online. The ad, which was released by the tech giant Tuesday, shows a hydraulic press crushing just...
+
+[Date]:2024-05-09 10:35:20
+[Headline]:Tesla Stock: Rich Valuation Faces Reality Check
+[Summary]:Tesla, Inc.'s first-mover advantage is decreasing, it has risk from overvaluation, insider sell-offs, and Musk's pay package. Click for my take on TSLA stock.
+
+[Date]:2024-05-09 09:04:41
+[Headline]:4 Key Reasons Microsoft Stock Is Currently A Better Bet Than Apple
+[Summary]:See why Microsoft Corporation is a better stock choice compared to Apple, based on stock valuations and 4 compelling factors. Read more on MSFT and AAPL stocks here.
+
+[Date]:2024-05-09 08:51:40
+[Headline]:Microsoft Leads Magnificent 7 In Reddit Discussion: AI, Market Positioning, Cloud Computing A Hit With Traders
+[Summary]:In the midst of the fervor surrounding U.S. tech stocks, one question lingers: which among the Magnificent Seven stocks stands as the healthiest, most resilient player when the hype fades? Redditor Physioweng’s query sparked a thoughtful discussion, with Microsoft Corp (NASDAQ:MSFT) emerging as a popular choice for its robust fundamentals and strategic positioning. Which Magnificent 7 is the healthiest? byu/Physioweng instocks Microsoft Vs. Google – The Battle For AI Dominance Commentators highl
+
+[Date]:2024-05-09 06:30:00
+[Headline]:Apple to use in-house chips for AI features, Bloomberg reports
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 06:12:00
+[Headline]:3 Promising Robotaxi Stocks to Snap Up Before August 8
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 06:07:00
+[Headline]:The 3 Best ETFs to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 05:58:00
+[Headline]:Finding The Next Apple Using Buffett's Logic
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 05:57:00
+[Headline]:Finding The Next Apple Using Buffetts Logic
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 05:19:14
+[Headline]:Q1 2024 Jamf Holding Corp Earnings Call
+[Summary]:Q1 2024 Jamf Holding Corp Earnings Call
+
+[Date]:2024-05-09 05:17:00
+[Headline]:Apple Investors Debate iPhone Giant's Future: Is It Still A 'Growth Stock'?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 05:07:00
+[Headline]:Not crushing it: Apple’s new iPad Pro ad met with wave of backlash
+[Summary]:A new video, which shows objects like paints and a piano destroyed by a massive metal press, has raised dystopian alarms among creatives.
+
+[Date]:2024-05-09 05:03:00
+[Headline]:Ken Fisher's Strategic Moves in Q1 2024: A Closer Look at ASML Holding NV
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 04:45:00
+[Headline]:3 No-Brainer Nasdaq-100 Stocks to Buy in May
+[Summary]:A basket of Apple, Adobe, and Pepsi gives investors a bit of growth, value, and income.
+
+[Date]:2024-05-09 04:00:36
+[Headline]:Big Tech is embracing a hallmark of pre-internet stocks
+[Summary]:The tech world's new push for investor returns is changing what a dividend company looks like.
+
+[Date]:2024-05-09 03:56:00
+[Headline]:The 3 Most Undervalued Under-$20 Stocks to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 03:46:00
+[Headline]:AI Favorite ARM Earnings Show Cracks Appearing In Ultra Bullish AI Story
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 03:30:00
+[Headline]:Buybacks Are Back: Corporate America Is on a Spending Spree
+[Summary]:U.S. companies are feeling good about their prospects and spending like they mean it.  At the same time, companies are stepping up repurchases of their own shares, which is giving a resurgent stock market an extra boost.  S&P 500 companies that have reported first-quarter results as of Monday have disclosed buying back $181.2 billion of their shares during the period, according to data compiled by Birinyi Associates.
+
+[Date]:2024-05-09 03:22:00
+[Headline]:Market Clubhouse Morning Memo - May 9th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 03:00:00
+[Headline]:Dividend Harvesting Portfolio Week 166: $16,600 Allocated, $1,490.16 In Projected Dividends
+[Summary]:The Dividend Harvesting Portfolio increased in value and generated a record amount of weekly dividend income. Check out my dividend investing portfolio here.
+
+[Date]:2024-05-09 02:45:00
+[Headline]:The Surprising Reason Why Apple's Slowing Growth Isn't as Bad as It Seems
+[Summary]:Apple's buyback program creates value for shareholders even when organic growth disappoints.
+
+[Date]:2024-05-09 02:42:00
+[Headline]:Shopify upgraded, SolarEdge downgraded: Wall Street's top analyst calls
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 02:34:00
+[Headline]:Zacks Earnings Trends Highlights: Tesla, Apple and Nvidia
+[Summary]:Tesla, Apple and Nvidia have been highlighted in this Earnings Trends article.
+
+[Date]:2024-05-09 02:29:00
+[Headline]:The 3 Best Warren Buffett Stocks to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 02:09:00
+[Headline]:App Store revenue up 10% in Q3 so far even as downloads slip: BofA
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 01:50:00
+[Headline]:Spotify Vs. Apple Heads Back To EU Regulator's Court After iPhone Maker Keeps Blocking In-App Pricing Information Updates
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 01:40:58
+[Headline]:Berkshire Hathaway's Apple Stake Reduction: Likely A Macro Decision
+[Summary]:Berkshire Hathaway's decisionÂ to reduce its stake in Apple, while seemingly being painted as a tax-driven decision, might have hidden nuances. Read a detailed analysis on BRK.A stock.
+
+[Date]:2024-05-09 00:38:00
+[Headline]:Apple App Store revenue up 10% year-over-year in quarter-to-date, says BofA
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 23:40:00
+[Headline]:Skyworks downgraded to Peer Perform at Wolfe Research on lost iPhone content
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 23:24:00
+[Headline]:Apple's COO John Ternus could be a potential successor to CEO, Bloomberg says
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 23:15:00
+[Headline]:Apple’s (NASDAQ:AAPL) ‘Crush’ Ad Is the Stuff of Nightmares
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 22:56:00
+[Headline]:Apple's Unionized Maryland Store On Brink Of Strike Amid Union Talks: Report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 22:15:00
+[Headline]:Apple's proposal for music streaming apps in EU faces challenge as industry group files letter - report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 21:45:43
+[Headline]:Q1 2024 Taboola.com Ltd Earnings Call
+[Summary]:Q1 2024 Taboola.com Ltd Earnings Call
+
+[Date]:2024-05-08 21:10:00
+[Headline]:Apple's New iPad Ad Draws Fierce Backlash From Creator Community As It Allegedly 'Celebrates Destruction'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 21:05:00
+[Headline]:Apple Sees Growing Backlash Against Ad Depicting Crushed Creative Tools
+[Summary]:The company’s advertisement, shown during a virtual launch of new iPads, faced widespread criticism on social media.
+
+[Date]:2024-05-08 19:51:00
+[Headline]:15 Most Popular Consumer Electronic Brands According to Baby Boomers: Ranked
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 19:37:00
+[Headline]:Apple said to bring some AI features to in-house servers via chips: report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 19:24:00
+[Headline]:Google Stares Down Largest Tech Antitrust Ruling In 2 Decades — Is AT&T-Style Breakup Next?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 19:20:00
+[Headline]:Use of in-house chips gives Apple more control over AI path, says Wedbush
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 17:47:00
+[Headline]:Analysts recharge Rivian price target after earnings
+[Summary]:This is what could happen next to Rivian shares.
+
+[Date]:2024-05-08 16:00:05
+[Headline]:What is in Huawei's new Pura 70 smartphones
+[Summary]:Huawei's new high-end Pura 70smartphone series quickly sold out after it was launched lastmonth with analysts touting it as another Apple iPhonechallenger and adding to signs of how the Chinese...
+
+[Date]:2024-05-08 15:49:00
+[Headline]:Judge grills Apple exec about whether company is defying order to enable more iPhone payment options
+[Summary]:A federal judge on Wednesday questioned whether Apple has set up a gauntlet of exasperating hurdles to discourage the use of alternative payment options in iPhone apps, despite a court order seeking to create more ways for consumers to pay for digital services.  The verbal sparring between Judge Yvonne Gonzalez Rogers and the head of Apple's app store kicked off a hearing focused on whether Apple is still steering U.S. consumers to its once-exclusive app payment system in defiance of an injunction aimed at promoting more choices that could help lower prices.  Gonzalez Rogers' order requires Apple to allow app developers to display links to other options besides the company's own payment system in the U.S. Apple makes billions of dollars annually from that setup, which imposes commission ranging from 15% to 30% on digital transactions completed within the most popular iPhone apps.
+
+[Date]:2024-05-08 15:39:49
+[Headline]:A new Apple ad is sparking backlash from viewers who say it hits the wrong note
+[Summary]:An ad for Apple’s new iPad Pro shows a piano, turntables, cans of paint and other tools of creative expression crushed in a giant hydraulic press. Some viewers say it sends a dispiriting message.
+
+[Date]:2024-05-08 15:20:50
+[Headline]:Apple’s Unionized Maryland Store to Vote on Possible Strike
+[Summary]:(Bloomberg) -- Apple Inc.’s unionized retail store in Towson, Maryland, will hold a vote Saturday on whether to authorize a strike in the lead-up to a new round of negotiations with the iPhone maker. Most Read from BloombergAmericans Are Racking Up ‘Phantom Debt’ That Wall Street Can’t TrackMicrosoft’s Xbox Is Planning More Cuts After Studio ClosingsStormy Daniels Will Return to Court in Test of Trump’s DemeanorTrump Judge Indefinitely Postpones Documents Case TrialEarlier this week, the local M
+
+[Date]:2024-05-08 13:57:31
+[Headline]:Why Cirrus Logic Stock Soared Today
+[Summary]:Learn more about the key factors behind Cirrus Logic's impressive fourth-quarter performance.
+
+[Date]:2024-05-08 13:51:48
+[Headline]:Music streaming firms urge European Commission to reject Apple's proposal in App Store case
+[Summary]:A group that represents audio streaming firms including Spotify and France's Deezer in Europe has urged the European Commission to reject Apple's proposal in a music streaming case.  Digital Music Europe expressed concern in a letter submitted to the European Commission on Tuesday that Apple's proposal to comply with the regulator's March order, in which the iPhone-maker was fined 1.84 billion euros ($1.98 billion), does not provide concrete and effective remedies.
+
+[Date]:2024-05-08 12:40:58
+[Headline]:Apple’s iPad event was an AI teaser for its future
+[Summary]:Apple's latest M4 chip is bringing more AI capabilities, providing a look into the company's upcoming WWDC conference.
+
+[Date]:2024-05-08 11:45:00
+[Headline]:1 Wall Street Analyst Thinks Apple Stock Is Going to $210. Is It a Buy Around $182?
+[Summary]:The analyst's note followed the publication of the company's fiscal second-quarter earnings.
+
+[Date]:2024-05-08 11:44:20
+[Headline]:Quick Takes On Streaming Stocks
+[Summary]:Streaming market is saturated and needs consolidation for a recovery. Click here to read my quick takes on the streaming industry and its related stocks.
+
+[Date]:2024-05-08 11:03:14
+[Headline]:It's time to be 'selective' with Big Tech: Nuveen CIO
+[Summary]:Several 'Magnificent Seven' names have announced major investments in AI technology after reporting strong earnings. Yahoo Finance Anchors Brian Sozzi and Akiko Fujita are joined by Nuveen CEO Saira Malik at the Annual Milken Global Institute Conference to discuss whether there has been an overallocation in Big Tech names, leading to possible underperformance. "I think it's the year of being selective, and you saw that last week with Meta (META), which actually put up a good quarter with 27% revenue growth. But the whisper numbers were for 30% revenue growth. Stock goes down because it's over over-owned. Now you look at Apple (AAPL), where if you look at the fundamentals of the quarter, it's more about the next iPhone cycle seasonality, trade. But the stock was under-owned. So Apple goes up. So I think that crowding in these tech stocks is important for these stocks," Malik tells Yahoo Finance. For more expert insight and the latest market action, click here to watch this full episode of Wealth! This post was written by Nicholas Jacobino
+
+[Date]:2024-05-08 10:30:18
+[Headline]:Apple Loses Another Top Designer, Extending Post-Jony Ive Exodus
+[Summary]:(Bloomberg) -- The exodus is now nearly complete for the Apple Inc. design group that worked under Jony Ive, a legendary team that helped the company pioneer music players, smartphones, tablets and smartwatches. Most Read from BloombergAmericans Are Racking Up ‘Phantom Debt’ That Wall Street Can’t TrackTrump’s Private Life Exposed in Intimate Stormy Daniels TestimonyTrump Judge Indefinitely Postpones Documents Case TrialOne Out of Every 24 New York City Residents Is Now a MillionaireDuncan Kerr,
+
+[Date]:2024-05-08 09:30:00
+[Headline]:Apple ETFs in Focus Post New iPad Launch
+[Summary]:Apple (AAPL), during a virtual launch event, unveiled a new lineup of iPads for the first time in two years.
+
+[Date]:2024-05-08 09:21:36
+[Headline]:Apple's New M4 iPads: 'More Powerful Than Any AI PC' Today, Set To Boost Sales
+[Summary]:On May 7, 2024, Apple Inc. (NASDAQ:AAPL) announced the launch of its latest iPad models: the iPad Pro equipped with the powerful M4 chip and OLED displays, and the iPad Air now featuring the M2 chip. These introductions mark the first update to the iPad lineup since October 2022, signaling a significant step in Apple’s product evolution, and are expected to improve the revenue mix and drive growth going forward, according to Goldman Sachs. Key Insights from the New iPad Launch Goldman Sachs equi
+
+[Date]:2024-05-08 08:26:46
+[Headline]:SPY: Growing Signs The Market Is Overbought
+[Summary]:The overall market is overbought, given interest rates are likely to remain higher for longer. Find out why the market is overvalued at current trading levels.
+
+[Date]:2024-05-08 08:00:00
+[Headline]:Apple is a formidable opponent. That hasn’t stopped this CEO from suing the tech giant
+[Summary]:Masimo founder and CEO Joe Kiani opens up about the battle with Apple for what he says are his company's IP and trade secrets.
+
+[Date]:2024-05-08 07:40:00
+[Headline]:Apple Has A Cash Problem
+[Summary]:Apple needs a better long-term growth plan. Investing in AI may be necessary, but itâs also too risky to go full steam ahead. Click to read.
+
+[Date]:2024-05-08 07:09:06
+[Headline]:Arm’s Pricey Valuation Ratchets Up Need to Deliver on Earnings
+[Summary]:(Bloomberg) -- Arm Holdings Plc is the most expensive stock among artificial intelligence hardware makers, despite trading nearly 30% below its peak. Wednesday’s earnings will need to offer bullish signals to justify that valuation. Most Read from BloombergTrump Judge Indefinitely Postpones Documents Case TrialOne Out of Every 24 New York City Residents Is Now a MillionaireAmericans Are Racking Up ‘Phantom Debt’ That Wall Street Can’t TrackTrump’s Private Life Exposed in Intimate Stormy Daniels
+
+[Date]:2024-05-08 06:00:08
+[Headline]:Heard on the Street: Rivian Hits Another Bump
+[Summary]:Rivian will keep investors on edge as long as it keeps burning through their cash.  The electric-vehicle maker’s shares are down 6% premarket following underwhelming results published after the market closed on Tuesday.
+
+[Date]:2024-05-08 06:26:00
+[Headline]:Buy Rating Affirmed for Apple Amid Strong iPad Growth and AI Advancements
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 05:59:00
+[Headline]:Apple Reverses Sales Decline in China with Impressive March Shipment Growth
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 05:51:00
+[Headline]:Earnings Growth Poised To Accelerate
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 05:06:00
+[Headline]:UBS Keeps Their Hold Rating on Apple (AAPL)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 04:48:37
+[Headline]:Apple's iPhone shipments in China rebound with 12% surge in March after price cuts
+[Summary]:Apple's iPhone shipments in China increased by 12% in March after the company and its retailers reduced prices, according to data from a research firm affiliated the Chinese government.  Shipments of foreign-branded phones in China increased by 12% in March to 3.75 million units from 3.35 million a year earlier，data from the China Academy of Information and Communications Technology (CAICT) published on Wednesday showed.  Although the data did not explicitly mention Apple, the company is the dominant foreign phone maker in China's smartphone-dominated market.
+
+[Date]:2024-05-08 04:30:00
+[Headline]:Apple’s (NASDAQ:AAPL) Chinese iPhone Sales Skyrocket
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 04:19:00
+[Headline]:Disney, Uber, Starbucks, And McDonald's Send A Powerful Signal To Investors But Momo Crowd Oblivious
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 04:15:00
+[Headline]:Cirrus Logic Surges on Strong Q4 Results and Positive Outlook
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 04:07:00
+[Headline]:Market Clubhouse Morning Memo - May 8th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 04:03:00
+[Headline]:Here Are 3 Big Reasons Berkshire Hathaway Is Sitting on Almost $190 Billion in Cash
+[Summary]:Berkshire's cash hoard has reached a new all-time high, and there are some good reasons for it.
+
+[Date]:2024-05-08 04:00:00
+[Headline]:Massive News for Apple Stock Investors
+[Summary]:Apple provided great detail to investors about critical components of its business.
+
+[Date]:2024-05-08 04:00:00
+[Headline]:Is It Time to Stop Valuing Apple as a Growth Stock?
+[Summary]:Apple stock popped in response to earnings, but growth is still languishing.
+
+[Date]:2024-05-08 03:57:00
+[Headline]:Could ACDC Bring Needed Growth To Apple?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 03:09:36
+[Headline]:Apple: According To My Estimates, 72.3M iPhones Will Need To Be Replaced This Year
+[Summary]:Appleâs 2Q24 earnings report slightly beat expectations, prompting re-evaluation. Revised fair price estimate is $221.04. Find out why AAPL stock is a Strong Buy.
+
+[Date]:2024-05-08 03:06:00
+[Headline]:Meet the 2 Stocks Warren Buffett Confessed to Selling, as Well as the Other Core Holding He Likely Sent to the Chopping Block
+[Summary]:The sell button loomed large for Warren Buffett and his investment team during the March-ended quarter.
+
+[Date]:2024-05-08 02:49:00
+[Headline]:Cirrus Logic soars as it crushes expectations in challenging market
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 02:46:43
+[Headline]:Trending tickers: Apple, Reddit, JD Wetherspoon, Toyota and ARM
+[Summary]:The latest investor updates on stocks that are trending on Wednesday.
+
+[Date]:2024-05-08 02:36:00
+[Headline]:Even Ipads Are AI-Ready
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 02:29:00
+[Headline]:Zacks Investment Ideas feature highlights: Apple
+[Summary]:Apple has been highlighted in this Investment Ideas article.
+
+[Date]:2024-05-08 02:09:08
+[Headline]:Apple’s China iPhone Shipments Soar 12% in March After Discounts
+[Summary]:(Bloomberg) -- Chinese iPhone shipments jumped about 12% in March after Apple Inc. and its retailers slashed prices, official data showed, suggesting efforts to arrest an accelerating decline in sales are yielding early results.Most Read from BloombergTrump Judge Indefinitely Postpones Documents Case TrialOne Out of Every 24 New York City Residents Is Now a MillionaireAmericans Are Racking Up ‘Phantom Debt’ That Wall Street Can’t TrackTrump’s Private Life Exposed in Intimate Stormy Daniels Testi
+
+[Date]:2024-05-08 02:00:10
+[Headline]:Stock buybacks hit highest level since 2018
+[Summary]:Stock buybacks are soaring in another sign that companies are feeling better about the macroeconomic outlook.
+
+[Date]:2024-05-08 01:52:00
+[Headline]:Analysts Offer Insights on Technology Companies: Apple (AAPL), Flywire (FLYW) and Squarespace (SQSP)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 01:32:00
+[Headline]:Morning Brew: Tesla Announces Expansion Plans, Tech Stocks React
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:51:00
+[Headline]:‘Buy Before AI Kicks In,’ Daniel Ives Advises on Apple Stock
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:50:00
+[Headline]:‘Buy Before AI Kicks In,’ Says Daniel Ives About Apple Stock
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:36:00
+[Headline]:Cirrus Logic price target raised to $115 from $100 at TD Cowen
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:34:00
+[Headline]:3 Tech Stock Darlings to Scoop Up After Q2 earnings
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:21:00
+[Headline]:‘AI Is Finally Coming to Apple’: Street Expert Daniel Ives Advises Investors to Buy the Stock
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:20:00
+[Headline]:Tap The Stock Buyback Trend With PKW ETF
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:13:00
+[Headline]:Prominent Apple Bull Reveals Surprise Takeaway From Apple's iPad Launch: Tim Cook's AI Ambitions Now 'Lot Faster...With Announcement Of M4 Chip'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:07:00
+[Headline]:Market Briefing For Wednesday, May 8
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:54:00
+[Headline]:Cirrus Logic price target raised by $20 at KeyBanc, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:43:00
+[Headline]:Apple (NASDAQ:AAPL) Unveils New Versions of iPad Air and iPad Pro
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:42:00
+[Headline]:PayPal Stock Analysis: Why PYPL Is Still a Huge Bargain Right Now
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:32:00
+[Headline]:Alphabet Stock Alert: Why Investors Should Stay away from GOOG for Now
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:06:00
+[Headline]:Which Credit Bureau Stock Should You Buy for the Long-Term?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:03:00
+[Headline]:Apple iPhone shipments up about 12% in China in March, Bloomberg reports
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 22:42:00
+[Headline]:YouTube Tech Reviewer MKBHD Scoffs At Apple's New iPad Lineup: 'It's A Spec Bump'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 22:29:00
+[Headline]:Apple Stock (NASDAQ:AAPL): 110-Billion Reasons to Buy after Buffett Sold
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 22:10:00
+[Headline]:Apple's iPhone shipments in China grew in March, shows government data - report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 21:53:00
+[Headline]:Tim Cook Kicked Off iPad Event By Hyping Up Apple Vision Pro, Top Analyst Says It's 'Just A Reminder' While Jim Cramer Says 'It's Not A Bust'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 21:22:00
+[Headline]:Apple's iPad Sales To Get A 'Nice Boost' This Year, But Expect A Decline In 2025, Says Gene Munster
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 20:55:46
+[Headline]:Factbox-European regulators crack down on Big Tech
+[Summary]:-European regulators have launched a series of probes into Big Tech. In the latest, Apple, Meta Platforms and Alphabet's Google could receive hefty fines by the end of the year over...
+
+[Date]:2024-05-07 20:31:00
+[Headline]:Apple’s AI future can be summed up with a big question mark
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 20:13:00
+[Headline]:The 3 Best Metaverse Stocks to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+
+
+[Fileings]:
+[Date]:2023-07-21
+[val]:15634232000
+[accn]:0000320193-23-000077
+[fy]:2023
+[fp]:Q3
+[form]:10-Q
+
+[Date]:2023-10-20
+[val]:15552752000
+[accn]:0000320193-23-000106
+[fy]:2023
+[fp]:FY
+[form]:10-K
+
+[Date]:2024-01-19
+[val]:15441881000
+[accn]:0000320193-24-000006
+[fy]:2024
+[fp]:Q1
+[form]:10-Q
+
+[Date]:2024-04-19
+[val]:15334082000
+[accn]:0000320193-24-000069
+[fy]:2024
+[fp]:Q2
+[form]:10-Q
+
+
+
+[Stock Movements]:
+[Date]:2023-05-12 00:00:00
+[Open]:173.6199951171875
+[High]:174.05999755859375
+[Low]:171.0
+[Close]:172.57000732421875
+[Adj Close]:171.6583709716797
+[Volume]:45497800
+
+[Date]:2023-05-15 00:00:00
+[Open]:173.16000366210938
+[High]:173.2100067138672
+[Low]:171.47000122070312
+[Close]:172.07000732421875
+[Adj Close]:171.16102600097656
+[Volume]:37266700
+
+[Date]:2023-05-16 00:00:00
+[Open]:171.99000549316406
+[High]:173.13999938964844
+[Low]:171.8000030517578
+[Close]:172.07000732421875
+[Adj Close]:171.16102600097656
+[Volume]:42110300
+
+[Date]:2023-05-17 00:00:00
+[Open]:171.7100067138672
+[High]:172.92999267578125
+[Low]:170.4199981689453
+[Close]:172.69000244140625
+[Adj Close]:171.77774047851562
+[Volume]:57951600
+
+[Date]:2023-05-18 00:00:00
+[Open]:173.0
+[High]:175.24000549316406
+[Low]:172.5800018310547
+[Close]:175.0500030517578
+[Adj Close]:174.12527465820312
+[Volume]:65496700
+
+[Date]:2023-05-19 00:00:00
+[Open]:176.38999938964844
+[High]:176.38999938964844
+[Low]:174.94000244140625
+[Close]:175.16000366210938
+[Adj Close]:174.23468017578125
+[Volume]:55772400
+
+[Date]:2023-05-22 00:00:00
+[Open]:173.97999572753906
+[High]:174.7100067138672
+[Low]:173.4499969482422
+[Close]:174.1999969482422
+[Adj Close]:173.27975463867188
+[Volume]:43570900
+
+[Date]:2023-05-23 00:00:00
+[Open]:173.1300048828125
+[High]:173.3800048828125
+[Low]:171.27999877929688
+[Close]:171.55999755859375
+[Adj Close]:170.65370178222656
+[Volume]:50747300
+
+[Date]:2023-05-24 00:00:00
+[Open]:171.08999633789062
+[High]:172.4199981689453
+[Low]:170.52000427246094
+[Close]:171.83999633789062
+[Adj Close]:170.93222045898438
+[Volume]:45143500
+
+[Date]:2023-05-25 00:00:00
+[Open]:172.41000366210938
+[High]:173.89999389648438
+[Low]:171.69000244140625
+[Close]:172.99000549316406
+[Adj Close]:172.07615661621094
+[Volume]:56058300
+
+[Date]:2023-05-26 00:00:00
+[Open]:173.32000732421875
+[High]:175.77000427246094
+[Low]:173.11000061035156
+[Close]:175.42999267578125
+[Adj Close]:174.50323486328125
+[Volume]:54835000
+
+[Date]:2023-05-30 00:00:00
+[Open]:176.9600067138672
+[High]:178.99000549316406
+[Low]:176.57000732421875
+[Close]:177.3000030517578
+[Adj Close]:176.36337280273438
+[Volume]:55964400
+
+[Date]:2023-05-31 00:00:00
+[Open]:177.3300018310547
+[High]:179.35000610351562
+[Low]:176.75999450683594
+[Close]:177.25
+[Adj Close]:176.31362915039062
+[Volume]:99625300
+
+[Date]:2023-06-01 00:00:00
+[Open]:177.6999969482422
+[High]:180.1199951171875
+[Low]:176.92999267578125
+[Close]:180.08999633789062
+[Adj Close]:179.1386260986328
+[Volume]:68901800
+
+[Date]:2023-06-02 00:00:00
+[Open]:181.02999877929688
+[High]:181.77999877929688
+[Low]:179.25999450683594
+[Close]:180.9499969482422
+[Adj Close]:179.99407958984375
+[Volume]:61945900
+
+[Date]:2023-06-05 00:00:00
+[Open]:182.6300048828125
+[High]:184.9499969482422
+[Low]:178.0399932861328
+[Close]:179.5800018310547
+[Adj Close]:178.63133239746094
+[Volume]:121946500
+
+[Date]:2023-06-06 00:00:00
+[Open]:179.97000122070312
+[High]:180.1199951171875
+[Low]:177.42999267578125
+[Close]:179.2100067138672
+[Adj Close]:178.26329040527344
+[Volume]:64848400
+
+[Date]:2023-06-07 00:00:00
+[Open]:178.44000244140625
+[High]:181.2100067138672
+[Low]:177.32000732421875
+[Close]:177.82000732421875
+[Adj Close]:176.88063049316406
+[Volume]:61944600
+
+[Date]:2023-06-08 00:00:00
+[Open]:177.89999389648438
+[High]:180.83999633789062
+[Low]:177.4600067138672
+[Close]:180.57000732421875
+[Adj Close]:179.61611938476562
+[Volume]:50214900
+
+[Date]:2023-06-09 00:00:00
+[Open]:181.5
+[High]:182.22999572753906
+[Low]:180.6300048828125
+[Close]:180.9600067138672
+[Adj Close]:180.0040283203125
+[Volume]:48870700
+
+[Date]:2023-06-12 00:00:00
+[Open]:181.27000427246094
+[High]:183.88999938964844
+[Low]:180.97000122070312
+[Close]:183.7899932861328
+[Adj Close]:182.819091796875
+[Volume]:54274900
+
+[Date]:2023-06-13 00:00:00
+[Open]:182.8000030517578
+[High]:184.14999389648438
+[Low]:182.44000244140625
+[Close]:183.30999755859375
+[Adj Close]:182.3416290283203
+[Volume]:54929100
+
+[Date]:2023-06-14 00:00:00
+[Open]:183.3699951171875
+[High]:184.38999938964844
+[Low]:182.02000427246094
+[Close]:183.9499969482422
+[Adj Close]:182.97824096679688
+[Volume]:57462900
+
+[Date]:2023-06-15 00:00:00
+[Open]:183.9600067138672
+[High]:186.52000427246094
+[Low]:183.77999877929688
+[Close]:186.00999450683594
+[Adj Close]:185.02737426757812
+[Volume]:65433200
+
+[Date]:2023-06-16 00:00:00
+[Open]:186.72999572753906
+[High]:186.99000549316406
+[Low]:184.27000427246094
+[Close]:184.9199981689453
+[Adj Close]:183.94313049316406
+[Volume]:101235600
+
+[Date]:2023-06-20 00:00:00
+[Open]:184.41000366210938
+[High]:186.10000610351562
+[Low]:184.41000366210938
+[Close]:185.00999450683594
+[Adj Close]:184.0326385498047
+[Volume]:49799100
+
+[Date]:2023-06-21 00:00:00
+[Open]:184.89999389648438
+[High]:185.41000366210938
+[Low]:182.58999633789062
+[Close]:183.9600067138672
+[Adj Close]:182.9882049560547
+[Volume]:49515700
+
+[Date]:2023-06-22 00:00:00
+[Open]:183.74000549316406
+[High]:187.0500030517578
+[Low]:183.6699981689453
+[Close]:187.0
+[Adj Close]:186.0121307373047
+[Volume]:51245300
+
+[Date]:2023-06-23 00:00:00
+[Open]:185.5500030517578
+[High]:187.55999755859375
+[Low]:185.00999450683594
+[Close]:186.67999267578125
+[Adj Close]:185.69381713867188
+[Volume]:53079300
+
+[Date]:2023-06-26 00:00:00
+[Open]:186.8300018310547
+[High]:188.0500030517578
+[Low]:185.22999572753906
+[Close]:185.27000427246094
+[Adj Close]:184.29127502441406
+[Volume]:48088700
+
+[Date]:2023-06-27 00:00:00
+[Open]:185.88999938964844
+[High]:188.38999938964844
+[Low]:185.6699981689453
+[Close]:188.05999755859375
+[Adj Close]:187.06654357910156
+[Volume]:50730800
+
+[Date]:2023-06-28 00:00:00
+[Open]:187.92999267578125
+[High]:189.89999389648438
+[Low]:187.60000610351562
+[Close]:189.25
+[Adj Close]:188.250244140625
+[Volume]:51216800
+
+[Date]:2023-06-29 00:00:00
+[Open]:189.0800018310547
+[High]:190.07000732421875
+[Low]:188.94000244140625
+[Close]:189.58999633789062
+[Adj Close]:188.5884552001953
+[Volume]:46347300
+
+[Date]:2023-06-30 00:00:00
+[Open]:191.6300048828125
+[High]:194.47999572753906
+[Low]:191.25999450683594
+[Close]:193.97000122070312
+[Adj Close]:192.9453125
+[Volume]:85069600
+
+[Date]:2023-07-03 00:00:00
+[Open]:193.77999877929688
+[High]:193.8800048828125
+[Low]:191.75999450683594
+[Close]:192.4600067138672
+[Adj Close]:191.44329833984375
+[Volume]:31458200
+
+[Date]:2023-07-05 00:00:00
+[Open]:191.57000732421875
+[High]:192.97999572753906
+[Low]:190.6199951171875
+[Close]:191.3300018310547
+[Adj Close]:190.31927490234375
+[Volume]:46920300
+
+[Date]:2023-07-06 00:00:00
+[Open]:189.83999633789062
+[High]:192.02000427246094
+[Low]:189.1999969482422
+[Close]:191.80999755859375
+[Adj Close]:190.79672241210938
+[Volume]:45094300
+
+[Date]:2023-07-07 00:00:00
+[Open]:191.41000366210938
+[High]:192.6699981689453
+[Low]:190.24000549316406
+[Close]:190.67999267578125
+[Adj Close]:189.67266845703125
+[Volume]:46778000
+
+[Date]:2023-07-10 00:00:00
+[Open]:189.25999450683594
+[High]:189.99000549316406
+[Low]:187.0399932861328
+[Close]:188.61000061035156
+[Adj Close]:187.61361694335938
+[Volume]:59922200
+
+[Date]:2023-07-11 00:00:00
+[Open]:189.16000366210938
+[High]:189.3000030517578
+[Low]:186.60000610351562
+[Close]:188.0800018310547
+[Adj Close]:187.08644104003906
+[Volume]:46638100
+
+[Date]:2023-07-12 00:00:00
+[Open]:189.67999267578125
+[High]:191.6999969482422
+[Low]:188.47000122070312
+[Close]:189.77000427246094
+[Adj Close]:188.7675018310547
+[Volume]:60750200
+
+[Date]:2023-07-13 00:00:00
+[Open]:190.5
+[High]:191.19000244140625
+[Low]:189.77999877929688
+[Close]:190.5399932861328
+[Adj Close]:189.53341674804688
+[Volume]:41342300
+
+[Date]:2023-07-14 00:00:00
+[Open]:190.22999572753906
+[High]:191.17999267578125
+[Low]:189.6300048828125
+[Close]:190.69000244140625
+[Adj Close]:189.6826629638672
+[Volume]:41573900
+
+[Date]:2023-07-17 00:00:00
+[Open]:191.89999389648438
+[High]:194.32000732421875
+[Low]:191.80999755859375
+[Close]:193.99000549316406
+[Adj Close]:192.9652099609375
+[Volume]:50520200
+
+[Date]:2023-07-18 00:00:00
+[Open]:193.35000610351562
+[High]:194.3300018310547
+[Low]:192.4199981689453
+[Close]:193.72999572753906
+[Adj Close]:192.70657348632812
+[Volume]:48353800
+
+[Date]:2023-07-19 00:00:00
+[Open]:193.10000610351562
+[High]:198.22999572753906
+[Low]:192.64999389648438
+[Close]:195.10000610351562
+[Adj Close]:194.0693359375
+[Volume]:80507300
+
+[Date]:2023-07-20 00:00:00
+[Open]:195.08999633789062
+[High]:196.47000122070312
+[Low]:192.5
+[Close]:193.1300048828125
+[Adj Close]:192.10975646972656
+[Volume]:59581200
+
+[Date]:2023-07-21 00:00:00
+[Open]:194.10000610351562
+[High]:194.97000122070312
+[Low]:191.22999572753906
+[Close]:191.94000244140625
+[Adj Close]:190.92604064941406
+[Volume]:71917800
+
+[Date]:2023-07-24 00:00:00
+[Open]:193.41000366210938
+[High]:194.91000366210938
+[Low]:192.25
+[Close]:192.75
+[Adj Close]:191.7317657470703
+[Volume]:45377800
+
+[Date]:2023-07-25 00:00:00
+[Open]:193.3300018310547
+[High]:194.44000244140625
+[Low]:192.9199981689453
+[Close]:193.6199951171875
+[Adj Close]:192.59716796875
+[Volume]:37283200
+
+[Date]:2023-07-26 00:00:00
+[Open]:193.6699981689453
+[High]:195.63999938964844
+[Low]:193.32000732421875
+[Close]:194.5
+[Adj Close]:193.47250366210938
+[Volume]:47471900
+
+[Date]:2023-07-27 00:00:00
+[Open]:196.02000427246094
+[High]:197.1999969482422
+[Low]:192.5500030517578
+[Close]:193.22000122070312
+[Adj Close]:192.1992645263672
+[Volume]:47460200
+
+[Date]:2023-07-28 00:00:00
+[Open]:194.6699981689453
+[High]:196.6300048828125
+[Low]:194.13999938964844
+[Close]:195.8300018310547
+[Adj Close]:194.79550170898438
+[Volume]:48291400
+
+[Date]:2023-07-31 00:00:00
+[Open]:196.05999755859375
+[High]:196.49000549316406
+[Low]:195.25999450683594
+[Close]:196.4499969482422
+[Adj Close]:195.41221618652344
+[Volume]:38824100
+
+[Date]:2023-08-01 00:00:00
+[Open]:196.24000549316406
+[High]:196.72999572753906
+[Low]:195.27999877929688
+[Close]:195.61000061035156
+[Adj Close]:194.57664489746094
+[Volume]:35175100
+
+[Date]:2023-08-02 00:00:00
+[Open]:195.0399932861328
+[High]:195.17999267578125
+[Low]:191.85000610351562
+[Close]:192.5800018310547
+[Adj Close]:191.5626678466797
+[Volume]:50389300
+
+[Date]:2023-08-03 00:00:00
+[Open]:191.57000732421875
+[High]:192.3699951171875
+[Low]:190.69000244140625
+[Close]:191.1699981689453
+[Adj Close]:190.1601104736328
+[Volume]:61235200
+
+[Date]:2023-08-04 00:00:00
+[Open]:185.52000427246094
+[High]:187.3800048828125
+[Low]:181.9199981689453
+[Close]:181.99000549316406
+[Adj Close]:181.02859497070312
+[Volume]:115799700
+
+[Date]:2023-08-07 00:00:00
+[Open]:182.1300048828125
+[High]:183.1300048828125
+[Low]:177.35000610351562
+[Close]:178.85000610351562
+[Adj Close]:177.90521240234375
+[Volume]:97576100
+
+[Date]:2023-08-08 00:00:00
+[Open]:179.69000244140625
+[High]:180.27000427246094
+[Low]:177.5800018310547
+[Close]:179.8000030517578
+[Adj Close]:178.8501739501953
+[Volume]:67823000
+
+[Date]:2023-08-09 00:00:00
+[Open]:180.8699951171875
+[High]:180.92999267578125
+[Low]:177.00999450683594
+[Close]:178.19000244140625
+[Adj Close]:177.24868774414062
+[Volume]:60378500
+
+[Date]:2023-08-10 00:00:00
+[Open]:179.47999572753906
+[High]:180.75
+[Low]:177.60000610351562
+[Close]:177.97000122070312
+[Adj Close]:177.0298309326172
+[Volume]:54686900
+
+[Date]:2023-08-11 00:00:00
+[Open]:177.32000732421875
+[High]:178.6199951171875
+[Low]:176.5500030517578
+[Close]:177.7899932861328
+[Adj Close]:177.089599609375
+[Volume]:51988100
+
+[Date]:2023-08-14 00:00:00
+[Open]:177.97000122070312
+[High]:179.69000244140625
+[Low]:177.30999755859375
+[Close]:179.4600067138672
+[Adj Close]:178.7530517578125
+[Volume]:43675600
+
+[Date]:2023-08-15 00:00:00
+[Open]:178.8800048828125
+[High]:179.47999572753906
+[Low]:177.0500030517578
+[Close]:177.4499969482422
+[Adj Close]:176.75094604492188
+[Volume]:43622600
+
+[Date]:2023-08-16 00:00:00
+[Open]:177.1300048828125
+[High]:178.5399932861328
+[Low]:176.5
+[Close]:176.57000732421875
+[Adj Close]:175.87442016601562
+[Volume]:46964900
+
+[Date]:2023-08-17 00:00:00
+[Open]:177.13999938964844
+[High]:177.50999450683594
+[Low]:173.47999572753906
+[Close]:174.0
+[Adj Close]:173.31454467773438
+[Volume]:66062900
+
+[Date]:2023-08-18 00:00:00
+[Open]:172.3000030517578
+[High]:175.10000610351562
+[Low]:171.9600067138672
+[Close]:174.49000549316406
+[Adj Close]:173.80262756347656
+[Volume]:61114200
+
+[Date]:2023-08-21 00:00:00
+[Open]:175.07000732421875
+[High]:176.1300048828125
+[Low]:173.74000549316406
+[Close]:175.83999633789062
+[Adj Close]:175.14727783203125
+[Volume]:46311900
+
+[Date]:2023-08-22 00:00:00
+[Open]:177.05999755859375
+[High]:177.67999267578125
+[Low]:176.25
+[Close]:177.22999572753906
+[Adj Close]:176.5318145751953
+[Volume]:42084200
+
+[Date]:2023-08-23 00:00:00
+[Open]:178.52000427246094
+[High]:181.5500030517578
+[Low]:178.3300018310547
+[Close]:181.1199951171875
+[Adj Close]:180.406494140625
+[Volume]:52722800
+
+[Date]:2023-08-24 00:00:00
+[Open]:180.6699981689453
+[High]:181.10000610351562
+[Low]:176.00999450683594
+[Close]:176.3800048828125
+[Adj Close]:175.68516540527344
+[Volume]:54945800
+
+[Date]:2023-08-25 00:00:00
+[Open]:177.3800048828125
+[High]:179.14999389648438
+[Low]:175.82000732421875
+[Close]:178.61000061035156
+[Adj Close]:177.90638732910156
+[Volume]:51449600
+
+[Date]:2023-08-28 00:00:00
+[Open]:180.08999633789062
+[High]:180.58999633789062
+[Low]:178.5500030517578
+[Close]:180.19000244140625
+[Adj Close]:179.48016357421875
+[Volume]:43820700
+
+[Date]:2023-08-29 00:00:00
+[Open]:179.6999969482422
+[High]:184.89999389648438
+[Low]:179.5
+[Close]:184.1199951171875
+[Adj Close]:183.3946533203125
+[Volume]:53003900
+
+[Date]:2023-08-30 00:00:00
+[Open]:184.94000244140625
+[High]:187.85000610351562
+[Low]:184.74000549316406
+[Close]:187.64999389648438
+[Adj Close]:186.9107666015625
+[Volume]:60813900
+
+[Date]:2023-08-31 00:00:00
+[Open]:187.83999633789062
+[High]:189.1199951171875
+[Low]:187.47999572753906
+[Close]:187.8699951171875
+[Adj Close]:187.1298828125
+[Volume]:60794500
+
+[Date]:2023-09-01 00:00:00
+[Open]:189.49000549316406
+[High]:189.9199981689453
+[Low]:188.27999877929688
+[Close]:189.4600067138672
+[Adj Close]:188.713623046875
+[Volume]:45732600
+
+[Date]:2023-09-05 00:00:00
+[Open]:188.27999877929688
+[High]:189.97999572753906
+[Low]:187.61000061035156
+[Close]:189.6999969482422
+[Adj Close]:188.9526824951172
+[Volume]:45280000
+
+[Date]:2023-09-06 00:00:00
+[Open]:188.39999389648438
+[High]:188.85000610351562
+[Low]:181.47000122070312
+[Close]:182.91000366210938
+[Adj Close]:182.18942260742188
+[Volume]:81755800
+
+[Date]:2023-09-07 00:00:00
+[Open]:175.17999267578125
+[High]:178.2100067138672
+[Low]:173.5399932861328
+[Close]:177.55999755859375
+[Adj Close]:176.86050415039062
+[Volume]:112488800
+
+[Date]:2023-09-08 00:00:00
+[Open]:178.35000610351562
+[High]:180.24000549316406
+[Low]:177.7899932861328
+[Close]:178.17999267578125
+[Adj Close]:177.47805786132812
+[Volume]:65551300
+
+[Date]:2023-09-11 00:00:00
+[Open]:180.07000732421875
+[High]:180.3000030517578
+[Low]:177.33999633789062
+[Close]:179.36000061035156
+[Adj Close]:178.65342712402344
+[Volume]:58953100
+
+[Date]:2023-09-12 00:00:00
+[Open]:179.49000549316406
+[High]:180.1300048828125
+[Low]:174.82000732421875
+[Close]:176.3000030517578
+[Adj Close]:175.60548400878906
+[Volume]:90370200
+
+[Date]:2023-09-13 00:00:00
+[Open]:176.50999450683594
+[High]:177.3000030517578
+[Low]:173.97999572753906
+[Close]:174.2100067138672
+[Adj Close]:173.52371215820312
+[Volume]:84267900
+
+[Date]:2023-09-14 00:00:00
+[Open]:174.0
+[High]:176.10000610351562
+[Low]:173.5800018310547
+[Close]:175.74000549316406
+[Adj Close]:175.0476837158203
+[Volume]:60895800
+
+[Date]:2023-09-15 00:00:00
+[Open]:176.47999572753906
+[High]:176.5
+[Low]:173.82000732421875
+[Close]:175.00999450683594
+[Adj Close]:174.320556640625
+[Volume]:109205100
+
+[Date]:2023-09-18 00:00:00
+[Open]:176.47999572753906
+[High]:179.3800048828125
+[Low]:176.1699981689453
+[Close]:177.97000122070312
+[Adj Close]:177.26890563964844
+[Volume]:67257600
+
+[Date]:2023-09-19 00:00:00
+[Open]:177.52000427246094
+[High]:179.6300048828125
+[Low]:177.1300048828125
+[Close]:179.07000732421875
+[Adj Close]:178.36456298828125
+[Volume]:51826900
+
+[Date]:2023-09-20 00:00:00
+[Open]:179.25999450683594
+[High]:179.6999969482422
+[Low]:175.39999389648438
+[Close]:175.49000549316406
+[Adj Close]:174.7986602783203
+[Volume]:58436200
+
+[Date]:2023-09-21 00:00:00
+[Open]:174.5500030517578
+[High]:176.3000030517578
+[Low]:173.86000061035156
+[Close]:173.92999267578125
+[Adj Close]:173.2447967529297
+[Volume]:63047900
+
+[Date]:2023-09-22 00:00:00
+[Open]:174.6699981689453
+[High]:177.0800018310547
+[Low]:174.0500030517578
+[Close]:174.7899932861328
+[Adj Close]:174.10142517089844
+[Volume]:56725400
+
+[Date]:2023-09-25 00:00:00
+[Open]:174.1999969482422
+[High]:176.97000122070312
+[Low]:174.14999389648438
+[Close]:176.0800018310547
+[Adj Close]:175.3863525390625
+[Volume]:46172700
+
+[Date]:2023-09-26 00:00:00
+[Open]:174.82000732421875
+[High]:175.1999969482422
+[Low]:171.66000366210938
+[Close]:171.9600067138672
+[Adj Close]:171.28257751464844
+[Volume]:64588900
+
+[Date]:2023-09-27 00:00:00
+[Open]:172.6199951171875
+[High]:173.0399932861328
+[Low]:169.0500030517578
+[Close]:170.42999267578125
+[Adj Close]:169.7585906982422
+[Volume]:66921800
+
+[Date]:2023-09-28 00:00:00
+[Open]:169.33999633789062
+[High]:172.02999877929688
+[Low]:167.6199951171875
+[Close]:170.69000244140625
+[Adj Close]:170.017578125
+[Volume]:56294400
+
+[Date]:2023-09-29 00:00:00
+[Open]:172.02000427246094
+[High]:173.07000732421875
+[Low]:170.33999633789062
+[Close]:171.2100067138672
+[Adj Close]:170.53553771972656
+[Volume]:51814200
+
+[Date]:2023-10-02 00:00:00
+[Open]:171.22000122070312
+[High]:174.3000030517578
+[Low]:170.92999267578125
+[Close]:173.75
+[Adj Close]:173.0655059814453
+[Volume]:52164500
+
+[Date]:2023-10-03 00:00:00
+[Open]:172.25999450683594
+[High]:173.6300048828125
+[Low]:170.82000732421875
+[Close]:172.39999389648438
+[Adj Close]:171.7208251953125
+[Volume]:49594600
+
+[Date]:2023-10-04 00:00:00
+[Open]:171.08999633789062
+[High]:174.2100067138672
+[Low]:170.97000122070312
+[Close]:173.66000366210938
+[Adj Close]:172.9758758544922
+[Volume]:53020300
+
+[Date]:2023-10-05 00:00:00
+[Open]:173.7899932861328
+[High]:175.4499969482422
+[Low]:172.67999267578125
+[Close]:174.91000366210938
+[Adj Close]:174.22096252441406
+[Volume]:48527900
+
+[Date]:2023-10-06 00:00:00
+[Open]:173.8000030517578
+[High]:177.99000549316406
+[Low]:173.17999267578125
+[Close]:177.49000549316406
+[Adj Close]:176.79078674316406
+[Volume]:57224100
+
+[Date]:2023-10-09 00:00:00
+[Open]:176.80999755859375
+[High]:179.0500030517578
+[Low]:175.8000030517578
+[Close]:178.99000549316406
+[Adj Close]:178.28488159179688
+[Volume]:42390800
+
+[Date]:2023-10-10 00:00:00
+[Open]:178.10000610351562
+[High]:179.72000122070312
+[Low]:177.9499969482422
+[Close]:178.38999938964844
+[Adj Close]:177.68724060058594
+[Volume]:43698000
+
+[Date]:2023-10-11 00:00:00
+[Open]:178.1999969482422
+[High]:179.85000610351562
+[Low]:177.60000610351562
+[Close]:179.8000030517578
+[Adj Close]:179.09169006347656
+[Volume]:47551100
+
+[Date]:2023-10-12 00:00:00
+[Open]:180.07000732421875
+[High]:182.33999633789062
+[Low]:179.0399932861328
+[Close]:180.7100067138672
+[Adj Close]:179.99810791015625
+[Volume]:56743100
+
+[Date]:2023-10-13 00:00:00
+[Open]:181.4199981689453
+[High]:181.92999267578125
+[Low]:178.13999938964844
+[Close]:178.85000610351562
+[Adj Close]:178.14544677734375
+[Volume]:51427100
+
+[Date]:2023-10-16 00:00:00
+[Open]:176.75
+[High]:179.0800018310547
+[Low]:176.50999450683594
+[Close]:178.72000122070312
+[Adj Close]:178.01593017578125
+[Volume]:52517000
+
+[Date]:2023-10-17 00:00:00
+[Open]:176.64999389648438
+[High]:178.4199981689453
+[Low]:174.8000030517578
+[Close]:177.14999389648438
+[Adj Close]:176.45211791992188
+[Volume]:57549400
+
+[Date]:2023-10-18 00:00:00
+[Open]:175.5800018310547
+[High]:177.5800018310547
+[Low]:175.11000061035156
+[Close]:175.83999633789062
+[Adj Close]:175.14727783203125
+[Volume]:54764400
+
+[Date]:2023-10-19 00:00:00
+[Open]:176.0399932861328
+[High]:177.83999633789062
+[Low]:175.19000244140625
+[Close]:175.4600067138672
+[Adj Close]:174.768798828125
+[Volume]:59302900
+
+[Date]:2023-10-20 00:00:00
+[Open]:175.30999755859375
+[High]:175.4199981689453
+[Low]:172.63999938964844
+[Close]:172.8800048828125
+[Adj Close]:172.19894409179688
+[Volume]:64189300
+
+[Date]:2023-10-23 00:00:00
+[Open]:170.91000366210938
+[High]:174.00999450683594
+[Low]:169.92999267578125
+[Close]:173.0
+[Adj Close]:172.3184814453125
+[Volume]:55980100
+
+[Date]:2023-10-24 00:00:00
+[Open]:173.0500030517578
+[High]:173.6699981689453
+[Low]:171.4499969482422
+[Close]:173.44000244140625
+[Adj Close]:172.75674438476562
+[Volume]:43816600
+
+[Date]:2023-10-25 00:00:00
+[Open]:171.8800048828125
+[High]:173.05999755859375
+[Low]:170.64999389648438
+[Close]:171.10000610351562
+[Adj Close]:170.42596435546875
+[Volume]:57157000
+
+[Date]:2023-10-26 00:00:00
+[Open]:170.3699951171875
+[High]:171.3800048828125
+[Low]:165.6699981689453
+[Close]:166.88999938964844
+[Adj Close]:166.2325439453125
+[Volume]:70625300
+
+[Date]:2023-10-27 00:00:00
+[Open]:166.91000366210938
+[High]:168.9600067138672
+[Low]:166.8300018310547
+[Close]:168.22000122070312
+[Adj Close]:167.5572967529297
+[Volume]:58499100
+
+[Date]:2023-10-30 00:00:00
+[Open]:169.02000427246094
+[High]:171.1699981689453
+[Low]:168.8699951171875
+[Close]:170.2899932861328
+[Adj Close]:169.619140625
+[Volume]:51131000
+
+[Date]:2023-10-31 00:00:00
+[Open]:169.35000610351562
+[High]:170.89999389648438
+[Low]:167.89999389648438
+[Close]:170.77000427246094
+[Adj Close]:170.09725952148438
+[Volume]:44846000
+
+[Date]:2023-11-01 00:00:00
+[Open]:171.0
+[High]:174.22999572753906
+[Low]:170.1199951171875
+[Close]:173.97000122070312
+[Adj Close]:173.28465270996094
+[Volume]:56934900
+
+[Date]:2023-11-02 00:00:00
+[Open]:175.52000427246094
+[High]:177.77999877929688
+[Low]:175.4600067138672
+[Close]:177.57000732421875
+[Adj Close]:176.87046813964844
+[Volume]:77334800
+
+[Date]:2023-11-03 00:00:00
+[Open]:174.24000549316406
+[High]:176.82000732421875
+[Low]:173.35000610351562
+[Close]:176.64999389648438
+[Adj Close]:175.95407104492188
+[Volume]:79763700
+
+[Date]:2023-11-06 00:00:00
+[Open]:176.3800048828125
+[High]:179.42999267578125
+[Low]:176.2100067138672
+[Close]:179.22999572753906
+[Adj Close]:178.52392578125
+[Volume]:63841300
+
+[Date]:2023-11-07 00:00:00
+[Open]:179.17999267578125
+[High]:182.44000244140625
+[Low]:178.97000122070312
+[Close]:181.82000732421875
+[Adj Close]:181.10372924804688
+[Volume]:70530000
+
+[Date]:2023-11-08 00:00:00
+[Open]:182.35000610351562
+[High]:183.4499969482422
+[Low]:181.58999633789062
+[Close]:182.88999938964844
+[Adj Close]:182.1695098876953
+[Volume]:49340300
+
+[Date]:2023-11-09 00:00:00
+[Open]:182.9600067138672
+[High]:184.1199951171875
+[Low]:181.80999755859375
+[Close]:182.41000366210938
+[Adj Close]:181.69139099121094
+[Volume]:53763500
+
+[Date]:2023-11-10 00:00:00
+[Open]:183.97000122070312
+[High]:186.57000732421875
+[Low]:183.52999877929688
+[Close]:186.39999389648438
+[Adj Close]:185.9102783203125
+[Volume]:66133400
+
+[Date]:2023-11-13 00:00:00
+[Open]:185.82000732421875
+[High]:186.02999877929688
+[Low]:184.2100067138672
+[Close]:184.8000030517578
+[Adj Close]:184.3144989013672
+[Volume]:43627500
+
+[Date]:2023-11-14 00:00:00
+[Open]:187.6999969482422
+[High]:188.11000061035156
+[Low]:186.3000030517578
+[Close]:187.44000244140625
+[Adj Close]:186.9475555419922
+[Volume]:60108400
+
+[Date]:2023-11-15 00:00:00
+[Open]:187.85000610351562
+[High]:189.5
+[Low]:187.77999877929688
+[Close]:188.00999450683594
+[Adj Close]:187.51605224609375
+[Volume]:53790500
+
+[Date]:2023-11-16 00:00:00
+[Open]:189.57000732421875
+[High]:190.9600067138672
+[Low]:188.64999389648438
+[Close]:189.7100067138672
+[Adj Close]:189.21160888671875
+[Volume]:54412900
+
+[Date]:2023-11-17 00:00:00
+[Open]:190.25
+[High]:190.3800048828125
+[Low]:188.57000732421875
+[Close]:189.69000244140625
+[Adj Close]:189.191650390625
+[Volume]:50922700
+
+[Date]:2023-11-20 00:00:00
+[Open]:189.88999938964844
+[High]:191.91000366210938
+[Low]:189.8800048828125
+[Close]:191.4499969482422
+[Adj Close]:190.947021484375
+[Volume]:46505100
+
+[Date]:2023-11-21 00:00:00
+[Open]:191.41000366210938
+[High]:191.52000427246094
+[Low]:189.74000549316406
+[Close]:190.63999938964844
+[Adj Close]:190.13916015625
+[Volume]:38134500
+
+[Date]:2023-11-22 00:00:00
+[Open]:191.49000549316406
+[High]:192.92999267578125
+[Low]:190.8300018310547
+[Close]:191.30999755859375
+[Adj Close]:190.80738830566406
+[Volume]:39617700
+
+[Date]:2023-11-24 00:00:00
+[Open]:190.8699951171875
+[High]:190.89999389648438
+[Low]:189.25
+[Close]:189.97000122070312
+[Adj Close]:189.47091674804688
+[Volume]:24048300
+
+[Date]:2023-11-27 00:00:00
+[Open]:189.9199981689453
+[High]:190.6699981689453
+[Low]:188.89999389648438
+[Close]:189.7899932861328
+[Adj Close]:189.2913818359375
+[Volume]:40552600
+
+[Date]:2023-11-28 00:00:00
+[Open]:189.77999877929688
+[High]:191.0800018310547
+[Low]:189.39999389648438
+[Close]:190.39999389648438
+[Adj Close]:189.8997802734375
+[Volume]:38415400
+
+[Date]:2023-11-29 00:00:00
+[Open]:190.89999389648438
+[High]:192.08999633789062
+[Low]:188.97000122070312
+[Close]:189.3699951171875
+[Adj Close]:188.8724822998047
+[Volume]:43014200
+
+[Date]:2023-11-30 00:00:00
+[Open]:189.83999633789062
+[High]:190.32000732421875
+[Low]:188.19000244140625
+[Close]:189.9499969482422
+[Adj Close]:189.45095825195312
+[Volume]:48794400
+
+[Date]:2023-12-01 00:00:00
+[Open]:190.3300018310547
+[High]:191.55999755859375
+[Low]:189.22999572753906
+[Close]:191.24000549316406
+[Adj Close]:190.73757934570312
+[Volume]:45679300
+
+[Date]:2023-12-04 00:00:00
+[Open]:189.97999572753906
+[High]:190.0500030517578
+[Low]:187.4499969482422
+[Close]:189.42999267578125
+[Adj Close]:188.9323272705078
+[Volume]:43389500
+
+[Date]:2023-12-05 00:00:00
+[Open]:190.2100067138672
+[High]:194.39999389648438
+[Low]:190.17999267578125
+[Close]:193.4199981689453
+[Adj Close]:192.91184997558594
+[Volume]:66628400
+
+[Date]:2023-12-06 00:00:00
+[Open]:194.4499969482422
+[High]:194.75999450683594
+[Low]:192.11000061035156
+[Close]:192.32000732421875
+[Adj Close]:191.81475830078125
+[Volume]:41089700
+
+[Date]:2023-12-07 00:00:00
+[Open]:193.6300048828125
+[High]:195.0
+[Low]:193.58999633789062
+[Close]:194.27000427246094
+[Adj Close]:193.75962829589844
+[Volume]:47477700
+
+[Date]:2023-12-08 00:00:00
+[Open]:194.1999969482422
+[High]:195.99000549316406
+[Low]:193.6699981689453
+[Close]:195.7100067138672
+[Adj Close]:195.19583129882812
+[Volume]:53377300
+
+[Date]:2023-12-11 00:00:00
+[Open]:193.11000061035156
+[High]:193.49000549316406
+[Low]:191.4199981689453
+[Close]:193.17999267578125
+[Adj Close]:192.67247009277344
+[Volume]:60943700
+
+[Date]:2023-12-12 00:00:00
+[Open]:193.0800018310547
+[High]:194.72000122070312
+[Low]:191.72000122070312
+[Close]:194.7100067138672
+[Adj Close]:194.19847106933594
+[Volume]:52696900
+
+[Date]:2023-12-13 00:00:00
+[Open]:195.08999633789062
+[High]:198.0
+[Low]:194.85000610351562
+[Close]:197.9600067138672
+[Adj Close]:197.43992614746094
+[Volume]:70404200
+
+[Date]:2023-12-14 00:00:00
+[Open]:198.02000427246094
+[High]:199.6199951171875
+[Low]:196.16000366210938
+[Close]:198.11000061035156
+[Adj Close]:197.5895233154297
+[Volume]:66831600
+
+[Date]:2023-12-15 00:00:00
+[Open]:197.52999877929688
+[High]:198.39999389648438
+[Low]:197.0
+[Close]:197.57000732421875
+[Adj Close]:197.0509490966797
+[Volume]:128256700
+
+[Date]:2023-12-18 00:00:00
+[Open]:196.08999633789062
+[High]:196.6300048828125
+[Low]:194.38999938964844
+[Close]:195.88999938964844
+[Adj Close]:195.37535095214844
+[Volume]:55751900
+
+[Date]:2023-12-19 00:00:00
+[Open]:196.16000366210938
+[High]:196.9499969482422
+[Low]:195.88999938964844
+[Close]:196.94000244140625
+[Adj Close]:196.422607421875
+[Volume]:40714100
+
+[Date]:2023-12-20 00:00:00
+[Open]:196.89999389648438
+[High]:197.67999267578125
+[Low]:194.8300018310547
+[Close]:194.8300018310547
+[Adj Close]:194.31814575195312
+[Volume]:52242800
+
+[Date]:2023-12-21 00:00:00
+[Open]:196.10000610351562
+[High]:197.0800018310547
+[Low]:193.5
+[Close]:194.67999267578125
+[Adj Close]:194.16851806640625
+[Volume]:46482500
+
+[Date]:2023-12-22 00:00:00
+[Open]:195.17999267578125
+[High]:195.41000366210938
+[Low]:192.97000122070312
+[Close]:193.60000610351562
+[Adj Close]:193.0913848876953
+[Volume]:37122800
+
+[Date]:2023-12-26 00:00:00
+[Open]:193.61000061035156
+[High]:193.88999938964844
+[Low]:192.8300018310547
+[Close]:193.0500030517578
+[Adj Close]:192.54283142089844
+[Volume]:28919300
+
+[Date]:2023-12-27 00:00:00
+[Open]:192.49000549316406
+[High]:193.5
+[Low]:191.08999633789062
+[Close]:193.14999389648438
+[Adj Close]:192.64254760742188
+[Volume]:48087700
+
+[Date]:2023-12-28 00:00:00
+[Open]:194.13999938964844
+[High]:194.66000366210938
+[Low]:193.1699981689453
+[Close]:193.5800018310547
+[Adj Close]:193.07142639160156
+[Volume]:34049900
+
+[Date]:2023-12-29 00:00:00
+[Open]:193.89999389648438
+[High]:194.39999389648438
+[Low]:191.72999572753906
+[Close]:192.52999877929688
+[Adj Close]:192.02418518066406
+[Volume]:42628800
+
+[Date]:2024-01-02 00:00:00
+[Open]:187.14999389648438
+[High]:188.44000244140625
+[Low]:183.88999938964844
+[Close]:185.63999938964844
+[Adj Close]:185.15228271484375
+[Volume]:82488700
+
+[Date]:2024-01-03 00:00:00
+[Open]:184.22000122070312
+[High]:185.8800048828125
+[Low]:183.42999267578125
+[Close]:184.25
+[Adj Close]:183.7659454345703
+[Volume]:58414500
+
+[Date]:2024-01-04 00:00:00
+[Open]:182.14999389648438
+[High]:183.08999633789062
+[Low]:180.8800048828125
+[Close]:181.91000366210938
+[Adj Close]:181.43209838867188
+[Volume]:71983600
+
+[Date]:2024-01-05 00:00:00
+[Open]:181.99000549316406
+[High]:182.75999450683594
+[Low]:180.1699981689453
+[Close]:181.17999267578125
+[Adj Close]:180.70399475097656
+[Volume]:62303300
+
+[Date]:2024-01-08 00:00:00
+[Open]:182.08999633789062
+[High]:185.60000610351562
+[Low]:181.5
+[Close]:185.55999755859375
+[Adj Close]:185.07249450683594
+[Volume]:59144500
+
+[Date]:2024-01-09 00:00:00
+[Open]:183.9199981689453
+[High]:185.14999389648438
+[Low]:182.72999572753906
+[Close]:185.13999938964844
+[Adj Close]:184.65359497070312
+[Volume]:42841800
+
+[Date]:2024-01-10 00:00:00
+[Open]:184.35000610351562
+[High]:186.39999389648438
+[Low]:183.9199981689453
+[Close]:186.19000244140625
+[Adj Close]:185.70083618164062
+[Volume]:46792900
+
+[Date]:2024-01-11 00:00:00
+[Open]:186.5399932861328
+[High]:187.0500030517578
+[Low]:183.6199951171875
+[Close]:185.58999633789062
+[Adj Close]:185.1024169921875
+[Volume]:49128400
+
+[Date]:2024-01-12 00:00:00
+[Open]:186.05999755859375
+[High]:186.74000549316406
+[Low]:185.19000244140625
+[Close]:185.9199981689453
+[Adj Close]:185.43154907226562
+[Volume]:40444700
+
+[Date]:2024-01-16 00:00:00
+[Open]:182.16000366210938
+[High]:184.25999450683594
+[Low]:180.92999267578125
+[Close]:183.6300048828125
+[Adj Close]:183.14756774902344
+[Volume]:65603000
+
+[Date]:2024-01-17 00:00:00
+[Open]:181.27000427246094
+[High]:182.92999267578125
+[Low]:180.3000030517578
+[Close]:182.67999267578125
+[Adj Close]:182.20005798339844
+[Volume]:47317400
+
+[Date]:2024-01-18 00:00:00
+[Open]:186.08999633789062
+[High]:189.13999938964844
+[Low]:185.8300018310547
+[Close]:188.6300048828125
+[Adj Close]:188.1344451904297
+[Volume]:78005800
+
+[Date]:2024-01-19 00:00:00
+[Open]:189.3300018310547
+[High]:191.9499969482422
+[Low]:188.82000732421875
+[Close]:191.55999755859375
+[Adj Close]:191.05673217773438
+[Volume]:68741000
+
+[Date]:2024-01-22 00:00:00
+[Open]:192.3000030517578
+[High]:195.3300018310547
+[Low]:192.25999450683594
+[Close]:193.88999938964844
+[Adj Close]:193.38059997558594
+[Volume]:60133900
+
+[Date]:2024-01-23 00:00:00
+[Open]:195.02000427246094
+[High]:195.75
+[Low]:193.8300018310547
+[Close]:195.17999267578125
+[Adj Close]:194.66722106933594
+[Volume]:42355600
+
+[Date]:2024-01-24 00:00:00
+[Open]:195.4199981689453
+[High]:196.3800048828125
+[Low]:194.33999633789062
+[Close]:194.5
+[Adj Close]:193.98899841308594
+[Volume]:53631300
+
+[Date]:2024-01-25 00:00:00
+[Open]:195.22000122070312
+[High]:196.27000427246094
+[Low]:193.11000061035156
+[Close]:194.1699981689453
+[Adj Close]:193.65988159179688
+[Volume]:54822100
+
+[Date]:2024-01-26 00:00:00
+[Open]:194.27000427246094
+[High]:194.75999450683594
+[Low]:191.94000244140625
+[Close]:192.4199981689453
+[Adj Close]:191.9144744873047
+[Volume]:44594000
+
+[Date]:2024-01-29 00:00:00
+[Open]:192.00999450683594
+[High]:192.1999969482422
+[Low]:189.5800018310547
+[Close]:191.72999572753906
+[Adj Close]:191.22628784179688
+[Volume]:47145600
+
+[Date]:2024-01-30 00:00:00
+[Open]:190.94000244140625
+[High]:191.8000030517578
+[Low]:187.47000122070312
+[Close]:188.0399932861328
+[Adj Close]:187.5459747314453
+[Volume]:55859400
+
+[Date]:2024-01-31 00:00:00
+[Open]:187.0399932861328
+[High]:187.10000610351562
+[Low]:184.35000610351562
+[Close]:184.39999389648438
+[Adj Close]:183.91554260253906
+[Volume]:55467800
+
+[Date]:2024-02-01 00:00:00
+[Open]:183.99000549316406
+[High]:186.9499969482422
+[Low]:183.82000732421875
+[Close]:186.86000061035156
+[Adj Close]:186.3690948486328
+[Volume]:64885400
+
+[Date]:2024-02-02 00:00:00
+[Open]:179.86000061035156
+[High]:187.3300018310547
+[Low]:179.25
+[Close]:185.85000610351562
+[Adj Close]:185.3617401123047
+[Volume]:102518000
+
+[Date]:2024-02-05 00:00:00
+[Open]:188.14999389648438
+[High]:189.25
+[Low]:185.83999633789062
+[Close]:187.67999267578125
+[Adj Close]:187.18692016601562
+[Volume]:69668800
+
+[Date]:2024-02-06 00:00:00
+[Open]:186.86000061035156
+[High]:189.30999755859375
+[Low]:186.77000427246094
+[Close]:189.3000030517578
+[Adj Close]:188.80267333984375
+[Volume]:43490800
+
+[Date]:2024-02-07 00:00:00
+[Open]:190.63999938964844
+[High]:191.0500030517578
+[Low]:188.61000061035156
+[Close]:189.41000366210938
+[Adj Close]:188.9123992919922
+[Volume]:53439000
+
+[Date]:2024-02-08 00:00:00
+[Open]:189.38999938964844
+[High]:189.5399932861328
+[Low]:187.35000610351562
+[Close]:188.32000732421875
+[Adj Close]:187.82525634765625
+[Volume]:40962000
+
+[Date]:2024-02-09 00:00:00
+[Open]:188.64999389648438
+[High]:189.99000549316406
+[Low]:188.0
+[Close]:188.85000610351562
+[Adj Close]:188.59420776367188
+[Volume]:45155200
+
+[Date]:2024-02-12 00:00:00
+[Open]:188.4199981689453
+[High]:188.6699981689453
+[Low]:186.7899932861328
+[Close]:187.14999389648438
+[Adj Close]:186.89649963378906
+[Volume]:41781900
+
+[Date]:2024-02-13 00:00:00
+[Open]:185.77000427246094
+[High]:186.2100067138672
+[Low]:183.50999450683594
+[Close]:185.0399932861328
+[Adj Close]:184.7893524169922
+[Volume]:56529500
+
+[Date]:2024-02-14 00:00:00
+[Open]:185.32000732421875
+[High]:185.52999877929688
+[Low]:182.44000244140625
+[Close]:184.14999389648438
+[Adj Close]:183.9005584716797
+[Volume]:54630500
+
+[Date]:2024-02-15 00:00:00
+[Open]:183.5500030517578
+[High]:184.49000549316406
+[Low]:181.35000610351562
+[Close]:183.86000061035156
+[Adj Close]:183.6109619140625
+[Volume]:65434500
+
+[Date]:2024-02-16 00:00:00
+[Open]:183.4199981689453
+[High]:184.85000610351562
+[Low]:181.6699981689453
+[Close]:182.30999755859375
+[Adj Close]:182.06304931640625
+[Volume]:49701400
+
+[Date]:2024-02-20 00:00:00
+[Open]:181.7899932861328
+[High]:182.42999267578125
+[Low]:180.0
+[Close]:181.55999755859375
+[Adj Close]:181.31407165527344
+[Volume]:53665600
+
+[Date]:2024-02-21 00:00:00
+[Open]:181.94000244140625
+[High]:182.88999938964844
+[Low]:180.66000366210938
+[Close]:182.32000732421875
+[Adj Close]:182.07305908203125
+[Volume]:41529700
+
+[Date]:2024-02-22 00:00:00
+[Open]:183.47999572753906
+[High]:184.9600067138672
+[Low]:182.4600067138672
+[Close]:184.3699951171875
+[Adj Close]:184.12026977539062
+[Volume]:52292200
+
+[Date]:2024-02-23 00:00:00
+[Open]:185.00999450683594
+[High]:185.0399932861328
+[Low]:182.22999572753906
+[Close]:182.52000427246094
+[Adj Close]:182.2727813720703
+[Volume]:45119700
+
+[Date]:2024-02-26 00:00:00
+[Open]:182.24000549316406
+[High]:182.75999450683594
+[Low]:180.64999389648438
+[Close]:181.16000366210938
+[Adj Close]:180.9146270751953
+[Volume]:40867400
+
+[Date]:2024-02-27 00:00:00
+[Open]:181.10000610351562
+[High]:183.9199981689453
+[Low]:179.55999755859375
+[Close]:182.6300048828125
+[Adj Close]:182.38262939453125
+[Volume]:54318900
+
+[Date]:2024-02-28 00:00:00
+[Open]:182.50999450683594
+[High]:183.1199951171875
+[Low]:180.1300048828125
+[Close]:181.4199981689453
+[Adj Close]:181.17425537109375
+[Volume]:48953900
+
+[Date]:2024-02-29 00:00:00
+[Open]:181.27000427246094
+[High]:182.57000732421875
+[Low]:179.52999877929688
+[Close]:180.75
+[Adj Close]:180.5051727294922
+[Volume]:136682600
+
+[Date]:2024-03-01 00:00:00
+[Open]:179.5500030517578
+[High]:180.52999877929688
+[Low]:177.3800048828125
+[Close]:179.66000366210938
+[Adj Close]:179.41665649414062
+[Volume]:73488000
+
+[Date]:2024-03-04 00:00:00
+[Open]:176.14999389648438
+[High]:176.89999389648438
+[Low]:173.7899932861328
+[Close]:175.10000610351562
+[Adj Close]:174.86282348632812
+[Volume]:81510100
+
+[Date]:2024-03-05 00:00:00
+[Open]:170.75999450683594
+[High]:172.0399932861328
+[Low]:169.6199951171875
+[Close]:170.1199951171875
+[Adj Close]:169.8895721435547
+[Volume]:95132400
+
+[Date]:2024-03-06 00:00:00
+[Open]:171.05999755859375
+[High]:171.24000549316406
+[Low]:168.67999267578125
+[Close]:169.1199951171875
+[Adj Close]:168.8909149169922
+[Volume]:68587700
+
+[Date]:2024-03-07 00:00:00
+[Open]:169.14999389648438
+[High]:170.72999572753906
+[Low]:168.49000549316406
+[Close]:169.0
+[Adj Close]:168.77108764648438
+[Volume]:71765100
+
+[Date]:2024-03-08 00:00:00
+[Open]:169.0
+[High]:173.6999969482422
+[Low]:168.94000244140625
+[Close]:170.72999572753906
+[Adj Close]:170.4987335205078
+[Volume]:76114600
+
+[Date]:2024-03-11 00:00:00
+[Open]:172.94000244140625
+[High]:174.3800048828125
+[Low]:172.0500030517578
+[Close]:172.75
+[Adj Close]:172.51600646972656
+[Volume]:60139500
+
+[Date]:2024-03-12 00:00:00
+[Open]:173.14999389648438
+[High]:174.02999877929688
+[Low]:171.00999450683594
+[Close]:173.22999572753906
+[Adj Close]:172.99534606933594
+[Volume]:59825400
+
+[Date]:2024-03-13 00:00:00
+[Open]:172.77000427246094
+[High]:173.19000244140625
+[Low]:170.75999450683594
+[Close]:171.1300048828125
+[Adj Close]:170.89820861816406
+[Volume]:52488700
+
+[Date]:2024-03-14 00:00:00
+[Open]:172.91000366210938
+[High]:174.30999755859375
+[Low]:172.0500030517578
+[Close]:173.0
+[Adj Close]:172.7656707763672
+[Volume]:72913500
+
+[Date]:2024-03-15 00:00:00
+[Open]:171.1699981689453
+[High]:172.6199951171875
+[Low]:170.2899932861328
+[Close]:172.6199951171875
+[Adj Close]:172.3861846923828
+[Volume]:121664700
+
+[Date]:2024-03-18 00:00:00
+[Open]:175.57000732421875
+[High]:177.7100067138672
+[Low]:173.52000427246094
+[Close]:173.72000122070312
+[Adj Close]:173.4846954345703
+[Volume]:75604200
+
+[Date]:2024-03-19 00:00:00
+[Open]:174.33999633789062
+[High]:176.61000061035156
+[Low]:173.02999877929688
+[Close]:176.0800018310547
+[Adj Close]:175.84149169921875
+[Volume]:55215200
+
+[Date]:2024-03-20 00:00:00
+[Open]:175.72000122070312
+[High]:178.6699981689453
+[Low]:175.08999633789062
+[Close]:178.6699981689453
+[Adj Close]:178.42799377441406
+[Volume]:53423100
+
+[Date]:2024-03-21 00:00:00
+[Open]:177.0500030517578
+[High]:177.49000549316406
+[Low]:170.83999633789062
+[Close]:171.3699951171875
+[Adj Close]:171.13787841796875
+[Volume]:106181300
+
+[Date]:2024-03-22 00:00:00
+[Open]:171.75999450683594
+[High]:173.0500030517578
+[Low]:170.05999755859375
+[Close]:172.27999877929688
+[Adj Close]:172.04664611816406
+[Volume]:71106600
+
+[Date]:2024-03-25 00:00:00
+[Open]:170.57000732421875
+[High]:171.94000244140625
+[Low]:169.4499969482422
+[Close]:170.85000610351562
+[Adj Close]:170.61859130859375
+[Volume]:54288300
+
+[Date]:2024-03-26 00:00:00
+[Open]:170.0
+[High]:171.4199981689453
+[Low]:169.5800018310547
+[Close]:169.7100067138672
+[Adj Close]:169.48013305664062
+[Volume]:57388400
+
+[Date]:2024-03-27 00:00:00
+[Open]:170.41000366210938
+[High]:173.60000610351562
+[Low]:170.11000061035156
+[Close]:173.30999755859375
+[Adj Close]:173.0752410888672
+[Volume]:60273300
+
+[Date]:2024-03-28 00:00:00
+[Open]:171.75
+[High]:172.22999572753906
+[Low]:170.50999450683594
+[Close]:171.47999572753906
+[Adj Close]:171.2477264404297
+[Volume]:65672700
+
+[Date]:2024-04-01 00:00:00
+[Open]:171.19000244140625
+[High]:171.25
+[Low]:169.47999572753906
+[Close]:170.02999877929688
+[Adj Close]:169.79969787597656
+[Volume]:46240500
+
+[Date]:2024-04-02 00:00:00
+[Open]:169.0800018310547
+[High]:169.33999633789062
+[Low]:168.22999572753906
+[Close]:168.83999633789062
+[Adj Close]:168.61129760742188
+[Volume]:49329500
+
+[Date]:2024-04-03 00:00:00
+[Open]:168.7899932861328
+[High]:170.67999267578125
+[Low]:168.5800018310547
+[Close]:169.64999389648438
+[Adj Close]:169.42019653320312
+[Volume]:47691700
+
+[Date]:2024-04-04 00:00:00
+[Open]:170.2899932861328
+[High]:171.9199981689453
+[Low]:168.82000732421875
+[Close]:168.82000732421875
+[Adj Close]:168.59133911132812
+[Volume]:53704400
+
+[Date]:2024-04-05 00:00:00
+[Open]:169.58999633789062
+[High]:170.38999938964844
+[Low]:168.9499969482422
+[Close]:169.5800018310547
+[Adj Close]:169.3502960205078
+[Volume]:42055200
+
+[Date]:2024-04-08 00:00:00
+[Open]:169.02999877929688
+[High]:169.1999969482422
+[Low]:168.24000549316406
+[Close]:168.4499969482422
+[Adj Close]:168.22183227539062
+[Volume]:37425500
+
+[Date]:2024-04-09 00:00:00
+[Open]:168.6999969482422
+[High]:170.0800018310547
+[Low]:168.35000610351562
+[Close]:169.6699981689453
+[Adj Close]:169.44017028808594
+[Volume]:42451200
+
+[Date]:2024-04-10 00:00:00
+[Open]:168.8000030517578
+[High]:169.08999633789062
+[Low]:167.11000061035156
+[Close]:167.77999877929688
+[Adj Close]:167.552734375
+[Volume]:49709300
+
+[Date]:2024-04-11 00:00:00
+[Open]:168.33999633789062
+[High]:175.4600067138672
+[Low]:168.16000366210938
+[Close]:175.0399932861328
+[Adj Close]:174.8029022216797
+[Volume]:91070300
+
+[Date]:2024-04-12 00:00:00
+[Open]:174.25999450683594
+[High]:178.36000061035156
+[Low]:174.2100067138672
+[Close]:176.5500030517578
+[Adj Close]:176.3108673095703
+[Volume]:101593300
+
+[Date]:2024-04-15 00:00:00
+[Open]:175.36000061035156
+[High]:176.6300048828125
+[Low]:172.5
+[Close]:172.69000244140625
+[Adj Close]:172.45608520507812
+[Volume]:73531800
+
+[Date]:2024-04-16 00:00:00
+[Open]:171.75
+[High]:173.75999450683594
+[Low]:168.27000427246094
+[Close]:169.3800048828125
+[Adj Close]:169.15057373046875
+[Volume]:73711200
+
+[Date]:2024-04-17 00:00:00
+[Open]:169.61000061035156
+[High]:170.64999389648438
+[Low]:168.0
+[Close]:168.0
+[Adj Close]:167.77244567871094
+[Volume]:50901200
+
+[Date]:2024-04-18 00:00:00
+[Open]:168.02999877929688
+[High]:168.63999938964844
+[Low]:166.5500030517578
+[Close]:167.0399932861328
+[Adj Close]:166.81373596191406
+[Volume]:43122900
+
+[Date]:2024-04-19 00:00:00
+[Open]:166.2100067138672
+[High]:166.39999389648438
+[Low]:164.0800018310547
+[Close]:165.0
+[Adj Close]:164.77650451660156
+[Volume]:67772100
+
+[Date]:2024-04-22 00:00:00
+[Open]:165.52000427246094
+[High]:167.25999450683594
+[Low]:164.77000427246094
+[Close]:165.83999633789062
+[Adj Close]:165.6153564453125
+[Volume]:48116400
+
+[Date]:2024-04-23 00:00:00
+[Open]:165.35000610351562
+[High]:167.0500030517578
+[Low]:164.9199981689453
+[Close]:166.89999389648438
+[Adj Close]:166.67391967773438
+[Volume]:49537800
+
+[Date]:2024-04-24 00:00:00
+[Open]:166.5399932861328
+[High]:169.3000030517578
+[Low]:166.2100067138672
+[Close]:169.02000427246094
+[Adj Close]:168.7910614013672
+[Volume]:48251800
+
+[Date]:2024-04-25 00:00:00
+[Open]:169.52999877929688
+[High]:170.61000061035156
+[Low]:168.14999389648438
+[Close]:169.88999938964844
+[Adj Close]:169.65988159179688
+[Volume]:50558300
+
+[Date]:2024-04-26 00:00:00
+[Open]:169.8800048828125
+[High]:171.33999633789062
+[Low]:169.17999267578125
+[Close]:169.3000030517578
+[Adj Close]:169.0706787109375
+[Volume]:44838400
+
+[Date]:2024-04-29 00:00:00
+[Open]:173.3699951171875
+[High]:176.02999877929688
+[Low]:173.10000610351562
+[Close]:173.5
+[Adj Close]:173.26498413085938
+[Volume]:68169400
+
+[Date]:2024-04-30 00:00:00
+[Open]:173.3300018310547
+[High]:174.99000549316406
+[Low]:170.0
+[Close]:170.3300018310547
+[Adj Close]:170.0992889404297
+[Volume]:65934800
+
+[Date]:2024-05-01 00:00:00
+[Open]:169.5800018310547
+[High]:172.7100067138672
+[Low]:169.11000061035156
+[Close]:169.3000030517578
+[Adj Close]:169.0706787109375
+[Volume]:50383100
+
+[Date]:2024-05-02 00:00:00
+[Open]:172.50999450683594
+[High]:173.4199981689453
+[Low]:170.88999938964844
+[Close]:173.02999877929688
+[Adj Close]:172.79562377929688
+[Volume]:94214900
+
+[Date]:2024-05-03 00:00:00
+[Open]:186.64999389648438
+[High]:187.0
+[Low]:182.66000366210938
+[Close]:183.3800048828125
+[Adj Close]:183.13160705566406
+[Volume]:163224100
+
+[Date]:2024-05-06 00:00:00
+[Open]:182.35000610351562
+[High]:184.1999969482422
+[Low]:180.4199981689453
+[Close]:181.7100067138672
+[Adj Close]:181.46388244628906
+[Volume]:78569700
+
+[Date]:2024-05-07 00:00:00
+[Open]:183.4499969482422
+[High]:184.89999389648438
+[Low]:181.32000732421875
+[Close]:182.39999389648438
+[Adj Close]:182.15292358398438
+[Volume]:77305800
+
+[Date]:2024-05-08 00:00:00
+[Open]:182.85000610351562
+[High]:183.07000732421875
+[Low]:181.4499969482422
+[Close]:182.74000549316406
+[Adj Close]:182.4924774169922
+[Volume]:45057100
+
+[Date]:2024-05-09 00:00:00
+[Open]:182.55999755859375
+[High]:184.66000366210938
+[Low]:182.11000061035156
+[Close]:184.57000732421875
+[Adj Close]:184.32000732421875
+[Volume]:48983000
+
+[Date]:2024-05-10 00:00:00
+[Open]:184.89999389648438
+[High]:185.08999633789062
+[Low]:182.1300048828125
+[Close]:183.0500030517578
+[Adj Close]:183.0500030517578
+[Volume]:50727400
+

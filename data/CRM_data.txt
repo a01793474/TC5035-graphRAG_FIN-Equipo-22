@@ -1,0 +1,2893 @@
+[Company Introduction]:
+Salesforce Inc is a leading entity in the Technology sector. Incorporated and publicly traded since 2004-06-23, the company has established its reputation as one of the key players in the market. As of today, Salesforce Inc has a market capitalization of 268448.39 in USD, with 968.00 shares outstanding.
+Salesforce Inc operates primarily in the US, trading under the ticker CRM on the NEW YORK STOCK EXCHANGE, INC.. As a dominant force in the Technology space, the company continues to innovate and drive progress within the industry.
+
+
+[Address]:
+Main office address is in SALESFORCE TOWER 415 MISSION STREET 3RD FL SAN FRANCISCO,CA 94105
+tel: 415-901-7000
+
+
+[Stock]:
+Entity Common Stock, Shares Outstanding this means Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument.
+
+
+[News]:
+[Date]:2024-05-11 05:00:31
+[Headline]:Does Salesforce (NYSE:CRM) Have A Healthy Balance Sheet?
+[Summary]:Some say volatility, rather than debt, is the best way to think about risk as an investor, but Warren Buffett famously...
+
+[Date]:2024-05-10 07:02:02
+[Headline]:16 Biggest Publicly Traded AI Companies in the World
+[Summary]:In this article, we will take a look at the 16 biggest publicly traded AI companies in the world. If you want to skip our detailed analysis, you can go directly to 5 Biggest Publicly Traded AI Companies in the World. “NVIDIA Has to Keep Working” On May 8, Stuart Kaiser, Citi’s Head of Equity […]
+
+[Date]:2024-05-10 06:18:00
+[Headline]:3 High-Growth Tech Stocks That Also Pay Dividends Now
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 06:14:28
+[Headline]:Is Salesforce (CRM) a Good Growth Investment?
+[Summary]:Investment management company Vulcan Value Partners recently released its first quarter 2024 investor letter. A copy of the letter can be downloaded here. The firm is happy with the first quarter’s outcomes. All of the strategic composites generated positive returns, and many of them outperformed their respective benchmarks. In the quarter, the fund’s Large Cap Composite returned […]
+
+[Date]:2024-05-10 03:36:00
+[Headline]:Unpacking the Latest Options Trading Trends in Salesforce
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 21:30:00
+[Headline]:AI Revolution 'On the Doorstep:' The 'Tidal Wave' Is Well Underway, Analyst Says
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 05:17:00
+[Headline]:French AI Startup, Founded By Former Google And Meta Researchers, Is Up To Challenge Silicon Valley Dominance: Report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 04:26:00
+[Headline]:Video: Dow Movers: CRM, CAT
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 03:58:00
+[Headline]:Interesting CRM Put And Call Options For June 28th
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 01:51:00
+[Headline]:Microsoft-backed startup Mistral AI set for new funding round at $6B valuation - report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 20:41:00
+[Headline]:Notable Thursday Option Activity: CRM, ELF, W
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 15:36:40
+[Headline]:Why Salesforce Stock Dropped 11% in April
+[Summary]:During a weak month for tech stocks, investors were displeased with reports of a large acquisition.
+
+[Date]:2024-05-08 15:02:00
+[Headline]:Top Analyst Reports for Salesforce, BP & Southern Co.
+[Summary]:Toda's Research Daily features new research reports on 16 major stocks, including Salesforce, Inc. (CRM), BP p.l.c. (BP) and The Southern Company (SO).
+
+[Date]:2024-05-08 14:30:00
+[Headline]:Salesforce Announces Timing of its First Quarter Fiscal 2025 Results Conference Call
+[Summary]:SAN FRANCISCO, May 08, 2024--Salesforce Announces Timing of its First Quarter Fiscal 2025 Results Conference Call
+
+[Date]:2024-05-08 08:00:00
+[Headline]:National College and Career Pathways Initiative Launch Expands to 14 States with a New Investment from Salesforce
+[Summary]:Advance CTE, Education Strategy Group (ESG), ExcelinEd, Jobs for the Future (JFF), and New America are excited to announce the expansion of Launch: Equitable & Accelerated Pathways for All with the addition of three teams from Maryland, Massachusetts, and Virginia thanks to the generous support of a new initiative funder, Salesforce. The new investment will also help extend Launch into a third year, through fall 2025.
+
+[Date]:2024-05-08 05:03:07
+[Headline]:Salesforce com : Positioned as a Leader in the IDC MarketScape Report for Enterprise B2C Digital Commerce
+[Summary]:Salesforce today announced it has been named a Leader in the IDC MarketScape Report: Worldwide Enterprise B2C Digital Commerce Applications 2024 Vendor Assessment¹. Salesforce was...
+
+[Date]:2024-05-07 20:13:00
+[Headline]:The 3 Best Cloud Computing Stocks to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 17:40:48
+[Headline]:12 Best Artificial Intelligence Stocks to Buy Now According to Wall Street Analysts
+[Summary]:In this piece, we will take a look at the 12 best artificial intelligence stocks to buy now according to Wall Street analysts. If you want to skip our coverage of the latest developments in the artificial intelligence scene, then you can skip ahead to 5 Best Artificial Intelligence Stocks to Buy Now According to […]
+
+[Date]:2024-05-07 16:13:55
+[Headline]:20 Countries with the Longest Working Hours in the World
+[Summary]:In this article, we will look at the 20 countries with the longest hours in the world. We have also talked about the issues stemming from overworking. If you want to skip our detailed analysis, head straight to the 5 Countries with the Longest Working Hours in the World. Overworking, especially during young adulthood, comes […]
+
+[Date]:2024-05-07 09:00:00
+[Headline]:12 Best Investments for Beginners in 2024
+[Summary]:In this article, we will take a look at the 12 best investments for beginners in 2024. To skip our analysis of the recent market trends and market activity, you can go directly to see the 5 Best Investments for Beginners in 2024. With the first quarter of 2024 now concluded, the stock market has […]
+
+[Date]:2024-05-07 06:00:00
+[Headline]:Inclusively and Salesforce Expand Partnership to Deepen Accessibility Resources and Support
+[Summary]:NEW ORLEANS, May 07, 2024--Inclusively, a leading workforce inclusion platform and Salesforce, the #1 AI CRM, expanded their partnership today to deepen Salesforce’s accessibility resources and support. The collaboration will include an AI-enabled interface that will help Salesforce employees easily and confidentially find benefits to help them best show up in the workplace.
+
+[Date]:2024-05-07 05:01:15
+[Headline]:Those who invested in Salesforce (NYSE:CRM) five years ago are up 80%
+[Summary]:These days it's easy to simply buy an index fund, and your returns should (roughly) match the market. But you can do a...
+
+[Date]:2024-05-07 00:55:22
+[Headline]:Informatica: Growth, Cash Flow, Valuation, And M&A Target
+[Summary]:Informatica has successfully transformed into a software-as-a-service data management business model. Find out why I am bullish on INFA stock.
+
+[Date]:2024-05-07 00:03:00
+[Headline]:3 AI Titans Betting Big on Anthropic’s Claude
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 19:36:00
+[Headline]:Next 10 Best Performing S&P 500 Stocks In 2023
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 16:00:07
+[Headline]:Salesforce data cloud 'new muscle' for company: Analyst
+[Summary]:RBC Capital Markets Software Equity Analyst Rishi Jaluria joins Yahoo Finance to discuss his positive outlook on upcoming Salesforce (CRM) earnings. Jaluria tells Julie Hyman and Josh Lipton that he is "breathing a sigh of relief as a Salesforce bull" after hearing the potential acquisition of Informatica (INFA) has reportedly fallen through. He points to better opportunities for Salesforce to use that money, like stock buybacks or increased dividends. He also has high expectations for the company's data cloud earnings, calling it a "new muscle" for Salesforce with increasing growth opportunities. For more expert insight and the latest market action, click here to watch this full episode. This post was written by Melanie Riehl
+
+[Date]:2024-05-06 15:45:13
+[Headline]:Salesforce.com (CRM) Gains But Lags Market: What You Should Know
+[Summary]:In the most recent trading session, Salesforce.com (CRM) closed at $275.63, indicating a +0.72% shift from the previous trading day.
+
+[Date]:2024-05-06 03:59:00
+[Headline]:Sprout Social Stock (NASDAQ:SPT): Is the 40% Plunge a Buying Opportunity?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 01:59:12
+[Headline]:Salesforce com : Announces Unified Knowledge, Helping Service Organizations Use Third-Party Data to Power Generative AI and Self-Service Experience
+[Summary]:Salesforce today announced Unified Knowledge, a new solution that integrates organizational knowledge resources from disparate third-party systems into Salesforce, helping service...
+
+[Date]:2024-05-05 23:03:00
+[Headline]:Uncovering the Next Trillion-Dollar Companies: 3 Stocks to Watch
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 10:00:00
+[Headline]:Stock Market Crash Alert: 3 Must-Buy Cloud Computing Stocks When Prices Plunge
+[Summary]:As the stock market navigates a temporary dip, savvy investors are looking for cloud computing stocks to buy. Wall Street recently concluded a challenging month with significant declines across major indexes. The S&P 500 fell as much as 5.5% in April and ended the month down 1.6%, marking its first losing month in six. These losses were largely caused by growing concerns about persistent high inflation and interest rates. However, as the stock market faces a period of downturn, cloud computing s
+
+[Date]:2024-05-05 05:10:00
+[Headline]:3 Alternatives to the "Magnificent Seven" Stocks Billionaires Love
+[Summary]:These companies are among the top tech picks in hedge funds run by billionaires.
+
+[Date]:2024-05-05 02:56:12
+[Headline]:Buy 1 Dog Of The Dow In May; See 4 More Play
+[Summary]:Discover the latest insights on the Dow Jones and its top-performing stocks, sectors, and target estimates for May in this financial article.
+
+[Date]:2024-05-05 00:42:00
+[Headline]:Are AI stocks in a bubble? Here’s what Citadel CEO Ken Griffin thinks
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-03 08:00:11
+[Headline]:Why Salesforce, Inc. (NYSE:CRM) Could Be Worth Watching
+[Summary]:Let's talk about the popular Salesforce, Inc. ( NYSE:CRM ). The company's shares received a lot of attention from a...
+
+[Date]:2024-05-03 06:30:00
+[Headline]:Insider Sale at Salesforce Inc (CRM): Pres/Chief Engineering Officer Srinivas Tallapragada ...
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-03 05:34:00
+[Headline]:Salesforce Unusual Options Activity
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-03 01:49:00
+[Headline]:Sprout Social downgraded to Neutral from Buy at Goldman Sachs
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-02 14:32:16
+[Headline]:Informatica's gen. AI boosts clients' revenue, efficiency: CEO
+[Summary]:Informatica (INFA) reported its first quarter earnings, beating Wall Street estimates on the top and bottom line. The company also issued second quarter guidance that topped Wall Street estimates. Informatica CEO Amit Walia joins Market Domination to give insight into the company's performance and generative AI products, which are fueling confidence for a strong second quarter. "There's a lot of talk of gen AI but what I'm excited about is what customers are actually trying to do, and look, we have two use cases. One is our products being used for gen AI and then gen AI from us, our GPT version. What we are seeing is customers using our IDMC platform to actually, an example I gave is a loan approval mortgage company bringing data from all places putting quality on top of governance to actually make smarter, faster decisions, much more intelligent decisions of loan approvals, reducing their risk," Walia tells Yahoo Finance. For more expert insight and the latest market action, click here to watch this full episode of Market Domination. This post was written by Nicholas Jacobino
+
+[Date]:2024-05-02 11:27:12
+[Headline]:Salesforce: Improving Profitability And Robust Cash Flows
+[Summary]:Salesforce's gross margins have remained stable over the past 10 years, but SG&A expenses have declined as a percentage of revenue. Read more on CRM stock here.
+
+[Date]:2024-05-02 07:05:00
+[Headline]:Anatomy Of An AI Correction
+[Summary]:The AI ecosystem comprises semiconductors, software, other hardware and innovative use cases, all of which play crucial roles in the advancement and adoption of AI. Click to read.
+
+[Date]:2024-05-02 03:58:05
+[Headline]:Salesforce com : New Salesforce White Paper Tackles LLM Security Risks
+[Summary]:Salesforce has released a comprehensive white paper that details emerging threats posed by Large Language Models and offers actionable strategies for organizations to fortify their...
+
+[Date]:2024-05-02 01:40:26
+[Headline]:Growth, Almost No Dividends, 2 Years Later
+[Summary]:Discover the benefits of growth investing, as we explore the long-term strategy of buying quality companies at a good price.
+
+[Date]:2024-05-02 00:39:00
+[Headline]:Salesforce in focus as Citi sees positive demand signals
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 08:36:32
+[Headline]:Top 20 Tech Companies in Silicon Valley
+[Summary]:In this piece, we will take a look at the top 20 technology companies in Silicon Valley. If you want to skip our coverage of the world’s technology hub and a region that has changed the world as we know it, then check out 5 Top Tech Companies in Silicon Valley. If there’s one thing […]
+
+[Date]:2024-05-01 07:00:15
+[Headline]:Investors Heavily Search Salesforce Inc. (CRM): Here is What You Need to Know
+[Summary]:Salesforce.com (CRM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.
+
+[Date]:2024-05-01 06:07:00
+[Headline]:Beyond announces expanded investment in Salesforce solutions
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 21:34:00
+[Headline]:If You Invested $1000 In This Stock 10 Years Ago, You Would Have $5,000 Today
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 10:35:42
+[Headline]:Stock Market Crash Warning: Don’t Get Caught Holding These 3 Cloud Computing Stocks
+[Summary]:Microsoft (NASDAQ:MSFT) and Alphabet (NASDAQ:GOOG)(NASDAQ:GOOGL) exceeded Wall Street expectations in their latest quarterly results, driven by a surge in cloud revenue fueled by increased use of artificial intelligence (AI) services, Bloomberg reported. Alphabet’s shares soared up to 12%, marking its biggest gain since July 2015 and pushing its valuation past $2 trillion. Meanwhile, Microsoft rose as much as 3.5%. Still, there are some cloud computing stocks for investors to sell in this climat
+
+[Date]:2024-04-30 07:13:15
+[Headline]:Airbnb Earnings: Expansion Beyond Core And New Shareholder Returns On The Table
+[Summary]:Airbnb is becoming a free cash flow generating machine. Read why Airbnb's expansion beyond its core business could unfold new, profitable opportunities.
+
+[Date]:2024-04-30 05:46:00
+[Headline]:Caterpillar, Salesforce share losses contribute to Dow's 380-point fall
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 02:50:12
+[Headline]:AI at Your Fingertips: How Einstein Copilot for Tableau Democratizes Data Analysis for All
+[Summary]:Most workers today know the value of being able to access rich data analytics in their jobs. However, 33% of them struggle to understand and generate insights from data. To help democratize access to...
+
+[Date]:2024-04-30 02:07:19
+[Headline]:Salesforce com : Tableau Conference Welcomes 8,000 Attendees to Sold-Out Event, Announcing Platform Improvements to Help People See, Understand and Act on Data
+[Summary]:Tableau Conference, referred to by data enthusiasts as the Data Event of the Year, celebrates the Tableau Community and empowers everyone to be a data expert ...
+
+[Date]:2024-04-30 02:07:18
+[Headline]:Salesforce com : Tableau Expands Partnership with Microsoft Teams and Microsoft Fabric to Provide Deeper Insights for Businesses
+[Summary]:Tableau app for Microsoft Teams will enable users to search, share, and interact with Tableau and Tableau Pulse insights from within Teams Tableau integration...
+
+[Date]:2024-04-30 01:59:00
+[Headline]:Google Announces Layoffs Across Key Teams as It Gears Up for I/O Developer Conference
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 00:01:00
+[Headline]:The Art of Valuation: Discovering Salesforce Inc's Intrinsic Value
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-29 21:48:00
+[Headline]:Salesforce's Options: A Look at What the Big Money is Thinking
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-29 19:56:00
+[Headline]:Analysts Offer Insights on Technology Companies: Salesforce (CRM), Microsoft (MSFT) and WEX (WEX)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-29 17:15:16
+[Headline]:30 Largest Software Companies in the World by Market Cap
+[Summary]:In this article, we will look into the 30 largest software companies in the world by market cap. If you want to skip our detailed analysis, you can go directly to the 5 Largest Software Companies in the World by Market Cap. Software Industry Outlook According to a report by Morningstar, the total revenue of […]
+
+[Date]:2024-04-29 15:45:17
+[Headline]:Salesforce.com (CRM) Rises Higher Than Market: Key Facts
+[Summary]:The latest trading day saw Salesforce.com (CRM) settling at $275.74, representing a +0.53% change from its previous close.
+
+[Date]:2024-04-29 06:00:19
+[Headline]:Declining Stock and Decent Financials: Is The Market Wrong About Salesforce, Inc. (NYSE:CRM)?
+[Summary]:It is hard to get excited after looking at Salesforce's (NYSE:CRM) recent performance, when its stock has declined 8.9...
+
+[Date]:2024-04-29 06:00:00
+[Headline]:April Recap: Cloud Computing (SaaS) Portfolio Down 6% In April, Up 2.5% This Week
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-29 05:42:00
+[Headline]:Top 50 stocks with the highest sensitivity to interest rates changes - GS
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-29 04:32:00
+[Headline]:CRM, AVGO: 2 Impressive AI Stocks with Room to Run
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-29 00:32:13
+[Headline]:TECB: Not A Good Choice When Compared To Other Traditional Technology ETFs
+[Summary]:TECB has generally outperformed the S&P 500 in bull markets but underperformed in bear markets since its inception in 2020. See why the Fund is a Hold.
+
+[Date]:2024-04-28 23:05:15
+[Headline]:Salesforce Unveils Zero Copy Partner Network, an Ecosystem Committed to Secure, Bidirectional Zero Copy Integration with Salesforce Data Cloud
+[Summary]:The Zero Copy Partner Network features initial partners Amazon Web Services , Databricks, Google Cloud, and Snowflake, and adds Microsoft, all committed to zero copy integrations with Salesforce that...
+
+[Date]:2024-04-28 23:05:15
+[Headline]:Salesforce Announces General Availability of Einstein Copilot Along with New Einstein Copilot Actions for Sellers and Tools for Driving Enterprise AI Adoption
+[Summary]:Einstein Copilot, Salesforce's conversational AI assistant, is now generally available with new out-of-the-box actions for driving sales productivity.New Copilot Analytics enables admins to track...
+
+[Date]:2024-04-28 12:15:00
+[Headline]:Could Salesforce Stock Help You Become a Millionaire?
+[Summary]:The cloud-based software delivered a 100-bagger gain in 20 years.
+
+[Date]:2024-04-28 05:28:00
+[Headline]:Wells Fargo Remains a Hold on Salesforce (CRM)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-27 23:00:00
+[Headline]:FVAL: Attractive Valuation Despite A Heavy Weight In Technology
+[Summary]:Fidelity Value Factor ETF selects stocks based on four valuation ratios, with a focus on large companies. Read why FVAL stock is a Hold.
+
+[Date]:2024-04-27 06:16:00
+[Headline]:Buy Rating Affirmed for Salesforce Amidst Strategic Acquisitions and Healthy Cloud Software Sector
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-27 05:36:29
+[Headline]:SAP: Strong Cloud Revenue To Continue Supporting Premium Valuation
+[Summary]:SAP's cloud business sees robust growth and a promising backlog, fueled by AI adoption, which could boost margins with integrated technology.
+
+[Date]:2024-04-26 21:35:00
+[Headline]:Three New Dividend Growth Companies For A Retirement Nest Egg
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-26 06:29:00
+[Headline]:Salesforce's AI Innovations, Partner Network Expansion Impress Analyst
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-26 04:30:00
+[Headline]:The Top 3 Software Stocks to Buy in April 2024
+[Summary]:The software industry has experienced remarkable growth, primarily due to innovative technologies such as cloud computing and generative AI that have recently taken over the market. Technology stocks have been one of the best-performing industries in the stock market. The Technology Select Sector SPDR Fund (NYSEARCA:XLK) is a benchmark representation of the overall technology industry, and over this past year, it has risen by 38%, while the S&P 500 has only increased by 25% within the same time
+
+[Date]:2024-04-25 23:30:00
+[Headline]:Weitz Large Cap Equity Fund Q1 2024 Commentary
+[Summary]:The Large Cap Equity Fund's Institutional Class returned +7.79% for the first quarter compared to +10.30% for the Russell 1000 Index.
+
+[Date]:2024-04-25 05:00:29
+[Headline]:Insiders At Salesforce Sold US$253m In Stock, Alluding To Potential Weakness
+[Summary]:Many Salesforce, Inc. ( NYSE:CRM ) insiders ditched their stock over the past year, which may be of interest to the...
+
+[Date]:2024-04-25 03:57:00
+[Headline]:Is Baozun's Risky Leap Into Brand Management Starting To Pay Off?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-25 03:50:00
+[Headline]:These 3 Dow Stocks Are Set to Soar in 2024 and Beyond
+[Summary]:Forget the "Dogs of the Dow." These could be the darlings of the Dow in the future.
+
+[Date]:2024-04-25 02:00:00
+[Headline]:C3.ai Is Undervalued, but Will Face Profitability Pressures
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-25 02:00:00
+[Headline]:What's Going on With Salesforce Stock?
+[Summary]:Even though the acquisition rumors may have been called off, Salesforce has been an exciting company to follow.
+
+[Date]:2024-04-24 23:17:00
+[Headline]:Alarm Bells: 3 Overvalued Tech Stocks to Sell Before the AI Bubble Bursts
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-24 23:02:00
+[Headline]:Insider Sell: Salesforce Inc (CRM) President and COO Brian Millham Sells 4,204 Shares
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-24 21:40:00
+[Headline]:Salesforce Inc. stock outperforms competitors despite losses on the day
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-24 21:23:28
+[Headline]:Salesforce com : Launches AI-Powered Capabilities to Help Banks Quickly Resolve Transaction Disputes
+[Summary]:AI-Powered Transaction Dispute Management streamlines the entire dispute process to resolve customer inquiries and requests more efficiently Einstein Copilot...
+
+[Date]:2024-04-24 21:23:27
+[Headline]:Salesforce com : Goosehead Insurance Adopts the Einstein 1 Platform, Unlocking Stronger Customer Relationships and Increased Productivity
+[Summary]:Goosehead Insurance, an independent personal lines insurance agency, is now using the Einstein 1 Platform to build deeper client relationships and improve productivity with trusted...
+
+[Date]:2024-04-24 21:23:26
+[Headline]:Salesforce com : Announces General Availability of Einstein Copilot Along with New Einstein Copilot Actions for Sellers and Tools for Driving Enterprise AI Adoption
+[Summary]:Einstein Copilot, Salesforce's conversational AI assistant, is now generally available with new out-of-the-box actions for driving sales productivity New Copilot...
+
+[Date]:2024-04-24 20:17:00
+[Headline]:U.S. Tech Giants Prioritize Ethics, Cut Ties with Sandvine
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-24 10:16:38
+[Headline]:12 Best Growth Stocks to Buy and Hold in 2024
+[Summary]:In this piece, we will take a look at the 12 best growth stocks to buy and hold in 2024. If you want to skip our overview of growth stocks and how they relate to the current stock market environment, then you can take a look at the 5 Best Growth Stocks to Buy and […]
+
+[Date]:2024-04-24 10:00:00
+[Headline]:Salesforce Warns of AI Climate Impact, Calls for More Disclosure
+[Summary]:Salesforce released sustainable AI policy priorities, suggesting that regulators look into how AI systems could impact the environment.
+
+[Date]:2024-04-24 06:40:00
+[Headline]:Salesforce Inc EVP & Chief Accounting Officer Sundeep Reddy Sells Company Shares
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-24 06:40:00
+[Headline]:Insider Sell: Salesforce Inc (CRM) President and CFO Amy Weaver Sold 4,096 Shares
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-24 05:07:00
+[Headline]:Is Salesforce an Excellent Artificial Intelligence (AI) Stock to Buy?
+[Summary]:Salesforce has some exciting ideas regarding artificial intelligence.
+
+[Date]:2024-04-24 02:09:15
+[Headline]:Pipeline to Paycheck: Salesforce Adds Incentive Compensation Management to Sales Cloud
+[Summary]:Salesforce today announced the launch of Salesforce Spiff, incentive compensation management functionality built right into the world's #1 AI CRM, to automate commissions and motivate...
+
+[Date]:2024-04-24 02:09:14
+[Headline]:Salesforce com : Accelerates Salesblazers with New Community Experience
+[Summary]:Expanded offering highlights Salesforce's commitment to building the largest and most successful community of sales professionals The Salesblazer Community is one...
+
+[Date]:2024-04-24 02:09:13
+[Headline]:Salesforce com : Enhances Slack Sales Elevate with AI, Automation, and Personalized Team Performance Views for Leaders
+[Summary]:Improved deal notifications and filters, automated sales process templates, and Slack AI capabilities provide better visibility into performance so sales executives can stay informed,...
+
+[Date]:2024-04-24 02:01:24
+[Headline]:13 Best Ethical Companies to Invest in 2024
+[Summary]:In this piece, we will take a look at the 13 best ethical companies to invest in 2024. If you want to skip our overview of ESG stocks, then you can take a look at 5 Best Ethical Companies to Invest in 2024. The relationship of the corporate sector with the well-being of the general […]
+
+[Date]:2024-04-24 01:27:00
+[Headline]:D.A. Davidson Sticks to Its Hold Rating for Salesforce (CRM)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-24 01:22:00
+[Headline]:Salesforce elevated to 'Best-of-Breed Bison' at DA Davidson
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-24 00:26:00
+[Headline]:Microsoft, Amazon AI deals being looked into by UK regulator
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-23 23:27:00
+[Headline]:Strategic Shift: IBM Reportedly Eyes HashiCorp Acquisition
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-23 21:48:00
+[Headline]:Barclays Keeps Their Buy Rating on Salesforce (CRM)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-23 19:21:00
+[Headline]:Looking At Salesforce's Recent Unusual Options Activity
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-23 13:36:42
+[Headline]:Salesforce Pushes for Transparency in AI Emissions Reporting
+[Summary]:Salesforce Inc (NYSE:CRM) advocates for increased environmental regulation of artificial intelligence, pointing out the technology sector’s high energy usage and lack of emissions reporting. On Monday, the software developer announced its intention to push lawmakers and regulators to develop legislation that mandates AI emissions disclosure using standardized measurement and reporting metrics. Megan Lorenzen, Salesforce’s director of climate and energy, emphasized AI’s dual potential to worsen o
+
+[Date]:2024-04-23 05:00:00
+[Headline]:3 Stocks With the Potential to Surpass Analyst Expectations for 2024
+[Summary]:Many investors look to analysts’ expectations to guide their movements each quarter. Typically, those investors can reasonably use estimates as a reference. However, some stocks rise above and beyond those expectations with breakthrough products, exciting partnerships/deals and incredible quarterly performances. Stocks with such potential give investors a golden opportunity to buy at a lower price but enjoy considerable returns after a company’s performance blows away any and all estimates. We h
+
+[Date]:2024-04-23 04:00:00
+[Headline]:You Won't Believe What the Salesforce CEO Said
+[Summary]:The CEO has reasons to be bullish on the company's future.
+
+[Date]:2024-04-23 03:12:00
+[Headline]:Video: Dow Movers: CRM, VZ
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-23 03:06:00
+[Headline]:Forget Nvidia: Billionaires Are Selling It and Buying These 2 High-Octane Artificial Intelligence (AI) Growth Stocks Instead
+[Summary]:Billionaire investors are ditching the "infrastructure backbone" of the artificial intelligence (AI) revolution in favor of two industry-leading, irreplaceable AI stocks.
+
+[Date]:2024-04-23 02:51:54
+[Headline]:Salesforce: On Track To Deliver Solid Revenue Growth
+[Summary]:Salesforce remains at forefront of the generative AI revolution and has been outperforming the broader U.S. stock market. See why I rate CRM stock a strong buy.
+
+[Date]:2024-04-23 02:07:18
+[Headline]:Salesforce com : Announces Implementation and Data Governance Bundles for Safe and Secure AI Rollouts
+[Summary]:The AI Implementation Bundle provides essential development tools that help customers build, test, deploy, and extend AI experiences across their organizations ...
+
+[Date]:2024-04-23 01:14:41
+[Headline]:Salesforce And Informatica: No Matter How It Ends, These Are The Takeaways
+[Summary]:Rumors of Salesforce acquiring Informatica (INFA) have caused a stir in the market. See what I think of the rumored acquisition and my recommendation on CRM.
+
+[Date]:2024-04-22 23:44:00
+[Headline]:Informatica pullback a buying opportunity, says BofA
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 15:45:18
+[Headline]:Salesforce.com (CRM) Beats Stock Market Upswing: What Investors Need to Know
+[Summary]:Salesforce.com (CRM) closed the most recent trading day at $273.81, moving +1.27% from the previous trading session.
+
+[Date]:2024-04-22 10:52:25
+[Headline]:Bull Signal Flashing for Cloud Technology Stock
+[Summary]:The equity's 126-day moving average acted as a springboard in the past
+
+[Date]:2024-04-22 09:46:25
+[Headline]:Salesforce Stock Relief? Informatica Says No Deal Talks Currently
+[Summary]:Amid reports that Salesforce had been eyeing an acquisition, software maker Informatica on Monday said it's not currently engaged in any discussions to be bought.
+
+[Date]:2024-04-22 08:54:47
+[Headline]:Trending : Salesforce Ends Deal Talks With Informatica
+[Summary]:14:38 ET -- Salesforce is one of the most mentioned companies in the U.S. across all news items in the past 12 hours, according to Factiva data. Merger talks with data-management software provider...
+
+[Date]:2024-04-22 08:26:04
+[Headline]:Salesforce, Informatica end acquisition talks: WSJ
+[Summary]:Shares of Salesforce (CRM) are trading higher on Monday following a Wall Street Journal report stating the company has cooled talks to acquire Informatica (INFA) after failing to come to an agreement on deal terms. Informatica has since announced that they are currently not engaged in any acquisition talks, ahead of the company's earnings report next week. Yahoo Finance's Brad Smith and Seana Smith break down the details. For more expert insight and the latest market action, click here to watch this full episode of Morning Brief. This post was written by Angel Smith
+
+[Date]:2024-04-22 07:51:00
+[Headline]:Salesforce Stock Jumps After Informatica Talks Cool. Why the Market Is Rejoicing.
+[Summary]:Investors weren’t too keen on the deal as shares of both Salesforce and Informatica fell sharply after the talks were first reported earlier this month.
+
+[Date]:2024-04-22 07:45:12
+[Headline]:Are You a Growth Investor? This 1 Stock Could Be the Perfect Pick
+[Summary]:Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.
+
+[Date]:2024-04-22 06:35:00
+[Headline]:The AI Boom: From FOMO to Focused
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 06:29:00
+[Headline]:Goldman’s buybacks basket: Buyback growth will be 13% in 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 06:23:00
+[Headline]:Vista Outdoor, Salesforce rise; Tesla, Cardinal Health fall, Monday, 4/22/2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 06:00:00
+[Headline]:IHG Hotels & Resorts Aims to Boost Guest Loyalty with Salesforce
+[Summary]:SAN FRANCISCO & WINDSOR, England, April 22, 2024--Today, Salesforce (NYSE: CRM), the #1 AI CRM, announced an expanded relationship with IHG Hotels & Resorts (NYSE: IHG, LON: IHG), one of the world’s leading hotel companies with more than 6,000 hotels across 19 global brands, to drive guest loyalty through its IHG One Rewards program and unlock efficiencies, deeper personalization, and faster innovation.
+
+[Date]:2024-04-22 05:16:00
+[Headline]:Salesforce and Informatica End Acquisition Talks Over Price Disagreements
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 05:16:00
+[Headline]:What You Missed On Wall Street This Morning
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 04:16:00
+[Headline]:Informatica Plunges: Acquisition Rumors Fade, But Strong FY24 Forecasts Remain
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 04:14:00
+[Headline]:Salesforce, Goldman Sachs share gains contribute to Dow's 111-point climb
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 04:12:06
+[Headline]:Salesforce com : Paves the Way for More Sustainable and Equitable AI
+[Summary]:Newly-established Sustainable AI Policy Principles aim to guide advocacy with regulators and lawmakers Five nonprofits will develop AI-focused climate solutions...
+
+[Date]:2024-04-22 04:10:00
+[Headline]:Dividend yield and growth stock list by Goldman
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 03:55:00
+[Headline]:LI Stock Alert: Li Auto Crumbles as Competition Forces Price Cuts
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 03:23:00
+[Headline]:Adient Layoffs 2024: What to Know About the Latest Adient Job Cuts
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 03:22:41
+[Headline]:Informatica says it is not in any acquisition talks
+[Summary]:Data-management software firmInformatica said on Monday it is not currently engagedin any discussions to be acquired. Salesforce has backed way from its talks to acquireInformatica...
+
+[Date]:2024-04-22 03:03:00
+[Headline]:Investors Cheer Salesforce (CRM) Stock as Informatica Deal Deflates
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 02:33:00
+[Headline]:Informatica falls as it confirms it's not engaged in takeover talks
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 02:08:00
+[Headline]:Biggest stock movers today: CAH, INFA, crypto-related stocks and more
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 01:16:00
+[Headline]:GLOBAL BROKER RATINGS: Jefferies raises B&M, Bernstein raises Prysmian
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 01:03:00
+[Headline]:Wall Street Breakfast: Change Comes Slowly
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 00:56:11
+[Headline]:Wall Street Breakfast Podcast: Tesla's Weekend Moves: Price Cuts, Pressures Precede Earnings
+[Summary]:Tesla price cuts go global; cost of Full Self-Driving slashed by a third. Salesforce's talks to acquire Informatica flame out. MEVCO, Rivian ink pact to provide EVs to the mining industry.
+
+[Date]:2024-04-21 22:40:00
+[Headline]:Biggest stock movers today: INFA, crypto-related stocks and more
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-21 21:29:00
+[Headline]:What You Missed On Wall Street On Monday
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-21 20:33:00
+[Headline]:M&A News: Salesforce-Informatica Deal Crumbles
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-21 20:12:00
+[Headline]:See Which Of The Latest 13F Filers Holds Salesforce
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-21 18:41:39
+[Headline]:SCHD: If You've Won The Game, Take A Little Off The Top
+[Summary]:SCHD is a great capital gains storage for positions that may be getting over-concentrated in your portfolio. Read why SCHD ETF is a Buy.
+
+[Date]:2024-04-21 18:20:22
+[Headline]:Salesforce Talks with Informatica Cool Over Price
+[Summary]:(Bloomberg) -- Salesforce Inc.’s takeover talks with Informatica Inc. have cooled with both parties struggling to agree to terms, according to a person familiar with the matter.Most Read from BloombergElon Musk’s Robotaxi Dreams Plunge Tesla Into ChaosTikTok to Remove Executive Tasked With Fending Off US ClaimsTrump Has Only $6.8 Million for Legal Fees With Trial UnderwayTesla Spends Weekend Cutting Prices of Cars and FSD SoftwareThe Fed’s Forecasting Method Looks Increasingly Outdated as Bernan
+
+[Date]:2024-04-21 18:00:00
+[Headline]:Salesforce’s Talks to Buy Informatica Fizzle
+[Summary]:Talks between  Salesforce  and data-management software firm  Informatica  have fizzled after the companies couldn’t agree on terms, according to people familiar with the matter.  The Wall Street Journal reported earlier this month that Salesforce was discussing a deal to buy Redwood City, Calif.-based Informatica, which could have been valued in the neighborhood of $10 billion.  It would have ranked among Salesforce’s largest acquisitions.
+
+[Date]:2024-04-21 13:30:16
+[Headline]:Salesforce's talks to buy Informatica fizzle, WSJ reports
+[Summary]:Talks between customer relationssoftware maker Salesforce and data-management softwarefirm Informatica have failed after the companies couldnot agree on terms, the Wall Street Journal reported on...
+
+[Date]:2024-04-21 08:49:44
+[Headline]:11 Hot Growth Stocks To Buy Right Now
+[Summary]:In this article, we discuss the 11 hot growth stocks to buy now. If you want to read about some more growth stocks that are active in the market, go directly to the 5 Hot Growth Stocks To Buy Right Now. As 2024 moves forward, the outlook for both the stock and bond markets undergoes […]
+
+[Date]:2024-04-21 07:00:30
+[Headline]:Is There An Opportunity With Salesforce, Inc.'s (NYSE:CRM) 35% Undervaluation?
+[Summary]:Key Insights Using the 2 Stage Free Cash Flow to Equity, Salesforce fair value estimate is US$418 Salesforce is...
+
+[Date]:2024-04-21 02:47:00
+[Headline]:Salesforce, Informatica reportedly can’t agree to deal terms
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-21 01:48:00
+[Headline]:Salesforce's talks to acquire Informatica flame out - WSJ
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-21 01:42:00
+[Headline]:Salesforce's talks to acquire Informatica fizzle out - WSJ
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-21 01:05:00
+[Headline]:Fly Intel: Top five weekend stock stories
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-20 22:31:00
+[Headline]:Salesforce price target raised by $10 at Jefferies, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-19 07:00:15
+[Headline]:Here is What to Know Beyond Why Salesforce Inc. (CRM) is a Trending Stock
+[Summary]:Recently, Zacks.com users have been paying close attention to Salesforce.com (CRM). This makes it worthwhile to examine what the stock has in store.
+
+[Date]:2024-04-19 05:59:00
+[Headline]:Technology’s outlook hurdles for Q2 - SSGA
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 21:46:00
+[Headline]:Buy Rating Affirmed for Salesforce Amidst Potential Informatica Acquisition and AI Growth Opportunities
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 15:00:39
+[Headline]:19 Best Alternatives to Discord in 2024
+[Summary]:In this article, we will look at the 19 best alternatives to Discord in 2024. If you want to skip our detailed analysis, you can go directly to the 5 Best Alternatives to Discord in 2024. An Overview of the Unified Communication and Collaboration Market Discord is a unified communication and collaboration software originally designed […]
+
+[Date]:2024-04-18 07:30:10
+[Headline]:Is It Worth Investing in Salesforce.com (CRM) Based on Wall Street's Bullish Views?
+[Summary]:Based on the average brokerage recommendation (ABR), Salesforce.com (CRM) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?
+
+[Date]:2024-04-18 06:38:00
+[Headline]:10 Information Technology Stocks With Whale Alerts In Today's Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 05:14:00
+[Headline]:BofA’s US 1 List - New additions include CSCO, GS and SPGI
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 04:21:00
+[Headline]:Smart Money Is Betting Big In CRM Options
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 04:00:00
+[Headline]:Salesforce's Activist Makeover Faces Trial By M&A
+[Summary]:Salesforce is in advanced talks to buy Informatica, the Wall Street Journal reported on Friday, citing people familiar with the matter.
+
+[Date]:2024-04-18 02:48:16
+[Headline]:Salesforce com : How Data, Trust, and Contextual UX Deliver AI Success
+[Summary]:Artificial intelligence is the most promising technological disruption of our lifetimes, and will significantly affect every aspect of business operations, from sales and service to marketing,...
+
+[Date]:2024-04-18 02:48:15
+[Headline]:New Survey: Data Will Make or Break Workers’ Trust in AI
+[Summary]:Key Takeaways Your Data, Your AI study finds that more than half of workers believe generative AI lacks the data needed to be useful A Salesforce survey of nearly 6,000 global knowledge workers...
+
+[Date]:2024-04-18 02:06:13
+[Headline]:Salesforce com : Brings Slack AI to All Paid Customers, Adds Recap to Deliver Daily Morning Digests
+[Summary]:Slack strengthens its AI-powered platform as it continues rolling out native generative AI capabilities to users, including enhanced search, channel and thread summaries, and a new...
+
+[Date]:2024-04-18 02:06:12
+[Headline]:Salesforce com : How Slack AI Helps Beyond Better Foods Save Time and Streamline Work
+[Summary]:Healthy dessert brand Beyond Better Foods is a fully remote small business that relies on Slack as its primary communication platform, and it's become the central hub for knowledge...
+
+[Date]:2024-04-17 23:41:31
+[Headline]:Insider Sell: Salesforce Inc (CRM) President and CFO Amy Weaver Sold 5,864 Shares
+[Summary]:Amy Weaver, President and Chief Financial Officer of Salesforce Inc (NYSE:CRM), sold 5,864 shares of the company on April 16, 2024, according to a recent SEC Filing.
+
+[Date]:2024-04-17 23:41:29
+[Headline]:Insider Srinivas Tallapragada Sells Shares of Salesforce Inc (CRM)
+[Summary]:Srinivas Tallapragada, President and Chief Engineering Officer of Salesforce Inc (NYSE:CRM), has sold 5,864 shares of the company on April 16, 2024, according to a recent SEC Filing.
+
+[Date]:2024-04-17 18:45:52
+[Headline]:Intapp: Valuation Has Gotten Attractive Again
+[Summary]:Growth deceleration reported by Intapp in 2Q24 is likely the cause for the decrease in share price. See why I upgrade INTA stock from hold to buy.
+
+[Date]:2024-04-17 15:10:00
+[Headline]:Top Research Reports for Eli Lilly, Linde & Caterpillar
+[Summary]:Today's Research Daily features new research reports on 16 major stocks, including Eli Lilly and Company (LLY), Linde plc (LIN) and Caterpillar Inc. (CAT).
+
+[Date]:2024-04-17 06:09:00
+[Headline]:Salesforce’s Activist Makeover Faces Trial By M&A
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 05:00:37
+[Headline]:Institutional investors in Salesforce, Inc. (NYSE:CRM) see US$24b decrease in market cap last week, although long-term gains have benefitted them.
+[Summary]:Key Insights Institutions' substantial holdings in Salesforce implies that they have significant influence over the...
+
+[Date]:2024-04-17 02:35:00
+[Headline]:3 Stocks That Can Help You to Get Richer in 2024
+[Summary]:Each of these companies can keep growing robustly (if not ridiculously), and one offers a fat 5.8% dividend yield.
+
+[Date]:2024-04-16 21:03:00
+[Headline]:New Buy Rating for Salesforce (CRM), the Technology Giant
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 20:07:00
+[Headline]:Salesforce merger is a bad idea, says Informatica co-founder
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 15:45:20
+[Headline]:Salesforce.com (CRM) Outpaces Stock Market Gains: What You Should Know
+[Summary]:Salesforce.com (CRM) closed at $278.29 in the latest trading session, marking a +1.98% move from the prior day.
+
+[Date]:2024-04-16 07:00:10
+[Headline]:Why Investors Need to Take Advantage of These 2 Computer and Technology Stocks Now
+[Summary]:Investors looking for ways to find stocks that are set to beat quarterly earnings estimates should check out the Zacks Earnings ESP.
+
+[Date]:2024-04-16 06:36:00
+[Headline]:Salesforce’s Strategic and Financially Sound Acquisition of Informatica Backed by Analyst’s Buy Rating
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 06:31:00
+[Headline]:Analysts Offer Insights on Technology Companies: Xiaomi (OtherXIACF), Kenvue, Inc. (KVUE) and Salesforce (CRM)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 03:30:00
+[Headline]:Big Tech Is Downsizing Workspace in Another Blow to Office Real Estate
+[Summary]:The pullback marks a sharp reversal after years when companies had been bolstering their office footprints by adding millions of square feet of space.
+
+[Date]:2024-04-16 02:40:00
+[Headline]:Elliott Wave Technical Analysis: Salesforce Inc.
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 02:11:00
+[Headline]:Morgan Stanley says rumored deal with Informatica may meet Salesforce criteria
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 00:18:00
+[Headline]:Salesforce.com: A Strong Buy on Integrated Cloud Services and Economies of Scale
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 00:08:00
+[Headline]:Who Owns Salesforce Stock (NYSE:CRM)?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 00:01:00
+[Headline]:Navigating Market Uncertainty: Intrinsic Value of Salesforce Inc
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 23:11:00
+[Headline]:Stock Indices Sell-off Amid Rising Geopolitical Tensions In The Middle East. China's Gdp Grew The Most In A Year
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 22:43:00
+[Headline]:Market Briefing For Tuesday, April 16
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 21:49:00
+[Headline]:Tech Layoffs, Remote Work Push Office Vacancies To 19.6%, Highest Since 1979
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 20:34:00
+[Headline]:Dow's nearly 150-point rally highlighted by gains in UnitedHealth, Salesforce stocks
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 20:34:00
+[Headline]:Dow's 250-point rally highlighted by gains in shares of UnitedHealth, Salesforce
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 19:50:00
+[Headline]:The Cathie Wood Stock Shuffle: 4 Names She’s Loving, 3 She’s Leaving
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 19:40:13
+[Headline]:Why Salesforce Stock Fell Today
+[Summary]:The CRM platform provider is reportedly in late-stage talks to acquire Informatica.
+
+[Date]:2024-04-15 15:49:00
+[Headline]:Marks Cannot Sustain Rebound Amid High Bond Rates
+[Summary]:The 10-year bond yield was up on a specter of higher interest rates for longer.
+
+[Date]:2024-04-15 15:46:53
+[Headline]:Why Informatica Stock Got Mashed on Monday
+[Summary]:A huge name in the customer-relationship management space is apparently interested in owning the company.
+
+[Date]:2024-04-15 14:12:46
+[Headline]:Salesforce in talks to buy Informatica: WSJ
+[Summary]:Salesforce (CRM) is reportedly in advanced talks to acquire data management software company Informatica (INFA), according to a Wall Street Journal report. The potential acquisition would allow Salesforce to boost its data integration and management capabilities by tapping into Informatica's product suite. Yahoo Finance's Julie Hyman and Josh Lipton break down the details, discussing Salesforce CEO Marc Benioff's proxy battles regarding M&A deals. For more expert insight and the latest market action, click here to watch this full episode of Market Domination. This post was written by Angel Smith
+
+[Date]:2024-04-15 13:31:57
+[Headline]:Why Salesforce (CRM) Stock Is Nosediving
+[Summary]:Shares of customer relationship management software maker Salesforce (NYSE:CRM) fell 7.1% in the afternoon session after the Wall Street Journal reported that the company is in advanced talks to acquire data management software provider Informatica. A few years ago, after the market believed it overpaid for Slack, Salesforce seemed to signal that it would stop making large acquisitions and instead focus on growing organically and increasing its margins. This news is inconsistent with that, and t
+
+[Date]:2024-04-15 10:17:00
+[Headline]:NEW YORK MARKET CLOSE: Dow hit by hot retail sales, Middle East nerves
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 05:54:00
+[Headline]:Salesforce, Amazon, Meta, AMD, and Other Tech Stocks in Focus Today
+[Summary]:Tech stocks were in rebound mode early Monday on investor relief that the conflict between Iran and Israel has not yet escalated further.
+
+[Date]:2024-04-15 09:30:00
+[Headline]:Heard on the Street: Can Salesforce Hit Informatica’s Price?
+[Summary]:Buying Informatica may turn out to be the truest test yet of Marc Benioff’s sales prowess.  The co-founder and CEO of Salesforce had seemingly sworn off major acquisitions for his once acquisitive company.  The Wall Street Journal reported late Friday that the company is in “advanced talks” to acquire Informatica, which specializes in data management software.
+
+[Date]:2024-04-15 07:54:31
+[Headline]:Stocks to Watch Monday: Goldman Sachs, Tesla, Apple, Salesforce
+[Summary]:↗️ **Goldman Sachs (GS)**: The bank's earnings blew past Wall Street expectations, boosted by a jump in investment-banking revenue. Its stock was up over 5% shortly after the market open. ↘️ **Tesla (TSLA)**: The EV maker will cut more than 10% of its workforce globally as it grapples with dimming growth prospects.
+
+[Date]:2024-04-15 08:51:49
+[Headline]:Stocks fall as Treasury yields, Middle east tensions weigh
+[Summary]:U.S. stocks fell onMonday, as an early lift from a strong retail sales report gaveway to a jump in Treasury yields and concerns about risingtensions in the Middle East. With the S&P...
+
+[Date]:2024-04-15 08:32:48
+[Headline]:Dow Jones Pares Gains As Yields Surge On Retail Sales; Goldman Pops, Tesla Slashes Jobs
+[Summary]:Stocks rose as Iran-Israel fears ebb. Tesla will slash jobs. Goldman earnings beat. Apple iPhone demand woes grow.
+
+[Date]:2024-04-15 08:07:00
+[Headline]:Salesforce (CRM) in Takeover Talks With Informatica Per Reports
+[Summary]:If the acquisition of Informatica materializes, it will bolster Salesforce's (CRM) capabilities in data integration and management, a crucial aspect of its CRM platform.
+
+[Date]:2024-04-14 19:37:19
+[Headline]:Salesforce Eyes Informatica to Boost Data Capabilities
+[Summary]:(Bloomberg) -- Salesforce Inc.’s Marc Benioff is pursuing what would be one of the company’s biggest-ever deals after fending of activists investors critical of his reliance on acquisitions.Most Read from BloombergIsrael Versus Iran — What All-Out War Could Look LikeTexas Warns of Possible Power Emergency Next WeekIran’s Missile Barrage Was an Error Israel Can Gain FromApple’s iPhone Shipments Drop 10% as Android Rivals RiseIsrael Grapples With New Phase in Its Multi-Front War With IranThis time
+
+[Date]:2024-04-15 06:32:00
+[Headline]:Stocks Stay Afloat On Strong Retail Sales, Middle East Relief; Bonds Drop: What's Driving Markets Monday?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 06:20:00
+[Headline]:M&T Bank, Goldman Sachs rise; Salesforce, Tesla fall, Monday, 4/15/2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 06:17:00
+[Headline]:3 More AI Stocks to Buy as Nvidia Stock Keeps Soaring
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 06:15:00
+[Headline]:Salesforce and Informatica Shares Dip Amid Potential Acquisition Talks
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 06:06:00
+[Headline]:Salesforce (CRM): New Buy Recommendation for This Technology Giant
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+
+
+[Fileings]:
+[Date]:2023-05-30
+[val]:974000000.0
+[accn]:0001108524-23-000023
+[fy]:2024
+[fp]:Q1
+[form]:10-Q
+
+[Date]:2023-08-28
+[val]:973000000.0
+[accn]:0001108524-23-000040
+[fy]:2024
+[fp]:Q2
+[form]:10-Q
+
+[Date]:2023-11-27
+[val]:968000000.0
+[accn]:0001108524-23-000048
+[fy]:2024
+[fp]:Q3
+[form]:10-Q
+
+[Date]:2024-02-29
+[val]:970000000.0
+[accn]:0001108524-24-000005
+[fy]:2024
+[fp]:FY
+[form]:10-K
+
+
+
+[Stock Movements]:
+[Date]:2023-05-12 00:00:00
+[Open]:203.42999267578125
+[High]:203.9600067138672
+[Low]:200.1300048828125
+[Close]:201.80999755859375
+[Adj Close]:201.54672241210938
+[Volume]:4733000
+
+[Date]:2023-05-15 00:00:00
+[Open]:203.75
+[High]:205.39999389648438
+[Low]:202.47999572753906
+[Close]:203.3300018310547
+[Adj Close]:203.0647430419922
+[Volume]:4518200
+
+[Date]:2023-05-16 00:00:00
+[Open]:201.92999267578125
+[High]:205.6699981689453
+[Low]:201.75
+[Close]:204.55999755859375
+[Adj Close]:204.2931365966797
+[Volume]:4423200
+
+[Date]:2023-05-17 00:00:00
+[Open]:206.5
+[High]:209.49000549316406
+[Low]:204.8000030517578
+[Close]:209.3800048828125
+[Adj Close]:209.1068572998047
+[Volume]:5772200
+
+[Date]:2023-05-18 00:00:00
+[Open]:209.5
+[High]:213.8800048828125
+[Low]:209.3300018310547
+[Close]:213.32000732421875
+[Adj Close]:213.04171752929688
+[Volume]:5165500
+
+[Date]:2023-05-19 00:00:00
+[Open]:212.9600067138672
+[High]:213.24000549316406
+[Low]:209.92999267578125
+[Close]:210.36000061035156
+[Adj Close]:210.0855712890625
+[Volume]:6090800
+
+[Date]:2023-05-22 00:00:00
+[Open]:209.1699981689453
+[High]:212.82000732421875
+[Low]:209.0399932861328
+[Close]:210.25999450683594
+[Adj Close]:209.98570251464844
+[Volume]:3890800
+
+[Date]:2023-05-23 00:00:00
+[Open]:207.74000549316406
+[High]:209.63999938964844
+[Low]:206.47000122070312
+[Close]:206.63999938964844
+[Adj Close]:206.37042236328125
+[Volume]:4256800
+
+[Date]:2023-05-24 00:00:00
+[Open]:206.0399932861328
+[High]:210.2100067138672
+[Low]:205.4199981689453
+[Close]:209.05999755859375
+[Adj Close]:208.78726196289062
+[Volume]:4894000
+
+[Date]:2023-05-25 00:00:00
+[Open]:212.02000427246094
+[High]:212.3300018310547
+[Low]:208.44000244140625
+[Close]:209.91000366210938
+[Adj Close]:209.63616943359375
+[Volume]:6496700
+
+[Date]:2023-05-26 00:00:00
+[Open]:212.8000030517578
+[High]:216.14999389648438
+[Low]:212.5500030517578
+[Close]:215.44000244140625
+[Adj Close]:215.15895080566406
+[Volume]:6933300
+
+[Date]:2023-05-30 00:00:00
+[Open]:219.27000427246094
+[High]:222.13999938964844
+[Low]:215.72999572753906
+[Close]:218.8699951171875
+[Adj Close]:218.58445739746094
+[Volume]:10421000
+
+[Date]:2023-05-31 00:00:00
+[Open]:219.5500030517578
+[High]:225.0
+[Low]:217.05999755859375
+[Close]:223.3800048828125
+[Adj Close]:223.08859252929688
+[Volume]:19624000
+
+[Date]:2023-06-01 00:00:00
+[Open]:208.22000122070312
+[High]:215.36000061035156
+[Low]:206.05999755859375
+[Close]:212.89999389648438
+[Adj Close]:212.62225341796875
+[Volume]:20907400
+
+[Date]:2023-06-02 00:00:00
+[Open]:212.89999389648438
+[High]:216.13999938964844
+[Low]:210.42999267578125
+[Close]:213.02999877929688
+[Adj Close]:212.75209045410156
+[Volume]:11023500
+
+[Date]:2023-06-05 00:00:00
+[Open]:210.47000122070312
+[High]:212.32000732421875
+[Low]:207.05999755859375
+[Close]:209.86000061035156
+[Adj Close]:209.5862274169922
+[Volume]:7804400
+
+[Date]:2023-06-06 00:00:00
+[Open]:208.5500030517578
+[High]:213.39999389648438
+[Low]:208.3699951171875
+[Close]:212.85000610351562
+[Adj Close]:212.57232666015625
+[Volume]:6796000
+
+[Date]:2023-06-07 00:00:00
+[Open]:214.8800048828125
+[High]:216.66000366210938
+[Low]:204.77999877929688
+[Close]:205.72999572753906
+[Adj Close]:205.46160888671875
+[Volume]:9323900
+
+[Date]:2023-06-08 00:00:00
+[Open]:205.3800048828125
+[High]:210.3800048828125
+[Low]:204.85000610351562
+[Close]:209.52999877929688
+[Adj Close]:209.25665283203125
+[Volume]:5548600
+
+[Date]:2023-06-09 00:00:00
+[Open]:210.69000244140625
+[High]:218.66000366210938
+[Low]:210.69000244140625
+[Close]:215.30999755859375
+[Adj Close]:215.02911376953125
+[Volume]:7676700
+
+[Date]:2023-06-12 00:00:00
+[Open]:216.14999389648438
+[High]:220.38999938964844
+[Low]:212.13999938964844
+[Close]:213.69000244140625
+[Adj Close]:213.41122436523438
+[Volume]:11568300
+
+[Date]:2023-06-13 00:00:00
+[Open]:215.5
+[High]:216.22999572753906
+[Low]:207.9199981689453
+[Close]:208.97999572753906
+[Adj Close]:208.70736694335938
+[Volume]:11698900
+
+[Date]:2023-06-14 00:00:00
+[Open]:207.6999969482422
+[High]:211.7100067138672
+[Low]:205.02000427246094
+[Close]:209.39999389648438
+[Adj Close]:209.12681579589844
+[Volume]:8963400
+
+[Date]:2023-06-15 00:00:00
+[Open]:207.9499969482422
+[High]:213.3300018310547
+[Low]:207.3699951171875
+[Close]:211.9199981689453
+[Adj Close]:211.64353942871094
+[Volume]:7905400
+
+[Date]:2023-06-16 00:00:00
+[Open]:213.5399932861328
+[High]:213.64999389648438
+[Low]:210.60000610351562
+[Close]:211.75999450683594
+[Adj Close]:211.48373413085938
+[Volume]:13671200
+
+[Date]:2023-06-20 00:00:00
+[Open]:208.64999389648438
+[High]:217.0500030517578
+[Low]:208.61000061035156
+[Close]:216.97000122070312
+[Adj Close]:216.68695068359375
+[Volume]:9522900
+
+[Date]:2023-06-21 00:00:00
+[Open]:216.52000427246094
+[High]:217.8000030517578
+[Low]:208.07000732421875
+[Close]:209.58999633789062
+[Adj Close]:209.3165740966797
+[Volume]:7971600
+
+[Date]:2023-06-22 00:00:00
+[Open]:209.6300048828125
+[High]:213.9600067138672
+[Low]:209.08999633789062
+[Close]:213.2899932861328
+[Adj Close]:213.01174926757812
+[Volume]:5689800
+
+[Date]:2023-06-23 00:00:00
+[Open]:210.5
+[High]:211.0
+[Low]:208.07000732421875
+[Close]:210.08999633789062
+[Adj Close]:209.81591796875
+[Volume]:14017200
+
+[Date]:2023-06-26 00:00:00
+[Open]:209.02000427246094
+[High]:211.75
+[Low]:207.35000610351562
+[Close]:207.36000061035156
+[Adj Close]:207.08949279785156
+[Volume]:4771500
+
+[Date]:2023-06-27 00:00:00
+[Open]:208.13999938964844
+[High]:210.47999572753906
+[Low]:207.52000427246094
+[Close]:208.82000732421875
+[Adj Close]:208.54759216308594
+[Volume]:4014800
+
+[Date]:2023-06-28 00:00:00
+[Open]:208.41000366210938
+[High]:212.1999969482422
+[Low]:207.60000610351562
+[Close]:212.1699981689453
+[Adj Close]:211.89320373535156
+[Volume]:4775900
+
+[Date]:2023-06-29 00:00:00
+[Open]:211.89999389648438
+[High]:212.64999389648438
+[Low]:209.72000122070312
+[Close]:210.42999267578125
+[Adj Close]:210.1554718017578
+[Volume]:3838300
+
+[Date]:2023-06-30 00:00:00
+[Open]:211.86000061035156
+[High]:213.85000610351562
+[Low]:210.9600067138672
+[Close]:211.25999450683594
+[Adj Close]:210.98439025878906
+[Volume]:5983800
+
+[Date]:2023-07-03 00:00:00
+[Open]:210.57000732421875
+[High]:211.9600067138672
+[Low]:209.9199981689453
+[Close]:211.64999389648438
+[Adj Close]:211.37388610839844
+[Volume]:2400000
+
+[Date]:2023-07-05 00:00:00
+[Open]:210.49000549316406
+[High]:214.6199951171875
+[Low]:210.08999633789062
+[Close]:213.82000732421875
+[Adj Close]:213.5410614013672
+[Volume]:5069300
+
+[Date]:2023-07-06 00:00:00
+[Open]:211.1999969482422
+[High]:212.5
+[Low]:207.8300018310547
+[Close]:210.13999938964844
+[Adj Close]:209.86585998535156
+[Volume]:4250900
+
+[Date]:2023-07-07 00:00:00
+[Open]:209.77000427246094
+[High]:212.11000061035156
+[Low]:209.27999877929688
+[Close]:209.58999633789062
+[Adj Close]:209.3165740966797
+[Volume]:3020800
+
+[Date]:2023-07-10 00:00:00
+[Open]:209.0
+[High]:212.8699951171875
+[Low]:208.32000732421875
+[Close]:212.80999755859375
+[Adj Close]:212.53237915039062
+[Volume]:3820100
+
+[Date]:2023-07-11 00:00:00
+[Open]:222.05999755859375
+[High]:222.35000610351562
+[Low]:217.24000549316406
+[Close]:221.1699981689453
+[Adj Close]:220.8814697265625
+[Volume]:10030500
+
+[Date]:2023-07-12 00:00:00
+[Open]:221.89999389648438
+[High]:228.08999633789062
+[Low]:221.61000061035156
+[Close]:227.27999877929688
+[Adj Close]:226.98348999023438
+[Volume]:8923500
+
+[Date]:2023-07-13 00:00:00
+[Open]:228.25999450683594
+[High]:230.9600067138672
+[Low]:227.60000610351562
+[Close]:230.3699951171875
+[Adj Close]:230.0694580078125
+[Volume]:5800300
+
+[Date]:2023-07-14 00:00:00
+[Open]:229.6999969482422
+[High]:232.1999969482422
+[Low]:228.14999389648438
+[Close]:229.3300018310547
+[Adj Close]:229.03082275390625
+[Volume]:4274700
+
+[Date]:2023-07-17 00:00:00
+[Open]:229.24000549316406
+[High]:230.27999877929688
+[Low]:227.80999755859375
+[Close]:228.0
+[Adj Close]:227.7025604248047
+[Volume]:3557900
+
+[Date]:2023-07-18 00:00:00
+[Open]:227.0500030517578
+[High]:229.6199951171875
+[Low]:225.47000122070312
+[Close]:227.6300048828125
+[Adj Close]:227.3330535888672
+[Volume]:5094200
+
+[Date]:2023-07-19 00:00:00
+[Open]:233.97999572753906
+[High]:238.22000122070312
+[Low]:231.22999572753906
+[Close]:234.3699951171875
+[Adj Close]:234.06423950195312
+[Volume]:8516300
+
+[Date]:2023-07-20 00:00:00
+[Open]:231.10000610351562
+[High]:233.5
+[Low]:227.32000732421875
+[Close]:228.16000366210938
+[Adj Close]:227.8623504638672
+[Volume]:5303000
+
+[Date]:2023-07-21 00:00:00
+[Open]:230.0
+[High]:230.80999755859375
+[Low]:227.2899932861328
+[Close]:228.05999755859375
+[Adj Close]:227.76248168945312
+[Volume]:3527800
+
+[Date]:2023-07-24 00:00:00
+[Open]:227.25999450683594
+[High]:227.58999633789062
+[Low]:223.5399932861328
+[Close]:225.66000366210938
+[Adj Close]:225.36561584472656
+[Volume]:5363200
+
+[Date]:2023-07-25 00:00:00
+[Open]:225.8800048828125
+[High]:227.52000427246094
+[Low]:225.19000244140625
+[Close]:226.02999877929688
+[Adj Close]:225.73512268066406
+[Volume]:3203700
+
+[Date]:2023-07-26 00:00:00
+[Open]:224.4600067138672
+[High]:227.50999450683594
+[Low]:223.1199951171875
+[Close]:225.5800018310547
+[Adj Close]:225.2857208251953
+[Volume]:4856700
+
+[Date]:2023-07-27 00:00:00
+[Open]:228.0399932861328
+[High]:230.13999938964844
+[Low]:224.00999450683594
+[Close]:225.14999389648438
+[Adj Close]:224.8562774658203
+[Volume]:4299600
+
+[Date]:2023-07-28 00:00:00
+[Open]:226.0
+[High]:227.30999755859375
+[Low]:223.97999572753906
+[Close]:225.60000610351562
+[Adj Close]:225.30569458007812
+[Volume]:4238700
+
+[Date]:2023-07-31 00:00:00
+[Open]:222.35000610351562
+[High]:225.3800048828125
+[Low]:221.75
+[Close]:225.00999450683594
+[Adj Close]:224.71646118164062
+[Volume]:5571900
+
+[Date]:2023-08-01 00:00:00
+[Open]:223.88999938964844
+[High]:224.80999755859375
+[Low]:221.6300048828125
+[Close]:224.27000427246094
+[Adj Close]:223.97743225097656
+[Volume]:4212600
+
+[Date]:2023-08-02 00:00:00
+[Open]:221.97999572753906
+[High]:222.85000610351562
+[Low]:218.8000030517578
+[Close]:220.5
+[Adj Close]:220.21234130859375
+[Volume]:5127000
+
+[Date]:2023-08-03 00:00:00
+[Open]:216.1999969482422
+[High]:218.2100067138672
+[Low]:214.60000610351562
+[Close]:215.55999755859375
+[Adj Close]:215.27877807617188
+[Volume]:5515200
+
+[Date]:2023-08-04 00:00:00
+[Open]:216.41000366210938
+[High]:217.25
+[Low]:213.07000732421875
+[Close]:214.58999633789062
+[Adj Close]:214.31004333496094
+[Volume]:4799800
+
+[Date]:2023-08-07 00:00:00
+[Open]:215.30999755859375
+[High]:216.88999938964844
+[Low]:214.3699951171875
+[Close]:216.05999755859375
+[Adj Close]:215.77813720703125
+[Volume]:3615200
+
+[Date]:2023-08-08 00:00:00
+[Open]:213.5500030517578
+[High]:214.19000244140625
+[Low]:211.13999938964844
+[Close]:211.5800018310547
+[Adj Close]:211.30398559570312
+[Volume]:4843800
+
+[Date]:2023-08-09 00:00:00
+[Open]:211.64999389648438
+[High]:211.66000366210938
+[Low]:204.91000366210938
+[Close]:205.86000061035156
+[Adj Close]:205.59144592285156
+[Volume]:7847500
+
+[Date]:2023-08-10 00:00:00
+[Open]:208.17999267578125
+[High]:210.33999633789062
+[Low]:206.44000244140625
+[Close]:208.25
+[Adj Close]:207.9783172607422
+[Volume]:4004700
+
+[Date]:2023-08-11 00:00:00
+[Open]:206.1300048828125
+[High]:209.5
+[Low]:205.5
+[Close]:208.6999969482422
+[Adj Close]:208.427734375
+[Volume]:2930000
+
+[Date]:2023-08-14 00:00:00
+[Open]:207.89999389648438
+[High]:212.10000610351562
+[Low]:207.1199951171875
+[Close]:212.05999755859375
+[Adj Close]:211.78335571289062
+[Volume]:3304700
+
+[Date]:2023-08-15 00:00:00
+[Open]:210.3300018310547
+[High]:212.3699951171875
+[Low]:207.83999633789062
+[Close]:208.77999877929688
+[Adj Close]:208.50762939453125
+[Volume]:4076400
+
+[Date]:2023-08-16 00:00:00
+[Open]:208.0
+[High]:209.69000244140625
+[Low]:206.9499969482422
+[Close]:206.99000549316406
+[Adj Close]:206.719970703125
+[Volume]:2759600
+
+[Date]:2023-08-17 00:00:00
+[Open]:206.57000732421875
+[High]:206.92999267578125
+[Low]:203.38999938964844
+[Close]:203.83999633789062
+[Adj Close]:203.57406616210938
+[Volume]:4062700
+
+[Date]:2023-08-18 00:00:00
+[Open]:200.97000122070312
+[High]:205.5
+[Low]:200.1999969482422
+[Close]:204.8300018310547
+[Adj Close]:204.5627899169922
+[Volume]:4266200
+
+[Date]:2023-08-21 00:00:00
+[Open]:206.0
+[High]:209.4199981689453
+[Low]:204.22000122070312
+[Close]:209.02999877929688
+[Adj Close]:208.75730895996094
+[Volume]:4023300
+
+[Date]:2023-08-22 00:00:00
+[Open]:209.85000610351562
+[High]:210.11000061035156
+[Low]:206.0
+[Close]:206.75999450683594
+[Adj Close]:206.49026489257812
+[Volume]:3153600
+
+[Date]:2023-08-23 00:00:00
+[Open]:208.0
+[High]:210.99000549316406
+[Low]:207.13999938964844
+[Close]:209.1300048828125
+[Adj Close]:208.857177734375
+[Volume]:3833200
+
+[Date]:2023-08-24 00:00:00
+[Open]:211.00999450683594
+[High]:211.99000549316406
+[Low]:205.44000244140625
+[Close]:205.50999450683594
+[Adj Close]:205.2418975830078
+[Volume]:3960300
+
+[Date]:2023-08-25 00:00:00
+[Open]:205.50999450683594
+[High]:210.7899932861328
+[Low]:205.47999572753906
+[Close]:209.47000122070312
+[Adj Close]:209.1967315673828
+[Volume]:3068800
+
+[Date]:2023-08-28 00:00:00
+[Open]:210.4499969482422
+[High]:213.47999572753906
+[Low]:209.63999938964844
+[Close]:211.72000122070312
+[Adj Close]:211.4438018798828
+[Volume]:4086900
+
+[Date]:2023-08-29 00:00:00
+[Open]:206.75
+[High]:212.4600067138672
+[Low]:206.52000427246094
+[Close]:211.9600067138672
+[Adj Close]:211.68348693847656
+[Volume]:5850400
+
+[Date]:2023-08-30 00:00:00
+[Open]:211.77000427246094
+[High]:215.58999633789062
+[Low]:209.42999267578125
+[Close]:215.0399932861328
+[Adj Close]:214.75946044921875
+[Volume]:9946000
+
+[Date]:2023-08-31 00:00:00
+[Open]:228.0
+[High]:228.7899932861328
+[Low]:221.1999969482422
+[Close]:221.4600067138672
+[Adj Close]:221.1710968017578
+[Volume]:19268400
+
+[Date]:2023-09-01 00:00:00
+[Open]:223.5
+[High]:223.97000122070312
+[Low]:220.52000427246094
+[Close]:221.52999877929688
+[Adj Close]:221.24099731445312
+[Volume]:5597100
+
+[Date]:2023-09-05 00:00:00
+[Open]:219.3300018310547
+[High]:220.32000732421875
+[Low]:217.61000061035156
+[Close]:218.69000244140625
+[Adj Close]:218.4047088623047
+[Volume]:5807300
+
+[Date]:2023-09-06 00:00:00
+[Open]:219.47000122070312
+[High]:222.2100067138672
+[Low]:219.02000427246094
+[Close]:221.6199951171875
+[Adj Close]:221.33087158203125
+[Volume]:5066700
+
+[Date]:2023-09-07 00:00:00
+[Open]:219.77000427246094
+[High]:222.72999572753906
+[Low]:219.30999755859375
+[Close]:222.52999877929688
+[Adj Close]:222.2397003173828
+[Volume]:4201900
+
+[Date]:2023-09-08 00:00:00
+[Open]:223.32000732421875
+[High]:225.47000122070312
+[Low]:222.86000061035156
+[Close]:224.75999450683594
+[Adj Close]:224.46678161621094
+[Volume]:4578900
+
+[Date]:2023-09-11 00:00:00
+[Open]:226.00999450683594
+[High]:226.8300018310547
+[Low]:222.7899932861328
+[Close]:225.30999755859375
+[Adj Close]:225.0160675048828
+[Volume]:4418000
+
+[Date]:2023-09-12 00:00:00
+[Open]:223.4499969482422
+[High]:224.7899932861328
+[Low]:221.25999450683594
+[Close]:221.66000366210938
+[Adj Close]:221.37083435058594
+[Volume]:4002300
+
+[Date]:2023-09-13 00:00:00
+[Open]:221.17999267578125
+[High]:221.86000061035156
+[Low]:218.3000030517578
+[Close]:218.8000030517578
+[Adj Close]:218.51455688476562
+[Volume]:4173600
+
+[Date]:2023-09-14 00:00:00
+[Open]:219.4199981689453
+[High]:220.57000732421875
+[Low]:218.33999633789062
+[Close]:218.77999877929688
+[Adj Close]:218.4945831298828
+[Volume]:4297200
+
+[Date]:2023-09-15 00:00:00
+[Open]:218.8699951171875
+[High]:219.19000244140625
+[Low]:213.4600067138672
+[Close]:214.61000061035156
+[Adj Close]:214.3300323486328
+[Volume]:9930200
+
+[Date]:2023-09-18 00:00:00
+[Open]:214.55999755859375
+[High]:216.3800048828125
+[Low]:214.17999267578125
+[Close]:215.0
+[Adj Close]:214.71951293945312
+[Volume]:4279400
+
+[Date]:2023-09-19 00:00:00
+[Open]:214.38999938964844
+[High]:216.05999755859375
+[Low]:212.25999450683594
+[Close]:215.6999969482422
+[Adj Close]:215.41859436035156
+[Volume]:4001500
+
+[Date]:2023-09-20 00:00:00
+[Open]:215.1999969482422
+[High]:217.17999267578125
+[Low]:212.9199981689453
+[Close]:213.02999877929688
+[Adj Close]:212.75209045410156
+[Volume]:2990900
+
+[Date]:2023-09-21 00:00:00
+[Open]:209.8000030517578
+[High]:211.88999938964844
+[Low]:208.07000732421875
+[Close]:208.61000061035156
+[Adj Close]:208.33786010742188
+[Volume]:4957300
+
+[Date]:2023-09-22 00:00:00
+[Open]:209.30999755859375
+[High]:209.72000122070312
+[Low]:205.8800048828125
+[Close]:206.42999267578125
+[Adj Close]:206.1606903076172
+[Volume]:3848300
+
+[Date]:2023-09-25 00:00:00
+[Open]:205.0
+[High]:206.52999877929688
+[Low]:203.8699951171875
+[Close]:206.33999633789062
+[Adj Close]:206.07081604003906
+[Volume]:4067300
+
+[Date]:2023-09-26 00:00:00
+[Open]:205.47000122070312
+[High]:206.44000244140625
+[Low]:201.27999877929688
+[Close]:202.49000549316406
+[Adj Close]:202.22584533691406
+[Volume]:5404500
+
+[Date]:2023-09-27 00:00:00
+[Open]:202.99000549316406
+[High]:203.92999267578125
+[Low]:200.94000244140625
+[Close]:202.72999572753906
+[Adj Close]:202.46551513671875
+[Volume]:4123800
+
+[Date]:2023-09-28 00:00:00
+[Open]:200.75999450683594
+[High]:205.14999389648438
+[Low]:199.5500030517578
+[Close]:203.1999969482422
+[Adj Close]:202.93490600585938
+[Volume]:4344000
+
+[Date]:2023-09-29 00:00:00
+[Open]:205.0800018310547
+[High]:207.7899932861328
+[Low]:202.10000610351562
+[Close]:202.77999877929688
+[Adj Close]:202.5154571533203
+[Volume]:4404700
+
+[Date]:2023-10-02 00:00:00
+[Open]:200.8000030517578
+[High]:205.11000061035156
+[Low]:200.52000427246094
+[Close]:203.7100067138672
+[Adj Close]:203.4442596435547
+[Volume]:3745700
+
+[Date]:2023-10-03 00:00:00
+[Open]:202.75
+[High]:203.57000732421875
+[Low]:197.4199981689453
+[Close]:199.8300018310547
+[Adj Close]:199.56930541992188
+[Volume]:4622400
+
+[Date]:2023-10-04 00:00:00
+[Open]:200.8800048828125
+[High]:202.74000549316406
+[Low]:199.50999450683594
+[Close]:201.8699951171875
+[Adj Close]:201.6066436767578
+[Volume]:3656400
+
+[Date]:2023-10-05 00:00:00
+[Open]:202.0
+[High]:202.14999389648438
+[Low]:198.49000549316406
+[Close]:202.00999450683594
+[Adj Close]:201.7464599609375
+[Volume]:3592600
+
+[Date]:2023-10-06 00:00:00
+[Open]:200.47999572753906
+[High]:208.27000427246094
+[Low]:199.88999938964844
+[Close]:207.36000061035156
+[Adj Close]:207.08949279785156
+[Volume]:4988200
+
+[Date]:2023-10-09 00:00:00
+[Open]:204.88999938964844
+[High]:208.27999877929688
+[Low]:204.69000244140625
+[Close]:207.22000122070312
+[Adj Close]:206.9496612548828
+[Volume]:2781100
+
+[Date]:2023-10-10 00:00:00
+[Open]:207.63999938964844
+[High]:209.22000122070312
+[Low]:206.25999450683594
+[Close]:206.8800048828125
+[Adj Close]:206.61012268066406
+[Volume]:4503500
+
+[Date]:2023-10-11 00:00:00
+[Open]:207.22999572753906
+[High]:209.1999969482422
+[Low]:204.41000366210938
+[Close]:206.85000610351562
+[Adj Close]:206.5801544189453
+[Volume]:3971000
+
+[Date]:2023-10-12 00:00:00
+[Open]:207.8300018310547
+[High]:208.5800018310547
+[Low]:203.27000427246094
+[Close]:205.67999267578125
+[Adj Close]:205.4116668701172
+[Volume]:3548500
+
+[Date]:2023-10-13 00:00:00
+[Open]:205.11000061035156
+[High]:207.13999938964844
+[Low]:203.2100067138672
+[Close]:204.58999633789062
+[Adj Close]:204.32308959960938
+[Volume]:3677500
+
+[Date]:2023-10-16 00:00:00
+[Open]:205.83999633789062
+[High]:209.49000549316406
+[Low]:205.0399932861328
+[Close]:208.52999877929688
+[Adj Close]:208.25794982910156
+[Volume]:3623200
+
+[Date]:2023-10-17 00:00:00
+[Open]:206.49000549316406
+[High]:211.94000244140625
+[Low]:206.0
+[Close]:209.83999633789062
+[Adj Close]:209.56625366210938
+[Volume]:4006100
+
+[Date]:2023-10-18 00:00:00
+[Open]:208.8800048828125
+[High]:209.6300048828125
+[Low]:204.19000244140625
+[Close]:204.8300018310547
+[Adj Close]:204.5627899169922
+[Volume]:3380800
+
+[Date]:2023-10-19 00:00:00
+[Open]:206.4499969482422
+[High]:210.9499969482422
+[Low]:205.52999877929688
+[Close]:208.32000732421875
+[Adj Close]:208.04823303222656
+[Volume]:4995900
+
+[Date]:2023-10-20 00:00:00
+[Open]:207.36000061035156
+[High]:208.11000061035156
+[Low]:202.1199951171875
+[Close]:203.72999572753906
+[Adj Close]:203.46421813964844
+[Volume]:5537500
+
+[Date]:2023-10-23 00:00:00
+[Open]:199.89999389648438
+[High]:203.57000732421875
+[Low]:197.85000610351562
+[Close]:202.0
+[Adj Close]:201.73648071289062
+[Volume]:4564100
+
+[Date]:2023-10-24 00:00:00
+[Open]:203.72999572753906
+[High]:204.63999938964844
+[Low]:200.92999267578125
+[Close]:204.22000122070312
+[Adj Close]:203.95358276367188
+[Volume]:3959600
+
+[Date]:2023-10-25 00:00:00
+[Open]:203.1999969482422
+[High]:203.74000549316406
+[Low]:195.42999267578125
+[Close]:197.05999755859375
+[Adj Close]:196.80291748046875
+[Volume]:4490000
+
+[Date]:2023-10-26 00:00:00
+[Open]:197.4199981689453
+[High]:199.66000366210938
+[Low]:193.67999267578125
+[Close]:196.25
+[Adj Close]:195.9939727783203
+[Volume]:5149100
+
+[Date]:2023-10-27 00:00:00
+[Open]:197.3000030517578
+[High]:198.30999755859375
+[Low]:195.41000366210938
+[Close]:196.57000732421875
+[Adj Close]:196.31356811523438
+[Volume]:3168600
+
+[Date]:2023-10-30 00:00:00
+[Open]:199.0
+[High]:200.5800018310547
+[Low]:197.0800018310547
+[Close]:199.27000427246094
+[Adj Close]:199.01004028320312
+[Volume]:3438300
+
+[Date]:2023-10-31 00:00:00
+[Open]:200.4199981689453
+[High]:201.91000366210938
+[Low]:198.66000366210938
+[Close]:200.8300018310547
+[Adj Close]:200.56800842285156
+[Volume]:3425400
+
+[Date]:2023-11-01 00:00:00
+[Open]:200.9199981689453
+[High]:204.49000549316406
+[Low]:200.49000549316406
+[Close]:203.91000366210938
+[Adj Close]:203.64398193359375
+[Volume]:3593600
+
+[Date]:2023-11-02 00:00:00
+[Open]:206.30999755859375
+[High]:208.25999450683594
+[Low]:205.9499969482422
+[Close]:208.11000061035156
+[Adj Close]:207.8385009765625
+[Volume]:4963600
+
+[Date]:2023-11-03 00:00:00
+[Open]:209.38999938964844
+[High]:210.17999267578125
+[Low]:207.1999969482422
+[Close]:207.47000122070312
+[Adj Close]:207.1993408203125
+[Volume]:3859100
+
+[Date]:2023-11-06 00:00:00
+[Open]:208.2100067138672
+[High]:208.47999572753906
+[Low]:204.69000244140625
+[Close]:207.4199981689453
+[Adj Close]:207.14939880371094
+[Volume]:3729700
+
+[Date]:2023-11-07 00:00:00
+[Open]:209.5
+[High]:213.33999633789062
+[Low]:208.9600067138672
+[Close]:211.83999633789062
+[Adj Close]:211.5636444091797
+[Volume]:5467100
+
+[Date]:2023-11-08 00:00:00
+[Open]:212.4199981689453
+[High]:212.52000427246094
+[Low]:209.64999389648438
+[Close]:211.47000122070312
+[Adj Close]:211.19412231445312
+[Volume]:3433500
+
+[Date]:2023-11-09 00:00:00
+[Open]:213.57000732421875
+[High]:213.5800018310547
+[Low]:209.07000732421875
+[Close]:210.00999450683594
+[Adj Close]:209.73602294921875
+[Volume]:4731400
+
+[Date]:2023-11-10 00:00:00
+[Open]:209.39999389648438
+[High]:214.27000427246094
+[Low]:208.83999633789062
+[Close]:213.6300048828125
+[Adj Close]:213.35130310058594
+[Volume]:4112600
+
+[Date]:2023-11-13 00:00:00
+[Open]:212.57000732421875
+[High]:216.13999938964844
+[Low]:211.75999450683594
+[Close]:215.27999877929688
+[Adj Close]:214.9991455078125
+[Volume]:3306600
+
+[Date]:2023-11-14 00:00:00
+[Open]:219.0
+[High]:221.25
+[Low]:217.9499969482422
+[Close]:221.17999267578125
+[Adj Close]:220.89144897460938
+[Volume]:4743800
+
+[Date]:2023-11-15 00:00:00
+[Open]:220.75
+[High]:221.3699951171875
+[Low]:217.66000366210938
+[Close]:219.4199981689453
+[Adj Close]:219.1337432861328
+[Volume]:4800700
+
+[Date]:2023-11-16 00:00:00
+[Open]:220.0
+[High]:222.77000427246094
+[Low]:218.94000244140625
+[Close]:221.4499969482422
+[Adj Close]:221.16110229492188
+[Volume]:3712300
+
+[Date]:2023-11-17 00:00:00
+[Open]:221.1699981689453
+[High]:222.7899932861328
+[Low]:220.3800048828125
+[Close]:221.22000122070312
+[Adj Close]:220.93141174316406
+[Volume]:3634900
+
+[Date]:2023-11-20 00:00:00
+[Open]:221.42999267578125
+[High]:226.10000610351562
+[Low]:220.6199951171875
+[Close]:225.1300048828125
+[Adj Close]:224.8363037109375
+[Volume]:4599300
+
+[Date]:2023-11-21 00:00:00
+[Open]:224.0
+[High]:225.97000122070312
+[Low]:223.5399932861328
+[Close]:224.32000732421875
+[Adj Close]:224.02737426757812
+[Volume]:3852300
+
+[Date]:2023-11-22 00:00:00
+[Open]:224.3000030517578
+[High]:225.69000244140625
+[Low]:223.2100067138672
+[Close]:223.83999633789062
+[Adj Close]:223.54798889160156
+[Volume]:3893600
+
+[Date]:2023-11-24 00:00:00
+[Open]:224.36000061035156
+[High]:224.49000549316406
+[Low]:222.1199951171875
+[Close]:224.3800048828125
+[Adj Close]:224.0872802734375
+[Volume]:1869100
+
+[Date]:2023-11-27 00:00:00
+[Open]:225.5
+[High]:226.22000122070312
+[Low]:224.25
+[Close]:224.7899932861328
+[Adj Close]:224.49673461914062
+[Volume]:4885500
+
+[Date]:2023-11-28 00:00:00
+[Open]:223.61000061035156
+[High]:225.52999877929688
+[Low]:222.22999572753906
+[Close]:224.9199981689453
+[Adj Close]:224.62657165527344
+[Volume]:5535300
+
+[Date]:2023-11-29 00:00:00
+[Open]:228.61000061035156
+[High]:231.5
+[Low]:227.25999450683594
+[Close]:230.35000610351562
+[Adj Close]:230.04949951171875
+[Volume]:12327400
+
+[Date]:2023-11-30 00:00:00
+[Open]:249.0500030517578
+[High]:252.5
+[Low]:243.64999389648438
+[Close]:251.89999389648438
+[Adj Close]:251.57138061523438
+[Volume]:24425700
+
+[Date]:2023-12-01 00:00:00
+[Open]:250.0
+[High]:263.42999267578125
+[Low]:249.6999969482422
+[Close]:260.0
+[Adj Close]:259.66082763671875
+[Volume]:14530700
+
+[Date]:2023-12-04 00:00:00
+[Open]:252.8000030517578
+[High]:255.1199951171875
+[Low]:249.85000610351562
+[Close]:250.66000366210938
+[Adj Close]:250.3330078125
+[Volume]:11429200
+
+[Date]:2023-12-05 00:00:00
+[Open]:249.99000549316406
+[High]:251.6699981689453
+[Low]:248.63999938964844
+[Close]:251.02000427246094
+[Adj Close]:250.69253540039062
+[Volume]:5771500
+
+[Date]:2023-12-06 00:00:00
+[Open]:251.52000427246094
+[High]:253.97999572753906
+[Low]:248.85000610351562
+[Close]:249.1300048828125
+[Adj Close]:248.80499267578125
+[Volume]:5374800
+
+[Date]:2023-12-07 00:00:00
+[Open]:248.75
+[High]:250.72999572753906
+[Low]:246.88999938964844
+[Close]:248.85000610351562
+[Adj Close]:248.52536010742188
+[Volume]:6568200
+
+[Date]:2023-12-08 00:00:00
+[Open]:248.5500030517578
+[High]:252.08999633789062
+[Low]:248.0
+[Close]:250.80999755859375
+[Adj Close]:250.48280334472656
+[Volume]:4604600
+
+[Date]:2023-12-11 00:00:00
+[Open]:250.0
+[High]:253.52000427246094
+[Low]:249.7100067138672
+[Close]:252.10000610351562
+[Adj Close]:251.7711181640625
+[Volume]:4766000
+
+[Date]:2023-12-12 00:00:00
+[Open]:251.8000030517578
+[High]:256.5799865722656
+[Low]:251.02000427246094
+[Close]:256.45001220703125
+[Adj Close]:256.1154479980469
+[Volume]:5827600
+
+[Date]:2023-12-13 00:00:00
+[Open]:257.510009765625
+[High]:259.1199951171875
+[Low]:255.16000366210938
+[Close]:257.32000732421875
+[Adj Close]:256.98431396484375
+[Volume]:6567600
+
+[Date]:2023-12-14 00:00:00
+[Open]:256.5
+[High]:258.7699890136719
+[Low]:253.22000122070312
+[Close]:257.2099914550781
+[Adj Close]:256.87445068359375
+[Volume]:6613200
+
+[Date]:2023-12-15 00:00:00
+[Open]:255.00999450683594
+[High]:262.30999755859375
+[Low]:254.50999450683594
+[Close]:261.6000061035156
+[Adj Close]:261.25872802734375
+[Volume]:13736800
+
+[Date]:2023-12-18 00:00:00
+[Open]:259.82000732421875
+[High]:265.5899963378906
+[Low]:259.67999267578125
+[Close]:263.5899963378906
+[Adj Close]:263.2461242675781
+[Volume]:7498500
+
+[Date]:2023-12-19 00:00:00
+[Open]:265.4700012207031
+[High]:266.5799865722656
+[Low]:263.739990234375
+[Close]:264.3399963378906
+[Adj Close]:263.9951477050781
+[Volume]:4665500
+
+[Date]:2023-12-20 00:00:00
+[Open]:261.6600036621094
+[High]:264.9200134277344
+[Low]:260.0799865722656
+[Close]:260.25
+[Adj Close]:259.9104919433594
+[Volume]:4510500
+
+[Date]:2023-12-21 00:00:00
+[Open]:264.75
+[High]:268.3599853515625
+[Low]:264.239990234375
+[Close]:267.25
+[Adj Close]:266.9013671875
+[Volume]:5160700
+
+[Date]:2023-12-22 00:00:00
+[Open]:267.260009765625
+[High]:268.1499938964844
+[Low]:265.29998779296875
+[Close]:266.3399963378906
+[Adj Close]:265.9925231933594
+[Volume]:3109900
+
+[Date]:2023-12-26 00:00:00
+[Open]:265.5299987792969
+[High]:266.5299987792969
+[Low]:264.6199951171875
+[Close]:266.2200012207031
+[Adj Close]:265.8727111816406
+[Volume]:3218800
+
+[Date]:2023-12-27 00:00:00
+[Open]:265.94000244140625
+[High]:267.010009765625
+[Low]:265.3999938964844
+[Close]:266.7200012207031
+[Adj Close]:266.3720397949219
+[Volume]:3387000
+
+[Date]:2023-12-28 00:00:00
+[Open]:266.5
+[High]:266.9200134277344
+[Low]:265.29998779296875
+[Close]:265.5799865722656
+[Adj Close]:265.2335205078125
+[Volume]:2958700
+
+[Date]:2023-12-29 00:00:00
+[Open]:265.010009765625
+[High]:265.6499938964844
+[Low]:262.6499938964844
+[Close]:263.1400146484375
+[Adj Close]:262.7967224121094
+[Volume]:3705500
+
+[Date]:2024-01-02 00:00:00
+[Open]:260.5400085449219
+[High]:260.55999755859375
+[Low]:253.77000427246094
+[Close]:256.1300048828125
+[Adj Close]:255.79586791992188
+[Volume]:4741400
+
+[Date]:2024-01-03 00:00:00
+[Open]:253.5
+[High]:254.16000366210938
+[Low]:251.77000427246094
+[Close]:251.83999633789062
+[Adj Close]:251.51145935058594
+[Volume]:5097100
+
+[Date]:2024-01-04 00:00:00
+[Open]:251.8300018310547
+[High]:252.63999938964844
+[Low]:249.83999633789062
+[Close]:251.24000549316406
+[Adj Close]:250.91224670410156
+[Volume]:4489800
+
+[Date]:2024-01-05 00:00:00
+[Open]:251.2100067138672
+[High]:253.91000366210938
+[Low]:250.1699981689453
+[Close]:251.1199951171875
+[Adj Close]:250.79238891601562
+[Volume]:3675600
+
+[Date]:2024-01-08 00:00:00
+[Open]:252.2100067138672
+[High]:261.55999755859375
+[Low]:251.38999938964844
+[Close]:260.8699951171875
+[Adj Close]:260.5296630859375
+[Volume]:6626000
+
+[Date]:2024-01-09 00:00:00
+[Open]:259.5
+[High]:263.92999267578125
+[Low]:258.7799987792969
+[Close]:261.3399963378906
+[Adj Close]:260.9990539550781
+[Volume]:4571800
+
+[Date]:2024-01-10 00:00:00
+[Open]:263.2699890136719
+[High]:266.4599914550781
+[Low]:262.75
+[Close]:264.1300048828125
+[Adj Close]:263.7854309082031
+[Volume]:5128300
+
+[Date]:2024-01-11 00:00:00
+[Open]:268.0
+[High]:272.9599914550781
+[Low]:265.1000061035156
+[Close]:271.3800048828125
+[Adj Close]:271.0259704589844
+[Volume]:9012600
+
+[Date]:2024-01-12 00:00:00
+[Open]:271.2300109863281
+[High]:275.239990234375
+[Low]:271.05999755859375
+[Close]:271.92999267578125
+[Adj Close]:271.57525634765625
+[Volume]:4847000
+
+[Date]:2024-01-16 00:00:00
+[Open]:269.70001220703125
+[High]:271.57000732421875
+[Low]:267.7200012207031
+[Close]:269.19000244140625
+[Adj Close]:268.8388366699219
+[Volume]:5858700
+
+[Date]:2024-01-17 00:00:00
+[Open]:268.2900085449219
+[High]:271.8999938964844
+[Low]:264.1300048828125
+[Close]:271.44000244140625
+[Adj Close]:271.08587646484375
+[Volume]:4706500
+
+[Date]:2024-01-18 00:00:00
+[Open]:273.0
+[High]:275.69000244140625
+[Low]:272.1400146484375
+[Close]:274.4599914550781
+[Adj Close]:274.1019287109375
+[Volume]:4752400
+
+[Date]:2024-01-19 00:00:00
+[Open]:276.510009765625
+[High]:282.0
+[Low]:275.5299987792969
+[Close]:280.8800048828125
+[Adj Close]:280.5135803222656
+[Volume]:7394000
+
+[Date]:2024-01-22 00:00:00
+[Open]:283.7900085449219
+[High]:285.7200012207031
+[Low]:280.1700134277344
+[Close]:280.29998779296875
+[Adj Close]:279.934326171875
+[Volume]:6735900
+
+[Date]:2024-01-23 00:00:00
+[Open]:280.8299865722656
+[High]:281.7099914550781
+[Low]:275.7099914550781
+[Close]:276.7699890136719
+[Adj Close]:276.408935546875
+[Volume]:6573800
+
+[Date]:2024-01-24 00:00:00
+[Open]:279.9800109863281
+[High]:280.9599914550781
+[Low]:276.69000244140625
+[Close]:276.8800048828125
+[Adj Close]:276.518798828125
+[Volume]:7037800
+
+[Date]:2024-01-25 00:00:00
+[Open]:278.6099853515625
+[High]:279.8500061035156
+[Low]:276.8599853515625
+[Close]:279.0299987792969
+[Adj Close]:278.6659851074219
+[Volume]:4178000
+
+[Date]:2024-01-26 00:00:00
+[Open]:279.2799987792969
+[High]:283.3399963378906
+[Low]:278.69000244140625
+[Close]:279.94000244140625
+[Adj Close]:279.5747985839844
+[Volume]:4877400
+
+[Date]:2024-01-29 00:00:00
+[Open]:281.3999938964844
+[High]:288.1499938964844
+[Low]:281.0
+[Close]:287.8599853515625
+[Adj Close]:287.4844665527344
+[Volume]:5762300
+
+[Date]:2024-01-30 00:00:00
+[Open]:287.6300048828125
+[High]:289.2900085449219
+[Low]:286.5199890136719
+[Close]:287.7300109863281
+[Adj Close]:287.3546447753906
+[Volume]:4810900
+
+[Date]:2024-01-31 00:00:00
+[Open]:284.04998779296875
+[High]:285.6300048828125
+[Low]:280.82000732421875
+[Close]:281.0899963378906
+[Adj Close]:280.7232971191406
+[Volume]:4557300
+
+[Date]:2024-02-01 00:00:00
+[Open]:282.010009765625
+[High]:285.04998779296875
+[Low]:281.3599853515625
+[Close]:283.79998779296875
+[Adj Close]:283.42974853515625
+[Volume]:3218300
+
+[Date]:2024-02-02 00:00:00
+[Open]:285.20001220703125
+[High]:288.1600036621094
+[Low]:283.1600036621094
+[Close]:285.6600036621094
+[Adj Close]:285.287353515625
+[Volume]:3629600
+
+[Date]:2024-02-05 00:00:00
+[Open]:286.25
+[High]:289.04998779296875
+[Low]:281.3599853515625
+[Close]:288.1099853515625
+[Adj Close]:287.734130859375
+[Volume]:5274800
+
+[Date]:2024-02-06 00:00:00
+[Open]:287.94000244140625
+[High]:288.6400146484375
+[Low]:281.9100036621094
+[Close]:285.8299865722656
+[Adj Close]:285.45709228515625
+[Volume]:4207200
+
+[Date]:2024-02-07 00:00:00
+[Open]:287.3500061035156
+[High]:289.79998779296875
+[Low]:285.20001220703125
+[Close]:288.8399963378906
+[Adj Close]:288.46319580078125
+[Volume]:3621400
+
+[Date]:2024-02-08 00:00:00
+[Open]:289.29998779296875
+[High]:293.1099853515625
+[Low]:288.9800109863281
+[Close]:291.95001220703125
+[Adj Close]:291.56915283203125
+[Volume]:4488400
+
+[Date]:2024-02-09 00:00:00
+[Open]:293.25
+[High]:295.239990234375
+[Low]:291.04998779296875
+[Close]:291.29998779296875
+[Adj Close]:290.9199523925781
+[Volume]:4376300
+
+[Date]:2024-02-12 00:00:00
+[Open]:290.82000732421875
+[High]:291.0
+[Low]:287.0
+[Close]:287.32000732421875
+[Adj Close]:286.9451904296875
+[Volume]:3750000
+
+[Date]:2024-02-13 00:00:00
+[Open]:280.4100036621094
+[High]:283.42999267578125
+[Low]:276.4200134277344
+[Close]:281.1499938964844
+[Adj Close]:280.783203125
+[Volume]:4956600
+
+[Date]:2024-02-14 00:00:00
+[Open]:285.0
+[High]:289.4599914550781
+[Low]:284.6400146484375
+[Close]:289.1499938964844
+[Adj Close]:288.77276611328125
+[Volume]:3850700
+
+[Date]:2024-02-15 00:00:00
+[Open]:291.3399963378906
+[High]:292.0
+[Low]:288.010009765625
+[Close]:291.94000244140625
+[Adj Close]:291.55914306640625
+[Volume]:3986500
+
+[Date]:2024-02-16 00:00:00
+[Open]:292.0
+[High]:292.07000732421875
+[Low]:287.8800048828125
+[Close]:289.7200012207031
+[Adj Close]:289.342041015625
+[Volume]:4159100
+
+[Date]:2024-02-20 00:00:00
+[Open]:289.5
+[High]:290.8500061035156
+[Low]:284.1499938964844
+[Close]:286.3900146484375
+[Adj Close]:286.0163879394531
+[Volume]:4295500
+
+[Date]:2024-02-21 00:00:00
+[Open]:280.07000732421875
+[High]:283.57000732421875
+[Low]:278.3599853515625
+[Close]:283.54998779296875
+[Adj Close]:283.1800842285156
+[Volume]:3799000
+
+[Date]:2024-02-22 00:00:00
+[Open]:292.0
+[High]:294.6300048828125
+[Low]:291.3999938964844
+[Close]:293.6499938964844
+[Adj Close]:293.26690673828125
+[Volume]:5264300
+
+[Date]:2024-02-23 00:00:00
+[Open]:298.0
+[High]:298.0
+[Low]:291.0799865722656
+[Close]:292.79998779296875
+[Adj Close]:292.4179992675781
+[Volume]:4416800
+
+[Date]:2024-02-26 00:00:00
+[Open]:295.5899963378906
+[High]:303.8299865722656
+[Low]:295.0
+[Close]:300.3900146484375
+[Adj Close]:299.9981384277344
+[Volume]:8719300
+
+[Date]:2024-02-27 00:00:00
+[Open]:301.5799865722656
+[High]:301.75
+[Low]:296.6000061035156
+[Close]:299.5
+[Adj Close]:299.1092834472656
+[Volume]:6178800
+
+[Date]:2024-02-28 00:00:00
+[Open]:299.5799865722656
+[High]:300.8800048828125
+[Low]:296.6099853515625
+[Close]:299.7699890136719
+[Adj Close]:299.37890625
+[Volume]:12490800
+
+[Date]:2024-02-29 00:00:00
+[Open]:300.0
+[High]:310.5400085449219
+[Low]:294.7900085449219
+[Close]:308.82000732421875
+[Adj Close]:308.4171447753906
+[Volume]:21737800
+
+[Date]:2024-03-01 00:00:00
+[Open]:307.0
+[High]:318.7099914550781
+[Low]:306.6199951171875
+[Close]:316.8800048828125
+[Adj Close]:316.46661376953125
+[Volume]:9450200
+
+[Date]:2024-03-04 00:00:00
+[Open]:314.57000732421875
+[High]:317.6499938964844
+[Low]:313.5400085449219
+[Close]:314.6400146484375
+[Adj Close]:314.22955322265625
+[Volume]:9350000
+
+[Date]:2024-03-05 00:00:00
+[Open]:311.30999755859375
+[High]:312.54998779296875
+[Low]:296.1400146484375
+[Close]:298.75
+[Adj Close]:298.3602600097656
+[Volume]:9015300
+
+[Date]:2024-03-06 00:00:00
+[Open]:304.6499938964844
+[High]:305.8900146484375
+[Low]:302.739990234375
+[Close]:303.7699890136719
+[Adj Close]:303.3736877441406
+[Volume]:8270000
+
+[Date]:2024-03-07 00:00:00
+[Open]:306.0
+[High]:306.7699890136719
+[Low]:301.75
+[Close]:302.4200134277344
+[Adj Close]:302.0254821777344
+[Volume]:6788900
+
+[Date]:2024-03-08 00:00:00
+[Open]:302.20001220703125
+[High]:308.8699951171875
+[Low]:302.20001220703125
+[Close]:305.2799987792969
+[Adj Close]:304.8817443847656
+[Volume]:4849800
+
+[Date]:2024-03-11 00:00:00
+[Open]:302.6400146484375
+[High]:307.6099853515625
+[Low]:300.25
+[Close]:306.0
+[Adj Close]:305.6007995605469
+[Volume]:4895500
+
+[Date]:2024-03-12 00:00:00
+[Open]:306.7099914550781
+[High]:309.0400085449219
+[Low]:303.8699951171875
+[Close]:306.6199951171875
+[Adj Close]:306.2200012207031
+[Volume]:4832000
+
+[Date]:2024-03-13 00:00:00
+[Open]:305.0
+[High]:307.7300109863281
+[Low]:303.1099853515625
+[Close]:304.67999267578125
+[Adj Close]:304.67999267578125
+[Volume]:5548800
+
+[Date]:2024-03-14 00:00:00
+[Open]:305.0
+[High]:309.489990234375
+[Low]:302.0
+[Close]:303.32000732421875
+[Adj Close]:303.32000732421875
+[Volume]:4828800
+
+[Date]:2024-03-15 00:00:00
+[Open]:298.9599914550781
+[High]:300.04998779296875
+[Low]:293.7699890136719
+[Close]:294.3299865722656
+[Adj Close]:294.3299865722656
+[Volume]:11884500
+
+[Date]:2024-03-18 00:00:00
+[Open]:299.6199951171875
+[High]:300.9700012207031
+[Low]:296.0199890136719
+[Close]:300.510009765625
+[Adj Close]:300.510009765625
+[Volume]:5240500
+
+[Date]:2024-03-19 00:00:00
+[Open]:298.17999267578125
+[High]:301.7699890136719
+[Low]:296.6199951171875
+[Close]:301.45001220703125
+[Adj Close]:301.45001220703125
+[Volume]:3329900
+
+[Date]:2024-03-20 00:00:00
+[Open]:301.9700012207031
+[High]:307.0199890136719
+[Low]:300.69000244140625
+[Close]:306.0799865722656
+[Adj Close]:306.0799865722656
+[Volume]:4946600
+
+[Date]:2024-03-21 00:00:00
+[Open]:307.94000244140625
+[High]:311.79998779296875
+[Low]:306.3500061035156
+[Close]:308.3900146484375
+[Adj Close]:308.3900146484375
+[Volume]:6083900
+
+[Date]:2024-03-22 00:00:00
+[Open]:309.32000732421875
+[High]:310.2300109863281
+[Low]:306.6499938964844
+[Close]:307.7699890136719
+[Adj Close]:307.7699890136719
+[Volume]:3779000
+
+[Date]:2024-03-25 00:00:00
+[Open]:303.70001220703125
+[High]:307.7099914550781
+[Low]:302.5400085449219
+[Close]:306.05999755859375
+[Adj Close]:306.05999755859375
+[Volume]:4141200
+
+[Date]:2024-03-26 00:00:00
+[Open]:307.4800109863281
+[High]:307.9800109863281
+[Low]:304.8900146484375
+[Close]:305.8299865722656
+[Adj Close]:305.8299865722656
+[Volume]:3893900
+
+[Date]:2024-03-27 00:00:00
+[Open]:307.44000244140625
+[High]:309.29998779296875
+[Low]:298.6300048828125
+[Close]:301.3800048828125
+[Adj Close]:301.3800048828125
+[Volume]:3859900
+
+[Date]:2024-03-28 00:00:00
+[Open]:300.0
+[High]:302.79998779296875
+[Low]:299.6300048828125
+[Close]:301.17999267578125
+[Adj Close]:301.17999267578125
+[Volume]:4892300
+
+[Date]:2024-04-01 00:00:00
+[Open]:301.69000244140625
+[High]:303.510009765625
+[Low]:299.989990234375
+[Close]:302.260009765625
+[Adj Close]:302.260009765625
+[Volume]:2918100
+
+[Date]:2024-04-02 00:00:00
+[Open]:297.5
+[High]:304.4599914550781
+[Low]:294.8900146484375
+[Close]:304.0
+[Adj Close]:304.0
+[Volume]:4746100
+
+[Date]:2024-04-03 00:00:00
+[Open]:303.989990234375
+[High]:307.1600036621094
+[Low]:303.1000061035156
+[Close]:304.739990234375
+[Adj Close]:304.739990234375
+[Volume]:3047400
+
+[Date]:2024-04-04 00:00:00
+[Open]:308.260009765625
+[High]:311.29998779296875
+[Low]:292.1000061035156
+[Close]:294.1400146484375
+[Adj Close]:294.1400146484375
+[Volume]:8351000
+
+[Date]:2024-04-05 00:00:00
+[Open]:293.5400085449219
+[High]:303.4200134277344
+[Low]:293.29998779296875
+[Close]:301.9100036621094
+[Adj Close]:301.9100036621094
+[Volume]:4917600
+
+[Date]:2024-04-08 00:00:00
+[Open]:301.1000061035156
+[High]:303.5
+[Low]:299.5199890136719
+[Close]:301.7300109863281
+[Adj Close]:301.7300109863281
+[Volume]:3142900
+
+[Date]:2024-04-09 00:00:00
+[Open]:303.32000732421875
+[High]:305.6000061035156
+[Low]:299.25
+[Close]:302.3699951171875
+[Adj Close]:302.3699951171875
+[Volume]:2998100
+
+[Date]:2024-04-10 00:00:00
+[Open]:298.45001220703125
+[High]:300.9200134277344
+[Low]:298.1499938964844
+[Close]:299.6199951171875
+[Adj Close]:299.6199951171875
+[Volume]:3036400
+
+[Date]:2024-04-11 00:00:00
+[Open]:299.4700012207031
+[High]:301.0899963378906
+[Low]:296.4100036621094
+[Close]:299.1499938964844
+[Adj Close]:299.1499938964844
+[Volume]:3468600
+
+[Date]:2024-04-12 00:00:00
+[Open]:296.8699951171875
+[High]:297.8500061035156
+[Low]:293.5
+[Close]:294.32000732421875
+[Adj Close]:294.32000732421875
+[Volume]:3816700
+
+[Date]:2024-04-15 00:00:00
+[Open]:282.94000244140625
+[High]:286.4800109863281
+[Low]:271.6600036621094
+[Close]:272.8999938964844
+[Adj Close]:272.8999938964844
+[Volume]:18365100
+
+[Date]:2024-04-16 00:00:00
+[Open]:274.7799987792969
+[High]:280.55999755859375
+[Low]:272.44000244140625
+[Close]:277.4100036621094
+[Adj Close]:277.4100036621094
+[Volume]:7624300
+
+[Date]:2024-04-17 00:00:00
+[Open]:277.739990234375
+[High]:278.9700012207031
+[Low]:274.8399963378906
+[Close]:276.32000732421875
+[Adj Close]:276.32000732421875
+[Volume]:4199400
+
+[Date]:2024-04-18 00:00:00
+[Open]:276.32000732421875
+[High]:276.3299865722656
+[Low]:269.75
+[Close]:271.9200134277344
+[Adj Close]:271.9200134277344
+[Volume]:5918200
+
+[Date]:2024-04-19 00:00:00
+[Open]:272.489990234375
+[High]:273.1499938964844
+[Low]:268.7300109863281
+[Close]:270.3699951171875
+[Adj Close]:270.3699951171875
+[Volume]:4903600
+
+[Date]:2024-04-22 00:00:00
+[Open]:279.3900146484375
+[High]:279.70001220703125
+[Low]:269.55999755859375
+[Close]:273.80999755859375
+[Adj Close]:273.80999755859375
+[Volume]:6747200
+
+[Date]:2024-04-23 00:00:00
+[Open]:274.95001220703125
+[High]:276.70001220703125
+[Low]:270.4100036621094
+[Close]:276.67999267578125
+[Adj Close]:276.67999267578125
+[Volume]:6285200
+
+[Date]:2024-04-24 00:00:00
+[Open]:278.0
+[High]:278.94000244140625
+[Low]:274.1099853515625
+[Close]:276.19000244140625
+[Adj Close]:276.19000244140625
+[Volume]:3938800
+
+[Date]:2024-04-25 00:00:00
+[Open]:271.6000061035156
+[High]:273.5799865722656
+[Low]:269.2799987792969
+[Close]:273.1400146484375
+[Adj Close]:273.1400146484375
+[Volume]:4811900
+
+[Date]:2024-04-26 00:00:00
+[Open]:275.0
+[High]:276.8999938964844
+[Low]:273.4599914550781
+[Close]:274.2900085449219
+[Adj Close]:274.2900085449219
+[Volume]:3754600
+
+[Date]:2024-04-29 00:00:00
+[Open]:274.8900146484375
+[High]:277.2900085449219
+[Low]:273.2200012207031
+[Close]:275.739990234375
+[Adj Close]:275.739990234375
+[Volume]:3576400
+
+[Date]:2024-04-30 00:00:00
+[Open]:274.510009765625
+[High]:274.6099853515625
+[Low]:268.3599853515625
+[Close]:268.94000244140625
+[Adj Close]:268.94000244140625
+[Volume]:5218000
+
+[Date]:2024-05-01 00:00:00
+[Open]:269.0199890136719
+[High]:274.0
+[Low]:266.54998779296875
+[Close]:268.69000244140625
+[Adj Close]:268.69000244140625
+[Volume]:3761000
+
+[Date]:2024-05-02 00:00:00
+[Open]:270.42999267578125
+[High]:273.0799865722656
+[Low]:267.94000244140625
+[Close]:272.1300048828125
+[Adj Close]:272.1300048828125
+[Volume]:3859900
+
+[Date]:2024-05-03 00:00:00
+[Open]:276.82000732421875
+[High]:277.6700134277344
+[Low]:273.3500061035156
+[Close]:273.6600036621094
+[Adj Close]:273.6600036621094
+[Volume]:4041600
+
+[Date]:2024-05-06 00:00:00
+[Open]:276.1700134277344
+[High]:277.1300048828125
+[Low]:274.05999755859375
+[Close]:275.6300048828125
+[Adj Close]:275.6300048828125
+[Volume]:3744800
+
+[Date]:2024-05-07 00:00:00
+[Open]:275.5899963378906
+[High]:278.8800048828125
+[Low]:274.07000732421875
+[Close]:277.17999267578125
+[Adj Close]:277.17999267578125
+[Volume]:3507700
+
+[Date]:2024-05-08 00:00:00
+[Open]:275.7300109863281
+[High]:279.94000244140625
+[Low]:275.7300109863281
+[Close]:278.9700012207031
+[Adj Close]:278.9700012207031
+[Volume]:3283300
+
+[Date]:2024-05-09 00:00:00
+[Open]:272.1700134277344
+[High]:275.3500061035156
+[Low]:271.07000732421875
+[Close]:275.1700134277344
+[Adj Close]:275.1700134277344
+[Volume]:4709700
+
+[Date]:2024-05-10 00:00:00
+[Open]:276.1000061035156
+[High]:279.6400146484375
+[Low]:274.9700012207031
+[Close]:276.6700134277344
+[Adj Close]:276.6700134277344
+[Volume]:2912000
+

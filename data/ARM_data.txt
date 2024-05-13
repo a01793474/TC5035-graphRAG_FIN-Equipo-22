@@ -1,0 +1,2256 @@
+[Company Introduction]:
+Arm Holdings PLC is a leading entity in the Semiconductors sector. Incorporated and publicly traded since 2023-09-14, the company has established its reputation as one of the key players in the market. As of today, Arm Holdings PLC has a market capitalization of 107767.83 in USD, with 1028.08 shares outstanding.
+Arm Holdings PLC operates primarily in the GB, trading under the ticker ARM on the NASDAQ NMS - GLOBAL MARKET. As a dominant force in the Semiconductors space, the company continues to innovate and drive progress within the industry.
+
+
+[Address]:
+Main office address is in 1717 SOUTH BOULDER AVENUE None TULSA,OK 74119
+tel: 9182957600
+
+
+[Stock]:
+Entity Common Stock, Shares Outstanding this means Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument.
+
+
+[News]:
+[Date]:2024-05-10 08:29:25
+[Headline]:Apple is catching up with the AI revolution: Dan Ives
+[Summary]:As Big Tech companies reported earnings, they also revealed a massive wave of planned spending on AI projects and infrastructure. Some companies like Alphabet (GOOG, GOOGL), Meta (META), and Microsoft (MSFT) have pulled ahead, while others, like Apple (AAPL), have faced mounting challenges. Wedbush Securities Managing Director Dan Ives joins The Morning Brief to discuss what he calls "the fourth industrial revolution" in AI and Apple's advances on the front. Ives states that Apple's annual Worldwide Developers Conference will be paramount for Apple: "I think it's probably the most important event for Apple that we've seen potentially in a decade because this is going to be [CEO Tim] Cook laying out the AI strategy on the services side for developers, what I believe is really the start of an AI app store in terms of how that's going to morph and then its proprietary AI technology in iPhone 16, which will launch in September." For more expert insight and the latest market action, click here to watch this full episode of Morning Brief. This post was written by Nicholas Jacobino
+
+[Date]:2024-05-10 06:40:00
+[Headline]:10 Information Technology Stocks With Whale Alerts In Today's Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 05:00:00
+[Headline]:SoftBank's Billion-Dollar Bet: Switching From Startups To Semiconductors, AI
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 04:15:22
+[Headline]:Arm Holdings Full Year 2024 Earnings: EPS: US$0.30 (vs US$0.51 in FY 2023)
+[Summary]:Arm Holdings ( NASDAQ:ARM ) Full Year 2024 Results Key Financial Results Revenue: US$3.23b (up 21% from FY 2023). Net...
+
+[Date]:2024-05-10 02:40:00
+[Headline]:Unusually active option classes on open May 10th
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 02:16:00
+[Headline]:SoftBank Vision Fund selling public stakes amid shift to chips, AI: report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 01:20:00
+[Headline]:Is AMD Stealing the Spotlight in Server and Client Markets? Here's What You Need to Know
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 21:27:00
+[Headline]:Robust Growth and Financial Strength Justify Buy Rating for ARM Holdings PLC ADR
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 19:11:00
+[Headline]:Analysts Offer Insights on Technology Companies: Xiaomi (OtherXIACF), Uber Technologies (UBER) and ARM Holdings PLC ADR (ARM)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 15:44:25
+[Headline]:Robinhood CEO, Arm Holdings earnings: Market Domination
+[Summary]:Today's episode of Market Domination with Yahoo Finance anchors Josh Lipton and Julie Hyman features insights from prominent CEOs and examines the market's reaction to key earnings reports. Affirm (AFRM) Founder and CEO Max Levchin and Robinhood (HOOD) CEO Vlad Tenev join the show, sharing their insights following their respective first quarter earnings results, which were better than expected. The spotlight then shifts to stock reactions following earnings releases from various companies. Duolingo (DUOL), Arm Holdings (ARM), Equinix (EQIX), and EPAM Systems (EPAM), all take center stage as the anchors analyze the market's response to their financial performances. This post was written by Angel Smith
+
+[Date]:2024-05-09 15:02:57
+[Headline]:Could Armv9 give Arm a boost this year?
+[Summary]:Arm (ARM) shares are under pressure despite beating fourth quarter earnings and revenue expectations. The chip design company posted lukewarm full-year revenue guidance as smartphone demand weakens, causing a dip in its shares. Yahoo Finance hosts Julie Hyman and Josh Lipton break down analyst reactions to the Arm's earnings. For more expert insight and the latest market action, click here to watch this full episode of Market Domination. This post was written by Melanie Riehl
+
+[Date]:2024-05-09 12:23:15
+[Headline]:Warner Bros. Discovery-Disney bundle, Arm and Robinhood earnings: Morning Brief
+[Summary]:Arm Holdings (ARM) stock slides further after the chip designer's fiscal full-year guidance for 2025 disappointed investors, begging the question of whether Big Tech's demand for AI semiconductors is starting to lessen. After missing earnings expectations, Warner Bros. Discovery (WBD) and Disney (DIS) announced a partnership to bundle several of its streaming platforms. Other trending stocks that Yahoo Finance is focusing on include Airbnb (ABNB), Robinhood Markets (HOOD), and the dating app Bumble (BMBL). Moody’s Analytics Chief Economist Mark Zandi joins Yahoo Finance's Morning Brief to share his thoughts on why the Federal Reserve should raise its inflation rate target and give itself the green light to start cutting interest rates. This post was written by Luke Carberry Mogan.
+
+[Date]:2024-05-09 08:45:42
+[Headline]:The tech giants to benefit from AI bullishness: Strategist
+[Summary]:Chip company Arm Holdings' (ARM) disappointing 2025 forecast could be signaling slowdowns in AI demands. Big Tech companies like Meta (META), Microsoft (MSFT), and Alphabet (GOOG, GOOGL) have all announced major investments in building out their AI infrastructures. While the plans show confidence in the future, will they actually pay off? Bokeh Capital Partners Founder and Chief Investment Officer Kimberly Forrest joins Morning Brief to give insight into the AI sector and discuss which companies are in the best position to actually benefit from AI investments. When asked about when investors will see real payoffs from these big investments from AI, Forrest says: "Building out the data center is part of it, then you're going to have companies like Meta, Microsoft, and Amazon (AMZN), and everybody else is going to pile in and start using the generative AI to maybe increase productivity... And I would look for who do you think is most likely to benefit from using generative AI. And we've just mentioned them, right? Amazon, Meta, and Microsoft, and to me Microsoft is really probably [in] the best position because they'll get people to actually pay for it, not just advertising dollars." For more expert insight and the latest market action, click here to watch this full episode of Morning Brief. This post was written by Nicholas Jacobino
+
+[Date]:2024-05-09 08:11:30
+[Headline]:Trending : Arm Holdings 4Q Revenue Jumps 47%, But Shipments Drop 10%
+[Summary]:13:55 ET -- Arm Holdings is one of the most mentioned companies in the U.S. across all news items in the past 12 hours, according to Factiva data. The semiconductor and software design company on...
+
+[Date]:2024-05-09 08:02:22
+[Headline]:Arm Stock Slides Despite Chip Designer's Surge in Profits and Sales
+[Summary]:Arm reported strong earnings, but the chip designer's shares slid in morning trading, underlining investors' lofty expectations for companies benefiting from the AI boom.  Arm's sales grew 47% to $928 million last quarter, driven by growing demand for artificial intelligence chips.  Sales topped FactSet consensus estimates, as did profits, which rose to $224 million, from $3 million last year.
+
+[Date]:2024-05-09 07:49:01
+[Headline]:Arm stock slides after disappointing annual revenue forecast
+[Summary]:Arm Holdings (ARM) shares are under pressure after its full-year revenue forecast missed Wall Street expectations. The chip company did, however, beat analyst EPS and revenue expectations in its fiscal fourth quarter. Yahoo Finance Tech Editor Dan Howley joins Morning Brief to break down Arm's future in the chip race. Arm is relatively new in the competitive chip space, having gone public in September 2023, bringing in a majority of its revenue as its tech is used in smartphones, automobiles, and across data centers. The company largely remains a significant player for mobile device producers. As smartphone sales lag, Arm has seen weakening demand for its largest revenue stream. For more expert insight and the latest market action, click here to watch this full episode of Morning Brief. This post was written by Melanie Riehl
+
+[Date]:2024-05-09 07:35:45
+[Headline]:Stocks to Watch Thursday: Roblox, Arm, Airbnb, Warner Bros.
+[Summary]:↘️ **Roblox (RBLX)**: The videogame company's stock tumbled more than 20% at the open, even though its quarterly loss was smaller than expected. ↘️ **Arm (ARM)**: The British chip designer reported strong earnings.
+
+[Date]:2024-05-09 06:31:00
+[Headline]:Analysts Offer Insights on Technology Companies: SmartRent (SMRT), AvidXchange Holdings (AVDX) and ARM Holdings PLC ADR (ARM)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 05:41:00
+[Headline]:Arm Holdings (NASDAQ:ARM) Plunges as Guidance Fails to Impress
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 05:30:22
+[Headline]:Arm, Airbnb tumble, Disney teams with Warner Bros. Discovery: Yahoo Finance
+[Summary]:Shares of both Arm Holdings (ARM) and Airbnb (ABNB) are sinking this morning after the companies reported their latest earnings. Arm is falling after the chip designer's revenue guidance failed to excite investors. Airbnb is also being dragged down by weaker guidance than expected. Disney (DIS) and Warner Bros. Discovery (WBD) announced they are teaming up to bundle their various streaming services. The media giants' new service will be available later this summer. Warner reports earnings this morning. Yahoo Finance trending tickers include Robinhood (HOOD), Beyond Meat (BYND), and Roblox (RBLX). Key guests include:9 a.m. ET - Mark Zandi, Moody’s Analytics Chief Economist10:40 a.m. ET - Josh Charlesworth, Krispy Kreme CEO & President11:10 a.m. ET - Gal Krubiner, Pagaya CEO11:20 a.m. ET - Joey Gonzalez, Barry's CEO11:30 a.m. ET - Steve Huffman, Reddit CEO
+
+[Date]:2024-05-09 05:07:01
+[Headline]:Arm: share price falls, outlook considered cautious
+[Summary]:Arm Holdings is losing ground on the New York Stock Exchange this Thursday, following the publication of quarterly results deemed solid, but the presentation of an annual outlook considered more...
+
+[Date]:2024-05-09 05:05:00
+[Headline]:What You Missed On Wall Street This Morning
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 03:55:00
+[Headline]:Biggest stock movers today: BMBL, RBLX, ABNB, ARM, SEDG, and more
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 03:46:00
+[Headline]:AI Favorite ARM Earnings Show Cracks Appearing In Ultra Bullish AI Story
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 03:14:00
+[Headline]:Arm dips after Street sees FY25 revenue outlook lower due to softer royalty
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 01:58:00
+[Headline]:Fly Intel: Pre-market Movers
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 01:33:00
+[Headline]:Trade Desk To Rally Around 28%? Here Are 10 Top Analyst Forecasts For Thursday
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 00:56:00
+[Headline]:ARM Holdings PLC ADR: Solid Performance with Caution on Future Royalty Guidance Shortfall
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 00:50:00
+[Headline]:Analysts’ Opinions Are Mixed on These Technology Stocks: HubSpot (HUBS) and ARM Holdings PLC ADR (ARM)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 23:54:00
+[Headline]:Arm price target raised by $15 at JPMorgan, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 23:42:00
+[Headline]:Strong Buy on ARM Holdings: Surging Demand and Growth in AI and Compute Segments Propel Upward Price Target to $115
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 23:40:00
+[Headline]:Nasdaq, S&P, Dow futures slip as post-earnings moves weigh
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 23:23:00
+[Headline]:Buy Rating Affirmed: ARM Holdings’ Growth Trajectory and Strategic Advantages in the Global Chip Industry
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 23:05:00
+[Headline]:7 Blue-Chip Stocks That Can Triple in the Next 24 Months
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 23:01:00
+[Headline]:Biggest stock movers today: ABNB, ARM, SEDG, and more
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 22:53:00
+[Headline]:Arm price target lowered by $11 at Evercore ISI, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 22:51:00
+[Headline]:Exact Sciences Reports Q1 Loss, Joins Beyond Meat, Duolingo And Other Big Stocks Moving Lower In Thursday's Pre-Market Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 22:41:00
+[Headline]:Analysts Offer Insights on Technology Companies: ARM Holdings PLC ADR (ARM) and Bumble (BMBL)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 21:49:00
+[Headline]:Will ARM Stock Drop to $82? Here’s What Top Deutsche Bank Expects
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 21:38:00
+[Headline]:What You Missed On Wall Street On Thursday
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 21:22:26
+[Headline]:Arm Holdings: targets exceeded in 2023-24
+[Summary]:On Wednesday evening, Arm Holdings reported non-GAAP EPS of $0.36 for the last three months of its 2023-24 financial year, compared with $0.02 a year earlier, with an adjusted operating margin of...
+
+[Date]:2024-05-08 20:32:00
+[Headline]:ARM Holdings PLC ADR (ARM) Gets a Buy from Barclays
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 19:59:00
+[Headline]:Arm Holdings Poised To Challenge Qualcomm, Intel, AMD In AI, Analysts Predict Growth In Chip Design
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 19:29:00
+[Headline]:Decoding Arm Earnings: A Green Light for AI Stock Growth
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 19:15:00
+[Headline]:ARM Holdings (ARM) Faces Mixed Reactions Post Q4 Earnings
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 19:01:00
+[Headline]:Why Duolingo Shares Are Trading Lower By Around 18%? Here Are Other Stocks Moving In Thursday's Mid-Day Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 19:00:00
+[Headline]:Why Is The Market Punishing Decent Earnings?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 15:25:55
+[Headline]:Arm Q4 results: Why this analyst isn't surprised by the forecast
+[Summary]:Shares of Arm Holdings (ARM) are falling Wednesday despite surpassing expectations on both the top and bottom lines in its fourth quarter results. To shed light on this unexpected market reaction, New Street Research Analyst Rolf Bulk joins Yahoo Finance. Bulk acknowledges that while Arm had a solid quarter, the company's full-year guidance came in "a bit shy of consensus." However, he says he is not surprised by Arm's outlook, citing certain parts of the business, such as "licensing in particular is quite lumpy." Bulk attributes this guidance to Arm's inability to determine which clients will continue to purchase their products consistently. He adds that clients who purchase from the company this quarter are not guaranteed to do so in the next, making it difficult to "forecast that out over multi-quarters, let alone a year." For more expert insight and the latest market action, click here to watch this full episode of Yahoo Finance. This post was written by Angel Smith Editor's note: This post was updated to reflect the accurate quarter results
+
+[Date]:2024-05-08 14:55:07
+[Headline]:Why stock reactions often don't reflect earnings: Strategist
+[Summary]:As earnings season unfolds, companies like Uber (UBER) have taken center stage with their financial reports. Interactive Brokers Chief Strategist Steve Sosnick joins Market Domination to provide insights on the day's trading takeaways. Addressing Uber's share price decline despite beating earnings, Sosnick suggests that the impact on the markets will be "Uber-specific." However, he notes a broader trend where companies posting earnings beats have not seen their stock prices reflect that performance. Sosnick explains that "people are looking through them [earnings] to see how they're managing their businesses." "We've gotten sort of spoiled by the Nvidias (NVDA) of the world, the beat and raise, then beat again and then raise again," Sosnick told Yahoo Finance, adding: "That's not necessarily normal, and so I think what happens is the markets do tend to punish disappointment more than they reward success on earnings. You're supposed to beat on earnings, you're supposed to do well." For more expert insight and the latest market action, click here to watch this full episode of Market Domination. This post was written by Angel Smith
+
+[Date]:2024-05-08 14:35:17
+[Headline]:Arm stock falls even though chip designer tops Q4 estimates
+[Summary]:Arm Holdings' (ARM) fiscal fourth-quarter earnings are out, but the stock is down in Wednesday's after-hours trading. The chip company posted $928 million in revenue and adjusted earnings of $0.36 per share, beating top and bottom line estimates. Interactive Brokers Chief Strategist Steve Sosnick joins Market Domination Overtime's Julie Hyman and Josh Lipton in breaking Arm's latest earnings results and how semiconductor companies are now pricing in manufacturing trends and industry forecasts. For more expert insight and the latest market action, click here to watch this full episode of Market Domination Overtime. This post was written by Luke Carberry Mogan.
+
+[Date]:2024-05-08 14:02:00
+[Headline]:Arm Holdings plc Reports Results for the Fourth Quarter of the Financial Year Ended 2024
+[Summary]:CAMBRIDGE, England, May 08, 2024--Arm Holdings plc (NASDAQ: ARM), the company that is building the future of computing, has today published a letter to its shareholders containing the company’s results for its fiscal fourth quarter and three months ended March 31, 2024. The letter is available on its investor relations website (https://investors.arm.com/financials/quarterly-annual-results).
+
+[Date]:2024-05-08 13:45:24
+[Headline]:ARM Holdings Plc (ARM) Q4 2024 Earnings Call Transcript
+[Summary]:ARM Holdings Plc (NASDAQ:NASDAQ:ARM) Q4 2024 Earnings Call Transcript May 8, 2024 5:00 PM ETCompany ParticipantsIan Thornton - VP, IRRene Haas - CEOJason...
+
+[Date]:2024-05-08 13:02:18
+[Headline]:Arm Holdings plc 2024 Q4 - Results - Earnings Call Presentation
+[Summary]:The following slide deck was published by Arm Holdings plc in conjunction with their 2024 Q4 earnings call.
+
+[Date]:2024-05-08 12:19:00
+[Headline]:Dow Edges Higher, Nasdaq Slips; Uber, Lyft Shares Diverge
+[Summary]:Updates from Uber, Shopify and others come as first-quarter earnings season nears its end.  With the bulk of S&P 500 companies having reported results, earnings per share look to be up 5.2% from a year earlier, according to FactSet.  The Dow industrials notched their longest winning streak of the year Tuesday with a fifth day of gains.
+
+[Date]:2024-05-08 11:03:18
+[Headline]:Arm Holdings 4Q Revenue Rises, Chip Shipments Drop 10%
+[Summary]:By Sabela Ojea Arm Holdings logged significantly higher revenue in the fourth quarter, but said it saw chip shipments drop by 10%. The semiconductor and software design company on...
+
+[Date]:2024-05-08 10:11:32
+[Headline]:US chipmaking capacity to triple by 2032: BCG
+[Summary]:US chip capacity is expected to increase by 203% over the next decade, according to a report by the Semiconductor Industry Association and Boston Consulting Group. Yahoo Finance's Dan Howley breaks down the report and how the sector's growth was boosted by the Biden administration's CHIPS Act. The 203% projected increase in fabrication capacity overshadows the prior decade's 11% increase as demand for chips in new technology and artificial intelligence surges. The report also highlights that the US will grow its share of the ability to build advanced logic chips, which are chips with transistors that are below 10 nanometers in size. Advanced logic chips are mostly built overseas, but the US is expected to have 28% of the global capacity by 2032. For more expert insight and the latest market action, click here to watch this full episode of Catalysts. This post was written by Melanie Riehl
+
+[Date]:2024-05-08 06:39:00
+[Headline]:10 Information Technology Stocks Whale Activity In Today's Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 06:24:00
+[Headline]:Notable companies reporting after market close
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 06:19:00
+[Headline]:Arm Holdings PLC options imply 11.4% move in share price post-earnings
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 05:27:00
+[Headline]:Nvidia's Grace Blackwell Chip Could Spark Accelerated ARM Adoption In Data Centers For AI Applications: CEO Rene Haas
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 05:25:00
+[Headline]:Another Flat Day With Big Afternoon Earnings: ARM, ABNB & More
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 05:04:00
+[Headline]:ARM CEO Rene Haas Bets Big On Automotive With ARMv9 Autonomous Driving Solutions: 'This Is Very, Very Significant'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 04:23:00
+[Headline]:Arm Holdings, Robinhood, Airbnb, Shopify, Tesla: Why These 5 Stocks Are On Investors' Radars Today
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 04:19:00
+[Headline]:ARM Holdings Unusual Options Activity
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 04:10:00
+[Headline]:Indicators Are Suggesting A Stock Market Reversal May Be Coming
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 03:14:00
+[Headline]:Arm crushes earnings expectations, but stock falls as forecast lacks wow factor
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 02:46:43
+[Headline]:Trending tickers: Apple, Reddit, JD Wetherspoon, Toyota and ARM
+[Summary]:The latest investor updates on stocks that are trending on Wednesday.
+
+[Date]:2024-05-08 02:43:00
+[Headline]:Wedbush Analyst Dan Ives Says The World Is In 'Early Stages Of A Fourth Industrial Revolution' And It Is Led By Nvidia CEO Jensen Huang As 'Godfather Of AI'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 02:08:00
+[Headline]:5 stocks to watch on Wednesday: SHOP, ABNB, INTC and more
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:29:00
+[Headline]:SoftBank in discussions to acquire British chip company Graphcore - report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:09:00
+[Headline]:Next Bull Wave: 7 Stocks Ready to Dominate in the Upcoming Rally
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 22:33:00
+[Headline]:Market Today: Zscaler's Data Breach Investigation and Energy Transfer's Earnings Miss
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 22:04:00
+[Headline]:ARM Earnings: Shares Plunge despite Stellar Q4 Results
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 21:58:00
+[Headline]:ARM Holdings Unveils Q4 Financial Results
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 21:34:00
+[Headline]:12 Information Technology Stocks Moving In Wednesday's After-Market Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 21:33:00
+[Headline]:Arm slumps as Q4 results, guidance fail to live up to lofty expectations
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 21:27:00
+[Headline]:Arm Holdings beats top-line and bottom-line estimates; initiates Q1 and FY25 outlook
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 21:12:00
+[Headline]:Arm sees fiscal 2025 EPS $1.45-$1.65, consensus $1.53
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 21:12:00
+[Headline]:Arm sees Q1 EPS 32c-36c, consensus 31c
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 21:10:00
+[Headline]:Arm reports Q4 adjusted EPS 36c, consensus 30c
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 15:53:32
+[Headline]:Uber earnings, Fedspeak: What to Watch
+[Summary]:Here are some of the key events to watch for on Wednesday, May 8th. First quarter earnings season continues, with several companies scheduled to release their financial results, including Uber (UBER), Airbnb (ABNB), and AMC Entertainment (AMC). Additionally, Federal Reserve officials, including Fed Vice Chair Philip Jefferson, Boston Fed President Susan Collins, and Fed Governor Lisa Cook, will provide insight into inflation and the path for interest rates. For more expert insight and the latest market action, click here to watch this full episode of Market Domination Overtime. This post was written by Angel Smith
+
+[Date]:2024-05-07 15:09:20
+[Headline]:Nvidia earnings, geopolitics could offer needed market 'catalysts'
+[Summary]:As company earnings continue to beat Wall Street expectations, US Equities (^GSPC, ^DJI, ^IXIC) are rising from April lows. The market has also begun to price in the Federal Reserve's policy of keeping higher interest rates for longer, but is there more for investors to consider for the next few months? Horizon Investments Chief Investment Officer Scott Ladner and Freedom Capital Markets Chief Global Strategist Jay Woods join Market Domination to provide insight into navigating the market during the current economic environment. Ladner argues that the market needs a new catalyst. In the absence of any large upcoming catalyst, investors may be staring down a more challenging few months: "We could actually have some, some positive catalysts from the geopolitical standpoint. But I don't see anything huge on the horizon, frankly. I mean, I think this is gonna be a bit of a grinder, probably a little bit grinder for the next few months, but grinding up rather than down. " Woods questions how far earnings can carry the market: "Individual earnings, they're not enough to take that next leg higher. Amazon (AMZN) made a new high today. It's on the verge of a major breakout. If you look at it on a weekly chart, it hasn't taken us there. Alphabet (GOOG,GOOGL), did, Microsoft (MSFT) didn't on solid earnings. So we're not seeing that euphoria. We're not seeing that tailwind we want to see. " For more expert insight and the latest market action, click here to watch this full episode of Market Domination. This post was written by Nicholas Jacobino
+
+[Date]:2024-05-07 02:19:00
+[Headline]:$META & $ARM Options Trades: Big Wins From Breakouts & Earnings!
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 00:03:00
+[Headline]:Avoid the AI Fallout: 3 Stocks to Unload Amid the SMCI Shockwave
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 22:40:00
+[Headline]:Notable earnings after Wednesday's close
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 03:14:00
+[Headline]:19 out of 21 information technology stocks deliver EPS wins this week: Earnings Scorecard
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 01:04:00
+[Headline]:Apple results, guidance has implications for supply chain: analysts
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 00:27:47
+[Headline]:Wall Street Breakfast: The Week Ahead
+[Summary]:Discover the upcoming events and earnings reports in the financial market, including notable companies like Disney, Tyson Foods, and Uber.
+
+[Date]:2024-05-03 03:21:00
+[Headline]:ARM Holdings Options Trading: A Deep Dive into Market Sentiment
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-02 20:00:00
+[Headline]:Catalyst Watch: Disney earnings, Apple iPad event and Fed speakers back on the circuit
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 03:48:00
+[Headline]:Unpacking the Latest Options Trading Trends in ARM Holdings
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-29 14:30:51
+[Headline]:Arm Holdings: Priced For Perfection While Facing Several Challenges
+[Summary]:Arm Holdings, a major player in the chip industry, faces challenges from open source RISC-V as well as geopolitical tensions. Learn more about ARM stock here.
+
+[Date]:2024-04-29 02:34:00
+[Headline]:ARM Crosses Above Average Analyst Target
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-29 01:34:00
+[Headline]:Broadcom, Marvell Set To Capitalize On AI Investments From Microsoft, Alphabet, Meta: JPMorgan
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-29 00:26:00
+[Headline]:Analysts Offer Insights on Technology Companies: Uber Technologies (UBER), Udemy Inc (UDMY) and ARM Holdings PLC ADR (ARM)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-28 23:40:00
+[Headline]:Arm price target raised by $15 at Wells Fargo, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-28 20:44:00
+[Headline]:Down 20% in 1 Month, Is Arm Holdings Stock Cheap Now?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-28 04:00:00
+[Headline]:Arm Holdings: Back To Reality
+[Summary]:Arm Holdings is expected to benefit from the growing demand for AI chips and shifts away from x86 infrastructure. Learn why I remain bearish on ARM stock.
+
+[Date]:2024-04-26 07:51:33
+[Headline]:ARM Q4 Preview: Cure To AI Energy Shortage?
+[Summary]:Arm is positioned well in the custom AI chip market, with big tech companies like Amazon, Microsoft, and Google using their designs. Explore more details here.
+
+[Date]:2024-04-25 20:07:00
+[Headline]:Intel 'Still A Work In Progress' As 'Turnaround Efforts Take Root,' Analysts Say After Q1 Disappointment
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-24 23:17:00
+[Headline]:Alarm Bells: 3 Overvalued Tech Stocks to Sell Before the AI Bubble Bursts
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-24 07:00:07
+[Headline]:Qualcomm is coming for Intel’s biggest market: PCs
+[Summary]:Qualcomm is debuted its Snapdragon Elite Plus chip Wednesday, as the company aims to take on Intel and AMD in the laptop market.
+
+[Date]:2024-04-24 04:33:00
+[Headline]:Musk Lifts Sentiment In Entire Stock Market By Saying A Regular Car Is Like "Riding A Horse"
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-23 19:44:00
+[Headline]:AI Server Market Is Expanding Rapidly - Analysts Highlight Super Micro Computer's Importance In The Game
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-23 00:18:00
+[Headline]:China’s Chip Crackdown: 2 Semiconductor Stocks to Dump, 1 Primed to Pop
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 05:36:00
+[Headline]:Abandon the AI Bandwagon? 3 Stocks Flashing Sell Signals
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 04:50:00
+[Headline]:AI stocks stabilize after a brutal Friday, ahead of earnings
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-21 21:44:00
+[Headline]:Cadence Design Systems plunges as Q2 outlook falls short
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-21 01:36:00
+[Headline]:Last Week's Worst-Performing Stocks: Are These 11 Large-Cap Stocks In Your Portfolio?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-21 00:04:00
+[Headline]:3 Must-Watch AI Stocks With Massive Long-Haul Potential
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-20 00:05:00
+[Headline]:Silicon Valley’s Next Unicorns: 3 Tech Disruptors to Buy on Weakness
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-19 06:27:00
+[Headline]:ARM or Intel: Top Analyst Mark Lipacis Selects the Better Semiconductor Stock to Buy
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-19 06:22:00
+[Headline]:Arm Holdings or Intel: Top Analyst Mark Lipacis Selects the Better Semiconductor Stock to Buy
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-19 05:34:00
+[Headline]:Why Super Micro’s stock is tumbling toward its worst day in two months
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-19 01:39:00
+[Headline]:3 Semiconductor Stocks to Buy Now: Q2 Edition
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-19 00:37:00
+[Headline]:Alibaba and Lenovo Team Up to For AI PCs, Setting New Standards in Tech
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 23:15:00
+[Headline]:Keep Your Distance! Arm Stock Doubled, but Now It’s in a Bubble.
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 22:07:00
+[Headline]:Exane BNP Paribas gets more bearish on Arm, downgrades shares
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 21:25:00
+[Headline]:What You Missed On Wall Street On Friday
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 21:05:00
+[Headline]:Semiconductors stocks tumble amid Super Micro, AI fears
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 04:09:00
+[Headline]:Why Is Lithium Americas (LAC) Stock Down 28% Today?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 03:59:00
+[Headline]:TD Cowen Just Raised Its Price Target on Arm (ARM) Stock
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 03:28:00
+[Headline]:Want to Double Your Tax Refund in 2024? 7 Stocks to Buy Now.
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 02:37:00
+[Headline]:Strategic Growth and Market Positioning Underpin Buy Rating for ARM Holdings PLC ADR
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 00:06:00
+[Headline]:7 Under-The-Radar Growth Stocks to Buy for Multibagger Returns by 2030
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 22:42:00
+[Headline]:ARM Stock (NASDAQ:ARM): What’s Behind the 12% Drop?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 06:39:00
+[Headline]:Why Travelers Shares Are Trading Lower By Around 8%? Here Are Other Stocks Moving In Wednesday's Mid-Day Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 05:34:00
+[Headline]:12 Information Technology Stocks Moving In Wednesday's Intraday Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 02:48:20
+[Headline]:Cadence Design Systems: AI R&D Upside Risk
+[Summary]:Cadence Design Systems offers investors a revenue-resilient and high free cash flow stock. Find out why I rate CDNS stock a buy.
+
+[Date]:2024-04-17 02:26:00
+[Headline]:Taiwan Semiconductor, ARM Holdings, Alcoa, Alibaba, And Tesla: Why These 5 Stocks Are On Investors' Radars Today
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 02:00:00
+[Headline]:AMD's Cost-Effective Strategy Is Intelligent, but the Valuation Is Troubling
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 06:21:00
+[Headline]:Analysts Offer Insights on Technology Companies: Kenvue, Inc. (KVUE), Axcelis Technologies (ACLS) and ARM Holdings PLC ADR (ARM)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 02:48:00
+[Headline]:Nvidia initiated, AMD upgraded: Wall Street's top analyst calls
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 01:50:00
+[Headline]:Arm holds advantage across '3 tectonic shifts' in computing: Evercore
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 00:57:00
+[Headline]:AMD, Arm, Nvidia in spotlight as Evercore initiates coverage on semiconductor stocks
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 22:18:47
+[Headline]:Semiconductor Stocks Q4 Overview: AI Gains Heat Up
+[Summary]:Semiconductor stocks, led by Nvidia and Micron, are excelling in 2024 with high revenue growth, as AI stocks continue to attract investors.
+
+[Date]:2024-04-15 06:17:00
+[Headline]:3 More AI Stocks to Buy as Nvidia Stock Keeps Soaring
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-14 21:25:00
+[Headline]:Arm initiated with bullish view at Evercore ISI, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-14 11:00:00
+[Headline]:Is There An AI Bubble? Ask This Instead, Plus 4 AI Stocks I Own
+[Summary]:Explore the hype and uncertainties surrounding transformative technologies, particularly AI, and discover a selection of AI stocks to consider for your portfolio.
+
+[Date]:2024-04-13 21:02:00
+[Headline]:Something Finally Happened: Reviewing Setups In The Market
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-12 13:53:59
+[Headline]:Is Apple 'in stealth mode' while acquiring AI companies?
+[Summary]:In another installment of Yahoo Finance's Good Buy or Goodbye, RSE Ventures Co-Founder and CEO Matt Higgins joins Josh Lipton to share his insights into iPhone maker Apple (AAPL) and chip company Arm Holdings (ARM). Higgins names Apple shares as his good buy, stating that the tech leader may be on the up-and-up after the stock slid in 2024's first quarter. Higgins points to Apple's quick adoption and integration of AI into its devices as a major catalyst. "They have been gobbling up AI companies below the radar — I think they've bought 32 of them," Higgins says. "Clearly they're working on it because If they don't they're facing an existential threat to their very survival. I think Apple has been keeping its head down while its stock has faltered." Arm is the stock Higgins would wish to say good buy to, calling the semiconductor designer overvalued as early investors were "looking for different ways to chase Nvidia (NVDA)" in the broad chip landscape. Catch more of Good Buy or Goodbye here, or watch this full episode of Market Domination. This post was written by Luke Carberry Mogan.
+
+[Date]:2024-04-11 23:53:00
+[Headline]:Samsung Goes Big In America: $44B Chip Plant Reportedly Planned In Texas
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-11 21:28:00
+[Headline]:Market Turmoil Resumes As Inflation Rises More Than Expected, Oil Prices Spike, Gold At Record Highs: This Week In The Markets
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-11 04:15:00
+[Headline]:East 72 Dynasty Trust Q1 2024 Quarterly Report
+[Summary]:Dynasty Trust's latest report focuses on components of companies which we view as exceptional businesses. Click here to read more about these âHidden Gems.â
+
+[Date]:2024-04-10 23:19:00
+[Headline]:Biden, PM Kishida enlist companies to fund joint AI research, Bloomberg says
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 08:16:00
+[Headline]:Wall Street Lunch: So Long Summer Of Rate Cuts
+[Summary]:March CPI comes in hot and odds of rate cuts this year tumble. Stocks slide, yields soar as 10-year hits 4.55%. Nvidia enters correction territory but this analyst says don't worry.
+
+[Date]:2024-04-10 06:25:00
+[Headline]:Nvidia Eyes Continued Leadership in $90B Accelerator Market, Despite Recent Dip: BofA Analyst
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 04:50:00
+[Headline]:Looking At ARM Holdings's Recent Unusual Options Activity
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 03:51:00
+[Headline]:Street encouraged by Google's new AI offerings, BofA not worried about Nvidia
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-10 01:33:00
+[Headline]:Qualcomm in focus as Susquehanna boosts PT
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 22:50:00
+[Headline]:7 Must-Buy Growth Stocks That are Blue-Chips in the Making
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 22:06:00
+[Headline]:Ex-Rolls-Royce CEO to chair under-fire UK air traffic controller NATS
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 19:13:00
+[Headline]:Google Parent Alphabet To Gain From Hardware Advances, Gemini Progress, Analyst Sees Rising Cloud Margins
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 18:55:00
+[Headline]:Microsoft to invest USD2.9 billion in Japan AI push
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 15:23:10
+[Headline]:Nvidia, Fed's rate outlook, CPI: Tuesday's Market Takeaways
+[Summary]:While Google's (GOOG, GOOGL) newly announced Axion chip based on Arm (ARM) components could give chip giant Nvidia (NVDA) a run for its money, tomorrow's Consumer Price Index (CPI) inflation print is at the top of investors' minds. Yahoo Finance's Madison Mills breaks down the top takeaways from Tuesday's market activity, including bond market volatility and whether markets are pricing in earnings season and potential Federal Reserve interest rate cuts equally. For more expert insight and the latest market action, click here to watch this full episode of Market Domination Overtime. Editor's note: This article was written by Luke Carberry Mogan.
+
+[Date]:2024-04-09 14:30:42
+[Headline]:Google 'has a lot to prove' with chip announcement: Strategist
+[Summary]:At the Cloud Next conference in Las Vegas, Google (GOOG, GOOGL) and Intel (INTC) each introduced new chips. Google's Axion is a custom Arm-based server chip and Intel's Gaudi 3 is an AI chip designed to take on Nvidia's (NVDA) most popular AI processors. Moor Insights & Strategies founder and CEO Patrick Moorhead joins Market Domination to give insight into the booming chip sector and how these announcements will impact the market. Speaking on Google's announcement and position in AI sector, Moorhead states, "Google has a lot to prove. I don't think anybody is questioning the company's technical competency. In fact, they wrote the groundbreaking research paper on generative AI and I think what people are questioning is, can they extend what they do in consumer search to the generative AI world? And then I think even more difficult, extending it to the commercial market, which is what the conference I'm at right now it is all about and they've had some stumbles. Every major announcement that they've made has come with some baggage." For more expert insight and the latest market action, click here to watch this full episode of Market Domination. Editor's note: This article was written by Nicholas Jacobino
+
+[Date]:2024-04-09 08:07:00
+[Headline]:Artificial Intelligence’s ‘Insatiable’ Energy Needs Not Sustainable, Arm CEO Says
+[Summary]:Arm Chief Executive Rene Haas said a push for energy efficiency is needed in artificial-intelligence applications.
+
+[Date]:2024-04-09 05:15:00
+[Headline]:BB Stock Alert: 5 Things to Know About the New AMD-BlackBerry Partnership
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 05:04:00
+[Headline]:Announcement On Tesla Robo Taxis Ahead – Opportunities For Investors
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 04:15:00
+[Headline]:Alphabet (GOOG) Advances with In-House Chip Production, Eyeing AI Market
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 02:41:00
+[Headline]:AI Could Consume 25% Of US Power By 2030: 'The More Information They Gather... The More Power It Takes,' Warns Arm CEO
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 01:19:00
+[Headline]:This Nvidia Rival Stock Driven By 'Exaggerated Artificial Intelligence Narrative' Could Fall 56%: Morningstar
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-09 01:17:00
+[Headline]:Google unveils in-house Axion chips to cut AI costs, reliance on Nvidia, others: report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-08 22:48:00
+[Headline]:Microsoft Set to Unveil Qualcomm-Powered AI PCs, Aiming to Surpass Apple's MacBook Air
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-08 21:23:00
+[Headline]:What You Missed On Wall Street On Tuesday
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-08 19:59:00
+[Headline]:Morning Brew: Google Cloud Showcases Generative AI Success at Next 2024 Event
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-08 19:51:00
+[Headline]:Cabot Wealth’s Top Ten list of stocks
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-08 19:15:00
+[Headline]:Google introduces Arm-based Axion Processors
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-08 19:10:00
+[Headline]:Cabot’s Top Ten list of stocks
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-08 05:23:00
+[Headline]:Not Nvidia Or Super Micro, But These Stocks Have A Better Growth Story Than Tesla And Apple, Says Expert
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-08 01:56:00
+[Headline]:Nvidia, Micron, Qualcomm in focus as KeyBanc boosts estimates on China, AI hopes
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-08 01:31:00
+[Headline]:Ahead Of Chip Earnings, Analyst Turns More Bullish On Nvidia And These Semiconductor Stocks On Robust AI Demand
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-07 23:32:00
+[Headline]:Arm price target raised to $135 from $120 at KeyBanc
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-07 19:25:00
+[Headline]:Microsoft thinks Arm-powered Windows laptops better than MacBook Air, Verge says
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-05 10:12:07
+[Headline]:Arm Holdings: Sell On Valuation And Income Statement Analysis
+[Summary]:Arm Holdings is facing challenges despite its strong long-term prospects, prompting a sell rating due to poor fundamentals and valuation concerns. Learn more on ARM stock here.
+
+[Date]:2024-04-05 00:05:00
+[Headline]:3 Overhyped Stocks to Sell in April Before They Crash & Burn
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-04 14:05:00
+[Headline]:Arm Announces Earnings Release Date for Fourth Quarter Fiscal Year Ended 2024
+[Summary]:CAMBRIDGE, England, April 04, 2024--Arm Holdings plc (NASDAQ: ARM) today announced it will report financial results for the fourth quarter of fiscal year 2024 on Wednesday, May 8, 2024, after market close. The company will host a conference call via audio webcast at 14:00 Pacific Time (17:00 Eastern Time / 22:00 British Summer Time) to review its financial results and business outlook.
+
+[Date]:2024-04-03 21:42:00
+[Headline]:3 Under-the-Radar Technology Stocks to Buy for Multibagger Returns
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-03 02:31:00
+[Headline]:The Millionaire Makers: 7 Stealth Stocks for a 7-Figure Portfolio
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-02 03:07:00
+[Headline]:What the Options Market Tells Us About ARM Holdings
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-01 23:07:00
+[Headline]:Why Advanced Micro Devices Stock Will Outrun and Outshine Nvidia
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-29 20:41:00
+[Headline]:Are These Recent IPOs Worth Investors' Attention?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-28 05:34:24
+[Headline]:Qualcomm: Whispers Of Value Amidst The Legendary Chip Bull Run
+[Summary]:QUALCOMM Incorporated's future earnings growth could be at risk as Apple considers designing its own modems. Click for my deep dive into QCOM stock prospects.
+
+[Date]:2024-03-28 05:21:00
+[Headline]:Can Arm Holdings Stock (NASDAQ:ARM) Really Justify Its Valuation?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-28 02:26:00
+[Headline]:Nvidia’s Blackwell Bounce: 7 Stocks Poised to Profit from the Groundbreaking Reveal
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-28 01:04:00
+[Headline]:3 Semiconductor Stocks to Buy for the Next Bull Run: March 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-27 23:19:00
+[Headline]:Maintaining Hold on ARM Holdings: Balancing Positive Developments with Cautious Optimism
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-27 01:30:00
+[Headline]:LeddarTech Strengthens Collaboration With Arm, Showcasing ADAS Innovations at Embedded World 2024 on April 9-11 in Nuremberg, Germany
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-26 19:33:00
+[Headline]:A Closer Look at ARM Holdings's Options Market Dynamics
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-26 05:28:00
+[Headline]:Google unveils Chrome browser for Arm-based Windows PCs
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-26 05:03:28
+[Headline]:Arm Stock: AI Chip Favorite Is Overpriced
+[Summary]:Arm Holdings is positioned to capitalize on growing adoption of AI technologies, leveraging its licensing model and ecosystem. Read more on ARM stock here.
+
+[Date]:2024-03-25 04:16:00
+[Headline]:China's New Tech Guidelines Impact Major US Chip and Tech Firms
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-25 02:11:00
+[Headline]:Cramer Isn't 'Knocking' This Pharma Firm Anymore: 'As A Matter Of Fact, I'm Going In'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-24 22:34:00
+[Headline]:Vol Markets Flash First Warning Since December As NVDA Tests High
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-24 21:45:00
+[Headline]:7 Up-and-Coming Tech Stocks That Could Be the Next Superstars
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-24 05:48:00
+[Headline]:Can SoundHound AI (NASDAQ:SOUN) Live Up to its High Valuation?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-22 02:17:00
+[Headline]:Vodafone and Three UK Merger Faces CMA Scrutiny Over Competition Concerns
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-22 00:40:00
+[Headline]:Astera Labs & Reddit: Soaring High on the IPO Success Flight
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-22 00:37:00
+[Headline]:Astera Labs & Reddit: Surfing The IPO Success Wave
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-21 19:44:00
+[Headline]:3 Stocks With the Most Potential to Upstage the Magnificent 7 in 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-21 06:34:51
+[Headline]:Nvidia: Investments In AI Minnows Is A Strategy For Sustaining Leadership
+[Summary]:Nvidia Corporation strategically invests in AI sectors, including Databricks, ARM, Recursion Pharmaceuticals, and SoundHound AI. Read more on NVDA stock here.
+
+[Date]:2024-03-21 06:18:00
+[Headline]:Reddit pops as investors receive latest AI IPO
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-21 02:32:00
+[Headline]:ALAB Stock: Astera Labs Pops a Stunning 70% After IPO
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-20 21:36:00
+[Headline]:3 Stocks That Could Crush the Market in 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-20 21:04:00
+[Headline]:Reddit rockets as investors receive latest AI IPO
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-20 05:42:00
+[Headline]:Astera Labs soars as investors receive latest chip IPO
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-19 23:37:00
+[Headline]:3 Turbocharged Stocks to Buy for the Next S&P 500 All-Time High
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-19 06:58:00
+[Headline]:Dell’s stock gets an Nvidia bump, but AMD shares among chip names under pressure
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-19 06:27:00
+[Headline]:Alibaba Unveils New Processor and Open-Source Laptop Based On RISC-V Processors
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-18 21:44:00
+[Headline]:Dell (NYSE:DELL), Nvidia Partner to Expedite Enterprise AI Adoption
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-18 21:31:00
+[Headline]:Saudi Arabia plans to pour $40B into AI technology: report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-18 18:40:00
+[Headline]:Astera Labs And Reddit Set To Debut As IPO Activity Remains Low For 2024
+[Summary]:Astera Labs, a semiconductor company that builds connectivity solutions to help with AI and Machine Learning workloads, is set to IPO on Wednesday, March 20.
+
+[Date]:2024-03-18 04:47:00
+[Headline]:ARM Holdings Unusual Options Activity For March 18
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-17 20:32:00
+[Headline]:Astera Labs, Reddit Set to Debut as IPO Activity Remains Low for 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-16 03:07:00
+[Headline]:The Luck of the Investor: 3 Stocks for a Pot o’ Gold Portfolio
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-15 04:00:00
+[Headline]:Nvidia and AI Have Given the Chip Industry a Lot to Prove
+[Summary]:Semiconductor valuations remain expensive even after selloff and with Nvidia’s Next Big Thing coming.
+
+[Date]:2024-03-14 23:18:00
+[Headline]:In the Crosshairs: 3 Potential Stocks Nvidia Might Invest in Next
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-03-14 20:19:00
+[Headline]:AMD's Success in Cloud Expansion - This Analyst Sees Potential for Market Leadership
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+
+
+[Fileings]:
+[Date]:2023-05-09
+[val]:127195219
+[accn]:0001558370-23-008744
+[fy]:2023
+[fp]:Q1
+[form]:10-Q
+
+[Date]:2023-08-08
+[val]:127125437
+[accn]:0001558370-23-013919
+[fy]:2023
+[fp]:Q2
+[form]:10-Q
+
+[Date]:2023-11-08
+[val]:127125437
+[accn]:0001558370-23-018162
+[fy]:2023
+[fp]:Q3
+[form]:10-Q
+
+[Date]:2024-02-23
+[val]:128061981
+[accn]:0001558370-24-001616
+[fy]:2023
+[fp]:FY
+[form]:10-K
+
+[Date]:2024-05-09
+[val]:128061981
+[accn]:0001558370-24-007517
+[fy]:2024
+[fp]:Q1
+[form]:10-Q
+
+
+
+[Stock Movements]:
+[Date]:2023-09-14 00:00:00
+[Open]:56.099998474121094
+[High]:66.27999877929688
+[Low]:55.540000915527344
+[Close]:63.59000015258789
+[Adj Close]:63.59000015258789
+[Volume]:130534500
+
+[Date]:2023-09-15 00:00:00
+[Open]:68.62999725341797
+[High]:69.0
+[Low]:60.75
+[Close]:60.75
+[Adj Close]:60.75
+[Volume]:74568900
+
+[Date]:2023-09-18 00:00:00
+[Open]:57.95000076293945
+[High]:58.74100112915039
+[Low]:55.02000045776367
+[Close]:58.0
+[Adj Close]:58.0
+[Volume]:34571900
+
+[Date]:2023-09-19 00:00:00
+[Open]:56.25
+[High]:56.779998779296875
+[Low]:53.880001068115234
+[Close]:55.16999816894531
+[Adj Close]:55.16999816894531
+[Volume]:18308600
+
+[Date]:2023-09-20 00:00:00
+[Open]:55.16999816894531
+[High]:55.400001525878906
+[Low]:51.52000045776367
+[Close]:52.90999984741211
+[Adj Close]:52.90999984741211
+[Volume]:16369500
+
+[Date]:2023-09-21 00:00:00
+[Open]:51.779998779296875
+[High]:52.79999923706055
+[Low]:49.849998474121094
+[Close]:52.15999984741211
+[Adj Close]:52.15999984741211
+[Volume]:14980700
+
+[Date]:2023-09-22 00:00:00
+[Open]:52.900001525878906
+[High]:52.900001525878906
+[Low]:50.35499954223633
+[Close]:51.31999969482422
+[Adj Close]:51.31999969482422
+[Volume]:8430200
+
+[Date]:2023-09-25 00:00:00
+[Open]:51.119998931884766
+[High]:54.5
+[Low]:50.02000045776367
+[Close]:54.439998626708984
+[Adj Close]:54.439998626708984
+[Volume]:12896500
+
+[Date]:2023-09-26 00:00:00
+[Open]:53.93000030517578
+[High]:54.529998779296875
+[Low]:52.70000076293945
+[Close]:53.52000045776367
+[Adj Close]:53.52000045776367
+[Volume]:6283500
+
+[Date]:2023-09-27 00:00:00
+[Open]:54.400001525878906
+[High]:54.40999984741211
+[Low]:51.78900146484375
+[Close]:52.9900016784668
+[Adj Close]:52.9900016784668
+[Volume]:6866700
+
+[Date]:2023-09-28 00:00:00
+[Open]:53.5
+[High]:56.5
+[Low]:52.86000061035156
+[Close]:55.4900016784668
+[Adj Close]:55.4900016784668
+[Volume]:8765800
+
+[Date]:2023-09-29 00:00:00
+[Open]:56.209999084472656
+[High]:56.790000915527344
+[Low]:53.08000183105469
+[Close]:53.52000045776367
+[Adj Close]:53.52000045776367
+[Volume]:7797500
+
+[Date]:2023-10-02 00:00:00
+[Open]:53.474998474121094
+[High]:54.189998626708984
+[Low]:51.90999984741211
+[Close]:52.2599983215332
+[Adj Close]:52.2599983215332
+[Volume]:8857100
+
+[Date]:2023-10-03 00:00:00
+[Open]:51.959999084472656
+[High]:52.23500061035156
+[Low]:50.79999923706055
+[Close]:51.56999969482422
+[Adj Close]:51.56999969482422
+[Volume]:4687700
+
+[Date]:2023-10-04 00:00:00
+[Open]:51.970001220703125
+[High]:53.810001373291016
+[Low]:51.310001373291016
+[Close]:53.459999084472656
+[Adj Close]:53.459999084472656
+[Volume]:6206500
+
+[Date]:2023-10-05 00:00:00
+[Open]:53.900001525878906
+[High]:53.900001525878906
+[Low]:52.09000015258789
+[Close]:52.5099983215332
+[Adj Close]:52.5099983215332
+[Volume]:2984400
+
+[Date]:2023-10-06 00:00:00
+[Open]:52.720001220703125
+[High]:54.209999084472656
+[Low]:51.54999923706055
+[Close]:54.08000183105469
+[Adj Close]:54.08000183105469
+[Volume]:4004900
+
+[Date]:2023-10-09 00:00:00
+[Open]:54.31999969482422
+[High]:55.79999923706055
+[Low]:53.369998931884766
+[Close]:54.25
+[Adj Close]:54.25
+[Volume]:7197700
+
+[Date]:2023-10-10 00:00:00
+[Open]:55.2400016784668
+[High]:55.86000061035156
+[Low]:54.20000076293945
+[Close]:55.709999084472656
+[Adj Close]:55.709999084472656
+[Volume]:5138100
+
+[Date]:2023-10-11 00:00:00
+[Open]:56.16999816894531
+[High]:56.33000183105469
+[Low]:54.380001068115234
+[Close]:54.68000030517578
+[Adj Close]:54.68000030517578
+[Volume]:4454700
+
+[Date]:2023-10-12 00:00:00
+[Open]:54.75
+[High]:54.75
+[Low]:51.40999984741211
+[Close]:51.849998474121094
+[Adj Close]:51.849998474121094
+[Volume]:7323100
+
+[Date]:2023-10-13 00:00:00
+[Open]:52.5
+[High]:52.560001373291016
+[Low]:50.0
+[Close]:50.779998779296875
+[Adj Close]:50.779998779296875
+[Volume]:6454600
+
+[Date]:2023-10-16 00:00:00
+[Open]:51.040000915527344
+[High]:52.349998474121094
+[Low]:51.040000915527344
+[Close]:52.09000015258789
+[Adj Close]:52.09000015258789
+[Volume]:3316800
+
+[Date]:2023-10-17 00:00:00
+[Open]:51.0
+[High]:52.7599983215332
+[Low]:50.650001525878906
+[Close]:52.290000915527344
+[Adj Close]:52.290000915527344
+[Volume]:2549700
+
+[Date]:2023-10-18 00:00:00
+[Open]:52.279998779296875
+[High]:52.70000076293945
+[Low]:51.275001525878906
+[Close]:51.900001525878906
+[Adj Close]:51.900001525878906
+[Volume]:2268900
+
+[Date]:2023-10-19 00:00:00
+[Open]:52.0
+[High]:52.70000076293945
+[Low]:49.529998779296875
+[Close]:49.7400016784668
+[Adj Close]:49.7400016784668
+[Volume]:4553400
+
+[Date]:2023-10-20 00:00:00
+[Open]:49.7400016784668
+[High]:49.7400016784668
+[Low]:46.5
+[Close]:47.869998931884766
+[Adj Close]:47.869998931884766
+[Volume]:8079700
+
+[Date]:2023-10-23 00:00:00
+[Open]:47.220001220703125
+[High]:51.880001068115234
+[Low]:46.5
+[Close]:50.209999084472656
+[Adj Close]:50.209999084472656
+[Volume]:9979300
+
+[Date]:2023-10-24 00:00:00
+[Open]:52.0
+[High]:52.891998291015625
+[Low]:51.04999923706055
+[Close]:52.369998931884766
+[Adj Close]:52.369998931884766
+[Volume]:7211700
+
+[Date]:2023-10-25 00:00:00
+[Open]:52.70000076293945
+[High]:52.790000915527344
+[Low]:49.310001373291016
+[Close]:49.439998626708984
+[Adj Close]:49.439998626708984
+[Volume]:4518800
+
+[Date]:2023-10-26 00:00:00
+[Open]:50.060001373291016
+[High]:51.11000061035156
+[Low]:49.5
+[Close]:50.16999816894531
+[Adj Close]:50.16999816894531
+[Volume]:3555300
+
+[Date]:2023-10-27 00:00:00
+[Open]:51.2599983215332
+[High]:51.33000183105469
+[Low]:48.810001373291016
+[Close]:49.09000015258789
+[Adj Close]:49.09000015258789
+[Volume]:2611300
+
+[Date]:2023-10-30 00:00:00
+[Open]:49.5099983215332
+[High]:49.900001525878906
+[Low]:47.279998779296875
+[Close]:47.900001525878906
+[Adj Close]:47.900001525878906
+[Volume]:3677700
+
+[Date]:2023-10-31 00:00:00
+[Open]:47.900001525878906
+[High]:49.65999984741211
+[Low]:47.119998931884766
+[Close]:49.290000915527344
+[Adj Close]:49.290000915527344
+[Volume]:3248700
+
+[Date]:2023-11-01 00:00:00
+[Open]:49.61000061035156
+[High]:50.52000045776367
+[Low]:48.29999923706055
+[Close]:50.52000045776367
+[Adj Close]:50.52000045776367
+[Volume]:3066400
+
+[Date]:2023-11-02 00:00:00
+[Open]:51.400001525878906
+[High]:53.560001373291016
+[Low]:51.29999923706055
+[Close]:52.81999969482422
+[Adj Close]:52.81999969482422
+[Volume]:4752700
+
+[Date]:2023-11-03 00:00:00
+[Open]:52.81999969482422
+[High]:53.86000061035156
+[Low]:52.25
+[Close]:53.4900016784668
+[Adj Close]:53.4900016784668
+[Volume]:2538300
+
+[Date]:2023-11-06 00:00:00
+[Open]:53.97999954223633
+[High]:54.459999084472656
+[Low]:52.52000045776367
+[Close]:53.099998474121094
+[Adj Close]:53.099998474121094
+[Volume]:2328300
+
+[Date]:2023-11-07 00:00:00
+[Open]:53.45000076293945
+[High]:56.099998474121094
+[Low]:53.2599983215332
+[Close]:55.27000045776367
+[Adj Close]:55.27000045776367
+[Volume]:4534200
+
+[Date]:2023-11-08 00:00:00
+[Open]:55.27000045776367
+[High]:55.560001373291016
+[Low]:53.38999938964844
+[Close]:54.400001525878906
+[Adj Close]:54.400001525878906
+[Volume]:6128200
+
+[Date]:2023-11-09 00:00:00
+[Open]:51.0
+[High]:52.04999923706055
+[Low]:49.81999969482422
+[Close]:51.58000183105469
+[Adj Close]:51.58000183105469
+[Volume]:15354500
+
+[Date]:2023-11-10 00:00:00
+[Open]:52.0
+[High]:52.5
+[Low]:51.0099983215332
+[Close]:52.27000045776367
+[Adj Close]:52.27000045776367
+[Volume]:5796700
+
+[Date]:2023-11-13 00:00:00
+[Open]:52.20000076293945
+[High]:52.5
+[Low]:50.56999969482422
+[Close]:51.689998626708984
+[Adj Close]:51.689998626708984
+[Volume]:4525000
+
+[Date]:2023-11-14 00:00:00
+[Open]:53.0
+[High]:53.5
+[Low]:52.279998779296875
+[Close]:53.43000030517578
+[Adj Close]:53.43000030517578
+[Volume]:3541300
+
+[Date]:2023-11-15 00:00:00
+[Open]:54.400001525878906
+[High]:56.029998779296875
+[Low]:54.08000183105469
+[Close]:55.43000030517578
+[Adj Close]:55.43000030517578
+[Volume]:5821800
+
+[Date]:2023-11-16 00:00:00
+[Open]:55.5099983215332
+[High]:55.68000030517578
+[Low]:53.470001220703125
+[Close]:54.22999954223633
+[Adj Close]:54.22999954223633
+[Volume]:3291400
+
+[Date]:2023-11-17 00:00:00
+[Open]:55.11000061035156
+[High]:55.7400016784668
+[Low]:54.2599983215332
+[Close]:54.9900016784668
+[Adj Close]:54.9900016784668
+[Volume]:3441900
+
+[Date]:2023-11-20 00:00:00
+[Open]:55.349998474121094
+[High]:59.2400016784668
+[Low]:55.27000045776367
+[Close]:58.68000030517578
+[Adj Close]:58.68000030517578
+[Volume]:7791000
+
+[Date]:2023-11-21 00:00:00
+[Open]:58.0
+[High]:58.900001525878906
+[Low]:56.43000030517578
+[Close]:58.65999984741211
+[Adj Close]:58.65999984741211
+[Volume]:5615400
+
+[Date]:2023-11-22 00:00:00
+[Open]:59.0
+[High]:64.91999816894531
+[Low]:59.0
+[Close]:61.7599983215332
+[Adj Close]:61.7599983215332
+[Volume]:15090000
+
+[Date]:2023-11-24 00:00:00
+[Open]:61.5
+[High]:64.19999694824219
+[Low]:61.40999984741211
+[Close]:63.880001068115234
+[Adj Close]:63.880001068115234
+[Volume]:6004900
+
+[Date]:2023-11-27 00:00:00
+[Open]:63.04999923706055
+[High]:63.689998626708984
+[Low]:60.9900016784668
+[Close]:61.0
+[Adj Close]:61.0
+[Volume]:6681900
+
+[Date]:2023-11-28 00:00:00
+[Open]:60.84000015258789
+[High]:62.68000030517578
+[Low]:60.790000915527344
+[Close]:61.91999816894531
+[Adj Close]:61.91999816894531
+[Volume]:4106900
+
+[Date]:2023-11-29 00:00:00
+[Open]:62.52000045776367
+[High]:63.40999984741211
+[Low]:61.689998626708984
+[Close]:62.209999084472656
+[Adj Close]:62.209999084472656
+[Volume]:3642400
+
+[Date]:2023-11-30 00:00:00
+[Open]:62.58000183105469
+[High]:63.5
+[Low]:60.90999984741211
+[Close]:61.5
+[Adj Close]:61.5
+[Volume]:4833300
+
+[Date]:2023-12-01 00:00:00
+[Open]:61.5099983215332
+[High]:64.43000030517578
+[Low]:60.90999984741211
+[Close]:63.900001525878906
+[Adj Close]:63.900001525878906
+[Volume]:5438400
+
+[Date]:2023-12-04 00:00:00
+[Open]:63.900001525878906
+[High]:63.900001525878906
+[Low]:60.79999923706055
+[Close]:61.93000030517578
+[Adj Close]:61.93000030517578
+[Volume]:5012200
+
+[Date]:2023-12-05 00:00:00
+[Open]:61.72999954223633
+[High]:64.3489990234375
+[Low]:60.369998931884766
+[Close]:63.59000015258789
+[Adj Close]:63.59000015258789
+[Volume]:6666900
+
+[Date]:2023-12-06 00:00:00
+[Open]:64.3499984741211
+[High]:64.69000244140625
+[Low]:60.88999938964844
+[Close]:61.060001373291016
+[Adj Close]:61.060001373291016
+[Volume]:5434400
+
+[Date]:2023-12-07 00:00:00
+[Open]:61.52000045776367
+[High]:62.970001220703125
+[Low]:61.20000076293945
+[Close]:62.439998626708984
+[Adj Close]:62.439998626708984
+[Volume]:3139100
+
+[Date]:2023-12-08 00:00:00
+[Open]:62.439998626708984
+[High]:67.44000244140625
+[Low]:62.23500061035156
+[Close]:67.2300033569336
+[Adj Close]:67.2300033569336
+[Volume]:18797700
+
+[Date]:2023-12-11 00:00:00
+[Open]:67.26000213623047
+[High]:67.26000213623047
+[Low]:64.29000091552734
+[Close]:64.88999938964844
+[Adj Close]:64.88999938964844
+[Volume]:7625500
+
+[Date]:2023-12-12 00:00:00
+[Open]:65.0
+[High]:66.25
+[Low]:63.279998779296875
+[Close]:64.70999908447266
+[Adj Close]:64.70999908447266
+[Volume]:5711700
+
+[Date]:2023-12-13 00:00:00
+[Open]:65.41000366210938
+[High]:66.5
+[Low]:62.75
+[Close]:65.61000061035156
+[Adj Close]:65.61000061035156
+[Volume]:7024000
+
+[Date]:2023-12-14 00:00:00
+[Open]:66.5199966430664
+[High]:71.79000091552734
+[Low]:66.37000274658203
+[Close]:70.73500061035156
+[Adj Close]:70.73500061035156
+[Volume]:11835000
+
+[Date]:2023-12-15 00:00:00
+[Open]:70.5
+[High]:71.88999938964844
+[Low]:69.29000091552734
+[Close]:71.02999877929688
+[Adj Close]:71.02999877929688
+[Volume]:7040100
+
+[Date]:2023-12-18 00:00:00
+[Open]:69.95999908447266
+[High]:70.09200286865234
+[Low]:68.0199966430664
+[Close]:68.87000274658203
+[Adj Close]:68.87000274658203
+[Volume]:4744800
+
+[Date]:2023-12-19 00:00:00
+[Open]:69.2300033569336
+[High]:70.55000305175781
+[Low]:68.80999755859375
+[Close]:69.43000030517578
+[Adj Close]:69.43000030517578
+[Volume]:3899300
+
+[Date]:2023-12-20 00:00:00
+[Open]:69.5
+[High]:72.98999786376953
+[Low]:68.37999725341797
+[Close]:68.4000015258789
+[Adj Close]:68.4000015258789
+[Volume]:8177600
+
+[Date]:2023-12-21 00:00:00
+[Open]:70.0
+[High]:71.94999694824219
+[Low]:69.30000305175781
+[Close]:71.19999694824219
+[Adj Close]:71.19999694824219
+[Volume]:5407600
+
+[Date]:2023-12-22 00:00:00
+[Open]:72.0
+[High]:73.43900299072266
+[Low]:71.4800033569336
+[Close]:72.29000091552734
+[Adj Close]:72.29000091552734
+[Volume]:5760100
+
+[Date]:2023-12-26 00:00:00
+[Open]:73.2699966430664
+[High]:74.0
+[Low]:71.76000213623047
+[Close]:73.41000366210938
+[Adj Close]:73.41000366210938
+[Volume]:4046600
+
+[Date]:2023-12-27 00:00:00
+[Open]:74.5
+[High]:74.76000213623047
+[Low]:73.41000366210938
+[Close]:74.25
+[Adj Close]:74.25
+[Volume]:3802000
+
+[Date]:2023-12-28 00:00:00
+[Open]:74.79000091552734
+[High]:78.3499984741211
+[Low]:74.5
+[Close]:77.47000122070312
+[Adj Close]:77.47000122070312
+[Volume]:9176900
+
+[Date]:2023-12-29 00:00:00
+[Open]:78.36000061035156
+[High]:78.66000366210938
+[Low]:74.5999984741211
+[Close]:75.1449966430664
+[Adj Close]:75.1449966430664
+[Volume]:11165200
+
+[Date]:2024-01-02 00:00:00
+[Open]:73.5
+[High]:73.5199966430664
+[Low]:68.24299621582031
+[Close]:68.91999816894531
+[Adj Close]:68.91999816894531
+[Volume]:9771000
+
+[Date]:2024-01-03 00:00:00
+[Open]:67.06999969482422
+[High]:68.5
+[Low]:65.11000061035156
+[Close]:67.91000366210938
+[Adj Close]:67.91000366210938
+[Volume]:7858200
+
+[Date]:2024-01-04 00:00:00
+[Open]:68.98999786376953
+[High]:69.5999984741211
+[Low]:67.13999938964844
+[Close]:68.38999938964844
+[Adj Close]:68.38999938964844
+[Volume]:5757600
+
+[Date]:2024-01-05 00:00:00
+[Open]:69.12000274658203
+[High]:70.38999938964844
+[Low]:66.5199966430664
+[Close]:67.05000305175781
+[Adj Close]:67.05000305175781
+[Volume]:7337300
+
+[Date]:2024-01-08 00:00:00
+[Open]:67.76000213623047
+[High]:73.18499755859375
+[Low]:67.5199966430664
+[Close]:72.83999633789062
+[Adj Close]:72.83999633789062
+[Volume]:9303500
+
+[Date]:2024-01-09 00:00:00
+[Open]:72.80000305175781
+[High]:72.9800033569336
+[Low]:70.91000366210938
+[Close]:71.87999725341797
+[Adj Close]:71.87999725341797
+[Volume]:5982000
+
+[Date]:2024-01-10 00:00:00
+[Open]:73.0
+[High]:74.37999725341797
+[Low]:69.86000061035156
+[Close]:70.7699966430664
+[Adj Close]:70.7699966430664
+[Volume]:7450600
+
+[Date]:2024-01-11 00:00:00
+[Open]:71.66999816894531
+[High]:71.87200164794922
+[Low]:68.19000244140625
+[Close]:69.7699966430664
+[Adj Close]:69.7699966430664
+[Volume]:6396100
+
+[Date]:2024-01-12 00:00:00
+[Open]:70.8499984741211
+[High]:70.91000366210938
+[Low]:69.01000213623047
+[Close]:70.0
+[Adj Close]:70.0
+[Volume]:4013600
+
+[Date]:2024-01-16 00:00:00
+[Open]:70.0
+[High]:70.0
+[Low]:67.55000305175781
+[Close]:68.4800033569336
+[Adj Close]:68.4800033569336
+[Volume]:7090300
+
+[Date]:2024-01-17 00:00:00
+[Open]:68.0
+[High]:69.95999908447266
+[Low]:66.66000366210938
+[Close]:69.86000061035156
+[Adj Close]:69.86000061035156
+[Volume]:7209100
+
+[Date]:2024-01-18 00:00:00
+[Open]:72.0
+[High]:74.80000305175781
+[Low]:71.41000366210938
+[Close]:74.2300033569336
+[Adj Close]:74.2300033569336
+[Volume]:11287500
+
+[Date]:2024-01-19 00:00:00
+[Open]:75.06999969482422
+[High]:78.96700286865234
+[Low]:74.43000030517578
+[Close]:78.58000183105469
+[Adj Close]:78.58000183105469
+[Volume]:9944000
+
+[Date]:2024-01-22 00:00:00
+[Open]:78.58000183105469
+[High]:79.94000244140625
+[Low]:76.5
+[Close]:77.11000061035156
+[Adj Close]:77.11000061035156
+[Volume]:7697400
+
+[Date]:2024-01-23 00:00:00
+[Open]:77.0
+[High]:77.58999633789062
+[Low]:75.45999908447266
+[Close]:76.3499984741211
+[Adj Close]:76.3499984741211
+[Volume]:4052500
+
+[Date]:2024-01-24 00:00:00
+[Open]:77.19999694824219
+[High]:77.66999816894531
+[Low]:74.80000305175781
+[Close]:75.73999786376953
+[Adj Close]:75.73999786376953
+[Volume]:6972200
+
+[Date]:2024-01-25 00:00:00
+[Open]:76.48999786376953
+[High]:79.6500015258789
+[Low]:73.26000213623047
+[Close]:73.91000366210938
+[Adj Close]:73.91000366210938
+[Volume]:8817100
+
+[Date]:2024-01-26 00:00:00
+[Open]:73.13999938964844
+[High]:73.88999938964844
+[Low]:70.80000305175781
+[Close]:71.16999816894531
+[Adj Close]:71.16999816894531
+[Volume]:7077100
+
+[Date]:2024-01-29 00:00:00
+[Open]:72.0
+[High]:72.94999694824219
+[Low]:71.19999694824219
+[Close]:72.93000030517578
+[Adj Close]:72.93000030517578
+[Volume]:4318100
+
+[Date]:2024-01-30 00:00:00
+[Open]:73.49800109863281
+[High]:74.1500015258789
+[Low]:70.8499984741211
+[Close]:71.97000122070312
+[Adj Close]:71.97000122070312
+[Volume]:4056600
+
+[Date]:2024-01-31 00:00:00
+[Open]:70.66000366210938
+[High]:72.54000091552734
+[Low]:69.62000274658203
+[Close]:70.66999816894531
+[Adj Close]:70.66999816894531
+[Volume]:5087300
+
+[Date]:2024-02-01 00:00:00
+[Open]:71.87000274658203
+[High]:72.55000305175781
+[Low]:69.31999969482422
+[Close]:70.5199966430664
+[Adj Close]:70.5199966430664
+[Volume]:3476100
+
+[Date]:2024-02-02 00:00:00
+[Open]:71.0999984741211
+[High]:71.94999694824219
+[Low]:70.0
+[Close]:71.0
+[Adj Close]:71.0
+[Volume]:4280100
+
+[Date]:2024-02-05 00:00:00
+[Open]:71.98999786376953
+[High]:74.27999877929688
+[Low]:71.5999984741211
+[Close]:73.2699966430664
+[Adj Close]:73.2699966430664
+[Volume]:7258100
+
+[Date]:2024-02-06 00:00:00
+[Open]:75.0
+[High]:75.44999694824219
+[Low]:71.80000305175781
+[Close]:72.9800033569336
+[Adj Close]:72.9800033569336
+[Volume]:6899500
+
+[Date]:2024-02-07 00:00:00
+[Open]:73.06999969482422
+[High]:77.70999908447266
+[Low]:72.25
+[Close]:77.01000213623047
+[Adj Close]:77.01000213623047
+[Volume]:22802800
+
+[Date]:2024-02-08 00:00:00
+[Open]:94.41000366210938
+[High]:126.58499908447266
+[Low]:94.0
+[Close]:113.88999938964844
+[Adj Close]:113.88999938964844
+[Volume]:106505700
+
+[Date]:2024-02-09 00:00:00
+[Open]:105.98999786376953
+[High]:117.81999969482422
+[Low]:102.08999633789062
+[Close]:115.20999908447266
+[Adj Close]:115.20999908447266
+[Volume]:48096500
+
+[Date]:2024-02-12 00:00:00
+[Open]:120.16000366210938
+[High]:164.0
+[Low]:118.69000244140625
+[Close]:148.97000122070312
+[Adj Close]:148.97000122070312
+[Volume]:111349700
+
+[Date]:2024-02-13 00:00:00
+[Open]:128.1199951171875
+[High]:137.5
+[Low]:117.0
+[Close]:119.9800033569336
+[Adj Close]:119.9800033569336
+[Volume]:68563900
+
+[Date]:2024-02-14 00:00:00
+[Open]:133.80999755859375
+[High]:134.83999633789062
+[Low]:121.0199966430664
+[Close]:126.4000015258789
+[Adj Close]:126.4000015258789
+[Volume]:42519600
+
+[Date]:2024-02-15 00:00:00
+[Open]:131.0
+[High]:135.0
+[Low]:123.51000213623047
+[Close]:133.67999267578125
+[Adj Close]:133.67999267578125
+[Volume]:34996600
+
+[Date]:2024-02-16 00:00:00
+[Open]:129.5
+[High]:135.97999572753906
+[Low]:123.05000305175781
+[Close]:128.33999633789062
+[Adj Close]:128.33999633789062
+[Volume]:26070600
+
+[Date]:2024-02-20 00:00:00
+[Open]:123.77999877929688
+[High]:123.80000305175781
+[Low]:115.48999786376953
+[Close]:121.7699966430664
+[Adj Close]:121.7699966430664
+[Volume]:21117300
+
+[Date]:2024-02-21 00:00:00
+[Open]:117.76000213623047
+[High]:125.5
+[Low]:116.80999755859375
+[Close]:123.38999938964844
+[Adj Close]:123.38999938964844
+[Volume]:22418100
+
+[Date]:2024-02-22 00:00:00
+[Open]:132.8699951171875
+[High]:138.5
+[Low]:128.50999450683594
+[Close]:128.52999877929688
+[Adj Close]:128.52999877929688
+[Volume]:29492400
+
+[Date]:2024-02-23 00:00:00
+[Open]:129.09500122070312
+[High]:136.0
+[Low]:128.86000061035156
+[Close]:133.33999633789062
+[Adj Close]:133.33999633789062
+[Volume]:20317000
+
+[Date]:2024-02-26 00:00:00
+[Open]:139.0
+[High]:149.9199981689453
+[Low]:138.1750030517578
+[Close]:146.1999969482422
+[Adj Close]:146.1999969482422
+[Volume]:26547900
+
+[Date]:2024-02-27 00:00:00
+[Open]:144.90499877929688
+[High]:147.3300018310547
+[Low]:137.0
+[Close]:137.9499969482422
+[Adj Close]:137.9499969482422
+[Volume]:17481300
+
+[Date]:2024-02-28 00:00:00
+[Open]:136.14999389648438
+[High]:136.2899932861328
+[Low]:131.30999755859375
+[Close]:133.86000061035156
+[Adj Close]:133.86000061035156
+[Volume]:9682600
+
+[Date]:2024-02-29 00:00:00
+[Open]:136.27999877929688
+[High]:141.22000122070312
+[Low]:135.4499969482422
+[Close]:141.0399932861328
+[Adj Close]:141.0399932861328
+[Volume]:10300000
+
+[Date]:2024-03-01 00:00:00
+[Open]:141.47999572753906
+[High]:144.97999572753906
+[Low]:139.0399932861328
+[Close]:141.6199951171875
+[Adj Close]:141.6199951171875
+[Volume]:9805300
+
+[Date]:2024-03-04 00:00:00
+[Open]:145.38999938964844
+[High]:148.47999572753906
+[Low]:137.75
+[Close]:138.00999450683594
+[Adj Close]:138.00999450683594
+[Volume]:14295000
+
+[Date]:2024-03-05 00:00:00
+[Open]:135.5
+[High]:136.3699951171875
+[Low]:130.0
+[Close]:134.07000732421875
+[Adj Close]:134.07000732421875
+[Volume]:9116000
+
+[Date]:2024-03-06 00:00:00
+[Open]:138.08999633789062
+[High]:139.33700561523438
+[Low]:133.26300048828125
+[Close]:136.99000549316406
+[Adj Close]:136.99000549316406
+[Volume]:9063300
+
+[Date]:2024-03-07 00:00:00
+[Open]:140.0
+[High]:146.5399932861328
+[Low]:138.80999755859375
+[Close]:140.85000610351562
+[Adj Close]:140.85000610351562
+[Volume]:14306200
+
+[Date]:2024-03-08 00:00:00
+[Open]:139.69000244140625
+[High]:142.89999389648438
+[Low]:131.1999969482422
+[Close]:131.47999572753906
+[Adj Close]:131.47999572753906
+[Volume]:14059600
+
+[Date]:2024-03-11 00:00:00
+[Open]:126.5999984741211
+[High]:130.74200439453125
+[Low]:124.12000274658203
+[Close]:126.73999786376953
+[Adj Close]:126.73999786376953
+[Volume]:10174800
+
+[Date]:2024-03-12 00:00:00
+[Open]:125.0
+[High]:129.99000549316406
+[Low]:121.37999725341797
+[Close]:129.5
+[Adj Close]:129.5
+[Volume]:18220600
+
+[Date]:2024-03-13 00:00:00
+[Open]:129.0
+[High]:132.6999969482422
+[Low]:125.80000305175781
+[Close]:131.27000427246094
+[Adj Close]:131.27000427246094
+[Volume]:9097600
+
+[Date]:2024-03-14 00:00:00
+[Open]:130.1300048828125
+[High]:136.2899932861328
+[Low]:127.58999633789062
+[Close]:130.9600067138672
+[Adj Close]:130.9600067138672
+[Volume]:10070900
+
+[Date]:2024-03-15 00:00:00
+[Open]:128.7100067138672
+[High]:134.1999969482422
+[Low]:126.12000274658203
+[Close]:126.97000122070312
+[Adj Close]:126.97000122070312
+[Volume]:8866200
+
+[Date]:2024-03-18 00:00:00
+[Open]:128.1699981689453
+[High]:132.8000030517578
+[Low]:127.7300033569336
+[Close]:129.75
+[Adj Close]:129.75
+[Volume]:6216300
+
+[Date]:2024-03-19 00:00:00
+[Open]:125.5
+[High]:127.0999984741211
+[Low]:121.5199966430664
+[Close]:124.58999633789062
+[Adj Close]:124.58999633789062
+[Volume]:8135400
+
+[Date]:2024-03-20 00:00:00
+[Open]:126.52999877929688
+[High]:131.97999572753906
+[Low]:125.2300033569336
+[Close]:131.3300018310547
+[Adj Close]:131.3300018310547
+[Volume]:6861500
+
+[Date]:2024-03-21 00:00:00
+[Open]:134.6999969482422
+[High]:137.0
+[Low]:132.01400756835938
+[Close]:133.60000610351562
+[Adj Close]:133.60000610351562
+[Volume]:7568800
+
+[Date]:2024-03-22 00:00:00
+[Open]:133.80999755859375
+[High]:136.10000610351562
+[Low]:132.5
+[Close]:134.14999389648438
+[Adj Close]:134.14999389648438
+[Volume]:6991400
+
+[Date]:2024-03-25 00:00:00
+[Open]:137.15499877929688
+[High]:143.75
+[Low]:137.14999389648438
+[Close]:138.30999755859375
+[Adj Close]:138.30999755859375
+[Volume]:12928900
+
+[Date]:2024-03-26 00:00:00
+[Open]:141.10000610351562
+[High]:145.0
+[Low]:126.91000366210938
+[Close]:127.95999908447266
+[Adj Close]:127.95999908447266
+[Volume]:21244500
+
+[Date]:2024-03-27 00:00:00
+[Open]:130.0
+[High]:130.86000061035156
+[Low]:122.83000183105469
+[Close]:125.62000274658203
+[Adj Close]:125.62000274658203
+[Volume]:11317900
+
+[Date]:2024-03-28 00:00:00
+[Open]:125.68000030517578
+[High]:128.32000732421875
+[Low]:124.16000366210938
+[Close]:124.98999786376953
+[Adj Close]:124.98999786376953
+[Volume]:7385800
+
+[Date]:2024-04-01 00:00:00
+[Open]:126.36000061035156
+[High]:128.72999572753906
+[Low]:124.64099884033203
+[Close]:126.91000366210938
+[Adj Close]:126.91000366210938
+[Volume]:5011900
+
+[Date]:2024-04-02 00:00:00
+[Open]:125.19999694824219
+[High]:125.62999725341797
+[Low]:121.12000274658203
+[Close]:124.27999877929688
+[Adj Close]:124.27999877929688
+[Volume]:5042800
+
+[Date]:2024-04-03 00:00:00
+[Open]:123.0
+[High]:125.9800033569336
+[Low]:122.62000274658203
+[Close]:125.30999755859375
+[Adj Close]:125.30999755859375
+[Volume]:3876000
+
+[Date]:2024-04-04 00:00:00
+[Open]:126.5
+[High]:127.9800033569336
+[Low]:121.81999969482422
+[Close]:122.01000213623047
+[Adj Close]:122.01000213623047
+[Volume]:5477300
+
+[Date]:2024-04-05 00:00:00
+[Open]:122.5999984741211
+[High]:125.72000122070312
+[Low]:120.0199966430664
+[Close]:124.81999969482422
+[Adj Close]:124.81999969482422
+[Volume]:4528900
+
+[Date]:2024-04-08 00:00:00
+[Open]:124.81999969482422
+[High]:130.5
+[Low]:123.38999938964844
+[Close]:129.25
+[Adj Close]:129.25
+[Volume]:6943900
+
+[Date]:2024-04-09 00:00:00
+[Open]:133.50999450683594
+[High]:135.41000366210938
+[Low]:124.5
+[Close]:126.80999755859375
+[Adj Close]:126.80999755859375
+[Volume]:12997200
+
+[Date]:2024-04-10 00:00:00
+[Open]:124.98999786376953
+[High]:127.5999984741211
+[Low]:123.8949966430664
+[Close]:125.18000030517578
+[Adj Close]:125.18000030517578
+[Volume]:4974500
+
+[Date]:2024-04-11 00:00:00
+[Open]:126.0
+[High]:131.1999969482422
+[Low]:125.51000213623047
+[Close]:131.1300048828125
+[Adj Close]:131.1300048828125
+[Volume]:6139100
+
+[Date]:2024-04-12 00:00:00
+[Open]:128.99000549316406
+[High]:130.33900451660156
+[Low]:125.37000274658203
+[Close]:126.33000183105469
+[Adj Close]:126.33000183105469
+[Volume]:4900000
+
+[Date]:2024-04-15 00:00:00
+[Open]:126.19999694824219
+[High]:126.87000274658203
+[Low]:120.94999694824219
+[Close]:122.31999969482422
+[Adj Close]:122.31999969482422
+[Volume]:5003300
+
+[Date]:2024-04-16 00:00:00
+[Open]:122.0
+[High]:124.23999786376953
+[Low]:120.91000366210938
+[Close]:122.22000122070312
+[Adj Close]:122.22000122070312
+[Volume]:4071500
+
+[Date]:2024-04-17 00:00:00
+[Open]:121.87000274658203
+[High]:122.68199920654297
+[Low]:107.01000213623047
+[Close]:107.55999755859375
+[Adj Close]:107.55999755859375
+[Volume]:19639200
+
+[Date]:2024-04-18 00:00:00
+[Open]:106.31999969482422
+[High]:107.2959976196289
+[Low]:102.58000183105469
+[Close]:104.91999816894531
+[Adj Close]:104.91999816894531
+[Volume]:11961200
+
+[Date]:2024-04-19 00:00:00
+[Open]:100.0
+[High]:103.01000213623047
+[Low]:85.61000061035156
+[Close]:87.19000244140625
+[Adj Close]:87.19000244140625
+[Volume]:29269900
+
+[Date]:2024-04-22 00:00:00
+[Open]:89.94000244140625
+[High]:94.31500244140625
+[Low]:89.05999755859375
+[Close]:93.11000061035156
+[Adj Close]:93.11000061035156
+[Volume]:15199500
+
+[Date]:2024-04-23 00:00:00
+[Open]:97.31999969482422
+[High]:98.37000274658203
+[Low]:95.05000305175781
+[Close]:96.04000091552734
+[Adj Close]:96.04000091552734
+[Volume]:11212400
+
+[Date]:2024-04-24 00:00:00
+[Open]:102.0
+[High]:103.75
+[Low]:97.23999786376953
+[Close]:99.87999725341797
+[Adj Close]:99.87999725341797
+[Volume]:11697800
+
+[Date]:2024-04-25 00:00:00
+[Open]:96.05000305175781
+[High]:99.66999816894531
+[Low]:95.5
+[Close]:97.93000030517578
+[Adj Close]:97.93000030517578
+[Volume]:6140800
+
+[Date]:2024-04-26 00:00:00
+[Open]:101.4000015258789
+[High]:102.30000305175781
+[Low]:98.22000122070312
+[Close]:101.94999694824219
+[Adj Close]:101.94999694824219
+[Volume]:5651700
+
+[Date]:2024-04-29 00:00:00
+[Open]:102.19999694824219
+[High]:103.4000015258789
+[Low]:99.05000305175781
+[Close]:103.23999786376953
+[Adj Close]:103.23999786376953
+[Volume]:4009200
+
+[Date]:2024-04-30 00:00:00
+[Open]:103.0199966430664
+[High]:105.19400024414062
+[Low]:100.8499984741211
+[Close]:101.20999908447266
+[Adj Close]:101.20999908447266
+[Volume]:3783700
+
+[Date]:2024-05-01 00:00:00
+[Open]:99.9800033569336
+[High]:100.5999984741211
+[Low]:95.23999786376953
+[Close]:95.29000091552734
+[Adj Close]:95.29000091552734
+[Volume]:6090500
+
+[Date]:2024-05-02 00:00:00
+[Open]:98.98999786376953
+[High]:100.30000305175781
+[Low]:96.12999725341797
+[Close]:98.0
+[Adj Close]:98.0
+[Volume]:4117400
+
+[Date]:2024-05-03 00:00:00
+[Open]:101.62000274658203
+[High]:104.36000061035156
+[Low]:100.4489974975586
+[Close]:101.69999694824219
+[Adj Close]:101.69999694824219
+[Volume]:5780200
+
+[Date]:2024-05-06 00:00:00
+[Open]:103.81999969482422
+[High]:107.91999816894531
+[Low]:103.59500122070312
+[Close]:106.9800033569336
+[Adj Close]:106.9800033569336
+[Volume]:7489200
+
+[Date]:2024-05-07 00:00:00
+[Open]:109.30000305175781
+[High]:109.69000244140625
+[Low]:106.54000091552734
+[Close]:107.80000305175781
+[Adj Close]:107.80000305175781
+[Volume]:8187300
+
+[Date]:2024-05-08 00:00:00
+[Open]:107.80000305175781
+[High]:109.94000244140625
+[Low]:104.6500015258789
+[Close]:106.06999969482422
+[Adj Close]:106.06999969482422
+[Volume]:15211300
+
+[Date]:2024-05-09 00:00:00
+[Open]:99.2699966430664
+[High]:106.9000015258789
+[Low]:97.76000213623047
+[Close]:103.58999633789062
+[Adj Close]:103.58999633789062
+[Volume]:29441200
+
+[Date]:2024-05-10 00:00:00
+[Open]:106.19999694824219
+[High]:110.37200164794922
+[Low]:106.19999694824219
+[Close]:108.83999633789062
+[Adj Close]:108.83999633789062
+[Volume]:15225000
+

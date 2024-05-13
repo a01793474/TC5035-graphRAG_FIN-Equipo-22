@@ -1,0 +1,2861 @@
+[Company Introduction]:
+Micron Technology Inc is a leading entity in the Semiconductors sector. Incorporated and publicly traded since 1984-06-01, the company has established its reputation as one of the key players in the market. As of today, Micron Technology Inc has a market capitalization of 134257.31 in USD, with 1107.37 shares outstanding.
+Micron Technology Inc operates primarily in the US, trading under the ticker MU on the NASDAQ NMS - GLOBAL MARKET. As a dominant force in the Semiconductors space, the company continues to innovate and drive progress within the industry.
+
+
+[Address]:
+Main office address is in 8000 S FEDERAL WAY PO BOX 6 BOISE,ID 83716-9632
+tel: 2083684000
+
+
+[Stock]:
+Entity Common Stock, Shares Outstanding this means Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument.
+
+
+[News]:
+[Date]:2024-05-11 05:40:00
+[Headline]:Wall Street's Top 10 Stock Calls This Week - Saturday, May 11
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-11 00:11:00
+[Headline]:5 Of 7 AI Categories Rose, Slightly, Over Past Week
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-11 00:00:00
+[Headline]:5 Of 7 AI Categories Rose, Slightly,Over Past Week
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 07:00:16
+[Headline]:Investors Heavily Search Micron Technology, Inc. (MU): Here is What You Need to Know
+[Summary]:Zacks.com users have recently been watching Micron (MU) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.
+
+[Date]:2024-05-10 06:48:00
+[Headline]:4 Semiconductor Stocks in Focus as Sales Make a Rebound
+[Summary]:The semiconductor industry looks promising which is likely to help stocks like NVIDIA Corporation (NVDA), Micron Technology, Inc. (MU), NXP Semiconductors (NXPI) and Texas Instruments (TXN).
+
+[Date]:2024-05-10 05:00:00
+[Headline]:Aggressive Stock Buying On Rising Layoffs And Revenue Rise At The Largest Chip Manufacturer TSMC
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 04:23:00
+[Headline]:Taiwan Semiconductor spurs chip gains amid AI-related surge in sales
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 19:55:00
+[Headline]:From Hype To Reality, AI Reshapes Pharmaceutical Industry Across Drug Discovery To Marketing - Stocks To Watch
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 19:15:00
+[Headline]:Buy/Sell: Wall Street's top 10 stock calls this week
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 08:16:00
+[Headline]:Nvidia, Micron and Super Micro among companies that shine in Wall Street’s ‘beat-and-raise’ game
+[Summary]:Investors should look at the numbers behind rising share prices.
+
+[Date]:2024-05-09 04:11:00
+[Headline]:June 28th Options Now Available For Micron Technology (MU)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 23:30:00
+[Headline]:Buy Alert: Why Micron Stock Will Keep Riding the AI Boom Higher
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 21:44:00
+[Headline]:Micron Technology Inc. stock falls Thursday, underperforms market
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 09:49:00
+[Headline]:Micron Technology (MU) Announces Availability of New Product
+[Summary]:Micron Technology (MU) announces the availability of Crucial LPCAMM2. It is a laptop memory form factor that has LPDDR5X mobile memory integrated into it.
+
+[Date]:2024-05-08 08:21:27
+[Headline]:US chip manufacturing capacity projected to triple by 2032, fueled by CHIPS Act: Industry leader
+[Summary]:US chip manufacturing capacity is projected to triple by 2032, according to a new report published by the Semiconductor Industry Association (SIA), signaling progress nearly two years after President Biden signed the CHIPS and Science Act into law.
+
+[Date]:2024-05-08 06:39:00
+[Headline]:10 Information Technology Stocks Whale Activity In Today's Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 03:29:00
+[Headline]:CHIPS Act to triple U.S. semiconductor manufacturing capacity by 2032: report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:22:00
+[Headline]:The 3 Most Undervalued Meme Stocks to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 17:40:48
+[Headline]:12 Best Artificial Intelligence Stocks to Buy Now According to Wall Street Analysts
+[Summary]:In this piece, we will take a look at the 12 best artificial intelligence stocks to buy now according to Wall Street analysts. If you want to skip our coverage of the latest developments in the artificial intelligence scene, then you can skip ahead to 5 Best Artificial Intelligence Stocks to Buy Now According to […]
+
+[Date]:2024-05-07 14:01:00
+[Headline]:Micron Technology Announces Upcoming Investor Events
+[Summary]:BOISE, Idaho, May 07, 2024 (GLOBE NEWSWIRE) -- Micron Technology, Inc. (Nasdaq: MU) announced today that company executives will participate in fireside chats at the following investor events: J.P. Morgan’s 52nd Annual Global Technology, Media and Communications Conference in Boston on Tuesday, May 21 at 6:10 a.m. Mountain time.Goldman Sachs’ Global Semiconductor Conference in New York on Thursday, May 30 at 6:20 a.m. Mountain time. Live webcasts and subsequent replays of presentations can be ac
+
+[Date]:2024-05-07 07:01:00
+[Headline]:Micron Delivers Crucial LPCAMM2 with LPDDR5X Memory for the New AI-Ready Lenovo ThinkPad P1 Gen 7 Workstation
+[Summary]:Groundbreaking upgradeable laptop memory form factor reduces power consumption while delivering 1.3 times faster performance over DDR5 SODIMM memoryBOISE, Idaho, May 07, 2024 (GLOBE NEWSWIRE) -- Micron Technology, Inc. (Nasdaq: MU), today announced the availability of Crucial® LPCAMM2, the disruptive next-generation laptop memory form factor that features LPDDR5X mobile memory to level up laptop performance for professionals and creators. Consuming up to 58% less active power1 and with a 64% spa
+
+[Date]:2024-05-07 03:45:00
+[Headline]:Global semiconductor sales jump 15.2% in Q1 2024: SIA
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 02:53:00
+[Headline]:Looking At Micron Technology's Recent Unusual Options Activity
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 02:14:00
+[Headline]:Micron announces availability of Crucial LPCAMM2
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 23:45:00
+[Headline]:Intel or Micron: Baird Selects the Premier Chip Stock to Buy
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 21:27:00
+[Headline]:Biden Administration Tightens Grip On China's Huawei, Revokes Key Export Licenses From US Chipmakers
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 20:53:00
+[Headline]:Investor Optimism Decreases Slightly, But Dow Records Gains For 4th Day
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 20:16:00
+[Headline]:U.S. revoking licenses to supply chips to China's Huawei, FT reports
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 20:10:00
+[Headline]:See Which Of The Latest 13F Filers Holds Micron Technology
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 18:00:00
+[Headline]:Is Micron Technology Stock Going to $150? 1 Wall Street Analyst Thinks So.
+[Summary]:Micron stock is trading at a reasonable valuation based on fiscal 2026 earnings estimates.
+
+[Date]:2024-05-06 13:42:00
+[Headline]:Micron Stock Gets an Upgrade From a Longtime Skeptic
+[Summary]:Baird’s Tristan Gerra raised his call on the chip stock to Outperform, the equivalent of Buy, from Neutral.
+
+[Date]:2024-05-06 08:55:02
+[Headline]:Micron stock up on Baird upgrade
+[Summary]:Micron Technology (MU) shares are trading higher on Monday, propelled by a bullish outlook from Robert W. Baird. Baird analysts upgraded their rating on the chipmaker to Outperform from Neutral, citing substantial upside opportunities. Yahoo Finance's Seana Smith and Madison Mills breaks down the details. For more expert insight and the latest market action, click here to watch this full episode of Catalysts. This post was written by Angel Smith
+
+[Date]:2024-05-06 08:45:00
+[Headline]:Micron Upgrade, Nvidia Rally Power Nasdaq Higher
+[Summary]:One analyst upgrade sparked a pleasant start to the week for semiconductor stockholders. The PHLX Semiconductor Index is up 1.5% Monday. Driving the rally is Micron Technology, whose shares were recently up 5%.
+
+[Date]:2024-05-06 07:49:58
+[Headline]:Micron upgraded, Peloton downgraded: Wall Street's top analyst calls
+[Summary]:Micron upgraded, Peloton downgraded: Wall Street's top analyst calls
+
+[Date]:2024-05-06 06:48:00
+[Headline]:Biden Administration Unveils $285M Funding For Semiconductor Institute
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 06:48:00
+[Headline]:Intel, Micron Among Winners In Biden's $280B CHIPS Act For Semiconductor Advancement
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 06:30:00
+[Headline]:Micron gains as Baird upgrades on HBM strength; adds to top semi ideas
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 06:26:00
+[Headline]:Buy Rating Affirmed for Micron Technology Amid Favorable DRAM Market Dynamics and Strong Financial Outlook
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 06:08:00
+[Headline]:What the Options Market Tells Us About Micron Technology
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 05:04:00
+[Headline]:What You Missed On Wall Street This Morning
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 03:32:00
+[Headline]:Unveiling Micron Technology (MU)'s Value: Is It Really Priced Right?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 02:55:00
+[Headline]:Early notable gainers among liquid option names on May 6th
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 01:25:00
+[Headline]:Citi stays bullish on chips as March sales surge; analog and microcontroller lead
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 01:01:00
+[Headline]:Micron’s stock is among the S&P 500’s best this year. Why it just got upgraded.
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 00:49:00
+[Headline]:US to provide $285M grant to set up institute for 'Digital twins' tech for chip industry
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 00:16:00
+[Headline]:Micron, Qualcomm And 2 Other Stocks Insiders Are Selling
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 21:53:00
+[Headline]:Micron just upgraded at Baird, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 21:28:00
+[Headline]:What You Missed On Wall Street On Monday
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-04 06:58:00
+[Headline]:Insider Sale: EVP Scott Deboer Sells 40,000 Shares of Micron Technology Inc (MU)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-03 07:55:11
+[Headline]:Micron (MU) May Find a Bottom Soon, Here's Why You Should Buy the Stock Now
+[Summary]:Micron (MU) witnesses a hammer chart pattern, indicating support found by the stock after losing some value lately. This coupled with an upward trend in earnings estimate revisions could mean a trend reversal for the stock in the near term.
+
+[Date]:2024-05-03 03:26:00
+[Headline]:The Zacks Analyst Blog Highlights Micron Technology, Anheuser-Busch, Duke Energy, ON Semiconductor and STERIS
+[Summary]:Micron Technology, Anheuser-Busch, Duke Energy, ON Semiconductor and STERIS are included in this Analyst Blog.
+
+[Date]:2024-05-02 11:56:00
+[Headline]:Top Stock Reports for Micron Technology, Anheuser-Busch & Duke Energy
+[Summary]:Today's Research Daily features new research reports on 16 major stocks, including Micron Technology, Inc. (MU), Anheuser-Busch InBev SA/NV (BUD) and Duke Energy Corporation (DUK).
+
+[Date]:2024-05-02 09:21:13
+[Headline]:Micron Technology Stock Target: Set Your Sights on $150
+[Summary]:Should you support a company if the government does? That’s a personal choice, of course. However, there’s no denying that Micron Technology (NASDAQ:MU) will have a huge advantage with the government’s financial support. For that reason, it makes perfect sense to buy Micron Technology stock now. Really, it’s not a question of whether the Micron share price will go up, but how high it will go. One big-bank analyst posits that the stock has plenty of room to rally, but don’t just take his word for
+
+[Date]:2024-05-02 07:10:00
+[Headline]:Micron (MU) Leads Industry With 128GB DDR5 RDIMM Memory
+[Summary]:With 128GB DDR5 RDIMM memory, Micron's (MU) customers are likely to be able to enhance the performance and efficiency of their AI and HPC applications, setting new benchmarks for data center performance.
+
+[Date]:2024-05-02 07:05:00
+[Headline]:Anatomy Of An AI Correction
+[Summary]:The AI ecosystem comprises semiconductors, software, other hardware and innovative use cases, all of which play crucial roles in the advancement and adoption of AI. Click to read.
+
+[Date]:2024-05-02 05:15:00
+[Headline]:Qualcomm Thrives in China's 5G Market, Expects Strong Growth Ahead
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-02 05:00:00
+[Headline]:Nvidia And Tech Stock Paradoxes With Joe Albano
+[Summary]:Joe Albano shares with investors how he quantifies tech stocks, specifically Nvidia, and why charts don't owe fundamentals anything.
+
+[Date]:2024-05-02 04:33:00
+[Headline]:Futuristic AI Requires Futuristic Data Centers, Experts Urge Investment Surge
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-02 04:00:00
+[Headline]:Chip Stocks on Sale: 3 Semiconductor Plays to Buy the Dip
+[Summary]:Chip stocks pulled back following an earnings report by ASML (NASDAQ:ASML), a prominent semiconductor manufacturing equipment developer, which said it expects its bookings to see a significant 61% sequential decrease in the first quarter. This downturn surpassed what investors had anticipated, causing concern in the semiconductor market. This slowdown in equipment purchases by foundries, that manufacture chips for companies such as Nvidia (NASDAQ:NVDA) and Apple (NASDAQ:AAPL) could indicate a po
+
+[Date]:2024-05-02 03:56:00
+[Headline]:Micron, GM join Big Tech on this list of 20 biggest winners this earnings season
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-02 00:06:00
+[Headline]:Micron exec Bokan sells 15,000 common shares
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 23:07:00
+[Headline]:3 Overlooked Stocks Poised for Massive Growth
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 22:59:00
+[Headline]:Nvidia supplier SK Hynix's HBM chips almost sold out till 2025 amid AI demand - report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 14:43:56
+[Headline]:Why Nvidia, Arm Holdings, and Other Artificial Intelligence (AI) Stocks Slumped on Wednesday
+[Summary]:Results by one of the standard-bearers for the AI movement set the stage for a broader pullback in the space.
+
+[Date]:2024-05-01 08:36:32
+[Headline]:Top 20 Tech Companies in Silicon Valley
+[Summary]:In this piece, we will take a look at the top 20 technology companies in Silicon Valley. If you want to skip our coverage of the world’s technology hub and a region that has changed the world as we know it, then check out 5 Top Tech Companies in Silicon Valley. If there’s one thing […]
+
+[Date]:2024-05-01 07:02:00
+[Headline]:Micron First to Ship Critical Memory for AI Data Centers
+[Summary]:Micron reaches industry milestone as first to validate and ship 128GB DDR5 32Gb server DRAM to address the rigorous speed and capacity demands of memory-intensive Gen AI applications BOISE, Idaho, May 01, 2024 (GLOBE NEWSWIRE) -- Micron Technology, Inc. (Nasdaq: MU), today announced it is leading the industry by validating and shipping its high-capacity monolithic 32Gb DRAM die-based 128GB DDR5 RDIMM memory in speeds up to 5,600 MT/s on all leading server platforms. Powered by Micron’s industry-
+
+[Date]:2024-05-01 06:45:00
+[Headline]:Super Micro suffers drop following outlook, AI-related stocks follow suit: update
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 06:39:00
+[Headline]:10 Information Technology Stocks With Whale Alerts In Today's Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 04:00:00
+[Headline]:Stock Market Crash Warning: Don’t Get Caught Holding These 3 Metaverse Stocks
+[Summary]:Some metaverse stocks are best avoided during prospects of a stock market correction. As InvestorPlace previously reported, this is amid concerns over rising inflation and decelerating GDP growth. The economy is projected to add 250,000 jobs, down from March’s 303,000. This forecast is expected to stabilize the unemployment rate at 3.8%. I believe it makes sense then that these metaverse stocks to avoid, which have speculative outlooks and questionable fundamentals, should then come onto the cho
+
+[Date]:2024-05-01 03:02:00
+[Headline]:$1000 Invested In Micron Technology 20 Years Ago Would Be Worth This Much Today
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 02:23:00
+[Headline]:Micron slips even as company says it's shipping critical AI memory for data centers
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 03:20:00
+[Headline]:Micron Technology Unusual Options Activity
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-29 11:52:50
+[Headline]:3 Underrated Tech Titans to Buy for Explosive Growth in 2024
+[Summary]:As we near the second half of 2024, the correction phase points to a powerful upside potential in underrated tech stocks. Last year witnessed an extraordinary boom in technology stocks, soaring to uncharted heights. However, the recent warning signs are becoming too loud to ignore, as evidenced by the tech-heavy Nasdaq Composite Index, which has slid 2.5% in the past month. This shift in momentum has made investors revamp their investment choices. During this tumultuous transformation, technolog
+
+[Date]:2024-04-29 07:30:10
+[Headline]:Is It Worth Investing in Micron (MU) Based on Wall Street's Bullish Views?
+[Summary]:According to the average brokerage recommendation (ABR), one should invest in Micron (MU). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?
+
+[Date]:2024-04-29 07:00:14
+[Headline]:Here is What to Know Beyond Why Micron Technology, Inc. (MU) is a Trending Stock
+[Summary]:Micron (MU) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.
+
+[Date]:2024-04-29 05:14:00
+[Headline]:Chips mixed ahead of AMD results; ON Semi, Lattice rise
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-28 05:00:00
+[Headline]:The Top 3 Growth Stocks to Buy in April 2024
+[Summary]:The future of the U.S. economy holds promise despite recent fluctuations. After a robust rebound from the pandemic recession, unemployment remains low, wages are increasing, and families and businesses continue to spend confidently. This sustained economic activity and ongoing investments suggest resilience in facing challenges like inflation. While rising prices may pose hurdles, they also reflect increased consumer demand and economic vitality. As Americans adapt their spending habits in respo
+
+[Date]:2024-04-28 00:00:00
+[Headline]:April Recap: Quantum Computing Hardware Developers Portfolio Down 9%
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-27 23:55:00
+[Headline]:Extra Space Storage, Xylem, First Solar could break out, Barron's says
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-27 19:21:00
+[Headline]:Markets Snap Back - But Uncertain Economic Conditions Persist
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-27 01:24:00
+[Headline]:All Of The Grants Given By The U.S. CHIPS Act
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-26 12:27:43
+[Headline]:Intel CEO confident in its AI future after posting soft guidance
+[Summary]:Intel's negative earnings surprise caught a few of the newfound bulls to the story by surprise.
+
+[Date]:2024-04-26 06:51:00
+[Headline]:Micron (MU) Secures $6.1B for Domestic Manufacturing Expansion
+[Summary]:The $6.1 billion in grants to Micron (MU) is likely to facilitate the construction of cutting-edge memory fabs in Idaho and New York, paving the way for a resurgence of semiconductor production on American soil.
+
+[Date]:2024-04-26 05:30:00
+[Headline]:SMH: Correction In Semiconductor Stocks Presents A Gift Not To Be Missed
+[Summary]:VanEck Semiconductor ETF fell into correction territory, stunning late investors who chased the AI FOMO. Explore more details here.
+
+[Date]:2024-04-26 01:32:34
+[Headline]:Micron, Biden-Harris Administration, U.S. Senate Majority Leader Schumer Announce $6.1B in CHIPS and Science Act Funding for Historic Planned Investment in Domestic Leading-Edge Memory Manufacturing
+[Summary]:BOISE, Idaho - Micron Technology, Inc. , one of the world's largest semiconductor companies and the only U.S.-based manufacturer of memory, and the Biden-Harris Administration today announced that...
+
+[Date]:2024-04-25 23:58:00
+[Headline]:Japan to expand export curbs on chips, quantum technology - report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-25 20:34:00
+[Headline]:Notable Friday Option Activity: MU, NSC, AMAT
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-25 13:31:00
+[Headline]:Biden Keeps Doling Out Billions to Chipmakers. Here’s What Really Matters.
+[Summary]:Despite nearly $28 billion in subsidies flowing to chip companies, AI remains the industry’s kingmaker.
+
+[Date]:2024-04-25 12:55:00
+[Headline]:Why Micron Technology Stock Bucked the Market Downtrend on Thursday
+[Summary]:The chipmaker will get a huge influx of cash from the CHIPS Act.
+
+[Date]:2024-04-25 12:13:27
+[Headline]:Biden bets big on Idaho chips—of the semiconductor variety
+[Summary]:Biden administration announces $6.1 billion Chips Act grant for Boise-based semiconductor maker Micron.
+
+[Date]:2024-04-25 12:11:56
+[Headline]:Micron's $6.1B CHIPS Act Funding Propels Major Expansion In US
+[Summary]:On Thursday, Micron Technology, Inc (NASDAQ:MU) announced signing a non-binding Preliminary Memorandum of Terms (PMT) for $6.1 billion in funding under the CHIPS and Science Act. This funding will support Micron’s planned leading-edge memory manufacturing in Idaho and New York. The CHIPS and Science Act will allocate $6.1 billion in grants to aid Micron’s commitment to investing about $50 billion in gross capital expenditures for domestic leading-edge memory manufacturing through 2030. These gra
+
+[Date]:2024-04-25 09:49:00
+[Headline]:US to give Micron USD6.1 billion grants for American chip factories
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-25 07:07:43
+[Headline]:I'm Upgrading Micron To A Buy As It Wins The HBM Yield Race With SK Hynix
+[Summary]:Memory companies are facing low yield rates in their race to pass qualification tests for NVIDIA's next-gen AI GPUs. Explore more details here.
+
+[Date]:2024-04-25 06:11:47
+[Headline]:SOXQ: An Optimal Portfolio For The Cyclical Recovery
+[Summary]:Invesco PHLX Semiconductor ETF has a potential upside of 21% for 2024 on consensus price targets. Find out why SOXQ ETF is a Strong Buy.
+
+[Date]:2024-04-25 05:10:00
+[Headline]:The timing may be just right to buy Nvidia or other semiconductor stocks
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-25 04:45:00
+[Headline]:Maverick Tech Picks: 7 Stocks to Scoop Up While the Crowd Panics
+[Summary]:Investors continue adjusting to the notion that interest rates may not come down as much as expected in 2024. That mindset shift is manifesting as something of a panic in the markets. As a result, contrarian tech stock picks are falling; the S&P 500 has fallen for five straight days as I write this. However, investors shouldn’t panic. Instead, I think there is an opportunity because while this April has been a difficult one, it’s historically one of the two strongest months for the stock market,
+
+[Date]:2024-04-25 04:13:00
+[Headline]:Huawei-led firms receive Chinese backing to build advanced AI chips: report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-25 04:03:00
+[Headline]:Decoding Micron Technology's Options Activity: What's the Big Picture?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-25 03:43:00
+[Headline]:Semiconductors largely higher even as big tech sells off; Intel results on deck
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-25 03:10:00
+[Headline]:Micron, Biden-Harris Administration, U.S. Senate Majority Leader Schumer Announce $6.1B in CHIPS and Science Act Funding for Historic Planned Investment in Domestic Leading-Edge Memory Manufacturing in Idaho and New York
+[Summary]:Grants support Micron’s plans to invest approximately $50 billion in gross capex through 2030 Memory fabs in Idaho and New York to strengthen U.S. economic and national security, expected to create approximately 75,000 direct and indirect jobs across the U.S. semiconductor supply chain BOISE, Idaho, April 25, 2024 (GLOBE NEWSWIRE) -- Micron Technology, Inc. (Nasdaq: MU), one of the world’s largest semiconductor companies and the only U.S.-based manufacturer of memory, and the Biden-Harris Admini
+
+[Date]:2024-04-25 03:06:22
+[Headline]:Biden to announce preliminary deal with Micron for up to $6.14 billion in chip grants
+[Summary]:U.S. President Joe Biden will travel to Syracuse, New York, on Thursday to announce a preliminary agreement with memory chip maker Micron Technology for up to $6.14 billion in subsidies for two chip factories, the White House said.  The agreement signed by the U.S. Commerce Department will fund facilities in New York and Idaho under the 2022 CHIPS and Science Act, which aims to boost domestic manufacturing of chips and reduce reliance on supplies from China and Taiwan.  The Commerce Department said the federal grants would support the construction of a fabrication plant, or fab, in Clay, New York, a first step toward Micron's plans to invest about $100 billion in New York and create 13,500 jobs.
+
+[Date]:2024-04-25 03:06:01
+[Headline]:As Biden celebrates computer chip factories, voters wait for the promised production to start
+[Summary]:President Joe Biden has a great economic story to tell voters a decade from now, less so in 2024.  On Thursday, the Democratic president will head to upstate New York to celebrate Micron Technology's plans to build a campus of computer chip factories made possible in part with government support.  Staring down a rematch with Republican Donald Trump, Biden is asking voters to believe in a vision for the U.S. economy that is still largely a promise.
+
+[Date]:2024-04-25 03:00:22
+[Headline]:Biden has a favorite stop when he hits the road: chipmaking plants
+[Summary]:Visiting chipmakers has become one of President Biden's most common reasons for getting on the road. He will do so again Thursday as he travels to Syracuse to award Micron $6 billion in federal money.
+
+[Date]:2024-04-25 03:00:00
+[Headline]:Micron Gets $6.1 Billion to Build Three New Facilities
+[Summary]:The government grant will fuel up to $125 billion in investment by Micron in New York and Idaho over the next 20 years, U.S. officials said.
+
+[Date]:2024-04-25 03:00:00
+[Headline]:Micron Clinches Total of up to $13.6 Billion in US Grants, Loans
+[Summary]:(Bloomberg) -- The US plans to award Micron Technology Inc. $6.1 billion in grants and as much as $7.5 billion in loans to help the memory-chip maker build new American factories, rounding out a slew of major federal awards for advanced semiconductor manufacturing. Most Read from BloombergBiden’s Gains Against Trump Vanish on Deep Economic Pessimism, Poll ShowsMalaysia in Talks With Tycoons on Casino to Revive $100 Billion Forest CityZuckerberg Asks for Patience as Meta’s AI Push Spooks Investor
+
+[Date]:2024-04-25 00:42:00
+[Headline]:US to give Micron Technology USD6.1 billion for chip factories
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-24 23:06:00
+[Headline]:Biden celebrates computer chip factories, pitching voters on American 'comeback'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-24 23:00:00
+[Headline]:Biden to announce preliminary deal with Micron for up to $6.14 bln in chip grants
+[Summary]:U.S. President JoeBiden will travel to Syracuse, New York, on Thursday to announcea preliminary agreement with memory chip maker Micron Technologyfor up to $6.14 billion in subsidies for two...
+
+[Date]:2024-04-24 22:57:00
+[Headline]:Micron wins ~$6.1B CHIPS Act grant to build three new fabs
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-24 22:21:00
+[Headline]:Micron enters PMT for $6.1B in funding to support U.S. memory manufacturing
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-24 06:41:22
+[Headline]:Micron: CHIP Grants Are Rocket Fuel (Rating Upgrade)
+[Summary]:Micron Technology's recent partnership withÂ NvidiaÂ is expected to drive sustained growth and profitability. Read why I am upgrading MU stock to a strong buy.
+
+[Date]:2024-04-24 03:05:00
+[Headline]:BUZZ Investing: CPI Surge Spikes Bond Yields
+[Summary]:The BUZZ NextGen AI US Sentiment Leaders Index returned 5.39% during the month of March, compared to a return of 3.22% for the S&P 500 Index during the same period. Click to read.
+
+[Date]:2024-04-23 11:35:26
+[Headline]:Why BigBear.ai, Super Micro Computer, Arm Holdings, and Other Artificial Intelligence (AI) Stocks Surged on Tuesday
+[Summary]:Developments involving another key player in AI helped boost others in the space.
+
+[Date]:2024-04-23 11:00:00
+[Headline]:Micron Technology Stock Has 37% Upside, According to 1 Wall Street Analyst
+[Summary]:Micron sees revenue hitting a new record next year.
+
+[Date]:2024-04-22 19:26:00
+[Headline]:Semiconductor Stocks Tanked Last Week Led By Nvidia's 13.6% Decline
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 06:28:00
+[Headline]:Top 5 U.S. Giants at Lucrative Valuations Amid April Turmoil
+[Summary]:We have narrowed our search to five U.S. bigwigs (market capital > $70 billion) with attractive valuations. These are: NVDA, MU, BDX, ANET, EQIX.
+
+[Date]:2024-04-22 05:59:00
+[Headline]:Goldman’s debt issuers stocks basket
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 01:27:00
+[Headline]:Western Digital slips as Raymond James cuts on valuation concerns
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 01:27:00
+[Headline]:Micron, Uber And A Consumer Products Giant On CNBC's 'Final Trades'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-22 00:27:00
+[Headline]:AMSL, AMAT, MU: Which Semiconductor Stock Is the Best Dip Buy?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-21 10:11:47
+[Headline]:Technology Hitting The Peak Of The 2024 Market Cycle With Rotation To Value
+[Summary]:The article provides an update on the market outlook for 2024 using the latest Momentum GaugeÂ® signals.
+
+[Date]:2024-04-20 19:44:00
+[Headline]:Goldman picks top capex and R&D stocks
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-20 12:37:53
+[Headline]:Time to Cash Out? 3 Overvalued Tech Stocks to Dump Before the Selloff
+[Summary]:Cracks are starting to form in the tech trade. After leading the market higher over the last 18 months, technology stocks are starting to waver. Since peaking in late March, the Nasdaq composite index has declined 6%. The pullback comes as markets adjust their outlook for interest rate cuts this year. In January, the market was pricing in at least six rate reductions in 2024. Now, only two interest rate cuts are anticipated. Higher for longer rates are troublesome for high-flying technology stoc
+
+[Date]:2024-04-20 02:06:55
+[Headline]:Wall Street Breakfast: What Moved Markets
+[Summary]:The S&P 500 (SP500) closed out a tough five trading days on Friday with its worst weekly performance in over a year. Read more about last week's key market events.
+
+[Date]:2024-04-20 00:00:00
+[Headline]:All 7 AI Category Portfolios Continued To Decline This Week
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-19 13:38:01
+[Headline]:Why Micron Technology (MU) Shares Are Sliding Today
+[Summary]:Shares of memory chips maker Micron (NYSE:MU) fell 5.5% in the afternoon session after major indices declined with the Nasdaq down 2.1% while the S&P 500 fell by 0.9%. Netflix reported mixed results to kick off the new earnings season. The video-streaming giant provided underwhelming sales guidance for the full year and guided for growth to decelerate in the second half of the year. Also, Netflix surprisingly announced it will stop disclosing subscriber count (starting in the first quarter of 20
+
+[Date]:2024-04-19 10:10:15
+[Headline]:AI investments will help chip sector to recover: Analyst
+[Summary]:The semiconductor sector is undergoing a correction as interest rate cut expectations dwindle, prompting concerns about the impact on these high-growth, technology-driven stocks. Wedbush Enterprise Hardware Analyst Matt Bryson joins Yahoo Finance to discuss the dynamics shaping the chip industry. Bryson acknowledges that the rise of generative AI has been a significant driving force behind the recent success of chip stocks. While he believes that AI is shifting "the way technology works," he notes it will take time. Due to this, Bryson highlights that "significant investment" will continue to occur in the chip market, fueled by the growth of generative AI applications. However, Bryson cautions that as interest rates remain elevated, it could "weigh on consumer spending." Nevertheless, he expresses confidence that the AI revolution "changing the landscape for tech" will likely insulate the sector from the effect of high interest rates, as investors are unwilling to miss out on the "next technology" breakthrough. For more expert insight and the latest market action, click here to watch this full episode of Yahoo Finance. This post was written by Angel Smith
+
+[Date]:2024-04-19 09:30:08
+[Headline]:Micron (MU) Up 1.9% Since Last Earnings Report: Can It Continue?
+[Summary]:Micron (MU) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.
+
+[Date]:2024-04-19 08:30:00
+[Headline]:Supermicro Stock Falls Sharply, Continuing Recent Slide
+[Summary]:Is the shine starting to come off Super Micro Computer stock?  Shares of the server maker, better known as Supermicro, fell 21% Friday, putting the stock on track for its fifth decline in six sessions.  The stock was recently on track for its lowest close since February, according to Dow Jones Market Data, on track for its lowest close since February.
+
+[Date]:2024-04-19 05:34:00
+[Headline]:Why Super Micro’s stock is tumbling toward its worst day in two months
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-19 05:24:12
+[Headline]:Why Micron Technology Is A Solid Investment For The Future Of Data Centers And AI
+[Summary]:Micron Technology is a beneficiary of the proliferation of Artificial Intelligence, which should drive multi-year growth. Read my analysis of MU stock here.
+
+[Date]:2024-04-19 03:57:00
+[Headline]:Forget Nvidia: 2 Super Semiconductor Stocks to Buy Hand Over Fist, According to Wall Street
+[Summary]:Wall Street pros are bullish on two hot chip stocks not named Nvidia.
+
+[Date]:2024-04-19 02:18:00
+[Headline]:IN BRIEF: Micron requests funding for Virginia semiconductor facility
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-19 02:10:00
+[Headline]:2 Top Artificial Intelligence (AI) Stocks to Buy in April
+[Summary]:These AI stocks trade at attractive valuations, and they could take off impressively over the long run.
+
+[Date]:2024-04-19 01:36:00
+[Headline]:Samsung said to supply high-bandwidth memory chips by first-half: report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-19 00:09:00
+[Headline]:3 Best Semiconductor Stocks to Buy in April 2024, According to Analysts
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 23:50:00
+[Headline]:Micron seeks federal funding to modernize DRAM production in Virginia
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 23:33:00
+[Headline]:Micron Seeks Federal Grants for Virginia Facility Upgrade
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 21:05:00
+[Headline]:Semiconductors stocks tumble amid Super Micro, AI fears
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 20:02:00
+[Headline]:Super Micro plunges as fears crop up that AI bubble is bursting (update)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 19:01:00
+[Headline]:Noteworthy Friday Option Activity: MU, PG, AMAT
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 14:27:11
+[Headline]:CHIPS Act money is starting to move, but it’ll take years to see results
+[Summary]:CHIPS Act money is starting to move, but it's going to take years to get results.
+
+[Date]:2024-04-18 14:09:00
+[Headline]:S&P and Nasdaq Extend Losing Streaks
+[Summary]:U.S. stocks ended mixed as the Dow Industrials posted small gains, while the S&P 500 and Nasdaq declined for a fifth straight session.
+
+[Date]:2024-04-18 12:53:00
+[Headline]:Micron to Get $6.1 Billion in CHIPS Act Funding for Plants in New York and Idaho
+[Summary]:The new fab to be built near Syracuse, N.Y., could create 50,000 jobs, with production from it slated to start at the end of the decade.
+
+[Date]:2024-04-18 09:58:22
+[Headline]:Chip sector correction is 'a cautious blow': Analyst
+[Summary]:The chip sector is undergoing a sector-wide correction as concerns grow around slowing demand for the products. Moor Insights and Strategy Founder and CEO Patrick Moorhead discusses why he believes markets are getting "ahead of [themselves] with some of the doom and gloom." Moorhead notes "there's still this insatiable need" for semiconductor products, saying consumers "just can't get enough." He notes that oftentimes the products require a pairing across companies, so the demand is still there. While uncertainty persists around headwinds such as inflation and geopolitical tensions, he says this has forced investors to adopt "a wait-and-see attitude" in regard to the sector. When asked if he believes markets are overreacting Moorehead tells Yahoo Finance: "I think this is just a cautious blow." For more expert insight and the latest market action, click here to watch this full episode of Yahoo Finance. This post was written by Angel Smith
+
+[Date]:2024-04-18 09:53:57
+[Headline]:7 Must-Have AI Stocks, Fed Rate Cuts or No Fed Rate Cuts
+[Summary]:Markets have remained strong in 2024 primarily because of two factors: the emergence of AI stocks and expectations of multiple Fed rate cuts this year. However, inflation remains high while other economic signals indicate a strong economy overall. The result is that the Fed can wait to cut rates. In fact, it may. The timeline continues to be pushed back with some pundits suggesting that there may be zero rate cuts in 2024. That leads me to believe that investors will redirect their optimism into
+
+[Date]:2024-04-18 09:04:33
+[Headline]:Chip sector enters correction territory on demand concerns
+[Summary]:The semiconductor industry has come under significant pressure in recent months, with chip stocks such as Nvidia (NVDA) and the broader Philadelphia Stock Exchange Semiconductor Index (^SOX) declining more than 10% from their record highs. This selloff has pushed the overall chip sector into correction territory. The downturn in chip stocks comes from growing concerns about the long-term demand outlook for semiconductors. Yahoo Finance's Seana Smith and Madison Mills breaks down the details. For more expert insight and the latest market action, click here to watch this full episode. This post was written by Angel Smith
+
+[Date]:2024-04-18 08:35:00
+[Headline]:Dow  Higher With TSMC Earnings in Focus
+[Summary]:NEWSPLUS  Where next for chip stocks? Shares of Nvidia Advanced Micro Devices and Micron Technology are narrowly higher after a big selloff yesterday. Investors are digesting the latest results from TSMC which was upbeat about AI but more cautious about a wider industry rebound.
+
+[Date]:2024-04-18 06:50:00
+[Headline]:Arm, AMD, Micron, Cisco, and Other Tech Stocks in Focus Today
+[Summary]:Tech companies were showing early promise Thursday as the Nasdaq Composite Index tried once again to snap its losing streak.
+
+[Date]:2024-04-18 06:25:00
+[Headline]:Micron (MU) May Get More Than $6B to Set Up Factories in the US
+[Summary]:Micron (MU) is reportedly to receive more than $6 million in chip grants under the 2022 Chips and Science Act for establishing factories in the United States.
+
+[Date]:2024-04-18 05:47:00
+[Headline]:Most Active Equity Options For Mid-Day - Thursday, April 18
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 05:39:56
+[Headline]:US STOCKS-Futures rise as chip stocks bounce back after selloff
+[Summary]:Futures for Wall Street's main indexes gained on Thursday as chip stocks rebounded, while investors awaited commentary from Federal Reserve officials to ascertain the outlook for interest-rate cuts.  Micron Technology rose 1.9% after a report that the memory-chip maker is set to get more than $6 billion in grants from the U.S. Commerce Department to help pay for domestic chip factory projects.  "Generally, fundamentals will be supportive of chip stocks, but also after such a strong rally, it's not unusual to see a bit of profit-taking," said Fiona Cincotta, senior market analyst at City Index.
+
+[Date]:2024-04-18 04:36:00
+[Headline]:Nvidia Stock is Down 10%. Is This the Beginning of the End?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 03:23:00
+[Headline]:Is Micron Technology Stock Still a Buy Near Its All-Time High?
+[Summary]:The answer might not be what you think.
+
+[Date]:2024-04-18 02:34:00
+[Headline]:4 stocks to watch on Thursday: NFLX, TSM and more
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 02:27:00
+[Headline]:Micron (MU) Gets a Buy from Bank of America Securities
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 01:57:00
+[Headline]:Micron Aims to Secure $6.1B Funding for Advanced Chip Production
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 01:16:00
+[Headline]:Unveiling Micron Technology (MU)'s Value: Is It Really Priced Right? A Comprehensive Guide
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 00:55:00
+[Headline]:Micron's US Expansion Plans Get Presidential Nod with $6.1B Investment
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-18 00:52:32
+[Headline]:Wall Street Breakfast Podcast: TikTok Divestment Bill On Potential Fast Track
+[Summary]:Snapchat surges as TikTok bill on potential fast track through Congress. Micron to get $6.1B grant from U.S. for local chipmaking projects. 23andMe CEO eyes taking company private.
+
+[Date]:2024-04-18 00:18:00
+[Headline]:Asian Markets Dip Amid US Economic Strength and Fed Rate Speculations
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 23:57:00
+[Headline]:Wall Street Looks To Snap 4-Day Losing Streak As Traders Eye Fed Speeches, Netflix Earnings: Analyst Pencils S&P 500's Next 'Major' Downside Support
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 23:18:00
+[Headline]:Stock Futures Rise as Semiconductor Shares Rebound; Fed's Interest Rate Decisions Awaited
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 23:11:00
+[Headline]:Analysts Offer Insights on Technology Companies: Micron (MU) and Beam Global (BEEM)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 22:42:00
+[Headline]:ARM Stock (NASDAQ:ARM): What’s Behind the 12% Drop?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 21:26:00
+[Headline]:What You Missed On Wall Street On Thursday
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 21:26:00
+[Headline]:Micron should be bought on TSMC-driven selloff, says Citi
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 20:20:00
+[Headline]:Micron to get $6.1B grant from U.S. for local chipmaking projects
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 18:03:46
+[Headline]:UPDATE 2-Micron set to get $6 bln in chip grants from US, Bloomberg reports
+[Summary]:Memory chip maker Micron Technology is set to get more than $6 billion in grants from the U.S. Commerce Department to help pay for domestic chip factory projects, Bloomberg News reported on Wednesday.  New York Governor Kathy Hochul said in a statement that the largest private investment in American history is on its way to Central New York.  New federal funding from U.S. President Joe Biden's CHIPS and Science Act will help lock in 50,000 jobs, a $100 billion investment, and millions of dollars in community benefits, Hochul added.
+
+[Date]:2024-04-17 18:01:41
+[Headline]:Schumer says US will provide $6.1 billion to Micron Technology for chip plants in NY, Idaho
+[Summary]:The Biden administration has reached an agreement to provide $6.1 billion in government support for Micron Technology to produce advanced memory computer chips in New York and Idaho.  Senate Majority Leader Chuck Schumer, D-N.Y., personally courted Micron to build what would ultimately be a set of four chip factories near Syracuse in the town of Clay.  ”It will be the biggest memory chip plant in America,” said Schumer.
+
+[Date]:2024-04-17 17:30:23
+[Headline]:Micron set to get $6 billion in chip grants from US, Bloomberg reports
+[Summary]:New York Governor Kathy Hochul said in a statement that the largest private investment in American history is on its way to Central New York.  New federal funding from U.S. President Joe Biden's CHIPS and Science Act will help lock in 50,000 jobs, a $100 billion investment, and millions of dollars in community benefits, Hochul added.  Micron and the U.S. Commerce Department did not immediately respond to Reuters requests for comment.
+
+[Date]:2024-04-17 17:16:40
+[Headline]:Micron Poised to Get Over $6 Billion in Chips Grants in Announcement Next Week
+[Summary]:(Bloomberg) -- Micron Technology Inc., the largest US maker of computer-memory chips, is poised to get more than $6 billion in grants from the Commerce Department to help pay for domestic factory projects, part of an effort to bring semiconductor production back to American soil. Most Read from BloombergDubai Grinds to Standstill as Cloud Seeding Worsens FloodingTesla Asks Investors to Approve Musk’s $56 Billion Pay AgainRed Lobster Considers Bankruptcy to Deal With Leases and Labor CostsBankers
+
+[Date]:2024-04-17 14:03:09
+[Headline]:Biden administration set to provide $6.1 billion to Micron Technology for chip plants in NY, Idaho
+[Summary]:WASHINGTON — The Biden administration has reached an agreement to provide $6.1 billion in government support for Micron Technology to produce advanced memory computer chips in New York and...
+
+[Date]:2024-04-17 06:30:02
+[Headline]:Here's How Much a $1000 Investment in Micron Made 10 Years Ago Would Be Worth Today
+[Summary]:Investing in certain stocks can pay off in the long run, especially if you hold on for a decade or more.
+
+[Date]:2024-04-17 06:30:00
+[Headline]:Micron (MU) Elevates NAND Technology With 232-layer QLC NAND
+[Summary]:Leveraging the 232-layer QLC NAND technology, Micron (MU) delivers industry-leading bit-density, NAND I/O speeds, and read and programming performance, surpassing competitors' offerings.
+
+[Date]:2024-04-17 06:05:00
+[Headline]:IMF Raises Global Growth Forecast Amid High Inflation: 5 Picks
+[Summary]:We have narrowed our search to five U.S. corporate giants. These are: NVDA, MU, PGR, META, DIS.
+
+[Date]:2024-04-17 06:02:00
+[Headline]:Q2 AI Watch: 3 Stocks to Keep Your Eyes On Now
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 02:51:00
+[Headline]:Micron to get $6.1 billion from feds to build chip plants in New York and Idaho
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 01:30:00
+[Headline]:Bloom Energy Appoints Daniel Berenbaum as Chief Financial Officer
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 00:25:00
+[Headline]:Micron to receive over $6B in Commerce Department grants, Bloomberg says
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-17 00:08:00
+[Headline]:Netlist patent claim invalidated in dispute with Samsung, Micron, tribunal rules
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 23:36:00
+[Headline]:Japan-backed fund completes USD6.5 billion buy of chip linchpin JSR
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 20:34:00
+[Headline]:These Were Q1’s Best-Performing Nasdaq 100 Stocks. Can They Repeat in Q2?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 19:25:00
+[Headline]:Micron Technology and Silvaco expand partnership
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 12:43:00
+[Headline]:Silvaco Announces Expanded Partnership with Micron Technology
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 07:30:02
+[Headline]:Why Micron (MU) is a Top Stock for the Long-Term
+[Summary]:Finding strong, market-beating stocks with a positive earnings outlook becomes easier with the Focus List, a top feature of the Zacks Premium portfolio service.
+
+[Date]:2024-04-16 07:14:46
+[Headline]:QTEC: Technology Sector Dashboard For April
+[Summary]:Get valuable insights into the information technology sector's metrics, overvaluation concerns, QTEC ETF details, and undervalued tech stocks in April 2024.
+
+[Date]:2024-04-16 07:02:00
+[Headline]:Micron First to Production of 200+ Layer QLC NAND in Client and Data Center
+[Summary]:Micron’s 2500 SSD outperforms rivals with cutting-edge QLC NANDBOISE, Idaho, April 16, 2024 (GLOBE NEWSWIRE) -- Micron Technology, Inc. (Nasdaq: MU), today demonstrated its continued NAND technology leadership by announcing that its 232-layer QLC NAND is now in mass production and shipping in select Crucial® SSDs, in volume production to enterprise storage customers and sampling to OEM PC manufacturers in the Micron 2500 NMVeTM SSD. Micron 232-layer QLC NAND delivers unparalleled performance for
+
+[Date]:2024-04-16 07:00:16
+[Headline]:Is Trending Stock Micron Technology, Inc. (MU) a Buy Now?
+[Summary]:Micron (MU) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.
+
+[Date]:2024-04-16 04:24:00
+[Headline]:Do cash-gushing stocks outperform the S&P 500? Here’s what history has to say.
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 04:20:00
+[Headline]:Broadcom, Marvell, Analog Devices And More Semiconductor Stocks Poised For 6%-8% Revenue Growth: JPMorgan
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 03:00:00
+[Headline]:Micron: Optimism Appears Fully Baked In Through 2026 - No Margin Of Safety
+[Summary]:Our previous Hold rating has not panned out well, with Micron already running away by +44.2%. Find out why we maintain our hold rating on MU stock.
+
+[Date]:2024-04-16 02:14:00
+[Headline]:Micron announces 232-layer QLC NAND now in mass production
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-16 02:00:10
+[Headline]:Where Biden's billions in chipmaking money have gone — and what could be next
+[Summary]:President Joe Biden has spent $23 billion of the $39 billion he has to spur chipmaking in the US, spreading it to companies that plan new activities in several states.
+
+[Date]:2024-04-15 23:45:00
+[Headline]:Silvaco announces expanded partnership with Micron
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 22:18:47
+[Headline]:Semiconductor Stocks Q4 Overview: AI Gains Heat Up
+[Summary]:Semiconductor stocks, led by Nvidia and Micron, are excelling in 2024 with high revenue growth, as AI stocks continue to attract investors.
+
+[Date]:2024-04-15 19:03:48
+[Headline]:13 Best Machine Learning Stocks To Invest In
+[Summary]:In this article, we discuss the 13 best machine learning stocks to invest in. To skip the detailed analysis of the machine learning industry, go directly to the 5 Best Machine Learning Stocks To Invest In. The concepts of machine learning (ML) and artificial intelligence (AI) are often used interchangeably. However, that is not the […]
+
+[Date]:2024-04-15 11:56:44
+[Headline]:Rambus: Facing Competition And Lower Demand
+[Summary]:Rambusâ share price underperformed SOXX ETF since beginning of 2024, probably due to competition and low server components demand. Read more on RMBS stock here.
+
+[Date]:2024-04-15 06:32:00
+[Headline]:Micron Dominates High-Bandwidth Memory Market, Anticipates Significant Revenue Growth: Analyst
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 04:37:00
+[Headline]:Here's How Much You Would Have Made Owning Micron Technology Stock In The Last 15 Years
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-15 02:30:00
+[Headline]:AI Tiers And Taking Profits In Tech With Joe Albano, Tech Cache
+[Summary]:Joe Albano runs Tech Cache and gives his perspective on AI going mainstream and why he sees a short-term top coming. Hot take on Google/Alphabet.
+
+
+
+[Fileings]:
+[Date]:2023-06-22
+[val]:1095301608
+[accn]:0000723125-23-000041
+[fy]:2023
+[fp]:Q3
+[form]:10-Q
+
+[Date]:2023-09-29
+[val]:1098034471
+[accn]:0000723125-23-000054
+[fy]:2023
+[fp]:FY
+[form]:10-K
+
+[Date]:2023-12-14
+[val]:1103908880
+[accn]:0000723125-23-000077
+[fy]:2024
+[fp]:Q1
+[form]:10-Q
+
+[Date]:2024-03-14
+[val]:1107368110
+[accn]:0000723125-24-000007
+[fy]:2024
+[fp]:Q2
+[form]:10-Q
+
+
+
+[Stock Movements]:
+[Date]:2023-05-12 00:00:00
+[Open]:61.9900016784668
+[High]:62.189998626708984
+[Low]:60.150001525878906
+[Close]:60.91999816894531
+[Adj Close]:60.564674377441406
+[Volume]:12123400
+
+[Date]:2023-05-15 00:00:00
+[Open]:62.22999954223633
+[High]:64.87000274658203
+[Low]:61.79999923706055
+[Close]:64.63999938964844
+[Adj Close]:64.26297760009766
+[Volume]:22227200
+
+[Date]:2023-05-16 00:00:00
+[Open]:64.55000305175781
+[High]:65.22000122070312
+[Low]:63.29999923706055
+[Close]:63.72999954223633
+[Adj Close]:63.35828399658203
+[Volume]:15259000
+
+[Date]:2023-05-17 00:00:00
+[Open]:64.58000183105469
+[High]:65.31999969482422
+[Low]:63.439998626708984
+[Close]:64.91999816894531
+[Adj Close]:64.54133605957031
+[Volume]:15947700
+
+[Date]:2023-05-18 00:00:00
+[Open]:65.9800033569336
+[High]:68.58999633789062
+[Low]:65.08000183105469
+[Close]:67.56999969482422
+[Adj Close]:67.1758804321289
+[Volume]:30688000
+
+[Date]:2023-05-19 00:00:00
+[Open]:67.56999969482422
+[High]:68.38999938964844
+[Low]:66.43000030517578
+[Close]:68.16999816894531
+[Adj Close]:67.77238464355469
+[Volume]:16807800
+
+[Date]:2023-05-22 00:00:00
+[Open]:65.75
+[High]:66.75
+[Low]:64.76000213623047
+[Close]:66.2300033569336
+[Adj Close]:65.84371948242188
+[Volume]:37491000
+
+[Date]:2023-05-23 00:00:00
+[Open]:65.8499984741211
+[High]:67.55999755859375
+[Low]:65.70999908447266
+[Close]:66.01000213623047
+[Adj Close]:65.62498474121094
+[Volume]:15896200
+
+[Date]:2023-05-24 00:00:00
+[Open]:64.94999694824219
+[High]:66.7300033569336
+[Low]:64.87999725341797
+[Close]:66.52999877929688
+[Adj Close]:66.14195251464844
+[Volume]:15806600
+
+[Date]:2023-05-25 00:00:00
+[Open]:69.75
+[High]:69.87999725341797
+[Low]:67.51000213623047
+[Close]:69.61000061035156
+[Adj Close]:69.20398712158203
+[Volume]:29021500
+
+[Date]:2023-05-26 00:00:00
+[Open]:69.87999725341797
+[High]:74.58999633789062
+[Low]:69.80000305175781
+[Close]:73.93000030517578
+[Adj Close]:73.49879455566406
+[Volume]:33410000
+
+[Date]:2023-05-30 00:00:00
+[Open]:74.38999938964844
+[High]:74.7699966430664
+[Low]:71.58000183105469
+[Close]:71.69000244140625
+[Adj Close]:71.27186584472656
+[Volume]:24454700
+
+[Date]:2023-05-31 00:00:00
+[Open]:68.9000015258789
+[High]:69.8499984741211
+[Low]:67.91999816894531
+[Close]:68.19999694824219
+[Adj Close]:67.80221557617188
+[Volume]:30403600
+
+[Date]:2023-06-01 00:00:00
+[Open]:68.94000244140625
+[High]:69.79000091552734
+[Low]:68.0999984741211
+[Close]:69.08999633789062
+[Adj Close]:68.68701934814453
+[Volume]:18153000
+
+[Date]:2023-06-02 00:00:00
+[Open]:69.98999786376953
+[High]:70.55000305175781
+[Low]:68.29000091552734
+[Close]:69.16999816894531
+[Adj Close]:68.76654815673828
+[Volume]:13457700
+
+[Date]:2023-06-05 00:00:00
+[Open]:69.5
+[High]:69.5
+[Low]:67.51000213623047
+[Close]:67.7699966430664
+[Adj Close]:67.37471771240234
+[Volume]:12441100
+
+[Date]:2023-06-06 00:00:00
+[Open]:67.02999877929688
+[High]:68.83999633789062
+[Low]:66.81999969482422
+[Close]:67.54000091552734
+[Adj Close]:67.14606475830078
+[Volume]:12476600
+
+[Date]:2023-06-07 00:00:00
+[Open]:68.41000366210938
+[High]:68.66999816894531
+[Low]:66.94000244140625
+[Close]:67.05999755859375
+[Adj Close]:66.66886138916016
+[Volume]:14610800
+
+[Date]:2023-06-08 00:00:00
+[Open]:66.5
+[High]:66.5199966430664
+[Low]:64.01000213623047
+[Close]:65.31999969482422
+[Adj Close]:64.93901062011719
+[Volume]:25856800
+
+[Date]:2023-06-09 00:00:00
+[Open]:65.93000030517578
+[High]:66.4000015258789
+[Low]:64.47000122070312
+[Close]:65.43000030517578
+[Adj Close]:65.04837036132812
+[Volume]:14649300
+
+[Date]:2023-06-12 00:00:00
+[Open]:65.83999633789062
+[High]:67.54000091552734
+[Low]:65.79000091552734
+[Close]:67.44999694824219
+[Adj Close]:67.05657958984375
+[Volume]:14731100
+
+[Date]:2023-06-13 00:00:00
+[Open]:68.55999755859375
+[High]:68.87999725341797
+[Low]:67.5999984741211
+[Close]:67.87000274658203
+[Adj Close]:67.4741439819336
+[Volume]:11911900
+
+[Date]:2023-06-14 00:00:00
+[Open]:67.54000091552734
+[High]:69.20999908447266
+[Low]:67.5199966430664
+[Close]:69.12000274658203
+[Adj Close]:68.71685028076172
+[Volume]:11085800
+
+[Date]:2023-06-15 00:00:00
+[Open]:68.58999633789062
+[High]:69.5199966430664
+[Low]:68.36000061035156
+[Close]:68.81999969482422
+[Adj Close]:68.41859436035156
+[Volume]:11842600
+
+[Date]:2023-06-16 00:00:00
+[Open]:70.1500015258789
+[High]:70.5
+[Low]:66.05999755859375
+[Close]:67.66000366210938
+[Adj Close]:67.26536560058594
+[Volume]:32252600
+
+[Date]:2023-06-20 00:00:00
+[Open]:67.31999969482422
+[High]:67.62000274658203
+[Low]:65.7699966430664
+[Close]:66.9000015258789
+[Adj Close]:66.50980377197266
+[Volume]:13261600
+
+[Date]:2023-06-21 00:00:00
+[Open]:66.75
+[High]:67.19999694824219
+[Low]:65.33999633789062
+[Close]:65.80000305175781
+[Adj Close]:65.41621398925781
+[Volume]:10427200
+
+[Date]:2023-06-22 00:00:00
+[Open]:65.52999877929688
+[High]:66.66000366210938
+[Low]:65.51000213623047
+[Close]:66.25
+[Adj Close]:65.86358642578125
+[Volume]:8639500
+
+[Date]:2023-06-23 00:00:00
+[Open]:65.44999694824219
+[High]:65.95999908447266
+[Low]:64.83999633789062
+[Close]:65.27999877929688
+[Adj Close]:64.89924621582031
+[Volume]:12646700
+
+[Date]:2023-06-26 00:00:00
+[Open]:65.62999725341797
+[High]:66.69999694824219
+[Low]:65.41000366210938
+[Close]:65.44999694824219
+[Adj Close]:65.06824493408203
+[Volume]:13815900
+
+[Date]:2023-06-27 00:00:00
+[Open]:65.2699966430664
+[High]:66.83999633789062
+[Low]:63.790000915527344
+[Close]:66.79000091552734
+[Adj Close]:66.40044403076172
+[Volume]:18305200
+
+[Date]:2023-06-28 00:00:00
+[Open]:65.6500015258789
+[High]:67.7300033569336
+[Low]:65.38999938964844
+[Close]:67.06999969482422
+[Adj Close]:66.67880249023438
+[Volume]:27100100
+
+[Date]:2023-06-29 00:00:00
+[Open]:67.83999633789062
+[High]:67.94999694824219
+[Low]:63.54999923706055
+[Close]:64.33000183105469
+[Adj Close]:63.95479202270508
+[Volume]:51141900
+
+[Date]:2023-06-30 00:00:00
+[Open]:64.5
+[High]:65.0999984741211
+[Low]:62.900001525878906
+[Close]:63.11000061035156
+[Adj Close]:62.741905212402344
+[Volume]:31530900
+
+[Date]:2023-07-03 00:00:00
+[Open]:63.439998626708984
+[High]:64.31999969482422
+[Low]:63.2599983215332
+[Close]:63.900001525878906
+[Adj Close]:63.52729797363281
+[Volume]:12921300
+
+[Date]:2023-07-05 00:00:00
+[Open]:63.5
+[High]:63.75
+[Low]:62.02000045776367
+[Close]:62.060001373291016
+[Adj Close]:61.69802474975586
+[Volume]:16553000
+
+[Date]:2023-07-06 00:00:00
+[Open]:60.9900016784668
+[High]:61.790000915527344
+[Low]:60.5
+[Close]:61.22999954223633
+[Adj Close]:60.872867584228516
+[Volume]:15607300
+
+[Date]:2023-07-07 00:00:00
+[Open]:61.43000030517578
+[High]:61.4900016784668
+[Low]:60.630001068115234
+[Close]:60.650001525878906
+[Adj Close]:60.40970993041992
+[Volume]:15011100
+
+[Date]:2023-07-10 00:00:00
+[Open]:60.83000183105469
+[High]:62.83000183105469
+[Low]:60.58000183105469
+[Close]:62.47999954223633
+[Adj Close]:62.23245620727539
+[Volume]:16953100
+
+[Date]:2023-07-11 00:00:00
+[Open]:62.599998474121094
+[High]:63.66999816894531
+[Low]:62.310001373291016
+[Close]:63.599998474121094
+[Adj Close]:63.3480224609375
+[Volume]:13464500
+
+[Date]:2023-07-12 00:00:00
+[Open]:64.47000122070312
+[High]:64.69999694824219
+[Low]:63.130001068115234
+[Close]:63.790000915527344
+[Adj Close]:63.537269592285156
+[Volume]:13953600
+
+[Date]:2023-07-13 00:00:00
+[Open]:64.18000030517578
+[High]:64.6500015258789
+[Low]:63.54999923706055
+[Close]:64.52999877929688
+[Adj Close]:64.27434539794922
+[Volume]:11384700
+
+[Date]:2023-07-14 00:00:00
+[Open]:64.30000305175781
+[High]:65.54000091552734
+[Low]:63.68000030517578
+[Close]:64.08000183105469
+[Adj Close]:63.82611846923828
+[Volume]:13851400
+
+[Date]:2023-07-17 00:00:00
+[Open]:63.79999923706055
+[High]:65.66999816894531
+[Low]:63.34000015258789
+[Close]:65.16000366210938
+[Adj Close]:64.90184020996094
+[Volume]:11333600
+
+[Date]:2023-07-18 00:00:00
+[Open]:64.37000274658203
+[High]:65.12000274658203
+[Low]:63.75
+[Close]:64.94000244140625
+[Adj Close]:64.6827163696289
+[Volume]:10402300
+
+[Date]:2023-07-19 00:00:00
+[Open]:65.62999725341797
+[High]:65.76000213623047
+[Low]:64.80000305175781
+[Close]:64.95999908447266
+[Adj Close]:64.70262908935547
+[Volume]:9463900
+
+[Date]:2023-07-20 00:00:00
+[Open]:64.4000015258789
+[High]:65.55000305175781
+[Low]:64.25
+[Close]:64.69000244140625
+[Adj Close]:64.43370056152344
+[Volume]:12745100
+
+[Date]:2023-07-21 00:00:00
+[Open]:65.29000091552734
+[High]:66.16000366210938
+[Low]:64.33999633789062
+[Close]:65.6500015258789
+[Adj Close]:65.38990020751953
+[Volume]:24536900
+
+[Date]:2023-07-24 00:00:00
+[Open]:65.36000061035156
+[High]:66.63999938964844
+[Low]:65.22000122070312
+[Close]:65.4800033569336
+[Adj Close]:65.22057342529297
+[Volume]:10272700
+
+[Date]:2023-07-25 00:00:00
+[Open]:65.4000015258789
+[High]:66.0
+[Low]:65.08000183105469
+[Close]:65.68000030517578
+[Adj Close]:65.4197769165039
+[Volume]:8610900
+
+[Date]:2023-07-26 00:00:00
+[Open]:65.0
+[High]:67.87999725341797
+[Low]:65.0
+[Close]:67.37999725341797
+[Adj Close]:67.113037109375
+[Volume]:14920600
+
+[Date]:2023-07-27 00:00:00
+[Open]:70.4800033569336
+[High]:72.33999633789062
+[Low]:69.95999908447266
+[Close]:71.06999969482422
+[Adj Close]:70.78842163085938
+[Volume]:25068300
+
+[Date]:2023-07-28 00:00:00
+[Open]:71.58000183105469
+[High]:72.12999725341797
+[Low]:70.66000366210938
+[Close]:71.19999694824219
+[Adj Close]:70.91790771484375
+[Volume]:11932900
+
+[Date]:2023-07-31 00:00:00
+[Open]:71.12000274658203
+[High]:71.7699966430664
+[Low]:70.87000274658203
+[Close]:71.38999938964844
+[Adj Close]:71.1071548461914
+[Volume]:11193800
+
+[Date]:2023-08-01 00:00:00
+[Open]:71.0
+[High]:71.08000183105469
+[Low]:69.88999938964844
+[Close]:70.76000213623047
+[Adj Close]:70.47966003417969
+[Volume]:13141100
+
+[Date]:2023-08-02 00:00:00
+[Open]:69.75
+[High]:69.8499984741211
+[Low]:67.33999633789062
+[Close]:68.16999816894531
+[Adj Close]:67.89990997314453
+[Volume]:14004400
+
+[Date]:2023-08-03 00:00:00
+[Open]:67.56999969482422
+[High]:69.38999938964844
+[Low]:67.16000366210938
+[Close]:69.18000030517578
+[Adj Close]:68.90591430664062
+[Volume]:11075200
+
+[Date]:2023-08-04 00:00:00
+[Open]:69.5
+[High]:70.93000030517578
+[Low]:69.12999725341797
+[Close]:69.91000366210938
+[Adj Close]:69.63301849365234
+[Volume]:11250200
+
+[Date]:2023-08-07 00:00:00
+[Open]:69.8499984741211
+[High]:70.2300033569336
+[Low]:68.83000183105469
+[Close]:69.37999725341797
+[Adj Close]:69.10511016845703
+[Volume]:10537500
+
+[Date]:2023-08-08 00:00:00
+[Open]:68.69999694824219
+[High]:68.76000213623047
+[Low]:66.95999908447266
+[Close]:67.6500015258789
+[Adj Close]:67.38197326660156
+[Volume]:14767800
+
+[Date]:2023-08-09 00:00:00
+[Open]:67.77999877929688
+[High]:67.97000122070312
+[Low]:66.62000274658203
+[Close]:66.69999694824219
+[Adj Close]:66.43573760986328
+[Volume]:10043200
+
+[Date]:2023-08-10 00:00:00
+[Open]:67.05999755859375
+[High]:67.45999908447266
+[Low]:64.93000030517578
+[Close]:65.44000244140625
+[Adj Close]:65.18073272705078
+[Volume]:12775300
+
+[Date]:2023-08-11 00:00:00
+[Open]:64.9000015258789
+[High]:65.30999755859375
+[Low]:64.06999969482422
+[Close]:64.37000274658203
+[Adj Close]:64.11498260498047
+[Volume]:11820800
+
+[Date]:2023-08-14 00:00:00
+[Open]:64.37000274658203
+[High]:68.4800033569336
+[Low]:64.19999694824219
+[Close]:68.27999877929688
+[Adj Close]:68.00948333740234
+[Volume]:21954000
+
+[Date]:2023-08-15 00:00:00
+[Open]:67.58999633789062
+[High]:67.62999725341797
+[Low]:65.31999969482422
+[Close]:65.33000183105469
+[Adj Close]:65.07115936279297
+[Volume]:13808500
+
+[Date]:2023-08-16 00:00:00
+[Open]:65.0
+[High]:65.2300033569336
+[Low]:64.08999633789062
+[Close]:64.22000122070312
+[Adj Close]:63.96556854248047
+[Volume]:9895400
+
+[Date]:2023-08-17 00:00:00
+[Open]:64.48999786376953
+[High]:64.70999908447266
+[Low]:63.400001525878906
+[Close]:63.560001373291016
+[Adj Close]:63.30818176269531
+[Volume]:9933300
+
+[Date]:2023-08-18 00:00:00
+[Open]:62.310001373291016
+[High]:63.86000061035156
+[Low]:61.75
+[Close]:63.59000015258789
+[Adj Close]:63.33806228637695
+[Volume]:9573600
+
+[Date]:2023-08-21 00:00:00
+[Open]:63.68000030517578
+[High]:64.19000244140625
+[Low]:62.86000061035156
+[Close]:63.959999084472656
+[Adj Close]:63.70659637451172
+[Volume]:11311900
+
+[Date]:2023-08-22 00:00:00
+[Open]:64.30000305175781
+[High]:65.08000183105469
+[Low]:63.290000915527344
+[Close]:63.40999984741211
+[Adj Close]:63.15877151489258
+[Volume]:8877800
+
+[Date]:2023-08-23 00:00:00
+[Open]:63.56999969482422
+[High]:65.62000274658203
+[Low]:63.16999816894531
+[Close]:65.19000244140625
+[Adj Close]:64.93172454833984
+[Volume]:10747400
+
+[Date]:2023-08-24 00:00:00
+[Open]:66.13999938964844
+[High]:66.23999786376953
+[Low]:63.369998931884766
+[Close]:63.689998626708984
+[Adj Close]:63.437660217285156
+[Volume]:12661600
+
+[Date]:2023-08-25 00:00:00
+[Open]:63.459999084472656
+[High]:64.38999938964844
+[Low]:62.630001068115234
+[Close]:63.720001220703125
+[Adj Close]:63.46754837036133
+[Volume]:9409000
+
+[Date]:2023-08-28 00:00:00
+[Open]:65.72000122070312
+[High]:66.11000061035156
+[Low]:64.66000366210938
+[Close]:65.30999755859375
+[Adj Close]:65.0512466430664
+[Volume]:9904900
+
+[Date]:2023-08-29 00:00:00
+[Open]:64.9000015258789
+[High]:67.02999877929688
+[Low]:64.87000274658203
+[Close]:66.68000030517578
+[Adj Close]:66.41581726074219
+[Volume]:9955000
+
+[Date]:2023-08-30 00:00:00
+[Open]:67.19000244140625
+[High]:68.69999694824219
+[Low]:66.5199966430664
+[Close]:68.08999633789062
+[Adj Close]:67.82022857666016
+[Volume]:16892200
+
+[Date]:2023-08-31 00:00:00
+[Open]:67.97000122070312
+[High]:70.54000091552734
+[Low]:67.97000122070312
+[Close]:69.94000244140625
+[Adj Close]:69.66290283203125
+[Volume]:18420900
+
+[Date]:2023-09-01 00:00:00
+[Open]:70.20999908447266
+[High]:70.62000274658203
+[Low]:69.55000305175781
+[Close]:70.38999938964844
+[Adj Close]:70.11111450195312
+[Volume]:10769200
+
+[Date]:2023-09-05 00:00:00
+[Open]:69.91000366210938
+[High]:71.16000366210938
+[Low]:69.52999877929688
+[Close]:70.29000091552734
+[Adj Close]:70.01151275634766
+[Volume]:11144300
+
+[Date]:2023-09-06 00:00:00
+[Open]:70.12999725341797
+[High]:70.66000366210938
+[Low]:69.63999938964844
+[Close]:70.41000366210938
+[Adj Close]:70.13104248046875
+[Volume]:9192800
+
+[Date]:2023-09-07 00:00:00
+[Open]:69.44999694824219
+[High]:70.29000091552734
+[Low]:69.0999984741211
+[Close]:69.87000274658203
+[Adj Close]:69.59318542480469
+[Volume]:12043200
+
+[Date]:2023-09-08 00:00:00
+[Open]:69.7699966430664
+[High]:70.61000061035156
+[Low]:69.61000061035156
+[Close]:70.18000030517578
+[Adj Close]:69.90194702148438
+[Volume]:9805000
+
+[Date]:2023-09-11 00:00:00
+[Open]:70.83000183105469
+[High]:70.86000061035156
+[Low]:69.30999755859375
+[Close]:70.02999877929688
+[Adj Close]:69.7525405883789
+[Volume]:9310400
+
+[Date]:2023-09-12 00:00:00
+[Open]:69.95999908447266
+[High]:71.69000244140625
+[Low]:69.79000091552734
+[Close]:70.30999755859375
+[Adj Close]:70.03143310546875
+[Volume]:11062100
+
+[Date]:2023-09-13 00:00:00
+[Open]:71.05000305175781
+[High]:71.86000061035156
+[Low]:70.36000061035156
+[Close]:70.8499984741211
+[Adj Close]:70.56929779052734
+[Volume]:14525500
+
+[Date]:2023-09-14 00:00:00
+[Open]:71.66999816894531
+[High]:72.2300033569336
+[Low]:71.27999877929688
+[Close]:71.79000091552734
+[Adj Close]:71.50557708740234
+[Volume]:11170300
+
+[Date]:2023-09-15 00:00:00
+[Open]:71.29000091552734
+[High]:71.62999725341797
+[Low]:69.63999938964844
+[Close]:69.87999725341797
+[Adj Close]:69.60314178466797
+[Volume]:16411400
+
+[Date]:2023-09-18 00:00:00
+[Open]:70.6500015258789
+[High]:71.05000305175781
+[Low]:69.91000366210938
+[Close]:70.5
+[Adj Close]:70.2206802368164
+[Volume]:12735700
+
+[Date]:2023-09-19 00:00:00
+[Open]:70.62000274658203
+[High]:71.05999755859375
+[Low]:69.97000122070312
+[Close]:70.70999908447266
+[Adj Close]:70.42984771728516
+[Volume]:10399000
+
+[Date]:2023-09-20 00:00:00
+[Open]:70.94999694824219
+[High]:72.30999755859375
+[Low]:69.6500015258789
+[Close]:69.68000030517578
+[Adj Close]:69.40393829345703
+[Volume]:15522100
+
+[Date]:2023-09-21 00:00:00
+[Open]:69.0
+[High]:69.29000091552734
+[Low]:67.83000183105469
+[Close]:67.9000015258789
+[Adj Close]:67.63098907470703
+[Volume]:14967500
+
+[Date]:2023-09-22 00:00:00
+[Open]:68.58999633789062
+[High]:69.75
+[Low]:67.79000091552734
+[Close]:68.87999725341797
+[Adj Close]:68.60710144042969
+[Volume]:15487200
+
+[Date]:2023-09-25 00:00:00
+[Open]:68.29000091552734
+[High]:69.19000244140625
+[Low]:67.61000061035156
+[Close]:68.58000183105469
+[Adj Close]:68.30829620361328
+[Volume]:14900000
+
+[Date]:2023-09-26 00:00:00
+[Open]:67.97000122070312
+[High]:69.05000305175781
+[Low]:67.58999633789062
+[Close]:67.94000244140625
+[Adj Close]:67.67082214355469
+[Volume]:12752500
+
+[Date]:2023-09-27 00:00:00
+[Open]:68.12000274658203
+[High]:68.8499984741211
+[Low]:66.75
+[Close]:68.20999908447266
+[Adj Close]:67.93975067138672
+[Volume]:20852300
+
+[Date]:2023-09-28 00:00:00
+[Open]:65.97000122070312
+[High]:67.08999633789062
+[Low]:63.83000183105469
+[Close]:65.19999694824219
+[Adj Close]:64.94168090820312
+[Volume]:46749800
+
+[Date]:2023-09-29 00:00:00
+[Open]:66.36000061035156
+[High]:68.7300033569336
+[Low]:66.36000061035156
+[Close]:68.02999877929688
+[Adj Close]:67.76046752929688
+[Volume]:24307500
+
+[Date]:2023-10-02 00:00:00
+[Open]:68.23999786376953
+[High]:69.27999877929688
+[Low]:67.05999755859375
+[Close]:67.95999908447266
+[Adj Close]:67.69075012207031
+[Volume]:14880500
+
+[Date]:2023-10-03 00:00:00
+[Open]:67.16999816894531
+[High]:69.6500015258789
+[Low]:67.11000061035156
+[Close]:67.83000183105469
+[Adj Close]:67.56126403808594
+[Volume]:12481500
+
+[Date]:2023-10-04 00:00:00
+[Open]:68.30999755859375
+[High]:68.5
+[Low]:67.12000274658203
+[Close]:68.11000061035156
+[Adj Close]:67.84015655517578
+[Volume]:12912800
+
+[Date]:2023-10-05 00:00:00
+[Open]:68.61000061035156
+[High]:69.54000091552734
+[Low]:68.33999633789062
+[Close]:69.05000305175781
+[Adj Close]:68.77642822265625
+[Volume]:14045000
+
+[Date]:2023-10-06 00:00:00
+[Open]:68.70999908447266
+[High]:70.33000183105469
+[Low]:68.0
+[Close]:69.95999908447266
+[Adj Close]:69.799072265625
+[Volume]:15105100
+
+[Date]:2023-10-09 00:00:00
+[Open]:69.61000061035156
+[High]:69.94999694824219
+[Low]:68.58000183105469
+[Close]:69.4800033569336
+[Adj Close]:69.32018280029297
+[Volume]:8588700
+
+[Date]:2023-10-10 00:00:00
+[Open]:69.48999786376953
+[High]:70.11000061035156
+[Low]:68.88999938964844
+[Close]:69.06999969482422
+[Adj Close]:68.91112518310547
+[Volume]:9007600
+
+[Date]:2023-10-11 00:00:00
+[Open]:69.72000122070312
+[High]:70.2699966430664
+[Low]:68.93000030517578
+[Close]:70.20999908447266
+[Adj Close]:70.04850006103516
+[Volume]:11165300
+
+[Date]:2023-10-12 00:00:00
+[Open]:70.38999938964844
+[High]:70.72000122070312
+[Low]:69.30000305175781
+[Close]:69.75
+[Adj Close]:69.58955383300781
+[Volume]:11408700
+
+[Date]:2023-10-13 00:00:00
+[Open]:69.87000274658203
+[High]:70.05999755859375
+[Low]:69.08999633789062
+[Close]:69.20999908447266
+[Adj Close]:69.05079650878906
+[Volume]:10287900
+
+[Date]:2023-10-16 00:00:00
+[Open]:69.01000213623047
+[High]:70.02999877929688
+[Low]:68.13999938964844
+[Close]:69.08000183105469
+[Adj Close]:68.92109680175781
+[Volume]:11294100
+
+[Date]:2023-10-17 00:00:00
+[Open]:68.06999969482422
+[High]:69.62999725341797
+[Low]:67.62000274658203
+[Close]:69.0
+[Adj Close]:68.8412857055664
+[Volume]:11843000
+
+[Date]:2023-10-18 00:00:00
+[Open]:68.01000213623047
+[High]:69.55000305175781
+[Low]:67.9800033569336
+[Close]:69.13999938964844
+[Adj Close]:68.98095703125
+[Volume]:11201000
+
+[Date]:2023-10-19 00:00:00
+[Open]:69.68000030517578
+[High]:69.77999877929688
+[Low]:67.18000030517578
+[Close]:67.52999877929688
+[Adj Close]:67.3746566772461
+[Volume]:18111000
+
+[Date]:2023-10-20 00:00:00
+[Open]:67.55999755859375
+[High]:68.5199966430664
+[Low]:67.13999938964844
+[Close]:67.22000122070312
+[Adj Close]:67.06536865234375
+[Volume]:11501700
+
+[Date]:2023-10-23 00:00:00
+[Open]:66.81999969482422
+[High]:68.16000366210938
+[Low]:66.2300033569336
+[Close]:66.87999725341797
+[Adj Close]:66.72615051269531
+[Volume]:9762000
+
+[Date]:2023-10-24 00:00:00
+[Open]:67.29000091552734
+[High]:68.3499984741211
+[Low]:67.12999725341797
+[Close]:68.06999969482422
+[Adj Close]:67.91342163085938
+[Volume]:8450700
+
+[Date]:2023-10-25 00:00:00
+[Open]:68.48999786376953
+[High]:69.19999694824219
+[Low]:65.9000015258789
+[Close]:66.5
+[Adj Close]:66.34703826904297
+[Volume]:11924300
+
+[Date]:2023-10-26 00:00:00
+[Open]:66.44999694824219
+[High]:67.44000244140625
+[Low]:63.880001068115234
+[Close]:64.52999877929688
+[Adj Close]:64.3815689086914
+[Volume]:16697900
+
+[Date]:2023-10-27 00:00:00
+[Open]:64.91999816894531
+[High]:66.2699966430664
+[Low]:64.87999725341797
+[Close]:65.6500015258789
+[Adj Close]:65.49898529052734
+[Volume]:9980300
+
+[Date]:2023-10-30 00:00:00
+[Open]:66.36000061035156
+[High]:67.55000305175781
+[Low]:65.16999816894531
+[Close]:66.06999969482422
+[Adj Close]:65.91802215576172
+[Volume]:10667700
+
+[Date]:2023-10-31 00:00:00
+[Open]:66.08000183105469
+[High]:67.06999969482422
+[Low]:65.26000213623047
+[Close]:66.87000274658203
+[Adj Close]:66.7161865234375
+[Volume]:8268400
+
+[Date]:2023-11-01 00:00:00
+[Open]:67.0
+[High]:69.66000366210938
+[Low]:67.0
+[Close]:69.4000015258789
+[Adj Close]:69.24036407470703
+[Volume]:16777500
+
+[Date]:2023-11-02 00:00:00
+[Open]:70.31999969482422
+[High]:71.02999877929688
+[Low]:69.75
+[Close]:70.44000244140625
+[Adj Close]:70.27796936035156
+[Volume]:11926000
+
+[Date]:2023-11-03 00:00:00
+[Open]:71.30000305175781
+[High]:73.19000244140625
+[Low]:71.1500015258789
+[Close]:72.58000183105469
+[Adj Close]:72.41304779052734
+[Volume]:14455400
+
+[Date]:2023-11-06 00:00:00
+[Open]:72.58000183105469
+[High]:72.98999786376953
+[Low]:72.0199966430664
+[Close]:72.91999816894531
+[Adj Close]:72.75225830078125
+[Volume]:10073900
+
+[Date]:2023-11-07 00:00:00
+[Open]:72.4800033569336
+[High]:73.12999725341797
+[Low]:71.70999908447266
+[Close]:72.80000305175781
+[Adj Close]:72.63253784179688
+[Volume]:8248400
+
+[Date]:2023-11-08 00:00:00
+[Open]:72.62000274658203
+[High]:72.77999877929688
+[Low]:71.72000122070312
+[Close]:72.27999877929688
+[Adj Close]:72.11373138427734
+[Volume]:9917600
+
+[Date]:2023-11-09 00:00:00
+[Open]:73.55000305175781
+[High]:76.0999984741211
+[Low]:73.5
+[Close]:73.56999969482422
+[Adj Close]:73.40077209472656
+[Volume]:22435900
+
+[Date]:2023-11-10 00:00:00
+[Open]:74.44000244140625
+[High]:75.80999755859375
+[Low]:73.56999969482422
+[Close]:75.36000061035156
+[Adj Close]:75.18665313720703
+[Volume]:12306000
+
+[Date]:2023-11-13 00:00:00
+[Open]:74.1500015258789
+[High]:75.19999694824219
+[Low]:73.38999938964844
+[Close]:74.77999877929688
+[Adj Close]:74.60798645019531
+[Volume]:9116000
+
+[Date]:2023-11-14 00:00:00
+[Open]:76.0
+[High]:77.44999694824219
+[Low]:75.91000366210938
+[Close]:77.16999816894531
+[Adj Close]:76.99248504638672
+[Volume]:12972700
+
+[Date]:2023-11-15 00:00:00
+[Open]:77.5
+[High]:77.5
+[Low]:76.30999755859375
+[Close]:77.13999938964844
+[Adj Close]:76.96255493164062
+[Volume]:9954000
+
+[Date]:2023-11-16 00:00:00
+[Open]:76.88999938964844
+[High]:77.4800033569336
+[Low]:76.4800033569336
+[Close]:76.66999816894531
+[Adj Close]:76.49363708496094
+[Volume]:12989000
+
+[Date]:2023-11-17 00:00:00
+[Open]:76.5999984741211
+[High]:77.94000244140625
+[Low]:76.47000122070312
+[Close]:77.55999755859375
+[Adj Close]:77.381591796875
+[Volume]:9376900
+
+[Date]:2023-11-20 00:00:00
+[Open]:77.33999633789062
+[High]:78.91000366210938
+[Low]:77.12999725341797
+[Close]:78.62000274658203
+[Adj Close]:78.43915557861328
+[Volume]:11424100
+
+[Date]:2023-11-21 00:00:00
+[Open]:77.8499984741211
+[High]:77.93000030517578
+[Low]:76.30999755859375
+[Close]:76.70999908447266
+[Adj Close]:76.5335464477539
+[Volume]:12016700
+
+[Date]:2023-11-22 00:00:00
+[Open]:77.19999694824219
+[High]:78.44999694824219
+[Low]:76.8499984741211
+[Close]:77.0999984741211
+[Adj Close]:76.92264556884766
+[Volume]:8579500
+
+[Date]:2023-11-24 00:00:00
+[Open]:76.68000030517578
+[High]:77.01000213623047
+[Low]:76.37000274658203
+[Close]:76.87000274658203
+[Adj Close]:76.69318389892578
+[Volume]:4349600
+
+[Date]:2023-11-27 00:00:00
+[Open]:76.87000274658203
+[High]:78.29000091552734
+[Low]:76.66000366210938
+[Close]:77.51000213623047
+[Adj Close]:77.33171081542969
+[Volume]:11005600
+
+[Date]:2023-11-28 00:00:00
+[Open]:75.08000183105469
+[High]:76.23999786376953
+[Low]:73.98999786376953
+[Close]:76.12000274658203
+[Adj Close]:75.94490814208984
+[Volume]:19225700
+
+[Date]:2023-11-29 00:00:00
+[Open]:77.44999694824219
+[High]:79.0199966430664
+[Low]:76.37999725341797
+[Close]:76.69000244140625
+[Adj Close]:76.51359558105469
+[Volume]:14062900
+
+[Date]:2023-11-30 00:00:00
+[Open]:76.81999969482422
+[High]:77.0
+[Low]:74.97000122070312
+[Close]:76.12000274658203
+[Adj Close]:75.94490814208984
+[Volume]:21701600
+
+[Date]:2023-12-01 00:00:00
+[Open]:76.01000213623047
+[High]:76.54000091552734
+[Low]:75.08999633789062
+[Close]:75.93000030517578
+[Adj Close]:75.75534057617188
+[Volume]:14353100
+
+[Date]:2023-12-04 00:00:00
+[Open]:75.41999816894531
+[High]:75.5999984741211
+[Low]:73.33000183105469
+[Close]:74.29000091552734
+[Adj Close]:74.11911010742188
+[Volume]:11659300
+
+[Date]:2023-12-05 00:00:00
+[Open]:73.47000122070312
+[High]:73.97000122070312
+[Low]:73.04000091552734
+[Close]:73.69000244140625
+[Adj Close]:73.52050018310547
+[Volume]:8800500
+
+[Date]:2023-12-06 00:00:00
+[Open]:75.30000305175781
+[High]:75.4000015258789
+[Low]:72.93000030517578
+[Close]:73.12999725341797
+[Adj Close]:72.96177673339844
+[Volume]:8883900
+
+[Date]:2023-12-07 00:00:00
+[Open]:74.0199966430664
+[High]:74.20999908447266
+[Low]:72.98999786376953
+[Close]:73.6500015258789
+[Adj Close]:73.4805908203125
+[Volume]:10641300
+
+[Date]:2023-12-08 00:00:00
+[Open]:73.4800033569336
+[High]:75.3499984741211
+[Low]:73.43000030517578
+[Close]:74.95999908447266
+[Adj Close]:74.78756713867188
+[Volume]:12000900
+
+[Date]:2023-12-11 00:00:00
+[Open]:77.19000244140625
+[High]:78.51000213623047
+[Low]:76.97000122070312
+[Close]:77.79000091552734
+[Adj Close]:77.6110610961914
+[Volume]:18547600
+
+[Date]:2023-12-12 00:00:00
+[Open]:77.41999816894531
+[High]:78.26000213623047
+[Low]:77.0999984741211
+[Close]:78.16000366210938
+[Adj Close]:77.98021697998047
+[Volume]:10262100
+
+[Date]:2023-12-13 00:00:00
+[Open]:78.30000305175781
+[High]:80.2699966430664
+[Low]:78.02999877929688
+[Close]:79.79000091552734
+[Adj Close]:79.60646057128906
+[Volume]:11629900
+
+[Date]:2023-12-14 00:00:00
+[Open]:80.80999755859375
+[High]:82.4000015258789
+[Low]:80.79000091552734
+[Close]:82.19000244140625
+[Adj Close]:82.00093841552734
+[Volume]:17342800
+
+[Date]:2023-12-15 00:00:00
+[Open]:82.88999938964844
+[High]:82.98999786376953
+[Low]:81.11000061035156
+[Close]:81.41000366210938
+[Adj Close]:81.22274017333984
+[Volume]:19545800
+
+[Date]:2023-12-18 00:00:00
+[Open]:81.58999633789062
+[High]:81.86000061035156
+[Low]:80.80999755859375
+[Close]:81.55999755859375
+[Adj Close]:81.37238311767578
+[Volume]:12416600
+
+[Date]:2023-12-19 00:00:00
+[Open]:81.66999816894531
+[High]:82.2699966430664
+[Low]:81.16999816894531
+[Close]:82.16999816894531
+[Adj Close]:81.98098754882812
+[Volume]:14316400
+
+[Date]:2023-12-20 00:00:00
+[Open]:81.45999908447266
+[High]:81.62000274658203
+[Low]:78.62999725341797
+[Close]:78.69000244140625
+[Adj Close]:78.50899505615234
+[Volume]:29085000
+
+[Date]:2023-12-21 00:00:00
+[Open]:85.0
+[High]:86.0199966430664
+[Low]:83.11000061035156
+[Close]:85.4800033569336
+[Adj Close]:85.28337097167969
+[Volume]:53969700
+
+[Date]:2023-12-22 00:00:00
+[Open]:86.1500015258789
+[High]:87.48999786376953
+[Low]:85.62000274658203
+[Close]:86.48999786376953
+[Adj Close]:86.29104614257812
+[Volume]:22519000
+
+[Date]:2023-12-26 00:00:00
+[Open]:86.69999694824219
+[High]:87.87000274658203
+[Low]:86.43000030517578
+[Close]:87.05999755859375
+[Adj Close]:86.85973358154297
+[Volume]:11203900
+
+[Date]:2023-12-27 00:00:00
+[Open]:87.4800033569336
+[High]:87.48999786376953
+[Low]:86.22000122070312
+[Close]:86.66000366210938
+[Adj Close]:86.46065521240234
+[Volume]:9186300
+
+[Date]:2023-12-28 00:00:00
+[Open]:86.75
+[High]:86.75
+[Low]:85.83999633789062
+[Close]:86.0
+[Adj Close]:85.80217742919922
+[Volume]:9606200
+
+[Date]:2023-12-29 00:00:00
+[Open]:85.83999633789062
+[High]:86.13999938964844
+[Low]:85.02999877929688
+[Close]:85.33999633789062
+[Adj Close]:85.25769805908203
+[Volume]:8546000
+
+[Date]:2024-01-02 00:00:00
+[Open]:84.0
+[High]:84.08000183105469
+[Low]:81.75
+[Close]:82.33999633789062
+[Adj Close]:82.26058959960938
+[Volume]:13597100
+
+[Date]:2024-01-03 00:00:00
+[Open]:81.19999694824219
+[High]:82.58999633789062
+[Low]:80.58000183105469
+[Close]:82.26000213623047
+[Adj Close]:82.18067169189453
+[Volume]:12915600
+
+[Date]:2024-01-04 00:00:00
+[Open]:83.47000122070312
+[High]:84.26000213623047
+[Low]:82.61000061035156
+[Close]:82.70999908447266
+[Adj Close]:82.63024139404297
+[Volume]:19134200
+
+[Date]:2024-01-05 00:00:00
+[Open]:81.4800033569336
+[High]:83.52999877929688
+[Low]:81.01000213623047
+[Close]:83.44999694824219
+[Adj Close]:83.36952209472656
+[Volume]:15479400
+
+[Date]:2024-01-08 00:00:00
+[Open]:83.88999938964844
+[High]:85.51000213623047
+[Low]:83.83000183105469
+[Close]:84.94999694824219
+[Adj Close]:84.86807250976562
+[Volume]:16219800
+
+[Date]:2024-01-09 00:00:00
+[Open]:83.12999725341797
+[High]:84.19000244140625
+[Low]:82.9000015258789
+[Close]:83.33000183105469
+[Adj Close]:83.24964141845703
+[Volume]:12138700
+
+[Date]:2024-01-10 00:00:00
+[Open]:82.95999908447266
+[High]:83.0199966430664
+[Low]:81.66000366210938
+[Close]:82.37999725341797
+[Adj Close]:82.30055236816406
+[Volume]:10748600
+
+[Date]:2024-01-11 00:00:00
+[Open]:82.80000305175781
+[High]:83.44999694824219
+[Low]:81.81999969482422
+[Close]:83.38999938964844
+[Adj Close]:83.30958557128906
+[Volume]:10579300
+
+[Date]:2024-01-12 00:00:00
+[Open]:82.75
+[High]:83.05000305175781
+[Low]:81.70999908447266
+[Close]:82.38999938964844
+[Adj Close]:82.310546875
+[Volume]:10185700
+
+[Date]:2024-01-16 00:00:00
+[Open]:82.54000091552734
+[High]:85.22000122070312
+[Low]:82.33000183105469
+[Close]:84.61000061035156
+[Adj Close]:84.52840423583984
+[Volume]:13713500
+
+[Date]:2024-01-17 00:00:00
+[Open]:83.69000244140625
+[High]:83.97000122070312
+[Low]:82.62999725341797
+[Close]:83.27999877929688
+[Adj Close]:83.19969177246094
+[Volume]:10245400
+
+[Date]:2024-01-18 00:00:00
+[Open]:85.22000122070312
+[High]:85.81999969482422
+[Low]:84.04000091552734
+[Close]:84.81999969482422
+[Adj Close]:84.73820495605469
+[Volume]:15077700
+
+[Date]:2024-01-19 00:00:00
+[Open]:86.05999755859375
+[High]:87.79000091552734
+[Low]:85.62000274658203
+[Close]:87.51000213623047
+[Adj Close]:87.42561340332031
+[Volume]:17971200
+
+[Date]:2024-01-22 00:00:00
+[Open]:88.2699966430664
+[High]:89.94999694824219
+[Low]:88.01000213623047
+[Close]:89.23999786376953
+[Adj Close]:89.15393829345703
+[Volume]:14371200
+
+[Date]:2024-01-23 00:00:00
+[Open]:89.0
+[High]:89.18000030517578
+[Low]:86.87999725341797
+[Close]:87.52999877929688
+[Adj Close]:87.44558715820312
+[Volume]:16850900
+
+[Date]:2024-01-24 00:00:00
+[Open]:88.41000366210938
+[High]:88.56999969482422
+[Low]:86.61000061035156
+[Close]:88.08000183105469
+[Adj Close]:87.99506378173828
+[Volume]:19752800
+
+[Date]:2024-01-25 00:00:00
+[Open]:89.1500015258789
+[High]:90.04000091552734
+[Low]:88.5
+[Close]:89.19999694824219
+[Adj Close]:89.11397552490234
+[Volume]:15892400
+
+[Date]:2024-01-26 00:00:00
+[Open]:87.23999786376953
+[High]:88.5
+[Low]:86.29000091552734
+[Close]:88.05000305175781
+[Adj Close]:87.96509552001953
+[Volume]:14934500
+
+[Date]:2024-01-29 00:00:00
+[Open]:88.5
+[High]:89.56999969482422
+[Low]:88.0199966430664
+[Close]:89.06999969482422
+[Adj Close]:88.9841079711914
+[Volume]:12108100
+
+[Date]:2024-01-30 00:00:00
+[Open]:88.08000183105469
+[High]:88.79000091552734
+[Low]:85.76000213623047
+[Close]:86.16000366210938
+[Adj Close]:86.07691955566406
+[Volume]:12980400
+
+[Date]:2024-01-31 00:00:00
+[Open]:84.95999908447266
+[High]:86.91999816894531
+[Low]:84.79000091552734
+[Close]:85.75
+[Adj Close]:85.66730499267578
+[Volume]:11396700
+
+[Date]:2024-02-01 00:00:00
+[Open]:86.06999969482422
+[High]:86.19000244140625
+[Low]:84.62000274658203
+[Close]:85.61000061035156
+[Adj Close]:85.5274429321289
+[Volume]:10459000
+
+[Date]:2024-02-02 00:00:00
+[Open]:85.06999969482422
+[High]:86.61000061035156
+[Low]:84.94000244140625
+[Close]:86.4800033569336
+[Adj Close]:86.3966064453125
+[Volume]:10449400
+
+[Date]:2024-02-05 00:00:00
+[Open]:86.73999786376953
+[High]:87.22000122070312
+[Low]:85.61000061035156
+[Close]:86.9800033569336
+[Adj Close]:86.89612579345703
+[Volume]:8409300
+
+[Date]:2024-02-06 00:00:00
+[Open]:86.83000183105469
+[High]:87.19000244140625
+[Low]:83.72000122070312
+[Close]:84.5999984741211
+[Adj Close]:84.51841735839844
+[Volume]:12990300
+
+[Date]:2024-02-07 00:00:00
+[Open]:84.13999938964844
+[High]:85.27999877929688
+[Low]:82.47000122070312
+[Close]:85.16999816894531
+[Adj Close]:85.0878677368164
+[Volume]:16374800
+
+[Date]:2024-02-08 00:00:00
+[Open]:85.51000213623047
+[High]:86.02999877929688
+[Low]:84.52999877929688
+[Close]:84.87999725341797
+[Adj Close]:84.79814147949219
+[Volume]:12524500
+
+[Date]:2024-02-09 00:00:00
+[Open]:85.05999755859375
+[High]:85.62000274658203
+[Low]:83.95999908447266
+[Close]:85.55999755859375
+[Adj Close]:85.47748565673828
+[Volume]:12161500
+
+[Date]:2024-02-12 00:00:00
+[Open]:85.52999877929688
+[High]:86.91000366210938
+[Low]:85.38999938964844
+[Close]:85.69999694824219
+[Adj Close]:85.61735534667969
+[Volume]:10366000
+
+[Date]:2024-02-13 00:00:00
+[Open]:82.47000122070312
+[High]:83.55000305175781
+[Low]:80.7699966430664
+[Close]:81.52999877929688
+[Adj Close]:81.45137786865234
+[Volume]:21207900
+
+[Date]:2024-02-14 00:00:00
+[Open]:82.18000030517578
+[High]:83.18000030517578
+[Low]:81.48999786376953
+[Close]:81.83000183105469
+[Adj Close]:81.75109100341797
+[Volume]:12870900
+
+[Date]:2024-02-15 00:00:00
+[Open]:82.23999786376953
+[High]:82.70999908447266
+[Low]:81.51000213623047
+[Close]:81.62999725341797
+[Adj Close]:81.55127716064453
+[Volume]:11527600
+
+[Date]:2024-02-16 00:00:00
+[Open]:80.95999908447266
+[High]:81.33999633789062
+[Low]:79.25
+[Close]:79.5
+[Adj Close]:79.42333221435547
+[Volume]:15544400
+
+[Date]:2024-02-20 00:00:00
+[Open]:79.33000183105469
+[High]:80.7699966430664
+[Low]:79.1500015258789
+[Close]:80.70999908447266
+[Adj Close]:80.63216400146484
+[Volume]:12627200
+
+[Date]:2024-02-21 00:00:00
+[Open]:80.79000091552734
+[High]:81.5
+[Low]:79.94000244140625
+[Close]:81.48999786376953
+[Adj Close]:81.41141510009766
+[Volume]:9943600
+
+[Date]:2024-02-22 00:00:00
+[Open]:85.0
+[High]:86.30999755859375
+[Low]:83.87999725341797
+[Close]:85.91000366210938
+[Adj Close]:85.82715606689453
+[Volume]:17510900
+
+[Date]:2024-02-23 00:00:00
+[Open]:86.55000305175781
+[High]:86.81999969482422
+[Low]:85.05000305175781
+[Close]:86.0
+[Adj Close]:85.91706848144531
+[Volume]:10232800
+
+[Date]:2024-02-26 00:00:00
+[Open]:89.68000030517578
+[High]:92.3499984741211
+[Low]:88.9000015258789
+[Close]:89.45999908447266
+[Adj Close]:89.37372589111328
+[Volume]:28920100
+
+[Date]:2024-02-27 00:00:00
+[Open]:91.88999938964844
+[High]:92.75
+[Low]:90.48999786376953
+[Close]:91.8499984741211
+[Adj Close]:91.76142120361328
+[Volume]:21422700
+
+[Date]:2024-02-28 00:00:00
+[Open]:90.45999908447266
+[High]:90.79000091552734
+[Low]:89.30000305175781
+[Close]:89.70999908447266
+[Adj Close]:89.62348937988281
+[Volume]:14190700
+
+[Date]:2024-02-29 00:00:00
+[Open]:90.6500015258789
+[High]:90.83000183105469
+[Low]:88.81999969482422
+[Close]:90.61000061035156
+[Adj Close]:90.52262115478516
+[Volume]:17027000
+
+[Date]:2024-03-01 00:00:00
+[Open]:91.91999816894531
+[High]:96.05999755859375
+[Low]:91.91999816894531
+[Close]:95.1500015258789
+[Adj Close]:95.05824279785156
+[Volume]:23430400
+
+[Date]:2024-03-04 00:00:00
+[Open]:96.93000030517578
+[High]:97.37999725341797
+[Low]:94.62000274658203
+[Close]:95.7699966430664
+[Adj Close]:95.67764282226562
+[Volume]:20913200
+
+[Date]:2024-03-05 00:00:00
+[Open]:94.25
+[High]:95.37000274658203
+[Low]:93.27999877929688
+[Close]:94.47000122070312
+[Adj Close]:94.37889862060547
+[Volume]:12887500
+
+[Date]:2024-03-06 00:00:00
+[Open]:95.05000305175781
+[High]:96.43000030517578
+[Low]:94.55999755859375
+[Close]:95.55999755859375
+[Adj Close]:95.46784210205078
+[Volume]:14232400
+
+[Date]:2024-03-07 00:00:00
+[Open]:98.93000030517578
+[High]:99.69000244140625
+[Low]:97.47000122070312
+[Close]:98.9800033569336
+[Adj Close]:98.88455200195312
+[Volume]:24843300
+
+[Date]:2024-03-08 00:00:00
+[Open]:99.87999725341797
+[High]:101.8499984741211
+[Low]:97.31999969482422
+[Close]:97.62000274658203
+[Adj Close]:97.52586364746094
+[Volume]:22353100
+
+[Date]:2024-03-11 00:00:00
+[Open]:95.9000015258789
+[High]:96.45999908447266
+[Low]:93.52999877929688
+[Close]:94.51000213623047
+[Adj Close]:94.41886138916016
+[Volume]:15673300
+
+[Date]:2024-03-12 00:00:00
+[Open]:95.33000183105469
+[High]:97.5
+[Low]:93.63999938964844
+[Close]:97.41999816894531
+[Adj Close]:97.3260498046875
+[Volume]:14993700
+
+[Date]:2024-03-13 00:00:00
+[Open]:95.31999969482422
+[High]:95.33999633789062
+[Low]:93.0999984741211
+[Close]:94.16000366210938
+[Adj Close]:94.06919860839844
+[Volume]:16732600
+
+[Date]:2024-03-14 00:00:00
+[Open]:93.30000305175781
+[High]:93.44999694824219
+[Low]:90.30000305175781
+[Close]:91.43000030517578
+[Adj Close]:91.34182739257812
+[Volume]:16718900
+
+[Date]:2024-03-15 00:00:00
+[Open]:92.4800033569336
+[High]:94.69999694824219
+[Low]:92.0199966430664
+[Close]:93.25
+[Adj Close]:93.16007232666016
+[Volume]:29539200
+
+[Date]:2024-03-18 00:00:00
+[Open]:96.81999969482422
+[High]:97.08000183105469
+[Low]:93.69000244140625
+[Close]:93.77999877929688
+[Adj Close]:93.68955993652344
+[Volume]:23140300
+
+[Date]:2024-03-19 00:00:00
+[Open]:92.58000183105469
+[High]:94.16000366210938
+[Low]:91.0
+[Close]:94.0
+[Adj Close]:93.90935516357422
+[Volume]:21054700
+
+[Date]:2024-03-20 00:00:00
+[Open]:94.98999786376953
+[High]:96.68000030517578
+[Low]:93.58999633789062
+[Close]:96.25
+[Adj Close]:96.15718078613281
+[Volume]:39807400
+
+[Date]:2024-03-21 00:00:00
+[Open]:113.37000274658203
+[High]:113.5
+[Low]:108.77999877929688
+[Close]:109.8499984741211
+[Adj Close]:109.74406433105469
+[Volume]:89554100
+
+[Date]:2024-03-22 00:00:00
+[Open]:109.30999755859375
+[High]:111.33999633789062
+[Low]:107.05000305175781
+[Close]:110.20999908447266
+[Adj Close]:110.10372161865234
+[Volume]:37249900
+
+[Date]:2024-03-25 00:00:00
+[Open]:110.23999786376953
+[High]:121.41000366210938
+[Low]:110.16000366210938
+[Close]:117.12999725341797
+[Adj Close]:117.01704406738281
+[Volume]:55766100
+
+[Date]:2024-03-26 00:00:00
+[Open]:119.0
+[High]:122.45999908447266
+[Low]:118.16999816894531
+[Close]:118.80000305175781
+[Adj Close]:118.68544006347656
+[Volume]:44295100
+
+[Date]:2024-03-27 00:00:00
+[Open]:119.30000305175781
+[High]:120.11000061035156
+[Low]:117.08000183105469
+[Close]:119.25
+[Adj Close]:119.13500213623047
+[Volume]:29320700
+
+[Date]:2024-03-28 00:00:00
+[Open]:119.44000244140625
+[High]:119.62999725341797
+[Low]:117.3499984741211
+[Close]:117.88999938964844
+[Adj Close]:117.88999938964844
+[Volume]:21047800
+
+[Date]:2024-04-01 00:00:00
+[Open]:119.19999694824219
+[High]:127.37999725341797
+[Low]:119.0
+[Close]:124.30000305175781
+[Adj Close]:124.30000305175781
+[Volume]:44309400
+
+[Date]:2024-04-02 00:00:00
+[Open]:122.70999908447266
+[High]:123.68000030517578
+[Low]:120.91999816894531
+[Close]:122.75
+[Adj Close]:122.75
+[Volume]:25026400
+
+[Date]:2024-04-03 00:00:00
+[Open]:122.19999694824219
+[High]:128.27999877929688
+[Low]:121.33000183105469
+[Close]:128.00999450683594
+[Adj Close]:128.00999450683594
+[Volume]:40130100
+
+[Date]:2024-04-04 00:00:00
+[Open]:130.17999267578125
+[High]:130.5399932861328
+[Low]:123.6500015258789
+[Close]:124.08999633789062
+[Adj Close]:124.08999633789062
+[Volume]:36009900
+
+[Date]:2024-04-05 00:00:00
+[Open]:124.4000015258789
+[High]:125.69000244140625
+[Low]:121.19999694824219
+[Close]:123.58000183105469
+[Adj Close]:123.58000183105469
+[Volume]:23290900
+
+[Date]:2024-04-08 00:00:00
+[Open]:129.05999755859375
+[High]:129.6999969482422
+[Low]:122.61000061035156
+[Close]:122.94999694824219
+[Adj Close]:122.94999694824219
+[Volume]:27955800
+
+[Date]:2024-04-09 00:00:00
+[Open]:124.88999938964844
+[High]:126.13999938964844
+[Low]:121.2699966430664
+[Close]:122.62999725341797
+[Adj Close]:122.62999725341797
+[Volume]:19243800
+
+[Date]:2024-04-10 00:00:00
+[Open]:120.0
+[High]:124.4800033569336
+[Low]:119.93000030517578
+[Close]:122.19999694824219
+[Adj Close]:122.19999694824219
+[Volume]:22242300
+
+[Date]:2024-04-11 00:00:00
+[Open]:122.9000015258789
+[High]:127.55999755859375
+[Low]:122.08000183105469
+[Close]:127.51000213623047
+[Adj Close]:127.51000213623047
+[Volume]:21745300
+
+[Date]:2024-04-12 00:00:00
+[Open]:125.25
+[High]:125.98999786376953
+[Low]:121.83000183105469
+[Close]:122.5199966430664
+[Adj Close]:122.5199966430664
+[Volume]:24720100
+
+[Date]:2024-04-15 00:00:00
+[Open]:123.62999725341797
+[High]:124.77999877929688
+[Low]:120.61000061035156
+[Close]:121.37000274658203
+[Adj Close]:121.37000274658203
+[Volume]:17732600
+
+[Date]:2024-04-16 00:00:00
+[Open]:119.52999877929688
+[High]:122.55000305175781
+[Low]:118.36000061035156
+[Close]:121.7699966430664
+[Adj Close]:121.7699966430664
+[Volume]:17452400
+
+[Date]:2024-04-17 00:00:00
+[Open]:122.0199966430664
+[High]:124.41999816894531
+[Low]:116.19999694824219
+[Close]:116.33000183105469
+[Adj Close]:116.33000183105469
+[Volume]:25546500
+
+[Date]:2024-04-18 00:00:00
+[Open]:116.0
+[High]:117.62000274658203
+[Low]:111.4800033569336
+[Close]:111.93000030517578
+[Adj Close]:111.93000030517578
+[Volume]:32146900
+
+[Date]:2024-04-19 00:00:00
+[Open]:109.66000366210938
+[High]:110.87999725341797
+[Low]:105.72000122070312
+[Close]:106.7699966430664
+[Adj Close]:106.7699966430664
+[Volume]:33744300
+
+[Date]:2024-04-22 00:00:00
+[Open]:107.5999984741211
+[High]:110.2300033569336
+[Low]:106.62999725341797
+[Close]:109.12000274658203
+[Adj Close]:109.12000274658203
+[Volume]:19820900
+
+[Date]:2024-04-23 00:00:00
+[Open]:109.70999908447266
+[High]:112.88999938964844
+[Low]:108.91000366210938
+[Close]:112.45999908447266
+[Adj Close]:112.45999908447266
+[Volume]:17887500
+
+[Date]:2024-04-24 00:00:00
+[Open]:112.72000122070312
+[High]:113.94999694824219
+[Low]:109.2300033569336
+[Close]:111.77999877929688
+[Adj Close]:111.77999877929688
+[Volume]:20505900
+
+[Date]:2024-04-25 00:00:00
+[Open]:109.37000274658203
+[High]:113.05999755859375
+[Low]:108.06999969482422
+[Close]:111.58000183105469
+[Adj Close]:111.58000183105469
+[Volume]:18342800
+
+[Date]:2024-04-26 00:00:00
+[Open]:112.0
+[High]:115.05999755859375
+[Low]:111.5999984741211
+[Close]:114.83999633789062
+[Adj Close]:114.83999633789062
+[Volume]:20630700
+
+[Date]:2024-04-29 00:00:00
+[Open]:113.80999755859375
+[High]:114.75
+[Low]:112.11000061035156
+[Close]:114.36000061035156
+[Adj Close]:114.36000061035156
+[Volume]:14419100
+
+[Date]:2024-04-30 00:00:00
+[Open]:114.18000030517578
+[High]:116.27999877929688
+[Low]:112.93000030517578
+[Close]:112.95999908447266
+[Adj Close]:112.95999908447266
+[Volume]:14845600
+
+[Date]:2024-05-01 00:00:00
+[Open]:110.5199966430664
+[High]:113.7300033569336
+[Low]:108.75
+[Close]:109.69999694824219
+[Adj Close]:109.69999694824219
+[Volume]:16686200
+
+[Date]:2024-05-02 00:00:00
+[Open]:111.73999786376953
+[High]:112.41000366210938
+[Low]:109.43000030517578
+[Close]:112.33000183105469
+[Adj Close]:112.33000183105469
+[Volume]:15439200
+
+[Date]:2024-05-03 00:00:00
+[Open]:115.02999877929688
+[High]:115.4800033569336
+[Low]:113.44999694824219
+[Close]:114.69999694824219
+[Adj Close]:114.69999694824219
+[Volume]:15564400
+
+[Date]:2024-05-06 00:00:00
+[Open]:119.77999877929688
+[High]:121.37000274658203
+[Low]:118.0199966430664
+[Close]:120.12999725341797
+[Adj Close]:120.12999725341797
+[Volume]:22538700
+
+[Date]:2024-05-07 00:00:00
+[Open]:120.1500015258789
+[High]:121.41000366210938
+[Low]:119.18000030517578
+[Close]:119.20999908447266
+[Adj Close]:119.20999908447266
+[Volume]:12508300
+
+[Date]:2024-05-08 00:00:00
+[Open]:118.30000305175781
+[High]:120.47000122070312
+[Low]:118.22000122070312
+[Close]:119.31999969482422
+[Adj Close]:119.31999969482422
+[Volume]:10867900
+
+[Date]:2024-05-09 00:00:00
+[Open]:119.31999969482422
+[High]:119.62999725341797
+[Low]:117.44000244140625
+[Close]:117.80999755859375
+[Adj Close]:117.80999755859375
+[Volume]:11524800
+
+[Date]:2024-05-10 00:00:00
+[Open]:120.04000091552734
+[High]:121.8499984741211
+[Low]:119.18000030517578
+[Close]:121.23999786376953
+[Adj Close]:121.23999786376953
+[Volume]:13898500
+

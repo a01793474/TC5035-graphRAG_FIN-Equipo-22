@@ -1,0 +1,2917 @@
+[Company Introduction]:
+Advanced Micro Devices Inc is a leading entity in the Semiconductors sector. Incorporated and publicly traded since 1979-10-15, the company has established its reputation as one of the key players in the market. As of today, Advanced Micro Devices Inc has a market capitalization of 245550.40 in USD, with 1616.14 shares outstanding.
+Advanced Micro Devices Inc operates primarily in the US, trading under the ticker AMD on the NASDAQ NMS - GLOBAL MARKET. As a dominant force in the Semiconductors space, the company continues to innovate and drive progress within the industry.
+
+
+[Address]:
+Main office address is in 2485 AUGUSTINE DRIVE None SANTA CLARA,CA 95054
+tel: (408) 749-4000
+
+
+[Stock]:
+Entity Common Stock, Shares Outstanding this means Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument.
+
+
+[News]:
+[Date]:2024-05-12 04:00:00
+[Headline]:Better Tech Stock: Intel vs. AMD
+[Summary]:These companies have crucial positions in tech, but one feels like a more reliable investment option.
+
+[Date]:2024-05-11 14:37:00
+[Headline]:This Is What the Latest Artificial Intelligence (AI) Earnings Reports Say About Nvidia Stock's Future
+[Summary]:Intel and AMD's latest earnings reports make one thing clear about the state of Nvidia's competition in the AI chip market.
+
+[Date]:2024-05-11 08:21:00
+[Headline]:2 Artificial Intelligence (AI) Stocks to Buy Now That Could Make You a Fortune
+[Summary]:Here's how you could cash in on the AI boom.
+
+[Date]:2024-05-11 05:00:14
+[Headline]:Should Weakness in Advanced Micro Devices, Inc.'s (NASDAQ:AMD) Stock Be Seen As A Sign That Market Will Correct The Share Price Given Decent Financials?
+[Summary]:With its stock down 12% over the past three months, it is easy to disregard Advanced Micro Devices (NASDAQ:AMD...
+
+[Date]:2024-05-10 23:44:00
+[Headline]:AMD Stock Alert: Why You Should Sell Advanced Micro Devices Now
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 09:15:00
+[Headline]:AMD Stock Analysis: Here's What Investors Should Know
+[Summary]:AMD is not firing on all cylinders as parts of the business expand while others contract.
+
+[Date]:2024-05-10 09:05:46
+[Headline]:With Apple entering the fight, the AI chip wars have gone nuclear
+[Summary]:The AI PC chip wars are going nuclear as Apple officially joins the fight with its M4 processor.
+
+[Date]:2024-05-10 08:15:11
+[Headline]:Is AMD Stealing the Spotlight in Server and Client Markets? Here's What You Need to Know
+[Summary]:Advanced Micro Devices Inc (NASDAQ:AMD) increased its market share for client and server categories in the x86 processor market. Despite intense competition in the market, particularly between AMD and Intel Corp (NASDAQ:INTC), AMD continued to grow. Intel, however, made gains in the Internet of Things (IoT) sector. Excluding IoT and semi-custom products such as game console chips that AMD manufactures, Venture Beat cites Mercury Research. Also Read: AMD Positions for AI Leadership with Expanded
+
+[Date]:2024-05-10 08:15:00
+[Headline]:Forget Nvidia: 2 Artificial Intelligence (AI) Stocks to Buy Instead
+[Summary]:These companies' stocks offer more value than Nvidia and have massive potential in AI.
+
+[Date]:2024-05-10 07:02:02
+[Headline]:16 Biggest Publicly Traded AI Companies in the World
+[Summary]:In this article, we will take a look at the 16 biggest publicly traded AI companies in the world. If you want to skip our detailed analysis, you can go directly to 5 Biggest Publicly Traded AI Companies in the World. “NVIDIA Has to Keep Working” On May 8, Stuart Kaiser, Citi’s Head of Equity […]
+
+[Date]:2024-05-10 06:40:00
+[Headline]:10 Information Technology Stocks With Whale Alerts In Today's Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 05:37:00
+[Headline]:Will Advanced Micro Devices Reach a Trillion-Dollar Market Cap by 2030?
+[Summary]:A handful of its technology peers and one of its most direct rivals have already achieved the feat.
+
+[Date]:2024-05-10 05:00:00
+[Headline]:Aggressive Stock Buying On Rising Layoffs And Revenue Rise At The Largest Chip Manufacturer TSMC
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 05:00:00
+[Headline]:SoftBank's Billion-Dollar Bet: Switching From Startups To Semiconductors, AI
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 04:23:00
+[Headline]:Taiwan Semiconductor spurs chip gains amid AI-related surge in sales
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 01:42:00
+[Headline]:Jim Cramer Says This Company Is 'Second-Rate' Logitech, Recommends Buying AMD
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 23:08:00
+[Headline]:Semiconductor Superstars: 3 Chip Stocks Powering the Tech Boom in 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 23:03:00
+[Headline]:7 Once-in-a-Decade Buying Opportunities to Seize Now
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 22:30:00
+[Headline]:Taiwan Semiconductor rises after April sales soar 60%; approves NT$4 dividend for Q1
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 16:26:54
+[Headline]:Tracking Ken Fisher's Fisher Asset Management Portfolio - Q1 2024 Update
+[Summary]:Check here to learn more on the latest updates on Fisher's investment portfolio as holdings decrease but value increases, with major stakes in tech giants.
+
+[Date]:2024-05-09 02:59:00
+[Headline]:Nvidia Stock Slips. Why AI Chip Plays Are Having a Tough Time.
+[Summary]:Nvidia stock has drifted ahead of its earnings report on May 22, with the bar being set high for AI hardware suppliers.
+
+[Date]:2024-05-09 05:51:00
+[Headline]:5 Stocks to Buy Immediately, According to AI
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 03:45:51
+[Headline]:AMD: The Gap With Nvidia Widens
+[Summary]:Advanced Micro Devices trails behind Nvidia in technological race for AI chips. Financial performance is disappointing. Read my earnings analysis of AMD stock here.
+
+[Date]:2024-05-09 01:47:00
+[Headline]:Tech Boom 2.0: 7 Stocks That Will Dominate the Next Surge
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 00:57:00
+[Headline]:Shhh! 3 Secret Penny Stocks Flying Below Wall Street’s Radar
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 23:15:00
+[Headline]:Hey, Nvidia Stock Investors! Why May 22 Could Be a Make-or-Break Date for NVDA.
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 23:10:00
+[Headline]:3 Semiconductor Stocks to Sell in May Before They Crash & Burn
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 19:59:00
+[Headline]:Arm Holdings Poised To Challenge Qualcomm, Intel, AMD In AI, Analysts Predict Growth In Chip Design
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 14:33:39
+[Headline]:Why Is Everyone Talking About AMD Stock?
+[Summary]:The investing community is buzzing with AMD stock.
+
+[Date]:2024-05-08 12:40:58
+[Headline]:Apple’s iPad event was an AI teaser for its future
+[Summary]:Apple's latest M4 chip is bringing more AI capabilities, providing a look into the company's upcoming WWDC conference.
+
+[Date]:2024-05-08 10:45:07
+[Headline]:AMD Q1: It's Not As Bad As It Seems
+[Summary]:Recent declines in AI/chip sector present a buying opportunity for Advanced Micro Devices, Inc., as AMD is well-positioned. Explore more details here.
+
+[Date]:2024-05-08 08:30:00
+[Headline]:1 Artificial Intelligence (AI) Stock Down 29% to Buy Right Now Before It Soars 78%
+[Summary]:This chip stock tanked following the release of the company's latest earnings report, but investors shouldn't miss the bigger picture.
+
+[Date]:2024-05-08 08:19:57
+[Headline]:Super Micro Computer: Growth May Slow In 2025
+[Summary]:Super Micro Computer is experiencing high growth as demand for AI-enabling infrastructure increases. Read more about SMCI stock here.
+
+[Date]:2024-05-08 07:00:00
+[Headline]:AMD Receives IEEE 2024 Corporate Innovation Award for Leadership in Chiplet Design for High-Performance and Adaptive Computing
+[Summary]:SANTA CLARA, Calif., May 08, 2024 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) received the prestigious 2024 Corporate Innovation Award from the Institute of Electrical and Electronics Engineers (IEEE) during a May 3 ceremony in Boston. The award recognizes AMD for pioneering the development and deployment of chiplet architecture designs for high-performance and adaptive computing. AMD was among the first companies to leverage the benefits of chiplet architecture at scale to deliver significant advance
+
+[Date]:2024-05-08 06:39:00
+[Headline]:10 Information Technology Stocks Whale Activity In Today's Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 05:20:00
+[Headline]:The S&P 500 has fallen from its five-month positive performance - HSBC Global
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 03:29:00
+[Headline]:1 Super Semiconductor Stock Down 42% You'll Wish You'd Bought on the Dip
+[Summary]:Axcelis Technologies is one of the cheapest stocks in the chip sector, and it's packed with long-term potential.
+
+[Date]:2024-05-08 03:15:00
+[Headline]:Great News for AMD Stock Investors
+[Summary]:AMD sees opportunities to take market share in a key product category.
+
+[Date]:2024-05-08 00:09:00
+[Headline]:Next Bull Wave: 7 Stocks Ready to Dominate in the Upcoming Rally
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:22:00
+[Headline]:AMD Stock May Be Wobbling and Wavering, but It’s Still Winning
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:06:00
+[Headline]:3 Stocks Could Actually Earn the ‘Next Nvidia’ Title
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:01:00
+[Headline]:7 Stocks to Buy Now or Regret It for the Next Decade
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 18:33:00
+[Headline]:GLOBAL BRIEFING: US halted weapons shipment to Israel over Rafah
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 14:23:41
+[Headline]:Apple releases new iPad Pro with M4 chip, teasing AI features
+[Summary]:Apple (AAPL) unveiled an array of new additions to its iPad product lineup on Tuesday. The standout among the devices revealed was the iPad Pro, which now includes the cutting-edge M4 chip. This offers a glimpse into Apple's vision for integrating artificial intelligence capabilities into its devices. For more expert insight and the latest market action, click here to watch this full episode of Market Domination. This post was written by Angel Smith
+
+[Date]:2024-05-07 07:00:00
+[Headline]:Optiver Chooses AMD Enterprise Portfolio to Power its Data Center Modernization, Enabling New Era of Compute and AI
+[Summary]:Optiver utilizes high-performance AMD solutions including EPYC CPUs, Solarflare Ethernet adapters, Virtex FPGAs and Alveo AcceleratorsSANTA CLARA, Calif., May 07, 2024 (GLOBE NEWSWIRE) -- Today, AMD (NASDAQ: AMD) announced that Optiver – a leading global market maker trading on 100+ exchanges – is using a broad range of AMD high-performance compute engines to help further its mission of improving financial markets by building a modern infrastructure that serves as the backbone of the organizatio
+
+[Date]:2024-05-07 06:45:00
+[Headline]:Forget Nvidia: 1 Super Semiconductor Stock to Buy Hand Over Fist, According to Wall Street
+[Summary]:Nvidia's dominant hold on the data center industry might be under threat as competition ramps up in the market for artificial intelligence (AI) chips.
+
+[Date]:2024-05-07 05:00:59
+[Headline]:Advanced Micro Devices, Inc. (NASDAQ:AMD) is a favorite amongst institutional investors who own 72%
+[Summary]:Key Insights Given the large stake in the stock by institutions, Advanced Micro Devices' stock price might be...
+
+[Date]:2024-05-07 04:00:00
+[Headline]:What's Going on With AMD Stock?
+[Summary]:While AMD is finding success, it is nowhere near the level of Nvidia stock.
+
+[Date]:2024-05-07 03:05:01
+[Headline]:Apple: The Real Reasons Warren Buffett Is Selling
+[Summary]:Warren Buffett's sale of Apple shares highlights concerns over short-term profit, competition, and increasing risks, justifying his decision.
+
+[Date]:2024-05-07 02:30:00
+[Headline]:Nvidia Is 'De Facto AI Standard For The Foreseeable Future': Goldman Sachs Analyst Revises Share Price Expectations
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 02:06:00
+[Headline]:AMD Enterprise portfolio chosen by Optiver
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 01:40:00
+[Headline]:Markets In A Minute - "A Lack Of Further Progress"
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 01:11:00
+[Headline]:GLOBAL BROKER RATINGS: UBS raises Aixtron; RBC cuts Italgas
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 23:09:00
+[Headline]:Market Movers: 3 Stocks Destined to Dominate the Next Decade
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 23:09:00
+[Headline]:Buy The Dip In AMD Stock Before The Chipmaker Skyrockets
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 22:06:00
+[Headline]:DZ Bank gets more bullish on AMD, upgrades shares
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 21:44:57
+[Headline]:AMD Stock: Investors Needed More Than Just a Solid Quarter
+[Summary]:On paper, semiconductor stalwart Advanced Micro Devices (NASDAQ:AMD) produced a reasonably solid report for the first quarter. However, the company is competing against technology juggernaut Nvidia (NASDAQ:NVDA) in multiple advanced arenas, most notably artificial intelligence. Therefore, investors needed more than just a solid print. Unfortunately, the generative AI space may be overhyped, warranting a cautious approach. Therefore, I am bearish on AMD stock. AMD stock has fallen by 11.9% in the
+
+[Date]:2024-05-06 21:27:00
+[Headline]:Biden Administration Tightens Grip On China's Huawei, Revokes Key Export Licenses From US Chipmakers
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 20:16:00
+[Headline]:U.S. revoking licenses to supply chips to China's Huawei, FT reports
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 16:00:00
+[Headline]:Is AMD Stock a Buy?
+[Summary]:The company is experiencing growth in some areas of its business, a decline in others.
+
+[Date]:2024-05-06 14:00:48
+[Headline]:AMD: Waiting On AI Inflection Point
+[Summary]:Advanced Micro Devices, Inc.'s Q1 results disappointed investors as it increased AI GPU target to $4B. Click to see why I remain bullish about AMD prospects.
+
+[Date]:2024-05-06 12:10:00
+[Headline]:Forget Nvidia: Smart Money Is Selling It and Buying These 2 Roaring Artificial Intelligence (AI) Stocks Instead
+[Summary]:Nvidia's run at the top of the AI trend may be coming to an end, and smart money is pouring into these 2 AI winners.
+
+[Date]:2024-05-06 10:09:31
+[Headline]:Could AMD Be the Next Nvidia?
+[Summary]:AMD's MI300X is gaining traction and setting records for the company.
+
+[Date]:2024-05-06 08:51:24
+[Headline]:AMD Positions for AI Leadership with Expanded Portfolio, Quadrupled R&D Investment Ahead of Major Computex Announcements
+[Summary]:Advanced Micro Devices, Inc (NASDAQ:AMD) is strategically preparing to address the growing demand for AI computing by leveraging its extensive product range. CTO Mark Papermaster emphasized AMD’s robust portfolio of compute engines, strong relationships with customers across diverse markets, and open software capabilities. He reflected on AMD’s 55-year history, highlighting its shift to a modular IP portfolio unified by a comprehensive AI software stack, which will enable the company to adapt mo
+
+[Date]:2024-05-06 08:45:00
+[Headline]:Micron Upgrade, Nvidia Rally Power Nasdaq Higher
+[Summary]:One analyst upgrade sparked a pleasant start to the week for semiconductor stockholders. The PHLX Semiconductor Index is up 1.5% Monday. Driving the rally is Micron Technology, whose shares were recently up 5%.
+
+[Date]:2024-05-06 08:43:00
+[Headline]:Nvidia Stock Is a Good AI Bet, but AMD Might Be Better, Says Analyst
+[Summary]:Nvidia is the dominant provider of chips to train artificial-intelligence systems, with AMD in second. The latter's shares may have more upside, says Melius Research.
+
+[Date]:2024-05-06 08:00:00
+[Headline]:Why Arista Networks, Advanced Micro Devices, and Arm Holdings Fell in April
+[Summary]:It was a tough month for AI tech stocks as inflation fears were rekindled and a few bellwethers reported earnings that couldn't live up to expectations.
+
+[Date]:2024-05-06 07:30:38
+[Headline]:Nvidia: I Totally Underestimated The King Of AI (Upgrade)
+[Summary]:Nvidia Corporation's position in AI chips surprises the market, with strong growth and attractive valuation for investors. Click for my NVDA earnings preview.
+
+[Date]:2024-05-06 07:30:00
+[Headline]:Is AMD Stock a Buy Now?
+[Summary]:AMD has fallen by nearly one-third over the last two months.
+
+[Date]:2024-05-06 07:00:16
+[Headline]:Here is What to Know Beyond Why Advanced Micro Devices, Inc. (AMD) is a Trending Stock
+[Summary]:Zacks.com users have recently been watching Advanced Micro (AMD) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.
+
+[Date]:2024-05-06 06:48:00
+[Headline]:Biden Administration Unveils $285M Funding For Semiconductor Institute
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 03:50:00
+[Headline]:1 Wall Street Analyst Thinks Nvidia Stock Will Plunge 28%. Is He Right?
+[Summary]:Nvidia's momentum might not keep going for too much longer.
+
+[Date]:2024-05-06 03:47:15
+[Headline]:Nvidia: Don't Fall For The Greed Before The Q1 Earnings Print
+[Summary]:Nvidia Corporation's revenue surge and tech advancements raise expectations, but challenges and competition may impact growth. Explore more details here.
+
+[Date]:2024-05-06 03:32:00
+[Headline]:Unveiling Advanced Micro Devices (AMD)'s Value: Is It Really Priced Right? A Comprehensive Guide
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 02:13:00
+[Headline]:Nasdaq 100 & S&P 500 Elliott Wave Update - Mon, May 6
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 01:45:00
+[Headline]:AMD Stock: Why a Solid Quarter Wasn’t Enough
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 01:25:00
+[Headline]:Citi stays bullish on chips as March sales surge; analog and microcontroller lead
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-06 00:01:00
+[Headline]:Advanced Micro Devices Stock Outlook: Hold Tight to AMD for Better Times Ahead
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 23:57:00
+[Headline]:The 3 Most Undervalued Semiconductor Stocks to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 23:48:00
+[Headline]:Arrow Minerals Reports High-Grade Iron Assays
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 21:35:00
+[Headline]:7 Stocks to Buy to Satisfy Your IRA Limits in 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 20:58:00
+[Headline]:Should You Buy Nvidia (NVDA) Stock Before May 22?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 20:58:00
+[Headline]:Arista Networks Vs. Globalfoundries: Which AI Stock Is The Better Buy Ahead Of Q1 Earnings?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 19:50:00
+[Headline]:The 3 Most Undervalued Metaverse Stocks to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 12:11:00
+[Headline]:3 Magnificent Technology ETFs to Buy With $10,000 and Hold Forever
+[Summary]:Growth investors shouldn't let these three tech ETFs fall by the wayside.
+
+[Date]:2024-05-05 03:21:00
+[Headline]:Nvidia's AI Dominance Evident As Tech Behemoths From Microsoft To Meta And Google Keep Pumping Billions Into Chipmaker, Analysis Reveals
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 03:20:00
+[Headline]:Economic Modern Family-Tell Us a Story
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 03:14:00
+[Headline]:19 out of 21 information technology stocks deliver EPS wins this week: Earnings Scorecard
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-05 02:42:31
+[Headline]:Extreme UV Is The Future For Chips, ASML Holding Has A Monopoly
+[Summary]:ASML Holding has seen significant stock performance and market cap growth in the last decade. Check out why I rate ASML stock as a buy.
+
+[Date]:2024-05-04 20:12:00
+[Headline]:Goldman’s top 50 Strong Balance Sheet stocks
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-04 09:09:00
+[Headline]:Is Intel Stock a Buy?
+[Summary]:It could be worth buying Intel's stock at a low and betting on its ability to rebound strongly over the next decade.
+
+[Date]:2024-05-04 06:30:00
+[Headline]:Souring Profit Outlooks Threaten S&P 500’s 20% Rally
+[Summary]:(Bloomberg) -- Strong earnings beats from Corporate America may no longer be enough to keep the stock rally going. Profit outlooks are becoming more important.Most Read from BloombergEverything Apple Plans to Show at May 7 ‘Let Loose’ iPad EventSaudi Arabia Steps Up Arrests Of Those Attacking Israel OnlineThe World’s Hunger for Salmon Is Linked to an Ecological DisasterG-7 Eyes Plan on US-Led $50 Billion Aid Package for UkraineApple Rallies Most in 18 Months on Upbeat Forecast, BuybackWith more
+
+[Date]:2024-05-04 03:48:00
+[Headline]:‘Don’t Count It Out,’ Says Morgan Stanley About AMD Stock
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-04 02:53:00
+[Headline]:‘Don’t Count AMD Out,’ Says Morgan Stanley About the Stock
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-04 01:00:00
+[Headline]:Is Advanced Micro Devices Stock Going to $230? 1 Wall Street Analyst Thinks So
+[Summary]:AMD reported record data center revenue, but the rest of the business is weighing the stock down.
+
+[Date]:2024-05-03 23:35:00
+[Headline]:Stock Market Crash Alert: 7 Must-Buy Nasdaq Stocks When Prices Plunge
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-03 23:19:00
+[Headline]:Stock Market Crash Warning: Don’t Get Caught Holding These 7 AI Stocks
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-03 13:15:12
+[Headline]:Broadcom: Too Much China Revenue
+[Summary]:Broadcom's stock is expensive and vulnerable due to geopolitical risks and reliance on China, despite the boost from its VMware acquisition. Read why I rate AVGO a Sell.
+
+[Date]:2024-05-03 09:36:12
+[Headline]:DXYZ And The Fakers Dozen, 13 Stocks With Huge Downside Risk
+[Summary]:DJTÂ has been a wild ride and as opposed to a very overpriced tiny positionÂ buyÂ with Destiny Tech100 Inc. Read more on DXYZ here.
+
+[Date]:2024-05-03 09:18:12
+[Headline]:AMD: Too Late And Too Little In The AI Game
+[Summary]:Advanced Micro Devices stock continues to underperform in both stock performance and financial performance.Â Learn more on AMD's Q1 earnings update.
+
+[Date]:2024-05-03 07:36:09
+[Headline]:11 stocks that mattered most this earnings season
+[Summary]:The busiest two weeks of first quarter earnings season are over. Here are the most significant reports.
+
+[Date]:2024-05-03 06:21:36
+[Headline]:Advanced Micro Devices First Quarter 2024 Earnings: EPS Misses Expectations
+[Summary]:Advanced Micro Devices ( NASDAQ:AMD ) First Quarter 2024 Results Key Financial Results Revenue: US$5.47b (up 2.2% from...
+
+[Date]:2024-05-03 05:57:00
+[Headline]:Intel (NASDAQ:INTC) Rises after Revealing Its Processors Can Handle AI
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-03 05:37:00
+[Headline]:Intel (NASDAQ:INTC) Ticks Up as Its Processors Handle AI
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-03 04:28:00
+[Headline]:Nvidia Stock: Analysts Are Bullish, While Reddit User Predicts 'NVDA Will Drop To 800'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-03 03:33:00
+[Headline]:$1000 Invested In Advanced Micro Devices 5 Years Ago Would Be Worth This Much Today
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-03 03:00:00
+[Headline]:Should You Buy AMD Stock on the Dip?
+[Summary]:AMD stock fell after disappointing stock market investors.
+
+[Date]:2024-05-02 23:46:00
+[Headline]:Stock Market Crash Alert: 3 Must-Buy Blockchain Stocks When Prices Plunge
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-02 23:36:00
+[Headline]:Shhh! 3 Secret Semiconductor Stocks Flying Below Wall Street’s Radar
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-02 20:38:00
+[Headline]:Nasdaq 100 & S&P 500 Elliott Wave Update - Thu, May 2
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-02 19:01:00
+[Headline]:10 Best Performing S&P 500 Stocks In 2023 - Should You Buy Them Now?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-02 13:58:37
+[Headline]:Advanced Micro Devices, Inc. (NASDAQ:AMD) Q1 2024 Earnings Call Transcript
+[Summary]:Advanced Micro Devices, Inc. (NASDAQ:AMD) Q1 2024 Earnings Call Transcript April 30, 2024 Advanced Micro Devices, Inc. beats earnings expectations. Reported EPS is $0.62, expectations were $0.6. AMD isn’t one of the 30 most popular stocks among hedge funds at the end of the third quarter (see the details here). Operator: Greetings and welcome to […]
+
+[Date]:2024-05-02 10:11:44
+[Headline]:Top 25 Stocks in the S&P 500 by Index Weight Right Now
+[Summary]:In this piece, we will take a look at the top 25 stocks in the S&P 500 by index weight right now. If you want to skip our coverage of the flagship stock index and some recent news for its biggest constituents then you can skip ahead to Top 10 Stocks in the S&P 500 […]
+
+[Date]:2024-05-02 09:00:00
+[Headline]:Should You Buy the Dip in Semiconductor Stocks With ETFs?
+[Summary]:Despite the slide, the outlook for the semiconductor sector is promising and given the diversification benefits of ETFs, investors may want to consider the recent slump a buying opportunity.
+
+[Date]:2024-05-02 08:13:00
+[Headline]:Better AI Stock: Microsoft vs. AMD
+[Summary]:These companies have taken on pivotal roles in AI, but one is potentially a more reliable investment.
+
+[Date]:2024-05-02 08:00:00
+[Headline]:Employers toggle the deployment of AI for their workforce and customers
+[Summary]:AI leaders share how they’re approaching the deployment of the technology among employees and customers.
+
+[Date]:2024-05-02 07:18:04
+[Headline]:Nvidia's Stock Is Still A Bargain
+[Summary]:NVIDIA Corporation's investments in R&D, dominance in the GPU space, and new Blackwell platform position it well for future growth. Learn more on NVDA stock here.
+
+[Date]:2024-05-02 05:33:59
+[Headline]:Dow Jones Futures Rise In Stock Market's Day 2 Fed Reaction; Carvana Skyrockets
+[Summary]:Futures rose after the stock market erased big Fed-led gains as AI plays such as Nvidia retreated. Carvana soared on earnings.
+
+[Date]:2024-05-02 05:00:00
+[Headline]:Nvidia And Tech Stock Paradoxes With Joe Albano
+[Summary]:Joe Albano shares with investors how he quantifies tech stocks, specifically Nvidia, and why charts don't owe fundamentals anything.
+
+[Date]:2024-05-02 04:25:00
+[Headline]:Baron Opportunity Fund Q1 2024 Shareholder Letter
+[Summary]:During the first quarter, Baron Opportunity Fund rose 15.33%, outperforming the broader market, including the Russell 3000 Growth Index.
+
+[Date]:2024-05-02 03:30:00
+[Headline]:AMD: Uptrend In Danger Of Reversal (Technical Analysis)
+[Summary]:AMD slightly beat earnings expectations with $0.62 per share, but gaming segment sales declined by 48%. Read more about AMD stock here.
+
+[Date]:2024-05-02 03:22:00
+[Headline]:Advanced Micro Devices's Options Frenzy: What You Need to Know
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-02 02:45:00
+[Headline]:AMD Q1 Earnings: Potential AI Warning Signs (Rating Downgrade)
+[Summary]:Advanced Micro Devices reported earnings on April 30, disappointing investors, who sent the stock lower. See why I downgrade AMD stock from strong buy to hold.
+
+[Date]:2024-05-02 01:45:00
+[Headline]:Largest borrow rate increases among liquid names
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-02 01:33:00
+[Headline]:GLOBAL BROKER RATINGS: Deutsche Bank cuts Starbucks, CFRA ups Logitech
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-02 00:12:36
+[Headline]:SOXX: Wonderful Market Sector Now Trading At An Excessive Price
+[Summary]:The semiconductor industry has strong differentiation, financial metrics, and competitive advantages. See why I rate iShares Semiconductor ETF (SOXX) as a sell.
+
+[Date]:2024-05-02 00:06:00
+[Headline]:AMD price target lowered by $45 at Benchmark, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-02 00:03:00
+[Headline]:Stock Market Crash Alert 3 Must-Buy AI Stocks When Prices Plunge
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 23:02:00
+[Headline]:Nvidia Stock’s Tipping Point: Identifying the Catalysts that Could Derail the Chip Champion
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 21:33:00
+[Headline]:7 Stock Picks That S&P 500 Bulls Can’t Afford to Ignore
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 20:36:00
+[Headline]:The Stage is Set for the Next Chapter of the AI Boom
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 19:18:00
+[Headline]:Semiconductor Stocks Pop After Fed Meeting And Strong Numbers From This Chip-Maker
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 17:03:59
+[Headline]:Dow Jones Futures Rise, Carvana Skyrockets; Stock Market Erases Fed Gains
+[Summary]:The stock market round-tripped big initial gains as AI plays such as Nvidia retreated. Carvana soared late on earnings.
+
+[Date]:2024-05-01 15:20:27
+[Headline]:Why AMD Stock Sank Today
+[Summary]:Advanced Micro Devices beat Wall Street's earnings target, but its stock still got crushed.
+
+[Date]:2024-05-01 10:27:26
+[Headline]:Nvidia Stock Drops After Rival AMD Gives Uninspiring Outlook
+[Summary]:Nvidia stock fell Wednesday after rival AI chipmaker Advanced Micro Devices disappointed investors with its tepid guidance.
+
+[Date]:2024-05-01 14:35:07
+[Headline]:Advanced Micro Devices Stock Is Tumbling Today. Here's What You Need to Know
+[Summary]:AMD met estimates, but investors wanted more AI growth.
+
+[Date]:2024-05-01 14:30:00
+[Headline]:These Stocks Moved the Most Today: CVS, AMD, Super Micro, Amazon, Starbucks, Pfizer, Norwegian, Pinterest, DuPont, and More
+[Summary]:CVS posts a wide miss on first-quarter earnings and cuts guidance, AMD shares fall after the chip maker issues a disappointing outlook, and Amazon’s profit is driven by strong growth in cloud computing.
+
+[Date]:2024-05-01 14:00:12
+[Headline]:Chipmaker earnings: What investors can glean about AI drivers
+[Summary]:Semiconductor leaders Advanced Micro Devices (AMD) and Super Micro Computer (SMCI) are running into trouble as both of their shares are falling after reporting their prospective earnings results; AMD shares have been edging lower since reporting a first-quarter earnings beat on Tuesday, while Super Micro narrowly missed fiscal third-quarter revenue estimates. Yahoo Finance Markets Reporter Josh Schafer analyzes the latest earnings from chipmakers and what results are informing investors about potentially slowing AI catalysts. For more expert insight and the latest market action, click here to watch this full episode of Market Domination. This post was written by Luke Carberry Mogan.
+
+[Date]:2024-05-01 10:09:50
+[Headline]:Why AMD (AMD) Stock Is Trading Lower Today
+[Summary]:Shares of computer processor maker AMD (NASDAQ:AMD) fell 8.7% in the morning session after the company reported first quarter results: its inventory levels materially increased, and revenues in its gaming and embedded segments fell by more than 45% year on year (the market is less focused on these divisions, however, as AI solutions dominate AMD's story). In addition, guidance was underwhelming as next quarter's revenue projection was mostly in line with Wall Street's projections.
+
+[Date]:2024-05-01 09:54:00
+[Headline]:AMD Q1 Earnings Beat Estimates, Shares Fall on Weak Q2 View
+[Summary]:AMD's first-quarter 2024 results reflect robust Client and Data Center revenues, offsetting weakness in the Gaming and Embedded segments.
+
+[Date]:2024-05-01 09:45:00
+[Headline]:Heard on the Street: AMD and Supermicro Show That AI Hype Is Meeting Harsh Supply Reality
+[Summary]:It’s a good time to be in the business of making AI chips and servers.  Advanced Micro Devices—the chip maker better known as AMD—saw first-quarter revenue surge 80% year-over-year in its data center segment that sells chips used to power artificial intelligence services.  Sky-high expectations really hurt Super Micro Computer, known commonly as Supermicro.
+
+[Date]:2024-05-01 09:26:17
+[Headline]:AMD's Rising AI Tide Offset by Muted Recovery in Legacy Sales, BofA Says
+[Summary]:AMD's Rising AI Tide Offset by Muted Recovery in Legacy Sales, BofA Says
+
+[Date]:2024-05-01 09:19:21
+[Headline]:AI chip darling AMD struggles to impress Wall Street this earnings season
+[Summary]:Investors weren't impressed with the company's growth forecast amid the AI rally.
+
+[Date]:2024-05-01 09:15:44
+[Headline]:AMD Stock Is No Longer Dead Money (Rating Upgrade)
+[Summary]:Advanced Micro Devices, Inc.'s Q1 2024 report reveals slight revenue and earnings beats, fueled by strong demand for AI GPU accelerators. Read more here.
+
+[Date]:2024-05-01 08:59:05
+[Headline]:AMD Stock Drops After Earnings -- Is Now the Time to Buy This Top Artificial Intelligence (AI) Stock?
+[Summary]:Advanced Micro Devices increases its guidance for its artificial intelligence chip, the MI300X.
+
+[Date]:2024-05-01 08:36:32
+[Headline]:Top 20 Tech Companies in Silicon Valley
+[Summary]:In this piece, we will take a look at the top 20 technology companies in Silicon Valley. If you want to skip our coverage of the world’s technology hub and a region that has changed the world as we know it, then check out 5 Top Tech Companies in Silicon Valley. If there’s one thing […]
+
+[Date]:2024-05-01 06:07:51
+[Headline]:AI Hardware Stocks Get Pummeled Even as Big Tech Keeps Spending
+[Summary]:(Bloomberg) -- The good news for makers of semiconductors and other artificial intelligence computing hardware: tech giants plan to keep spending heavily. The bad news is that investors are harder to impress this earnings season. Most Read from BloombergTesla Axes Supercharger Team in Blow to Broader EV MarketNYC Police Break Up Columbia Protest and Clashes Erupt at UCLALilly Soars as Forecast Boost Shows Weight-Loss Drugs’ PowerPot Stocks Surge on Report DEA Set to Reclassify MarijuanaAmazon Po
+
+[Date]:2024-05-01 08:28:05
+[Headline]:Amazon Q1: Tailored ads could unlock new 'leg' for ad revenue
+[Summary]:Amazon (AMZN) reported its first quarter earnings on Tuesday after the market's close, with its Amazon Web Services (AWS) segment posting a 17% year-over-year revenue spike. In the wake of this highly anticipated financial release, Jefferies Tech Research Analyst Brent Thill joins The Morning Brief to dissect the results. Thill characterizes Amazon's performance as "a mixed box of goods." He notes that AWS, the advertising business, and operating income all outperformed expectations in the first quarter results, stating, "Amazon works when you're in harvest mode, not invest mode." The numbers have left him "encouraged" about the stock's future prospects. On the advertising front, Thill highlights that the business is in "great shape" as Amazon continues to blend its advertising efforts with Prime Video. He emphasizes that sponsored ads will be tailored to each consumer's preferences. This strategic approach and Amazon's continued investment in its advertising capabilities could potentially unlock "a whole other leg" for the company, comprising an "advertising opportunity that we haven't even seen." For more expert insight and the latest market action, click here to watch this full episode of Morning Brief. This post was written by Angel Smith
+
+[Date]:2024-05-01 08:00:19
+[Headline]:Dow Jones Falls Ahead Of Fed Decision, Powell Remarks; Super Micro Plunges On Earnings
+[Summary]:Stock Market Today: The Dow Jones dropped Wednesday ahead of the Fed decision and Powell's comments. AMD and Super Micro dived on earnings.
+
+[Date]:2024-05-01 07:51:19
+[Headline]:AMD earnings report takeaways: Data center, PC and gaming sales
+[Summary]:Shares of AMD (AMD) are sliding on Wednesday after the company posted its first quarter earnings, beating expectations on top and bottom line, but issuing lighter than expected guidance forecast for the second quarter. The forecast placed revenue between $5.4 billion and $6 billion, while estimates call for $5.72 billion. Yahoo Finance Tech Editor Dan Howley joins The Morning Brief to discuss AMD's earnings and the top takeaways investors should consider. For more expert insight and the latest market action, click here to watch this full episode of Morning Brief. This post was written by Nicholas Jacobino
+
+[Date]:2024-05-01 07:43:31
+[Headline]:Stocks search for direction ahead of Fed rate decision
+[Summary]:US equities (^DJI, ^IXIC, ^GSPC) open Wednesday's trading session near their flatline — the Dow Jones Industrial Average moving just a touch higher — in anticipation of Wednesday's interest rate policy decision by Federal Reserve officials. Morning Brief Anchors Seana Smith and Brad Smith monitor this morning's sector leaders and movement in semiconductor stocks following the opening bell. For more expert insight and the latest market action, click here to watch this full episode of Morning Brief. This post was written by Luke Carberry Mogan.
+
+[Date]:2024-05-01 07:26:00
+[Headline]:The S&P 500 Now Has a Chip Stock Problem. Here’s Where the Index Is Headed.
+[Summary]:The index, at just above 5000, is now down about 5% from its record intraday high, hit in late March.
+
+[Date]:2024-05-01 07:17:03
+[Headline]:Q1 2024 Advanced Micro Devices Inc Earnings Call
+[Summary]:Q1 2024 Advanced Micro Devices Inc Earnings Call
+
+[Date]:2024-05-01 06:46:00
+[Headline]:Buy Rating Reaffirmed for AMD Amid AI Growth and Server Market Share Expansion
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 06:27:26
+[Headline]:Analysts revise AMD price targets as stock hit by muted AI sales forecast
+[Summary]:AMD's new MI300X processor is expected to challenge Nvidia's AI market dominance.
+
+[Date]:2024-05-01 06:24:00
+[Headline]:Bank of America Weighs in on AMD Stock Amid Post-Earnings Slump
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 06:20:00
+[Headline]:Amazon, Pinterest rise; Starbucks, CVS Health fall, Wednesday, 5/1/2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 06:20:00
+[Headline]:SPDR ETF Report For Tuesday, April 30
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 06:12:00
+[Headline]:US Stocks Mixed Ahead Of Fed Meeting, Chipmakers Tumble After AMD Earnings, Bitcoin Sinks: What's Driving Markets Wednesday?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 06:06:00
+[Headline]:Why AMD Shares Are Trading Lower By Around 7%? Here Are Other Stocks Moving In Wednesday's Mid-Day Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 05:31:33
+[Headline]:Dow Jones Futures Fall As Fed Looms; Amazon Rises As AMD, Super Micro Plunge
+[Summary]:The market rally stumbled ahead of the Fed meeting. Amazon rose on earnings while AI plays Super Micro and AMD plunged.
+
+[Date]:2024-05-01 06:00:00
+[Headline]:AMD Plunges, New Chips Can’t Help Market Troubles
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 05:52:50
+[Headline]:Why Is AMD Stock Down 7% After Earnings?
+[Summary]:AMD stock is down 35% since early March.
+
+[Date]:2024-05-01 05:42:00
+[Headline]:AMD Falls On Q1 Earnings, Q2 Guidance: Why '1,000% Growth' From AI Stock Is Not Enough For Investors
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 02:49:00
+[Headline]:These Stocks Are Moving the Most Today: AMD, Super Micro Computer, Amazon, Starbucks, Pinterest, Pfizer, and More
+[Summary]:AMD shares fall after the chip maker issues disappointing guidance, Amazon’s earnings are driven by strong growth in cloud computing, and Super Micro Computer’s fiscal third-quarter revenue misses Wall Street estimates.
+
+[Date]:2024-05-01 05:33:00
+[Headline]:Chip Stocks Plunge After AMD’s 2024 Guidance Falls Short Of Expectations
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 05:31:00
+[Headline]:AMD (NASDAQ:AMD) Plunges, New Chips Can’t Help Market Troubles
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 05:30:11
+[Headline]:Amazon jumps on earnings, Fed decision nears: Yahoo Finance
+[Summary]:Amazon (AMZN) shares are higher this morning after the company's first quarter earnings topped expectations. The company reported net sales rose 13% year-over-year. On the earnings front, we hear from several other big names today, including Pfizer (PFE), CVS (CVS), Mastercard (MA), Qualcomm (QCOM), Etsy (ETSY), and MGM Resorts (MGM). It will all be overshadowed by the Federal Reserve decision at 2 p.m. ET. The central bank is expected to hold rates steady at a range of 5.25% to 5.5%. Yahoo Finance trending tickers include bitcoin (BTC-USD), Starbucks (SBUX), and Advanced Micro Devices (AMD). Key guests include:9:15 a.m. ET - Willem Sels, Global CIO, HSBC Global Private Banking9:30 a.m. ET - Brent Thill, Jefferies Tech Research Analyst9:40 a.m. ET - Rachel Ruggeri, Starbucks CFO9:50 a.m. ET - Kevin O'Leary, O’Leary Ventures Chairman10 a.m. ET - Vincent Reinhart,  Dreyfus and Mellon Chief Economist & Fmr Fed Economist10:45 a.m. ET - Matt Darin, Curaleaf CEO11:15 a.m. ET - Alex Timm, Root Insurance CEO
+
+[Date]:2024-05-01 05:24:02
+[Headline]:US STOCKS-Futures dip as chip stocks drag, Fed rate decision awaited
+[Summary]:U.S. stock index futures fell on Wednesday as chip stocks led losses after downbeat results and markets exercised caution ahead of more economic data and the Federal Reserve's interest rate decision later in the day.  Advanced Micro Devices shed 6.7% in premarket trading after its forecast for AI chip sales failed to impress investors, while Super Micro Computer lost 11.5% as the artificial intelligence server maker reported third-quarter revenue below estimates.  While most megacap growth stocks fell, Amazon.com bucked the trend to rise 2.2% on reporting quarterly results above market expectations as interest in artificial intelligence helped drive cloud-computing growth.
+
+[Date]:2024-05-01 05:23:47
+[Headline]:AMD, Super Micro tumble as earnings fall short of lofty AI expectations
+[Summary]:Its forecast of $4 billion in AI chip sales for 2024 fell short of Wall Street's lofty expectations, having been used to Nvidia's massive forecasts over the past year.  Super Micro Computer, whose near-200% stock jump this year has outpaced even gains in Nvidia, tumbled over 11% as its third-quarter revenue missed estimates amid questions over the profitability of a new line of servers.  Executives of both AMD and Super Micro Computer said supply constraints were hampering their efforts to capitalize on demand for equipment powering the boom in generative AI.
+
+[Date]:2024-05-01 05:22:38
+[Headline]:Social Buzz: Wallstreetbets Stocks Mostly Lower Premarket Wednesday; Starbucks, Super Micro Computer to Decline
+[Summary]:Social Buzz: Wallstreetbets Stocks Mostly Lower Premarket Wednesday; Starbucks, Super Micro Computer to Decline
+
+[Date]:2024-05-01 05:11:45
+[Headline]:Stock Market Today: Stocks slide as Fed rate-cut bets fade; Amazon gains
+[Summary]:Stocks are set for a weak start to May ahead of today's Fed rate decision later in the session.
+
+[Date]:2024-05-01 05:08:00
+[Headline]:Super Micro Stock Tumbles, Pinterest Soars, and Other Tech News Today
+[Summary]:Technology shares are set to start May on the back foot after a series of disappointing corporate earnings.
+
+[Date]:2024-05-01 05:03:00
+[Headline]:What You Missed On Wall Street This Morning
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 04:35:16
+[Headline]:AMD: Reiterate Sell On Add-Backs And Lack Of Operating Leverage
+[Summary]:Advanced Micro Devices announced fiscal Q1 2024 financial results on April 30, 2024, that disappointed the market. Learn why I continue to rate AMD stock a sell.
+
+[Date]:2024-05-01 04:31:55
+[Headline]:Amazon's Q1 Outperformance Highlights A Triple Reinforcement To FCF Growth
+[Summary]:Amazon is primed for further upside potential from current levels. Read more to see an overview and analysis of AMZN stock.
+
+[Date]:2024-05-01 04:31:00
+[Headline]:JNJ Stock: J&J Proposes $6.5 Billion Settlement for Talc Cancer Lawsuits
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 04:21:00
+[Headline]:Analysts Are Bullish on Top Technology Stocks: Powerfleet (PWFL), Advanced Micro Devices (AMD)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 04:15:00
+[Headline]:Advanced Micro Devices (AMD) Faces Mixed Q1 Results Amid AI Demand Surge
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 04:07:06
+[Headline]:Futures dip as chip stocks drag, Fed rate decision awaited
+[Summary]:U.S. stock index futures fell on Wednesday as chip stocks led losses after downbeat results and markets exercised caution ahead of more economic data and the Federal Reserve's interest rate decision later in the day.  Advanced Micro Devices shed 6.7% in premarket trading after its forecast for AI chip sales failed to impress investors, while Super Micro Computer lost 11.5% as the artificial intelligence server maker reported third-quarter revenue below estimates.  The weak results pressured other chip stocks as well, with Nvidia and Micron Technology down more than 1% each.
+
+[Date]:2024-05-01 04:04:00
+[Headline]:AMD price target lowered by $20 at Piper Sandler, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 04:02:13
+[Headline]:US STOCKS-Futures fall as chip stocks drag, Fed rate decision awaited
+[Summary]:U.S. stock index futures fell on Wednesday as downbeat results dragged chip stocks and markets exercised caution ahead of more economic data and the Federal Reserve's interest rate decision later in the day.  Advanced Micro Devices shed 6.3% in premarket trading after its forecast for AI chip sales failed to impress investors, while Super Micro Computer lost 9.1% as the artificial intelligence server maker reported third-quarter revenue below estimates.  Investors will now await a slew of economic data during the day to further gauge the state of inflation in the U.S. economy, before tuning in to the Fed's interest rate decision at the end of its two-day meeting.
+
+[Date]:2024-05-01 03:58:00
+[Headline]:Wedbush Just Raised Its Price Target on Pinterest (PINS) Stock
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 03:47:00
+[Headline]:Cameco (CCJ) Stock Pops as Senate Passes Russian Uranium Import Ban
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 03:32:24
+[Headline]:Trending tickers: Amazon, AMD, GSK and Aston Martin
+[Summary]:The latest investor updates on stocks that are trending on Wednesday.
+
+[Date]:2024-05-01 03:31:00
+[Headline]:Is the AMD Stock Plunge the Beginning of the End for Chip Stocks?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 03:26:00
+[Headline]:Nvidia (NVDA) Stock Stumbles as Chipmakers Wave Red Flags
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 03:12:00
+[Headline]:AMD price target lowered by $12 at Truist, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 02:49:00
+[Headline]:Global company events calendar
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 02:45:00
+[Headline]:Biggest stock movers today: CVS, AMD, PINS, SMCI, and more
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 02:40:00
+[Headline]:Nasdaq, S&P, Dow are cautious ahead of the Fed's latest rate decision
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 02:23:00
+[Headline]:Micron slips even as company says it's shipping critical AI memory for data centers
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 02:15:00
+[Headline]:Nvidia Could Help This Stock-Split ETF Turn $200,000 Into $1 Million in 10 Years
+[Summary]:The iShares Semiconductor ETF has comfortably beaten the broader market over the past year, with a 53% gain.
+
+[Date]:2024-05-01 01:56:00
+[Headline]:Fly Intel: Pre-market Movers
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 01:55:00
+[Headline]:Notable open interest changes for May 1st
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 01:41:00
+[Headline]:CYCC, CETX and NRXP among pre-market losers
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 01:31:28
+[Headline]:Advanced Micro Devices Inc (AMD) (Q1 2024) Earnings Call Transcript Highlights: Strategic ...
+[Summary]:AMD showcases robust data center growth and strategic AI advancements amidst varied segment performances.
+
+[Date]:2024-05-01 01:27:00
+[Headline]:New Buy Rating for Advanced Micro Devices (AMD), the Technology Giant
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 01:21:00
+[Headline]:AMD price target lowered by $10 at Roth MKM, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 01:12:00
+[Headline]:GLOBAL BROKER RATINGS: Bernstein raises Deutsche Lufthansa
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 00:39:00
+[Headline]:AMD slips even as Wall Street sees more AI promise ahead
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 00:32:00
+[Headline]:Today’s Biggest Pre-Market Stock Movers: 10 Top Gainers and Losers on Wednesday
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-01 00:15:00
+[Headline]:Move over, meme-stock millennials. Your grandma wants to trade options.
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 23:56:00
+[Headline]:AMD Stock Analysis: 3 Reasons Advanced Micro Devices Remains a Lucrative Long-Term Bet
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 23:45:00
+[Headline]:Nasdaq, S&P, Dow futures stumble ahead of Fed's decision on post-earnings declines
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 23:45:00
+[Headline]:AMD price target lowered by $40 at KeyBanc, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 23:45:00
+[Headline]:Wall Street Set To Open Lower After AMD Earnings Disappoint As Traders Look To Fed's Powell For Relief: Why This Analyst Sees Incoming Summer Rally
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 23:33:00
+[Headline]:AMD price target lowered by $16 at Citi, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 23:25:00
+[Headline]:Evercore trims AMD price target, says weakness a buying opportunity
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 23:22:00
+[Headline]:AMD price target lowered by $10 at BofA, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 23:21:00
+[Headline]:AMD price target lowered by $5 at UBS, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 23:19:00
+[Headline]:AMD price target lowered by $20 at Cantor Fitzgerald, here's why
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 23:11:00
+[Headline]:Strong Growth Trajectory and Market Share Gains Justify Buy Rating for AMD
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 23:09:00
+[Headline]:Buy Rating Reaffirmed for AMD on Strong Data Center Sales and AI Growth Prospects
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-04-30 23:04:00
+[Headline]:3 Machine Learning Stocks with the Potential to Make You an Overnight Millionaire
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+
+
+[Fileings]:
+[Date]:2023-07-28
+[val]:1615671380
+[accn]:0000002488-23-000139
+[fy]:2023
+[fp]:Q2
+[form]:10-Q
+
+[Date]:2023-10-27
+[val]:1615498891
+[accn]:0000002488-23-000195
+[fy]:2023
+[fp]:Q3
+[form]:10-Q
+
+[Date]:2024-01-25
+[val]:1615786841
+[accn]:0000002488-24-000012
+[fy]:2023
+[fp]:FY
+[form]:10-K
+
+[Date]:2024-04-25
+[val]:1616313871
+[accn]:0000002488-24-000056
+[fy]:2024
+[fp]:Q1
+[form]:10-Q
+
+
+
+[Stock Movements]:
+[Date]:2023-05-12 00:00:00
+[Open]:96.83000183105469
+[High]:97.44999694824219
+[Low]:93.68000030517578
+[Close]:95.26000213623047
+[Adj Close]:95.26000213623047
+[Volume]:53790400
+
+[Date]:2023-05-15 00:00:00
+[Open]:95.19999694824219
+[High]:97.43000030517578
+[Low]:93.44999694824219
+[Close]:97.4000015258789
+[Adj Close]:97.4000015258789
+[Volume]:51749200
+
+[Date]:2023-05-16 00:00:00
+[Open]:97.38999938964844
+[High]:103.27999877929688
+[Low]:97.30999755859375
+[Close]:101.4800033569336
+[Adj Close]:101.4800033569336
+[Volume]:90622900
+
+[Date]:2023-05-17 00:00:00
+[Open]:101.79000091552734
+[High]:104.13999938964844
+[Low]:100.05000305175781
+[Close]:103.75
+[Adj Close]:103.75
+[Volume]:75240900
+
+[Date]:2023-05-18 00:00:00
+[Open]:103.9800033569336
+[High]:108.0999984741211
+[Low]:103.93000030517578
+[Close]:107.93000030517578
+[Adj Close]:107.93000030517578
+[Volume]:74338700
+
+[Date]:2023-05-19 00:00:00
+[Open]:106.36000061035156
+[High]:107.29000091552734
+[Low]:104.62000274658203
+[Close]:105.81999969482422
+[Adj Close]:105.81999969482422
+[Volume]:67830600
+
+[Date]:2023-05-22 00:00:00
+[Open]:104.68000030517578
+[High]:108.79000091552734
+[Low]:103.48999786376953
+[Close]:108.0
+[Adj Close]:108.0
+[Volume]:65424200
+
+[Date]:2023-05-23 00:00:00
+[Open]:107.25
+[High]:110.98999786376953
+[Low]:107.19000244140625
+[Close]:108.12000274658203
+[Adj Close]:108.12000274658203
+[Volume]:73099100
+
+[Date]:2023-05-24 00:00:00
+[Open]:105.9800033569336
+[High]:108.91000366210938
+[Low]:105.63999938964844
+[Close]:108.2699966430664
+[Adj Close]:108.2699966430664
+[Volume]:65910500
+
+[Date]:2023-05-25 00:00:00
+[Open]:117.30999755859375
+[High]:120.69000244140625
+[Low]:115.80000305175781
+[Close]:120.3499984741211
+[Adj Close]:120.3499984741211
+[Volume]:108514700
+
+[Date]:2023-05-26 00:00:00
+[Open]:122.45999908447266
+[High]:127.43000030517578
+[Low]:120.88999938964844
+[Close]:127.02999877929688
+[Adj Close]:127.02999877929688
+[Volume]:92922800
+
+[Date]:2023-05-30 00:00:00
+[Open]:130.4199981689453
+[High]:130.7899932861328
+[Low]:123.51000213623047
+[Close]:125.2699966430664
+[Adj Close]:125.2699966430664
+[Volume]:98902300
+
+[Date]:2023-05-31 00:00:00
+[Open]:122.41999816894531
+[High]:123.95999908447266
+[Low]:117.86000061035156
+[Close]:118.20999908447266
+[Adj Close]:118.20999908447266
+[Volume]:87552200
+
+[Date]:2023-06-01 00:00:00
+[Open]:117.29000091552734
+[High]:121.27999877929688
+[Low]:116.5999984741211
+[Close]:119.47000122070312
+[Adj Close]:119.47000122070312
+[Volume]:66032900
+
+[Date]:2023-06-02 00:00:00
+[Open]:120.75
+[High]:121.66000366210938
+[Low]:117.68000030517578
+[Close]:117.86000061035156
+[Adj Close]:117.86000061035156
+[Volume]:52331100
+
+[Date]:2023-06-05 00:00:00
+[Open]:116.58999633789062
+[High]:119.31999969482422
+[Low]:116.41999816894531
+[Close]:117.93000030517578
+[Adj Close]:117.93000030517578
+[Volume]:52602900
+
+[Date]:2023-06-06 00:00:00
+[Open]:117.91000366210938
+[High]:124.41999816894531
+[Low]:117.73999786376953
+[Close]:124.2300033569336
+[Adj Close]:124.2300033569336
+[Volume]:75257500
+
+[Date]:2023-06-07 00:00:00
+[Open]:124.02999877929688
+[High]:125.33999633789062
+[Low]:117.06999969482422
+[Close]:117.83000183105469
+[Adj Close]:117.83000183105469
+[Volume]:81755200
+
+[Date]:2023-06-08 00:00:00
+[Open]:118.30000305175781
+[High]:122.20999908447266
+[Low]:117.05000305175781
+[Close]:121.05000305175781
+[Adj Close]:121.05000305175781
+[Volume]:65246900
+
+[Date]:2023-06-09 00:00:00
+[Open]:123.56999969482422
+[High]:127.25
+[Low]:123.55000305175781
+[Close]:124.91999816894531
+[Adj Close]:124.91999816894531
+[Volume]:75051600
+
+[Date]:2023-06-12 00:00:00
+[Open]:128.52000427246094
+[High]:130.47999572753906
+[Low]:126.4000015258789
+[Close]:129.19000244140625
+[Adj Close]:129.19000244140625
+[Volume]:85394700
+
+[Date]:2023-06-13 00:00:00
+[Open]:132.32000732421875
+[High]:132.8300018310547
+[Low]:122.44999694824219
+[Close]:124.52999877929688
+[Adj Close]:124.52999877929688
+[Volume]:132461900
+
+[Date]:2023-06-14 00:00:00
+[Open]:126.52999877929688
+[High]:127.7300033569336
+[Low]:123.80999755859375
+[Close]:127.33000183105469
+[Adj Close]:127.33000183105469
+[Volume]:95888100
+
+[Date]:2023-06-15 00:00:00
+[Open]:125.38999938964844
+[High]:125.69999694824219
+[Low]:122.26000213623047
+[Close]:124.23999786376953
+[Adj Close]:124.23999786376953
+[Volume]:85587100
+
+[Date]:2023-06-16 00:00:00
+[Open]:125.81999969482422
+[High]:125.8499984741211
+[Low]:119.9000015258789
+[Close]:120.08000183105469
+[Adj Close]:120.08000183105469
+[Volume]:81846900
+
+[Date]:2023-06-20 00:00:00
+[Open]:119.08999633789062
+[High]:121.75
+[Low]:117.69999694824219
+[Close]:118.93000030517578
+[Adj Close]:118.93000030517578
+[Volume]:58851800
+
+[Date]:2023-06-21 00:00:00
+[Open]:118.48999786376953
+[High]:119.19000244140625
+[Low]:111.66999816894531
+[Close]:112.11000061035156
+[Adj Close]:112.11000061035156
+[Volume]:82835600
+
+[Date]:2023-06-22 00:00:00
+[Open]:112.23999786376953
+[High]:114.0
+[Low]:109.8499984741211
+[Close]:110.69999694824219
+[Adj Close]:110.69999694824219
+[Volume]:70754800
+
+[Date]:2023-06-23 00:00:00
+[Open]:109.30999755859375
+[High]:111.0999984741211
+[Low]:107.45999908447266
+[Close]:110.01000213623047
+[Adj Close]:110.01000213623047
+[Volume]:73545600
+
+[Date]:2023-06-26 00:00:00
+[Open]:110.94999694824219
+[High]:112.55000305175781
+[Low]:107.19999694824219
+[Close]:107.51000213623047
+[Adj Close]:107.51000213623047
+[Volume]:68557000
+
+[Date]:2023-06-27 00:00:00
+[Open]:108.56999969482422
+[High]:110.97000122070312
+[Low]:107.08000183105469
+[Close]:110.38999938964844
+[Adj Close]:110.38999938964844
+[Volume]:59381600
+
+[Date]:2023-06-28 00:00:00
+[Open]:108.20999908447266
+[High]:111.77999877929688
+[Low]:107.62999725341797
+[Close]:110.16999816894531
+[Adj Close]:110.16999816894531
+[Volume]:67534100
+
+[Date]:2023-06-29 00:00:00
+[Open]:112.06999969482422
+[High]:112.76000213623047
+[Low]:109.83999633789062
+[Close]:111.23999786376953
+[Adj Close]:111.23999786376953
+[Volume]:58347200
+
+[Date]:2023-06-30 00:00:00
+[Open]:113.02999877929688
+[High]:114.69000244140625
+[Low]:112.41000366210938
+[Close]:113.91000366210938
+[Adj Close]:113.91000366210938
+[Volume]:53331900
+
+[Date]:2023-07-03 00:00:00
+[Open]:115.16000366210938
+[High]:116.7300033569336
+[Low]:114.51000213623047
+[Close]:115.81999969482422
+[Adj Close]:115.81999969482422
+[Volume]:31860000
+
+[Date]:2023-07-05 00:00:00
+[Open]:116.0999984741211
+[High]:117.66000366210938
+[Low]:113.86000061035156
+[Close]:113.94999694824219
+[Adj Close]:113.94999694824219
+[Volume]:49501600
+
+[Date]:2023-07-06 00:00:00
+[Open]:112.06999969482422
+[High]:113.79000091552734
+[Low]:110.30999755859375
+[Close]:113.4800033569336
+[Adj Close]:113.4800033569336
+[Volume]:42342000
+
+[Date]:2023-07-07 00:00:00
+[Open]:114.16000366210938
+[High]:115.33000183105469
+[Low]:113.04000091552734
+[Close]:113.16999816894531
+[Adj Close]:113.16999816894531
+[Volume]:37135100
+
+[Date]:2023-07-10 00:00:00
+[Open]:113.0
+[High]:113.61000061035156
+[Low]:109.87999725341797
+[Close]:113.58000183105469
+[Adj Close]:113.58000183105469
+[Volume]:49330200
+
+[Date]:2023-07-11 00:00:00
+[Open]:111.66000366210938
+[High]:113.2699966430664
+[Low]:109.5
+[Close]:111.31999969482422
+[Adj Close]:111.31999969482422
+[Volume]:59899500
+
+[Date]:2023-07-12 00:00:00
+[Open]:112.88999938964844
+[High]:115.4000015258789
+[Low]:112.30999755859375
+[Close]:114.58000183105469
+[Adj Close]:114.58000183105469
+[Volume]:57993100
+
+[Date]:2023-07-13 00:00:00
+[Open]:115.76000213623047
+[High]:116.16000366210938
+[Low]:113.58000183105469
+[Close]:115.91999816894531
+[Adj Close]:115.91999816894531
+[Volume]:49206700
+
+[Date]:2023-07-14 00:00:00
+[Open]:116.16999816894531
+[High]:122.12000274658203
+[Low]:115.25
+[Close]:115.94000244140625
+[Adj Close]:115.94000244140625
+[Volume]:91847300
+
+[Date]:2023-07-17 00:00:00
+[Open]:115.94999694824219
+[High]:118.83999633789062
+[Low]:112.7300033569336
+[Close]:118.31999969482422
+[Adj Close]:118.31999969482422
+[Volume]:68593300
+
+[Date]:2023-07-18 00:00:00
+[Open]:117.55000305175781
+[High]:118.43000030517578
+[Low]:115.19000244140625
+[Close]:117.93000030517578
+[Adj Close]:117.93000030517578
+[Volume]:57980100
+
+[Date]:2023-07-19 00:00:00
+[Open]:121.30000305175781
+[High]:121.66999816894531
+[Low]:115.55000305175781
+[Close]:116.43000030517578
+[Adj Close]:116.43000030517578
+[Volume]:70363100
+
+[Date]:2023-07-20 00:00:00
+[Open]:114.95999908447266
+[High]:115.05000305175781
+[Low]:109.23999786376953
+[Close]:110.25
+[Adj Close]:110.25
+[Volume]:76340400
+
+[Date]:2023-07-21 00:00:00
+[Open]:110.97000122070312
+[High]:112.30000305175781
+[Low]:109.54000091552734
+[Close]:110.94999694824219
+[Adj Close]:110.94999694824219
+[Volume]:76778100
+
+[Date]:2023-07-24 00:00:00
+[Open]:110.62000274658203
+[High]:111.30999755859375
+[Low]:108.55000305175781
+[Close]:110.61000061035156
+[Adj Close]:110.61000061035156
+[Volume]:45583600
+
+[Date]:2023-07-25 00:00:00
+[Open]:111.13999938964844
+[High]:114.05000305175781
+[Low]:111.0
+[Close]:113.0
+[Adj Close]:113.0
+[Volume]:44916300
+
+[Date]:2023-07-26 00:00:00
+[Open]:111.91000366210938
+[High]:112.36000061035156
+[Low]:109.30000305175781
+[Close]:110.08999633789062
+[Adj Close]:110.08999633789062
+[Volume]:51721700
+
+[Date]:2023-07-27 00:00:00
+[Open]:111.79000091552734
+[High]:115.08000183105469
+[Low]:110.51000213623047
+[Close]:111.0999984741211
+[Adj Close]:111.0999984741211
+[Volume]:70678000
+
+[Date]:2023-07-28 00:00:00
+[Open]:113.37999725341797
+[High]:114.86000061035156
+[Low]:112.44000244140625
+[Close]:112.95999908447266
+[Adj Close]:112.95999908447266
+[Volume]:55526000
+
+[Date]:2023-07-31 00:00:00
+[Open]:114.16000366210938
+[High]:114.68000030517578
+[Low]:112.3499984741211
+[Close]:114.4000015258789
+[Adj Close]:114.4000015258789
+[Volume]:54187300
+
+[Date]:2023-08-01 00:00:00
+[Open]:114.26000213623047
+[High]:118.19000244140625
+[Low]:113.16000366210938
+[Close]:117.5999984741211
+[Adj Close]:117.5999984741211
+[Volume]:95279300
+
+[Date]:2023-08-02 00:00:00
+[Open]:119.48999786376953
+[High]:119.5
+[Low]:107.37999725341797
+[Close]:109.3499984741211
+[Adj Close]:109.3499984741211
+[Volume]:173372000
+
+[Date]:2023-08-03 00:00:00
+[Open]:108.94999694824219
+[High]:114.95999908447266
+[Low]:108.94999694824219
+[Close]:113.1500015258789
+[Adj Close]:113.1500015258789
+[Volume]:90605400
+
+[Date]:2023-08-04 00:00:00
+[Open]:114.4800033569336
+[High]:118.8499984741211
+[Low]:113.95999908447266
+[Close]:115.81999969482422
+[Adj Close]:115.81999969482422
+[Volume]:83083100
+
+[Date]:2023-08-07 00:00:00
+[Open]:116.36000061035156
+[High]:119.08000183105469
+[Low]:115.48999786376953
+[Close]:116.80999755859375
+[Adj Close]:116.80999755859375
+[Volume]:65854800
+
+[Date]:2023-08-08 00:00:00
+[Open]:114.94000244140625
+[High]:115.45999908447266
+[Low]:111.41000366210938
+[Close]:113.2300033569336
+[Adj Close]:113.2300033569336
+[Volume]:54141800
+
+[Date]:2023-08-09 00:00:00
+[Open]:112.88999938964844
+[High]:113.1500015258789
+[Low]:108.77999877929688
+[Close]:110.47000122070312
+[Adj Close]:110.47000122070312
+[Volume]:56257100
+
+[Date]:2023-08-10 00:00:00
+[Open]:111.30000305175781
+[High]:113.88999938964844
+[Low]:109.47000122070312
+[Close]:110.2300033569336
+[Adj Close]:110.2300033569336
+[Volume]:57297800
+
+[Date]:2023-08-11 00:00:00
+[Open]:108.8499984741211
+[High]:109.06999969482422
+[Low]:106.4800033569336
+[Close]:107.56999969482422
+[Adj Close]:107.56999969482422
+[Volume]:55618700
+
+[Date]:2023-08-14 00:00:00
+[Open]:106.75
+[High]:111.98999786376953
+[Low]:105.41999816894531
+[Close]:111.9800033569336
+[Adj Close]:111.9800033569336
+[Volume]:57421800
+
+[Date]:2023-08-15 00:00:00
+[Open]:111.98999786376953
+[High]:113.18000030517578
+[Low]:110.16999816894531
+[Close]:111.3499984741211
+[Adj Close]:111.3499984741211
+[Volume]:53816600
+
+[Date]:2023-08-16 00:00:00
+[Open]:110.08999633789062
+[High]:110.44000244140625
+[Low]:106.9800033569336
+[Close]:107.19000244140625
+[Adj Close]:107.19000244140625
+[Volume]:54327300
+
+[Date]:2023-08-17 00:00:00
+[Open]:107.62000274658203
+[High]:107.8499984741211
+[Low]:104.0999984741211
+[Close]:104.44000244140625
+[Adj Close]:104.44000244140625
+[Volume]:59064300
+
+[Date]:2023-08-18 00:00:00
+[Open]:102.4000015258789
+[High]:106.06999969482422
+[Low]:101.68000030517578
+[Close]:105.44999694824219
+[Adj Close]:105.44999694824219
+[Volume]:59884300
+
+[Date]:2023-08-21 00:00:00
+[Open]:106.19999694824219
+[High]:108.54000091552734
+[Low]:105.66999816894531
+[Close]:108.22000122070312
+[Adj Close]:108.22000122070312
+[Volume]:49319200
+
+[Date]:2023-08-22 00:00:00
+[Open]:109.4000015258789
+[High]:109.72000122070312
+[Low]:104.8499984741211
+[Close]:105.66000366210938
+[Adj Close]:105.66000366210938
+[Volume]:47335100
+
+[Date]:2023-08-23 00:00:00
+[Open]:105.6500015258789
+[High]:110.08000183105469
+[Low]:105.0
+[Close]:109.43000030517578
+[Adj Close]:109.43000030517578
+[Volume]:54656300
+
+[Date]:2023-08-24 00:00:00
+[Open]:111.05999755859375
+[High]:111.63999938964844
+[Low]:100.87000274658203
+[Close]:101.80000305175781
+[Adj Close]:101.80000305175781
+[Volume]:109179100
+
+[Date]:2023-08-25 00:00:00
+[Open]:101.16999816894531
+[High]:104.12000274658203
+[Low]:99.58000183105469
+[Close]:102.25
+[Adj Close]:102.25
+[Volume]:74793100
+
+[Date]:2023-08-28 00:00:00
+[Open]:103.47000122070312
+[High]:104.06999969482422
+[Low]:100.88999938964844
+[Close]:102.61000061035156
+[Adj Close]:102.61000061035156
+[Volume]:55386800
+
+[Date]:2023-08-29 00:00:00
+[Open]:102.11000061035156
+[High]:106.56999969482422
+[Low]:101.79000091552734
+[Close]:105.91999816894531
+[Adj Close]:105.91999816894531
+[Volume]:50850300
+
+[Date]:2023-08-30 00:00:00
+[Open]:105.4000015258789
+[High]:107.66999816894531
+[Low]:104.5
+[Close]:106.58999633789062
+[Adj Close]:106.58999633789062
+[Volume]:54847300
+
+[Date]:2023-08-31 00:00:00
+[Open]:106.19000244140625
+[High]:108.05999755859375
+[Low]:104.86000061035156
+[Close]:105.72000122070312
+[Adj Close]:105.72000122070312
+[Volume]:58919000
+
+[Date]:2023-09-01 00:00:00
+[Open]:107.0
+[High]:110.05999755859375
+[Low]:106.61000061035156
+[Close]:109.44999694824219
+[Adj Close]:109.44999694824219
+[Volume]:54808900
+
+[Date]:2023-09-05 00:00:00
+[Open]:109.0
+[High]:111.81999969482422
+[Low]:106.30000305175781
+[Close]:110.77999877929688
+[Adj Close]:110.77999877929688
+[Volume]:66042200
+
+[Date]:2023-09-06 00:00:00
+[Open]:110.55999755859375
+[High]:111.33000183105469
+[Low]:108.22000122070312
+[Close]:109.27999877929688
+[Adj Close]:109.27999877929688
+[Volume]:47736700
+
+[Date]:2023-09-07 00:00:00
+[Open]:106.13999938964844
+[High]:107.69000244140625
+[Low]:105.08999633789062
+[Close]:106.58999633789062
+[Adj Close]:106.58999633789062
+[Volume]:49080100
+
+[Date]:2023-09-08 00:00:00
+[Open]:107.0199966430664
+[High]:109.73999786376953
+[Low]:105.75
+[Close]:106.08999633789062
+[Adj Close]:106.08999633789062
+[Volume]:46232000
+
+[Date]:2023-09-11 00:00:00
+[Open]:107.31999969482422
+[High]:107.51000213623047
+[Low]:103.0
+[Close]:105.31999969482422
+[Adj Close]:105.31999969482422
+[Volume]:50611300
+
+[Date]:2023-09-12 00:00:00
+[Open]:104.19999694824219
+[High]:106.73999786376953
+[Low]:103.18000030517578
+[Close]:105.30999755859375
+[Adj Close]:105.30999755859375
+[Volume]:44413600
+
+[Date]:2023-09-13 00:00:00
+[Open]:105.0999984741211
+[High]:108.73999786376953
+[Low]:104.83000183105469
+[Close]:107.70999908447266
+[Adj Close]:107.70999908447266
+[Volume]:44702300
+
+[Date]:2023-09-14 00:00:00
+[Open]:108.43000030517578
+[High]:109.1500015258789
+[Low]:106.22000122070312
+[Close]:106.62999725341797
+[Adj Close]:106.62999725341797
+[Volume]:45920600
+
+[Date]:2023-09-15 00:00:00
+[Open]:106.06999969482422
+[High]:106.76000213623047
+[Low]:101.27999877929688
+[Close]:101.48999786376953
+[Adj Close]:101.48999786376953
+[Volume]:71017600
+
+[Date]:2023-09-18 00:00:00
+[Open]:100.81999969482422
+[High]:102.98999786376953
+[Low]:99.44999694824219
+[Close]:102.37000274658203
+[Adj Close]:102.37000274658203
+[Volume]:49061300
+
+[Date]:2023-09-19 00:00:00
+[Open]:101.75
+[High]:102.86000061035156
+[Low]:100.69999694824219
+[Close]:101.61000061035156
+[Adj Close]:101.61000061035156
+[Volume]:41704100
+
+[Date]:2023-09-20 00:00:00
+[Open]:102.36000061035156
+[High]:103.94000244140625
+[Low]:100.27999877929688
+[Close]:100.33999633789062
+[Adj Close]:100.33999633789062
+[Volume]:55180600
+
+[Date]:2023-09-21 00:00:00
+[Open]:98.5999984741211
+[High]:98.87000274658203
+[Low]:95.83999633789062
+[Close]:96.11000061035156
+[Adj Close]:96.11000061035156
+[Volume]:59628600
+
+[Date]:2023-09-22 00:00:00
+[Open]:96.91999816894531
+[High]:98.41999816894531
+[Low]:95.61000061035156
+[Close]:96.19999694824219
+[Adj Close]:96.19999694824219
+[Volume]:52169400
+
+[Date]:2023-09-25 00:00:00
+[Open]:95.94999694824219
+[High]:97.44999694824219
+[Low]:94.45999908447266
+[Close]:97.37999725341797
+[Adj Close]:97.37999725341797
+[Volume]:43223700
+
+[Date]:2023-09-26 00:00:00
+[Open]:96.5
+[High]:97.83000183105469
+[Low]:95.2699966430664
+[Close]:95.95999908447266
+[Adj Close]:95.95999908447266
+[Volume]:42866500
+
+[Date]:2023-09-27 00:00:00
+[Open]:96.81999969482422
+[High]:99.2300033569336
+[Low]:96.3499984741211
+[Close]:98.06999969482422
+[Adj Close]:98.06999969482422
+[Volume]:51261500
+
+[Date]:2023-09-28 00:00:00
+[Open]:97.94000244140625
+[High]:104.19999694824219
+[Low]:97.76000213623047
+[Close]:102.76000213623047
+[Adj Close]:102.76000213623047
+[Volume]:72542100
+
+[Date]:2023-09-29 00:00:00
+[Open]:104.69000244140625
+[High]:104.94000244140625
+[Low]:102.55999755859375
+[Close]:102.81999969482422
+[Adj Close]:102.81999969482422
+[Volume]:56027300
+
+[Date]:2023-10-02 00:00:00
+[Open]:102.20999908447266
+[High]:103.70999908447266
+[Low]:101.69999694824219
+[Close]:103.2699966430664
+[Adj Close]:103.2699966430664
+[Volume]:45118600
+
+[Date]:2023-10-03 00:00:00
+[Open]:101.80000305175781
+[High]:103.29000091552734
+[Low]:99.16999816894531
+[Close]:100.08000183105469
+[Adj Close]:100.08000183105469
+[Volume]:48117000
+
+[Date]:2023-10-04 00:00:00
+[Open]:100.6500015258789
+[High]:104.4000015258789
+[Low]:100.33999633789062
+[Close]:104.06999969482422
+[Adj Close]:104.06999969482422
+[Volume]:51023200
+
+[Date]:2023-10-05 00:00:00
+[Open]:103.41000366210938
+[High]:103.73999786376953
+[Low]:100.2699966430664
+[Close]:102.91000366210938
+[Adj Close]:102.91000366210938
+[Volume]:51789700
+
+[Date]:2023-10-06 00:00:00
+[Open]:102.16000366210938
+[High]:107.87000274658203
+[Low]:102.02999877929688
+[Close]:107.23999786376953
+[Adj Close]:107.23999786376953
+[Volume]:64807500
+
+[Date]:2023-10-09 00:00:00
+[Open]:106.01000213623047
+[High]:107.30999755859375
+[Low]:104.79000091552734
+[Close]:106.97000122070312
+[Adj Close]:106.97000122070312
+[Volume]:39593200
+
+[Date]:2023-10-10 00:00:00
+[Open]:107.48999786376953
+[High]:110.12000274658203
+[Low]:106.4000015258789
+[Close]:109.01000213623047
+[Adj Close]:109.01000213623047
+[Volume]:57105500
+
+[Date]:2023-10-11 00:00:00
+[Open]:109.13999938964844
+[High]:110.0999984741211
+[Low]:106.93000030517578
+[Close]:108.30999755859375
+[Adj Close]:108.30999755859375
+[Volume]:51085600
+
+[Date]:2023-10-12 00:00:00
+[Open]:108.4000015258789
+[High]:111.30999755859375
+[Low]:107.51000213623047
+[Close]:108.79000091552734
+[Adj Close]:108.79000091552734
+[Volume]:60959400
+
+[Date]:2023-10-13 00:00:00
+[Open]:108.6500015258789
+[High]:108.97000122070312
+[Low]:104.75
+[Close]:105.08999633789062
+[Adj Close]:105.08999633789062
+[Volume]:52881500
+
+[Date]:2023-10-16 00:00:00
+[Open]:105.41999816894531
+[High]:107.4800033569336
+[Low]:105.02999877929688
+[Close]:106.45999908447266
+[Adj Close]:106.45999908447266
+[Volume]:42464500
+
+[Date]:2023-10-17 00:00:00
+[Open]:103.54000091552734
+[High]:106.29000091552734
+[Low]:101.66000366210938
+[Close]:105.13999938964844
+[Adj Close]:105.13999938964844
+[Volume]:49642100
+
+[Date]:2023-10-18 00:00:00
+[Open]:103.37999725341797
+[High]:104.77999877929688
+[Low]:101.73999786376953
+[Close]:102.16999816894531
+[Adj Close]:102.16999816894531
+[Volume]:50450000
+
+[Date]:2023-10-19 00:00:00
+[Open]:103.80999755859375
+[High]:105.5999984741211
+[Low]:101.83999633789062
+[Close]:102.4000015258789
+[Adj Close]:102.4000015258789
+[Volume]:52734200
+
+[Date]:2023-10-20 00:00:00
+[Open]:102.27999877929688
+[High]:104.33999633789062
+[Low]:101.44000244140625
+[Close]:101.80999755859375
+[Adj Close]:101.80999755859375
+[Volume]:61285600
+
+[Date]:2023-10-23 00:00:00
+[Open]:100.80999755859375
+[High]:102.41999816894531
+[Low]:99.31999969482422
+[Close]:100.01000213623047
+[Adj Close]:100.01000213623047
+[Volume]:50817400
+
+[Date]:2023-10-24 00:00:00
+[Open]:100.97000122070312
+[High]:101.79000091552734
+[Low]:99.37999725341797
+[Close]:101.66999816894531
+[Adj Close]:101.66999816894531
+[Volume]:51982900
+
+[Date]:2023-10-25 00:00:00
+[Open]:100.41999816894531
+[High]:101.02999877929688
+[Low]:95.2300033569336
+[Close]:96.05999755859375
+[Adj Close]:96.05999755859375
+[Volume]:53424500
+
+[Date]:2023-10-26 00:00:00
+[Open]:95.98999786376953
+[High]:97.5199966430664
+[Low]:93.12000274658203
+[Close]:93.66999816894531
+[Adj Close]:93.66999816894531
+[Volume]:49896400
+
+[Date]:2023-10-27 00:00:00
+[Open]:95.80000305175781
+[High]:97.3499984741211
+[Low]:94.58999633789062
+[Close]:96.43000030517578
+[Adj Close]:96.43000030517578
+[Volume]:52458700
+
+[Date]:2023-10-30 00:00:00
+[Open]:96.13999938964844
+[High]:97.04000091552734
+[Low]:94.69999694824219
+[Close]:96.18000030517578
+[Adj Close]:96.18000030517578
+[Volume]:43716600
+
+[Date]:2023-10-31 00:00:00
+[Open]:96.23999786376953
+[High]:98.81999969482422
+[Low]:94.06999969482422
+[Close]:98.5
+[Adj Close]:98.5
+[Volume]:79547100
+
+[Date]:2023-11-01 00:00:00
+[Open]:98.58000183105469
+[High]:108.1500015258789
+[Low]:98.5
+[Close]:108.04000091552734
+[Adj Close]:108.04000091552734
+[Volume]:138641500
+
+[Date]:2023-11-02 00:00:00
+[Open]:107.95999908447266
+[High]:109.41000366210938
+[Low]:105.91000366210938
+[Close]:107.83000183105469
+[Adj Close]:107.83000183105469
+[Volume]:71377000
+
+[Date]:2023-11-03 00:00:00
+[Open]:109.05000305175781
+[High]:113.38999938964844
+[Low]:107.86000061035156
+[Close]:112.25
+[Adj Close]:112.25
+[Volume]:65576600
+
+[Date]:2023-11-06 00:00:00
+[Open]:112.5999984741211
+[High]:113.08000183105469
+[Low]:110.22000122070312
+[Close]:111.75
+[Adj Close]:111.75
+[Volume]:49270400
+
+[Date]:2023-11-07 00:00:00
+[Open]:111.86000061035156
+[High]:114.6500015258789
+[Low]:111.22000122070312
+[Close]:113.44999694824219
+[Adj Close]:113.44999694824219
+[Volume]:50550200
+
+[Date]:2023-11-08 00:00:00
+[Open]:113.55000305175781
+[High]:115.31999969482422
+[Low]:112.87999725341797
+[Close]:113.58999633789062
+[Adj Close]:113.58999633789062
+[Volume]:41880600
+
+[Date]:2023-11-09 00:00:00
+[Open]:114.0999984741211
+[High]:115.80999755859375
+[Low]:113.05999755859375
+[Close]:113.48999786376953
+[Adj Close]:113.48999786376953
+[Volume]:61146900
+
+[Date]:2023-11-10 00:00:00
+[Open]:114.3499984741211
+[High]:119.69999694824219
+[Low]:114.02999877929688
+[Close]:118.58999633789062
+[Adj Close]:118.58999633789062
+[Volume]:75135900
+
+[Date]:2023-11-13 00:00:00
+[Open]:118.33999633789062
+[High]:118.68000030517578
+[Low]:116.0
+[Close]:116.79000091552734
+[Adj Close]:116.79000091552734
+[Volume]:46741900
+
+[Date]:2023-11-14 00:00:00
+[Open]:119.69999694824219
+[High]:122.11000061035156
+[Low]:119.22000122070312
+[Close]:119.87999725341797
+[Adj Close]:119.87999725341797
+[Volume]:61017400
+
+[Date]:2023-11-15 00:00:00
+[Open]:120.54000091552734
+[High]:120.58999633789062
+[Low]:116.87000274658203
+[Close]:118.0
+[Adj Close]:118.0
+[Volume]:59555600
+
+[Date]:2023-11-16 00:00:00
+[Open]:117.19999694824219
+[High]:120.7300033569336
+[Low]:116.41000366210938
+[Close]:119.83000183105469
+[Adj Close]:119.83000183105469
+[Volume]:49661900
+
+[Date]:2023-11-17 00:00:00
+[Open]:119.63999938964844
+[High]:121.48999786376953
+[Low]:118.81999969482422
+[Close]:120.62000274658203
+[Adj Close]:120.62000274658203
+[Volume]:38508900
+
+[Date]:2023-11-20 00:00:00
+[Open]:120.69999694824219
+[High]:121.93000030517578
+[Low]:120.06999969482422
+[Close]:121.52999877929688
+[Adj Close]:121.52999877929688
+[Volume]:43138700
+
+[Date]:2023-11-21 00:00:00
+[Open]:120.54000091552734
+[High]:120.6500015258789
+[Low]:117.94000244140625
+[Close]:119.16000366210938
+[Adj Close]:119.16000366210938
+[Volume]:41064800
+
+[Date]:2023-11-22 00:00:00
+[Open]:120.0
+[High]:124.76000213623047
+[Low]:119.94999694824219
+[Close]:122.51000213623047
+[Adj Close]:122.51000213623047
+[Volume]:56862200
+
+[Date]:2023-11-24 00:00:00
+[Open]:122.02999877929688
+[High]:123.25
+[Low]:121.54000091552734
+[Close]:122.30999755859375
+[Adj Close]:122.30999755859375
+[Volume]:19001000
+
+[Date]:2023-11-27 00:00:00
+[Open]:122.06999969482422
+[High]:123.88999938964844
+[Low]:121.7699966430664
+[Close]:122.6500015258789
+[Adj Close]:122.6500015258789
+[Volume]:32743000
+
+[Date]:2023-11-28 00:00:00
+[Open]:121.9800033569336
+[High]:122.54000091552734
+[Low]:120.79000091552734
+[Close]:122.01000213623047
+[Adj Close]:122.01000213623047
+[Volume]:32047100
+
+[Date]:2023-11-29 00:00:00
+[Open]:123.9800033569336
+[High]:125.7300033569336
+[Low]:123.4800033569336
+[Close]:123.8499984741211
+[Adj Close]:123.8499984741211
+[Volume]:37876300
+
+[Date]:2023-11-30 00:00:00
+[Open]:123.61000061035156
+[High]:124.05000305175781
+[Low]:119.6500015258789
+[Close]:121.16000366210938
+[Adj Close]:121.16000366210938
+[Volume]:44494200
+
+[Date]:2023-12-01 00:00:00
+[Open]:119.87999725341797
+[High]:121.4000015258789
+[Low]:118.6500015258789
+[Close]:121.38999938964844
+[Adj Close]:121.38999938964844
+[Volume]:37017600
+
+[Date]:2023-12-04 00:00:00
+[Open]:119.75
+[High]:119.9000015258789
+[Low]:116.37000274658203
+[Close]:118.56999969482422
+[Adj Close]:118.56999969482422
+[Volume]:39854400
+
+[Date]:2023-12-05 00:00:00
+[Open]:117.43000030517578
+[High]:118.48999786376953
+[Low]:116.44999694824219
+[Close]:118.37999725341797
+[Adj Close]:118.37999725341797
+[Volume]:39191600
+
+[Date]:2023-12-06 00:00:00
+[Open]:120.69000244140625
+[High]:122.83000183105469
+[Low]:116.37999725341797
+[Close]:116.81999969482422
+[Adj Close]:116.81999969482422
+[Volume]:60599000
+
+[Date]:2023-12-07 00:00:00
+[Open]:120.79000091552734
+[High]:128.67999267578125
+[Low]:119.55999755859375
+[Close]:128.3699951171875
+[Adj Close]:128.3699951171875
+[Volume]:118579100
+
+[Date]:2023-12-08 00:00:00
+[Open]:129.5399932861328
+[High]:131.0
+[Low]:126.88999938964844
+[Close]:128.9199981689453
+[Adj Close]:128.9199981689453
+[Volume]:89273900
+
+[Date]:2023-12-11 00:00:00
+[Open]:130.55999755859375
+[High]:135.0399932861328
+[Low]:128.25
+[Close]:134.41000366210938
+[Adj Close]:134.41000366210938
+[Volume]:98668300
+
+[Date]:2023-12-12 00:00:00
+[Open]:132.25
+[High]:139.88999938964844
+[Low]:131.89999389648438
+[Close]:137.61000061035156
+[Adj Close]:137.61000061035156
+[Volume]:111677800
+
+[Date]:2023-12-13 00:00:00
+[Open]:137.97000122070312
+[High]:139.24000549316406
+[Low]:136.02999877929688
+[Close]:138.19000244140625
+[Adj Close]:138.19000244140625
+[Volume]:70651600
+
+[Date]:2023-12-14 00:00:00
+[Open]:138.88999938964844
+[High]:141.82000732421875
+[Low]:135.72999572753906
+[Close]:138.0
+[Adj Close]:138.0
+[Volume]:76115200
+
+[Date]:2023-12-15 00:00:00
+[Open]:139.52000427246094
+[High]:140.88999938964844
+[Low]:137.25
+[Close]:139.14999389648438
+[Adj Close]:139.14999389648438
+[Volume]:70178600
+
+[Date]:2023-12-18 00:00:00
+[Open]:139.14999389648438
+[High]:139.7899932861328
+[Low]:137.64999389648438
+[Close]:138.89999389648438
+[Adj Close]:138.89999389648438
+[Volume]:45199500
+
+[Date]:2023-12-19 00:00:00
+[Open]:138.57000732421875
+[High]:143.47000122070312
+[Low]:138.55999755859375
+[Close]:140.14999389648438
+[Adj Close]:140.14999389648438
+[Volume]:63739800
+
+[Date]:2023-12-20 00:00:00
+[Open]:139.0
+[High]:139.5800018310547
+[Low]:135.3699951171875
+[Close]:135.47000122070312
+[Adj Close]:135.47000122070312
+[Volume]:54671700
+
+[Date]:2023-12-21 00:00:00
+[Open]:138.13999938964844
+[High]:139.97999572753906
+[Low]:137.3800048828125
+[Close]:139.91000366210938
+[Adj Close]:139.91000366210938
+[Volume]:47179400
+
+[Date]:2023-12-22 00:00:00
+[Open]:140.47999572753906
+[High]:140.6999969482422
+[Low]:138.30999755859375
+[Close]:139.60000610351562
+[Adj Close]:139.60000610351562
+[Volume]:35370400
+
+[Date]:2023-12-26 00:00:00
+[Open]:140.07000732421875
+[High]:143.85000610351562
+[Low]:139.9199981689453
+[Close]:143.41000366210938
+[Adj Close]:143.41000366210938
+[Volume]:47157400
+
+[Date]:2023-12-27 00:00:00
+[Open]:144.72000122070312
+[High]:146.25
+[Low]:143.17999267578125
+[Close]:146.07000732421875
+[Adj Close]:146.07000732421875
+[Volume]:49033400
+
+[Date]:2023-12-28 00:00:00
+[Open]:146.8000030517578
+[High]:150.41000366210938
+[Low]:145.9499969482422
+[Close]:148.75999450683594
+[Adj Close]:148.75999450683594
+[Volume]:63800700
+
+[Date]:2023-12-29 00:00:00
+[Open]:149.5
+[High]:151.0500030517578
+[Low]:147.1999969482422
+[Close]:147.41000366210938
+[Adj Close]:147.41000366210938
+[Volume]:62028200
+
+[Date]:2024-01-02 00:00:00
+[Open]:144.27999877929688
+[High]:144.39999389648438
+[Low]:137.42999267578125
+[Close]:138.5800018310547
+[Adj Close]:138.5800018310547
+[Volume]:64902000
+
+[Date]:2024-01-03 00:00:00
+[Open]:135.7100067138672
+[High]:137.42999267578125
+[Low]:133.74000549316406
+[Close]:135.32000732421875
+[Adj Close]:135.32000732421875
+[Volume]:61988600
+
+[Date]:2024-01-04 00:00:00
+[Open]:134.3000030517578
+[High]:137.6999969482422
+[Low]:134.0
+[Close]:136.00999450683594
+[Adj Close]:136.00999450683594
+[Volume]:58610300
+
+[Date]:2024-01-05 00:00:00
+[Open]:136.77999877929688
+[High]:141.00999450683594
+[Low]:136.44000244140625
+[Close]:138.5800018310547
+[Adj Close]:138.5800018310547
+[Volume]:69595000
+
+[Date]:2024-01-08 00:00:00
+[Open]:140.36000061035156
+[High]:147.14999389648438
+[Low]:140.14999389648438
+[Close]:146.17999267578125
+[Adj Close]:146.17999267578125
+[Volume]:71756900
+
+[Date]:2024-01-09 00:00:00
+[Open]:145.9499969482422
+[High]:149.86000061035156
+[Low]:145.0800018310547
+[Close]:149.25999450683594
+[Adj Close]:149.25999450683594
+[Volume]:67875700
+
+[Date]:2024-01-10 00:00:00
+[Open]:150.07000732421875
+[High]:150.8800048828125
+[Low]:146.64999389648438
+[Close]:148.5399932861328
+[Adj Close]:148.5399932861328
+[Volume]:56951200
+
+[Date]:2024-01-11 00:00:00
+[Open]:148.52000427246094
+[High]:150.3800048828125
+[Low]:143.69000244140625
+[Close]:148.02000427246094
+[Adj Close]:148.02000427246094
+[Volume]:62764600
+
+[Date]:2024-01-12 00:00:00
+[Open]:148.0399932861328
+[High]:148.75
+[Low]:145.0
+[Close]:146.55999755859375
+[Adj Close]:146.55999755859375
+[Volume]:48250800
+
+[Date]:2024-01-16 00:00:00
+[Open]:150.36000061035156
+[High]:159.72000122070312
+[Low]:149.97999572753906
+[Close]:158.74000549316406
+[Adj Close]:158.74000549316406
+[Volume]:112711400
+
+[Date]:2024-01-17 00:00:00
+[Open]:158.4499969482422
+[High]:160.63999938964844
+[Low]:154.39999389648438
+[Close]:160.1699981689453
+[Adj Close]:160.1699981689453
+[Volume]:104085000
+
+[Date]:2024-01-18 00:00:00
+[Open]:166.1999969482422
+[High]:168.60000610351562
+[Low]:158.22000122070312
+[Close]:162.6699981689453
+[Adj Close]:162.6699981689453
+[Volume]:131864900
+
+[Date]:2024-01-19 00:00:00
+[Open]:165.8000030517578
+[High]:174.25
+[Low]:162.1999969482422
+[Close]:174.22999572753906
+[Adj Close]:174.22999572753906
+[Volume]:139825500
+
+[Date]:2024-01-22 00:00:00
+[Open]:174.38999938964844
+[High]:174.72000122070312
+[Low]:164.14999389648438
+[Close]:168.17999267578125
+[Adj Close]:168.17999267578125
+[Volume]:122973800
+
+[Date]:2024-01-23 00:00:00
+[Open]:166.5
+[High]:169.6300048828125
+[Low]:164.27000427246094
+[Close]:168.4199981689453
+[Adj Close]:168.4199981689453
+[Volume]:76830500
+
+[Date]:2024-01-24 00:00:00
+[Open]:172.5500030517578
+[High]:180.5800018310547
+[Low]:170.55999755859375
+[Close]:178.2899932861328
+[Adj Close]:178.2899932861328
+[Volume]:125516400
+
+[Date]:2024-01-25 00:00:00
+[Open]:183.41000366210938
+[High]:184.9199981689453
+[Low]:177.6300048828125
+[Close]:180.3300018310547
+[Adj Close]:180.3300018310547
+[Volume]:127171400
+
+[Date]:2024-01-26 00:00:00
+[Open]:175.2899932861328
+[High]:181.22999572753906
+[Low]:174.14999389648438
+[Close]:177.25
+[Adj Close]:177.25
+[Volume]:107381200
+
+[Date]:2024-01-29 00:00:00
+[Open]:178.77000427246094
+[High]:178.88999938964844
+[Low]:174.39999389648438
+[Close]:177.8300018310547
+[Adj Close]:177.8300018310547
+[Volume]:89384500
+
+[Date]:2024-01-30 00:00:00
+[Open]:176.1300048828125
+[High]:178.47999572753906
+[Low]:169.52000427246094
+[Close]:172.05999755859375
+[Adj Close]:172.05999755859375
+[Volume]:122265700
+
+[Date]:2024-01-31 00:00:00
+[Open]:165.74000549316406
+[High]:171.3000030517578
+[Low]:162.55999755859375
+[Close]:167.69000244140625
+[Adj Close]:167.69000244140625
+[Volume]:133157300
+
+[Date]:2024-02-01 00:00:00
+[Open]:169.27000427246094
+[High]:171.13999938964844
+[Low]:165.86000061035156
+[Close]:170.47999572753906
+[Adj Close]:170.47999572753906
+[Volume]:91576700
+
+[Date]:2024-02-02 00:00:00
+[Open]:173.7899932861328
+[High]:179.0
+[Low]:173.0500030517578
+[Close]:177.66000366210938
+[Adj Close]:177.66000366210938
+[Volume]:82078100
+
+[Date]:2024-02-05 00:00:00
+[Open]:179.08999633789062
+[High]:180.00999450683594
+[Low]:171.11000061035156
+[Close]:174.22999572753906
+[Adj Close]:174.22999572753906
+[Volume]:76349200
+
+[Date]:2024-02-06 00:00:00
+[Open]:173.14999389648438
+[High]:173.8800048828125
+[Low]:165.5
+[Close]:167.8800048828125
+[Adj Close]:167.8800048828125
+[Volume]:68854100
+
+[Date]:2024-02-07 00:00:00
+[Open]:169.47000122070312
+[High]:172.97000122070312
+[Low]:168.1999969482422
+[Close]:170.94000244140625
+[Adj Close]:170.94000244140625
+[Volume]:53665400
+
+[Date]:2024-02-08 00:00:00
+[Open]:170.3300018310547
+[High]:172.1699981689453
+[Low]:168.60000610351562
+[Close]:169.35000610351562
+[Adj Close]:169.35000610351562
+[Volume]:43385300
+
+[Date]:2024-02-09 00:00:00
+[Open]:171.0
+[High]:175.10000610351562
+[Low]:168.66000366210938
+[Close]:172.47999572753906
+[Adj Close]:172.47999572753906
+[Volume]:56375700
+
+[Date]:2024-02-12 00:00:00
+[Open]:172.67999267578125
+[High]:177.41000366210938
+[Low]:170.6699981689453
+[Close]:171.91000366210938
+[Adj Close]:171.91000366210938
+[Volume]:58177100
+
+[Date]:2024-02-13 00:00:00
+[Open]:167.94000244140625
+[High]:173.1699981689453
+[Low]:164.3000030517578
+[Close]:171.5399932861328
+[Adj Close]:171.5399932861328
+[Volume]:63071300
+
+[Date]:2024-02-14 00:00:00
+[Open]:173.47000122070312
+[High]:178.74000549316406
+[Low]:172.8800048828125
+[Close]:178.6999969482422
+[Adj Close]:178.6999969482422
+[Volume]:57402500
+
+[Date]:2024-02-15 00:00:00
+[Open]:179.13999938964844
+[High]:180.5
+[Low]:175.25999450683594
+[Close]:176.75999450683594
+[Adj Close]:176.75999450683594
+[Volume]:51126400
+
+[Date]:2024-02-16 00:00:00
+[Open]:177.4499969482422
+[High]:180.3300018310547
+[Low]:173.25
+[Close]:173.8699951171875
+[Adj Close]:173.8699951171875
+[Volume]:53896000
+
+[Date]:2024-02-20 00:00:00
+[Open]:171.13999938964844
+[High]:171.80999755859375
+[Low]:162.0
+[Close]:165.69000244140625
+[Adj Close]:165.69000244140625
+[Volume]:66550000
+
+[Date]:2024-02-21 00:00:00
+[Open]:162.74000549316406
+[High]:164.89999389648438
+[Low]:161.80999755859375
+[Close]:164.2899932861328
+[Adj Close]:164.2899932861328
+[Volume]:48774600
+
+[Date]:2024-02-22 00:00:00
+[Open]:173.1999969482422
+[High]:183.8300018310547
+[Low]:172.0
+[Close]:181.86000061035156
+[Adj Close]:181.86000061035156
+[Volume]:100684700
+
+[Date]:2024-02-23 00:00:00
+[Open]:181.86000061035156
+[High]:183.8000030517578
+[Low]:174.5500030517578
+[Close]:176.52000427246094
+[Adj Close]:176.52000427246094
+[Volume]:69207400
+
+[Date]:2024-02-26 00:00:00
+[Open]:178.77999877929688
+[High]:179.83999633789062
+[Low]:174.80999755859375
+[Close]:176.00999450683594
+[Adj Close]:176.00999450683594
+[Volume]:45435100
+
+[Date]:2024-02-27 00:00:00
+[Open]:175.9199981689453
+[High]:178.4600067138672
+[Low]:172.49000549316406
+[Close]:178.0
+[Adj Close]:178.0
+[Volume]:43665200
+
+[Date]:2024-02-28 00:00:00
+[Open]:176.25
+[High]:176.83999633789062
+[Low]:173.58999633789062
+[Close]:176.5399932861328
+[Adj Close]:176.5399932861328
+[Volume]:35914400
+
+[Date]:2024-02-29 00:00:00
+[Open]:179.82000732421875
+[High]:193.0
+[Low]:179.82000732421875
+[Close]:192.52999877929688
+[Adj Close]:192.52999877929688
+[Volume]:105538500
+
+[Date]:2024-03-01 00:00:00
+[Open]:197.91000366210938
+[High]:202.72000122070312
+[Low]:195.4199981689453
+[Close]:202.63999938964844
+[Adj Close]:202.63999938964844
+[Volume]:103583000
+
+[Date]:2024-03-04 00:00:00
+[Open]:205.16000366210938
+[High]:211.00999450683594
+[Low]:203.5
+[Close]:205.36000061035156
+[Adj Close]:205.36000061035156
+[Volume]:86835300
+
+[Date]:2024-03-05 00:00:00
+[Open]:200.5
+[High]:205.3300018310547
+[Low]:199.14999389648438
+[Close]:205.1300048828125
+[Adj Close]:205.1300048828125
+[Volume]:65407100
+
+[Date]:2024-03-06 00:00:00
+[Open]:210.42999267578125
+[High]:214.80999755859375
+[Low]:207.32000732421875
+[Close]:210.6300048828125
+[Adj Close]:210.6300048828125
+[Volume]:86687000
+
+[Date]:2024-03-07 00:00:00
+[Open]:212.52000427246094
+[High]:213.8300018310547
+[Low]:208.22000122070312
+[Close]:211.3800048828125
+[Adj Close]:211.3800048828125
+[Volume]:63869000
+
+[Date]:2024-03-08 00:00:00
+[Open]:213.41000366210938
+[High]:227.3000030517578
+[Low]:205.60000610351562
+[Close]:207.38999938964844
+[Adj Close]:207.38999938964844
+[Volume]:120592600
+
+[Date]:2024-03-11 00:00:00
+[Open]:203.00999450683594
+[High]:203.5500030517578
+[Low]:196.6999969482422
+[Close]:198.38999938964844
+[Adj Close]:198.38999938964844
+[Volume]:73098600
+
+[Date]:2024-03-12 00:00:00
+[Open]:200.52000427246094
+[High]:202.85000610351562
+[Low]:194.27000427246094
+[Close]:202.75999450683594
+[Adj Close]:202.75999450683594
+[Volume]:68951700
+
+[Date]:2024-03-13 00:00:00
+[Open]:198.72999572753906
+[High]:198.8300018310547
+[Low]:192.6999969482422
+[Close]:194.7899932861328
+[Adj Close]:194.7899932861328
+[Volume]:70526900
+
+[Date]:2024-03-14 00:00:00
+[Open]:192.9199981689453
+[High]:196.92999267578125
+[Low]:184.02999877929688
+[Close]:187.05999755859375
+[Adj Close]:187.05999755859375
+[Volume]:84490500
+
+[Date]:2024-03-15 00:00:00
+[Open]:184.8300018310547
+[High]:193.8000030517578
+[Low]:184.47999572753906
+[Close]:191.05999755859375
+[Adj Close]:191.05999755859375
+[Volume]:95225700
+
+[Date]:2024-03-18 00:00:00
+[Open]:193.2899932861328
+[High]:193.5
+[Low]:188.0500030517578
+[Close]:190.64999389648438
+[Adj Close]:190.64999389648438
+[Volume]:59306900
+
+[Date]:2024-03-19 00:00:00
+[Open]:183.16000366210938
+[High]:185.61000061035156
+[Low]:177.36000061035156
+[Close]:181.4199981689453
+[Adj Close]:181.4199981689453
+[Volume]:83509500
+
+[Date]:2024-03-20 00:00:00
+[Open]:182.02999877929688
+[High]:182.67999267578125
+[Low]:174.0
+[Close]:179.72999572753906
+[Adj Close]:179.72999572753906
+[Volume]:81773100
+
+[Date]:2024-03-21 00:00:00
+[Open]:185.97000122070312
+[High]:187.69000244140625
+[Low]:177.66000366210938
+[Close]:178.67999267578125
+[Adj Close]:178.67999267578125
+[Volume]:75265600
+
+[Date]:2024-03-22 00:00:00
+[Open]:177.2100067138672
+[High]:180.75999450683594
+[Low]:175.0500030517578
+[Close]:179.64999389648438
+[Adj Close]:179.64999389648438
+[Volume]:57832100
+
+[Date]:2024-03-25 00:00:00
+[Open]:172.89999389648438
+[High]:182.8000030517578
+[Low]:172.0
+[Close]:178.6300048828125
+[Adj Close]:178.6300048828125
+[Volume]:71935300
+
+[Date]:2024-03-26 00:00:00
+[Open]:179.5399932861328
+[High]:182.60000610351562
+[Low]:176.3300018310547
+[Close]:177.8699951171875
+[Adj Close]:177.8699951171875
+[Volume]:65322400
+
+[Date]:2024-03-27 00:00:00
+[Open]:179.9600067138672
+[High]:181.22999572753906
+[Low]:175.39999389648438
+[Close]:179.58999633789062
+[Adj Close]:179.58999633789062
+[Volume]:55685600
+
+[Date]:2024-03-28 00:00:00
+[Open]:179.47000122070312
+[High]:183.39999389648438
+[Low]:178.3000030517578
+[Close]:180.49000549316406
+[Adj Close]:180.49000549316406
+[Volume]:57628600
+
+[Date]:2024-04-01 00:00:00
+[Open]:180.10000610351562
+[High]:187.24000549316406
+[Low]:179.89999389648438
+[Close]:183.33999633789062
+[Adj Close]:183.33999633789062
+[Volume]:74299900
+
+[Date]:2024-04-02 00:00:00
+[Open]:179.47000122070312
+[High]:180.10000610351562
+[Low]:174.8300018310547
+[Close]:178.6999969482422
+[Adj Close]:178.6999969482422
+[Volume]:61598800
+
+[Date]:2024-04-03 00:00:00
+[Open]:177.5399932861328
+[High]:182.0500030517578
+[Low]:176.6999969482422
+[Close]:180.77000427246094
+[Adj Close]:180.77000427246094
+[Volume]:49835100
+
+[Date]:2024-04-04 00:00:00
+[Open]:182.9199981689453
+[High]:183.02000427246094
+[Low]:165.64999389648438
+[Close]:165.8300018310547
+[Adj Close]:165.8300018310547
+[Volume]:88280000
+
+[Date]:2024-04-05 00:00:00
+[Open]:168.10000610351562
+[High]:172.69000244140625
+[Low]:165.5800018310547
+[Close]:170.4199981689453
+[Adj Close]:170.4199981689453
+[Volume]:66025200
+
+[Date]:2024-04-08 00:00:00
+[Open]:168.1999969482422
+[High]:171.66000366210938
+[Low]:166.82000732421875
+[Close]:169.89999389648438
+[Adj Close]:169.89999389648438
+[Volume]:43997500
+
+[Date]:2024-04-09 00:00:00
+[Open]:170.2100067138672
+[High]:171.60000610351562
+[Low]:167.2899932861328
+[Close]:170.77999877929688
+[Adj Close]:170.77999877929688
+[Volume]:42928000
+
+[Date]:2024-04-10 00:00:00
+[Open]:166.7100067138672
+[High]:169.77999877929688
+[Low]:164.0
+[Close]:167.13999938964844
+[Adj Close]:167.13999938964844
+[Volume]:59600000
+
+[Date]:2024-04-11 00:00:00
+[Open]:167.5500030517578
+[High]:170.9499969482422
+[Low]:166.5500030517578
+[Close]:170.5
+[Adj Close]:170.5
+[Volume]:48994500
+
+[Date]:2024-04-12 00:00:00
+[Open]:164.52999877929688
+[High]:165.6999969482422
+[Low]:161.82000732421875
+[Close]:163.27999877929688
+[Adj Close]:163.27999877929688
+[Volume]:63334200
+
+[Date]:2024-04-15 00:00:00
+[Open]:164.42999267578125
+[High]:164.44000244140625
+[Low]:158.75999450683594
+[Close]:160.32000732421875
+[Adj Close]:160.32000732421875
+[Volume]:61461200
+
+[Date]:2024-04-16 00:00:00
+[Open]:162.27999877929688
+[High]:164.8800048828125
+[Low]:161.6699981689453
+[Close]:163.4600067138672
+[Adj Close]:163.4600067138672
+[Volume]:55302100
+
+[Date]:2024-04-17 00:00:00
+[Open]:163.97000122070312
+[High]:164.4499969482422
+[Low]:153.8800048828125
+[Close]:154.02000427246094
+[Adj Close]:154.02000427246094
+[Volume]:75909000
+
+[Date]:2024-04-18 00:00:00
+[Open]:155.50999450683594
+[High]:156.9600067138672
+[Low]:152.32000732421875
+[Close]:155.0800018310547
+[Adj Close]:155.0800018310547
+[Volume]:52669800
+
+[Date]:2024-04-19 00:00:00
+[Open]:151.58999633789062
+[High]:154.25
+[Low]:145.2899932861328
+[Close]:146.63999938964844
+[Adj Close]:146.63999938964844
+[Volume]:71232500
+
+[Date]:2024-04-22 00:00:00
+[Open]:148.14999389648438
+[High]:149.88999938964844
+[Low]:145.6300048828125
+[Close]:148.63999938964844
+[Adj Close]:148.63999938964844
+[Volume]:49397000
+
+[Date]:2024-04-23 00:00:00
+[Open]:151.64999389648438
+[High]:153.5
+[Low]:150.35000610351562
+[Close]:152.27000427246094
+[Adj Close]:152.27000427246094
+[Volume]:46051900
+
+[Date]:2024-04-24 00:00:00
+[Open]:156.55999755859375
+[High]:157.66000366210938
+[Low]:150.6300048828125
+[Close]:151.74000549316406
+[Adj Close]:151.74000549316406
+[Volume]:43412600
+
+[Date]:2024-04-25 00:00:00
+[Open]:149.14999389648438
+[High]:155.13999938964844
+[Low]:146.75
+[Close]:153.75999450683594
+[Adj Close]:153.75999450683594
+[Volume]:41471400
+
+[Date]:2024-04-26 00:00:00
+[Open]:154.24000549316406
+[High]:158.6300048828125
+[Low]:153.42999267578125
+[Close]:157.39999389648438
+[Adj Close]:157.39999389648438
+[Volume]:42510700
+
+[Date]:2024-04-29 00:00:00
+[Open]:159.0800018310547
+[High]:160.77000427246094
+[Low]:156.25999450683594
+[Close]:160.1999969482422
+[Adj Close]:160.1999969482422
+[Volume]:43478200
+
+[Date]:2024-04-30 00:00:00
+[Open]:160.6300048828125
+[High]:162.2899932861328
+[Low]:158.35000610351562
+[Close]:158.3800048828125
+[Adj Close]:158.3800048828125
+[Volume]:60742800
+
+[Date]:2024-05-01 00:00:00
+[Open]:148.11000061035156
+[High]:151.3699951171875
+[Low]:142.13999938964844
+[Close]:144.27000427246094
+[Adj Close]:144.27000427246094
+[Volume]:89413200
+
+[Date]:2024-05-02 00:00:00
+[Open]:145.50999450683594
+[High]:147.6199951171875
+[Low]:141.16000366210938
+[Close]:146.16000366210938
+[Adj Close]:146.16000366210938
+[Volume]:50034700
+
+[Date]:2024-05-03 00:00:00
+[Open]:148.75
+[High]:150.7899932861328
+[Low]:147.24000549316406
+[Close]:150.60000610351562
+[Adj Close]:150.60000610351562
+[Volume]:49361100
+
+[Date]:2024-05-06 00:00:00
+[Open]:153.10000610351562
+[High]:156.64999389648438
+[Low]:151.25999450683594
+[Close]:155.77999877929688
+[Adj Close]:155.77999877929688
+[Volume]:44624500
+
+[Date]:2024-05-07 00:00:00
+[Open]:156.32000732421875
+[High]:157.6999969482422
+[Low]:153.66000366210938
+[Close]:154.42999267578125
+[Adj Close]:154.42999267578125
+[Volume]:37374900
+
+[Date]:2024-05-08 00:00:00
+[Open]:153.39999389648438
+[High]:155.3300018310547
+[Low]:152.52000427246094
+[Close]:153.6199951171875
+[Adj Close]:153.6199951171875
+[Volume]:28728000
+
+[Date]:2024-05-09 00:00:00
+[Open]:153.1300048828125
+[High]:154.08999633789062
+[Low]:150.61000061035156
+[Close]:152.38999938964844
+[Adj Close]:152.38999938964844
+[Volume]:33018000
+
+[Date]:2024-05-10 00:00:00
+[Open]:154.2899932861328
+[High]:156.3699951171875
+[Low]:151.30999755859375
+[Close]:151.9199981689453
+[Adj Close]:151.9199981689453
+[Volume]:37603000
+

@@ -1,0 +1,2941 @@
+[Company Introduction]:
+Microsoft Corp is a leading entity in the Technology sector. Incorporated and publicly traded since 1986-03-13, the company has established its reputation as one of the key players in the market. As of today, Microsoft Corp has a market capitalization of 3082474.71 in USD, with 7432.31 shares outstanding.
+Microsoft Corp operates primarily in the US, trading under the ticker MSFT on the NASDAQ NMS - GLOBAL MARKET. As a dominant force in the Technology space, the company continues to innovate and drive progress within the industry.
+
+
+[Address]:
+Main office address is in ONE MICROSOFT WAY None REDMOND,WA 98052-6399
+tel: 425-882-8080
+
+
+[Stock]:
+Entity Common Stock, Shares Outstanding this means Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument.
+
+
+[News]:
+[Date]:2024-05-12 01:04:52
+[Headline]:Wall Street Breakfast: The Week Ahead
+[Summary]:Upcoming U.S. retail sales and CPI reports could impact Federal Reserve interest rate cut expectations.
+
+[Date]:2024-05-12 00:42:43
+[Headline]:QQQ: Macro Trends Favor Non-Tech Areas, Bullish Seasonal Trends
+[Summary]:Invesco QQQ Trust ETF's sector valuation is high, and sector rotation suggests it may not be best positioned for relative gains. Find out why QQQ is a Hold.
+
+[Date]:2024-05-11 23:37:05
+[Headline]:Microsoft: Why A $3 Trillion Market Cap Isn't Enough
+[Summary]:Microsoft has a market capitalization of $3T. Financial performance and valuation make it a fine long-term investment. Read why I'm bullish on MSFT stock here.
+
+[Date]:2024-05-11 20:18:42
+[Headline]:Microsoft: Buy The S&P 500 Instead
+[Summary]:Microsoft has reported a good quarter of earnings and is likely to grow by double-digits going forward. Find out why MSFT stock is a Sell.
+
+[Date]:2024-05-11 16:32:55
+[Headline]:20 Best AI Content Detectors in 2024
+[Summary]:In this article, we will look at the 20 best AI content detectors in 2024. If you want to skip our detailed analysis, you can go directly to the 5 Best AI Content Detectors in 2024. An Analysis of the AI Content Creation Market Content Marketing is a dynamic strategy that utilizes digital tools including text, images, videos, audio, and infographics to market content and […]
+
+[Date]:2024-05-11 07:45:00
+[Headline]:Big Energy
+[Summary]:The narrative in the equity markets is that Big Oil has passed the reins to Big Tech. Big Tech is the new energy business. AIâs growing power requirements make this concrete. Read more here.
+
+[Date]:2024-05-11 06:30:00
+[Headline]:1 Warren Buffett Stock That Could Go Parabolic in 2024
+[Summary]:There's way more growth ahead for this tech giant.
+
+[Date]:2024-05-11 05:40:20
+[Headline]:Dividend Champion, Contender, And Challenger Highlights: Week Of May 12
+[Summary]:Get the latest updates on dividend activity for Dividend Champions, Contenders, and Challengers, including changes, ex-dividend dates, and pay dates.
+
+[Date]:2024-05-11 03:46:00
+[Headline]:Worried AI will take your job? These employees say it actually makes work better.
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-11 03:00:00
+[Headline]:How To Invest $100,000 In Today's Market With A SWAN Strategy, 6% Income
+[Summary]:Learn the SWAN strategy, designed to prioritize steady growth and income while minimizing risk through diversification and hedging mechanisms. Click for more.
+
+[Date]:2024-05-11 02:53:00
+[Headline]:Sundar Pichai Finally Responds To Microsoft CEO's Comments About Making Google Dance: 'One Of The Ways You Can Do The Wrong Thing Is By ... Playing To Someone Else's Dance Music'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-11 01:52:00
+[Headline]:How to Invest in the High-Yield Stock Powering Microsoft's AI Future
+[Summary]:This company knows how to make money in renewable energy and get its shareholders paid.
+
+[Date]:2024-05-11 01:00:00
+[Headline]:The Party Is Over For FANG+ Stocks - Are You Prepared?
+[Summary]:Value stocks vs. growth stocks: Will the era of low inflation end? FANG+ stocks dominate S&P 500, but their advantage may be fading. Read more here.
+
+[Date]:2024-05-11 00:50:00
+[Headline]:Elliott Wave Analysis For Nasdaq 100 & Tech Stocks: Insights & Strategies For NDX, SP500
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-11 00:50:00
+[Headline]:Tweedy, Browne 2024 Client Letter
+[Summary]:Despite exposure to âMag 7,â Tweedy, Browneâs managed account portfolios made substantial financial progress over the last year. Click here to read more.
+
+[Date]:2024-05-11 00:14:00
+[Headline]:Cloud Computing Kings: 3 Stocks Ruling the Remote Work Era
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-11 00:01:00
+[Headline]:Warner Bros. Discovery's failed Suicide Squad game highlights industry woes
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 23:26:00
+[Headline]:Apple, OpenAI said to be finalizing talks to bring ChatGPT to iPhone
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 23:18:00
+[Headline]:3 Blue-Chip Tech Stocks Attracting Institutional Investor Attention
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 19:00:00
+[Headline]:Tech Giants Start to Treat Southeast Asia Like Next Big Thing
+[Summary]:(Bloomberg) -- Long considered a tech hinterland, Southeast Asia is fast emerging as a center of gravity for the industry.Most Read from BloombergElon Musk Pledges to Grow Supercharger Business He Just DecimatedBiden Set to Hit China EVs, Strategic Sectors With TariffsJim Simons, Code Breaker Who Mastered Investing, Dies at 86Ackman Scolded Over DEI Views at Closed-Door Milken SessionFord Cuts Battery Orders as EV Losses Top $100,000 Per CarThe CEOs of Apple Inc., Microsoft Corp. and Nvidia Corp
+
+[Date]:2024-05-10 17:39:54
+[Headline]:12 Best Marketing Stocks to Buy
+[Summary]:In this article, we discuss the 12 best marketing stocks to buy. To skip the detailed analysis of the industry, go directly to the 5 Best Marketing Stocks to Buy. The advertising and marketing industry is a vital component of the economy and it plays diverse roles in driving growth, nurturing innovation and creativity, and […]
+
+[Date]:2024-05-10 16:27:45
+[Headline]:AI Revolution 'On the Doorstep:' The 'Tidal Wave' Is Well Underway, Analyst Says
+[Summary]:The recent earnings season has made it abundantly clear that the AI revolution is not just knocking on the door but has forcefully entered the tech world. The impressive results from tech giants such as Microsoft Corp. (NYSE:MSFT), Alphabet Inc. (NASDAQ:GOOGL)(NASDAQ:GOOG) and Amazon.com Inc. (NASDAQ:AMZN) underscored this transition, according to Daniel Ives, an equity analyst at Wedbush. These companies have reported “eye-popping capital expenditure numbers,” initiating an “AI tidal wave” in s
+
+[Date]:2024-05-10 15:13:00
+[Headline]:Microsoft hit with $242 million US verdict in Cortana patent lawsuit
+[Summary]:Microsoft must pay patent owner IPA Technologies $242 million, a federal jury in Delaware said on Friday after determining that Microsoft's Cortana virtual-assistant software infringed an IPA patent.  The jury agreed with IPA after a week-long trial that Microsoft's voice-recognition technology violates IPA's patent rights in computer-communications software.  IPA is a subsidiary of patent-licensing company Wi-LAN, which is jointly owned by Canadian technology company Quarterhill and two investment firms.
+
+[Date]:2024-05-10 10:30:26
+[Headline]:Q1 2024 Applied Optoelectronics Inc Earnings Call
+[Summary]:Q1 2024 Applied Optoelectronics Inc Earnings Call
+
+[Date]:2024-05-10 10:02:40
+[Headline]:Will OpenAI Search Announcement Steal Thunder From Google I/O?
+[Summary]:Artificial intelligence announcements are expected at Google I/O next week but startup OpenAI could strike first with search engine news.
+
+[Date]:2024-05-10 09:37:57
+[Headline]:Microsoft is launching its mobile game store in July
+[Summary]:Microsoft will launch its own mobile game store in July, the company announced at the Bloomberg Technology Summit on Thursday. Xbox president Sarah Bond shared that the company plans to bring its first-party portfolio, which includes titles like Candy Crush and Minecraft, to the mobile store at launch. Microsoft then plans to open up the mobile store to other publishers. “We're going to start on the web,” Bond said. “And we're doing that because that really allows us to have it be an experience
+
+[Date]:2024-05-10 09:12:21
+[Headline]:OpenAI could launch new AI search engine on Monday: Reuters
+[Summary]:OpenAI may potentially unveil its new AI-powered search engine as soon as Monday, Reuters reports. Questions about how the new platform could compete with Google's (GOOG, GOOGL) search engine are growing. Yahoo Finance Tech Editor Dan Howley joins Catalysts to break down the latest report regarding OpenAI. For more expert insight and the latest market action, click here to watch this full episode of Catalysts. This post was written by Nicholas Jacobino
+
+[Date]:2024-05-10 09:05:46
+[Headline]:With Apple entering the fight, the AI chip wars have gone nuclear
+[Summary]:The AI PC chip wars are going nuclear as Apple officially joins the fight with its M4 processor.
+
+[Date]:2024-05-10 08:29:25
+[Headline]:Apple is catching up with the AI revolution: Dan Ives
+[Summary]:As Big Tech companies reported earnings, they also revealed a massive wave of planned spending on AI projects and infrastructure. Some companies like Alphabet (GOOG, GOOGL), Meta (META), and Microsoft (MSFT) have pulled ahead, while others, like Apple (AAPL), have faced mounting challenges. Wedbush Securities Managing Director Dan Ives joins The Morning Brief to discuss what he calls "the fourth industrial revolution" in AI and Apple's advances on the front. Ives states that Apple's annual Worldwide Developers Conference will be paramount for Apple: "I think it's probably the most important event for Apple that we've seen potentially in a decade because this is going to be [CEO Tim] Cook laying out the AI strategy on the services side for developers, what I believe is really the start of an AI app store in terms of how that's going to morph and then its proprietary AI technology in iPhone 16, which will launch in September." For more expert insight and the latest market action, click here to watch this full episode of Morning Brief. This post was written by Nicholas Jacobino
+
+[Date]:2024-05-10 08:28:00
+[Headline]:OpenAI May Be Launching a Google Competitor. Alphabet Stock Slips.
+[Summary]:Alphabet investors are on alert following a Reuters report that the start-up, which is backed by Microsoft, plans to unveil an AI-powered search product on Monday.
+
+[Date]:2024-05-10 08:15:00
+[Headline]:Forget Nvidia: 2 Artificial Intelligence (AI) Stocks to Buy Instead
+[Summary]:These companies' stocks offer more value than Nvidia and have massive potential in AI.
+
+[Date]:2024-05-10 07:53:07
+[Headline]:Topcon Healthcare and Microsoft partner to advance AI in eye healthcare
+[Summary]:Topcon has been partnering with Microsoft since February this year and has initiated several projects.
+
+[Date]:2024-05-10 07:02:02
+[Headline]:16 Biggest Publicly Traded AI Companies in the World
+[Summary]:In this article, we will take a look at the 16 biggest publicly traded AI companies in the world. If you want to skip our detailed analysis, you can go directly to 5 Biggest Publicly Traded AI Companies in the World. “NVIDIA Has to Keep Working” On May 8, Stuart Kaiser, Citi’s Head of Equity […]
+
+[Date]:2024-05-10 06:55:00
+[Headline]:OpenAI's Altman says demo Monday 'not gpt-5, not a search engine'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 06:46:06
+[Headline]:Microsoft Corporation (MSFT) Continues to Execute Well
+[Summary]:Investment management company Vulcan Value Partners recently released its first quarter 2024 investor letter. A copy of the letter can be downloaded here. The firm is happy with the first quarter’s outcomes. All of the strategic composites generated positive returns, and many of them outperformed their respective benchmarks. In the quarter, the fund’s Large Cap Composite returned […]
+
+[Date]:2024-05-10 06:41:00
+[Headline]:DigitalOcean Stock Rises After Earnings. It’s a Different Cloud Play From Microsoft, Amazon.
+[Summary]:For the full-year, the company expects revenue of $760 to $775 million, narrowing the lower end of the range from $755 million.
+
+[Date]:2024-05-10 06:15:00
+[Headline]:Why Isn't Microsoft's Stock Soaring After This Latest Monster News?
+[Summary]:Microsoft didn't budge after it beat all expectations.
+
+[Date]:2024-05-10 06:06:00
+[Headline]:Highest And Lowest Price To Sales (P/S) Ratios
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 06:00:00
+[Headline]:How to spot the tech unicorn to invest in: Opening Bid
+[Summary]:Finding the right investment can sometimes be difficult, while finding a sleeper hit investment that grows into something like Ring can seem impossible. M13 is known for investing in early-stage, disruptive tech companies that revolutionize consumers everyday life. But how can investors at any stage learn how to spot a tech unicorn like Ring? How can investors tell the difference between what's good and what's too good to be true? Yahoo Finance Executive Editor Brian Sozzi is joined by M13 Co-Founder Carter Reum to give insight into finding success in calculated investments, spotting liars in business, AI in the labor force, and much more. For more expert insight and the latest market action, click here This post was written by Nicholas Jacobino
+
+[Date]:2024-05-10 05:45:00
+[Headline]:DA Davidson technology analysts to hold an analyst/industry conference call
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 05:35:35
+[Headline]:RPT-UPDATE 1-OpenAI plans to announce Google search competitor on Monday, sources say
+[Summary]:OpenAI plans to announce its artificial intelligence-powered search product on Monday, according to two sources familiar with the matter, raising the stakes in its competition with search king Google.  Bloomberg and the Information have reported that Microsoft-backed OpenAI is working on a search product to potentially compete with Alphabet's Google and with Perplexity, a well-funded AI search startup.  The announcement could be timed a day before the Tuesday start of Google's annual I/O conference, where the tech giant is expected to unveil a slew of AI-related products.
+
+[Date]:2024-05-10 05:09:33
+[Headline]:Employees are secretly bringing their own AI tools to work so they can keep up
+[Summary]:AI is influencing the way people work, even if a company hasn't yet established protocols.
+
+[Date]:2024-05-10 05:09:00
+[Headline]:Monumental Funding Has Elon Musk AI Venture Primed For Takeoff
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 05:03:00
+[Headline]:What You Missed On Wall Street This Morning
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 05:02:00
+[Headline]:Bernard Horn's Strategic Moves in Q1 2024: Spotlight on Avnet Inc
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 05:00:01
+[Headline]:How A Top Fund Beats The Market By Owning Future Leaders
+[Summary]:Julianne McHugh, lead manager of best mutual fund BNY Mellon Large Cap Securities, isn't interested in blue-chip stars of yesteryear.
+
+[Date]:2024-05-10 05:00:00
+[Headline]:Aggressive Stock Buying On Rising Layoffs And Revenue Rise At The Largest Chip Manufacturer TSMC
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 05:00:00
+[Headline]:Capital Imbalances And Why David Daglio Is A Reformed Value Investor
+[Summary]:David Daglio shares why value investing has everything to do with looking for capital imbalances.
+
+[Date]:2024-05-10 05:00:00
+[Headline]:Brookfield Renewable: Switch To The Higher Yield Alternative
+[Summary]:Brookfield Renewable Partners delivered an 8% increase in FFO in Q1-2024 and announced a long-term deal with Microsoft for renewable energy. Read more here.
+
+[Date]:2024-05-10 04:56:00
+[Headline]:'Fallout 4' leads U.K. April game sales while console sales drop, GI.biz says
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 04:14:00
+[Headline]:OpenAI's Sam Altman Shoots Down Search Engine And GPT-5 Rumors, Teases May 13 Event: 'Some New Stuff...People Will Love'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 04:00:00
+[Headline]:Market Clubhouse Morning Memo - May 10th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 03:32:00
+[Headline]:The 3 Best Cybersecurity Stocks to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 03:30:00
+[Headline]:Here's the Best "Magnificent Seven" Stock to Buy Right Now, According to Wall Street (Hint: Not Nvidia)
+[Summary]:Wall Street analysts see significant upside in this red-hot artificial intelligence stock.
+
+[Date]:2024-05-10 03:10:00
+[Headline]:Apple Inches Closer To Choosing Sam Altman-Led OpenAI To Integrate ChatGPT On iPhones: Report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 02:59:00
+[Headline]:Apple Chooses Sam Altman-Led OpenAI To Integrate ChatGPT Into iPhone, Deal Almost Done: Report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 02:50:00
+[Headline]:Microsoft prepares to open online mobile game store in July
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 02:49:00
+[Headline]:Morning Brew: Novavax Soars on Sanofi Deal, Roblox Rebounds on Upgrade
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 02:34:00
+[Headline]:‘No return’ left for U.S. stock market in 2024, says Goldman’s David Kostin
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 02:01:00
+[Headline]:Morning Brew: Stock Futures Rise Ahead of Key Economic Reports
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 02:00:00
+[Headline]:After Strong Q1 Results Powered by Artificial Intelligence, Is Now the Time to Buy Amazon Stock?
+[Summary]:AI could be Amazon's biggest opportunity since AWS.
+
+[Date]:2024-05-10 01:46:00
+[Headline]:Morning Brew: Tesla Announces Expansion Plans Amidst Market Volatility
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 01:24:00
+[Headline]:Dividend Roundup: Eli Lilly, American Express, Microsoft, Delta Air Lines, and more
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-10 00:52:00
+[Headline]:If You Thought Markets Sucked This Week… You’re Right
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 23:34:00
+[Headline]:Overlooked AI Gems: 3 Under-the-Radar Stocks With Massive Potential
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 23:34:00
+[Headline]:3 Biotech Stocks to Sell in May Before They Crash & Burn
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 22:59:00
+[Headline]:Microsoft Challenges Apple And Google with Web-Based Gaming Store: Report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 22:06:00
+[Headline]:The Dow Is a Terrible Index. But It Is Telling Us Something Important.
+[Summary]:Though anchored in the past, the Dow Jones Industrial Average captures something about the way the market changes.
+
+[Date]:2024-05-09 21:41:00
+[Headline]:Microsoft (NASDAQ:TTWO) Prepares Launch of its Own Mobile Game Store in July
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 21:40:00
+[Headline]:Microsoft (NASDAQ:TTWO) to Launch Own Mobile Game Store in July
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 21:17:00
+[Headline]:Why Alphabet investors shouldn’t worry about OpenAI’s search engine — for now
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 20:45:00
+[Headline]:OpenAI to unveil Google search rival next week - report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 20:41:01
+[Headline]:UPDATE 1-US lawmakers unveil bill to make it easier to restrict exports of AI models
+[Summary]:A bipartisan group of lawmakers unveiled a bill late Wednesday that would make it easier for the Biden administration to impose export controls on AI models, in a bid to safeguard the prized U.S. technology against foreign bad actors.  The bill, sponsored by House Republicans Michael McCaul and John Molenaar and Democrats Raja Krishnamoorthi and Susan Wild, would also give the Commerce Department express authority to bar Americans from working with foreigners to develop AI systems that pose risks to U.S. national security.  The legislation aims to bulletproof any future AI export regulations from legal challenges and was crafted with input from Biden administration officials.
+
+[Date]:2024-05-09 20:01:00
+[Headline]:Catalyst Watch: Retail heavyweights Walmart and Home Depot report, OpenAI vs. Google, and EV tariff drama
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 19:55:00
+[Headline]:From Hype To Reality, AI Reshapes Pharmaceutical Industry Across Drug Discovery To Marketing - Stocks To Watch
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 19:18:00
+[Headline]:Microsoft President Brad Smith Summoned By House Committee To Address Cybersecurity Concerns After Recent Government Email Hacks
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 19:15:00
+[Headline]:Xbox President Sarah Bond Hints At Call Of Duty 2024's Day-One Inclusion On Game Pass
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 18:30:00
+[Headline]:Baron Durable Advantage Fund Q1 2024 Shareholder Letter
+[Summary]:Baron Durable Advantage Fund (Inst.) gained 10.9% during Q1 2024, slightly ahead of the 10.6% gain for the S&P 500 Index. Click here to read the full letter.
+
+[Date]:2024-05-09 18:21:00
+[Headline]:California is testing new generative AI tools. Here's what to know
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 17:58:13
+[Headline]:CORRECTED-US lawmakers unveil bill to make it easier to restrict exports of AI models
+[Summary]:A bipartisan group of lawmakers unveiled a bill late Wednesday that would make it easier for the Biden administration to impose export controls on AI models, in a bid to safeguard the prized U.S. technology against foreign bad actors.  The bill, sponsored by House Republicans Michael McCaul and John Molenaar and Democrats Raja Krishnamoorthi and Susan Wild, would also give the Commerce Department express authority to bar Americans from working with foreigners to develop AI systems that pose risks to U.S. national security.  Reuters reported on Wednesday that the United States is poised to open up a new front in its effort to safeguard U.S. AI from China and Russia with preliminary plans to impose export controls on the most advanced proprietary AI Models.
+
+[Date]:2024-05-09 17:37:59
+[Headline]:CORRECTED-EXPLAINER-What risks do advanced AI models pose in the wrong hands?
+[Summary]:The Biden administration is poised to open up a new front in its effort to safeguard U.S. AI from China and Russia with preliminary plans to place guardrails around the most advanced AI models, Reuters reported on Wednesday.  Government and private sector researchers worry U.S. adversaries could use the models, which mine vast amounts of text and images to summarize information and generate content, to wage aggressive cyber attacks or even create potent biological weapons.  Deepfakes - realistic yet fabricated videos created by AI algorithms trained on copious online footage - are surfacing on social media, blurring fact and fiction in the polarized world of U.S. politics.
+
+[Date]:2024-05-09 17:29:21
+[Headline]:UPDATE 1-OpenAI plans to announce Google search competitor on Monday, sources say
+[Summary]:OpenAI plans to announce its artificial intelligence-powered search product on Monday, according to two sources familiar with the matter, raising the stakes in its competition with search king Google.  Bloomberg and the Information have reported that Microsoft-backed OpenAI is working on a search product to potentially compete with Alphabet's Google and with Perplexity, a well-funded AI search startup.  The announcement could be timed a day before the Tuesday start of Google's annual I/O conference, where the tech giant is expected to unveil a slew of AI-related products.
+
+[Date]:2024-05-09 16:52:35
+[Headline]:What risks do advanced AI models pose in the wrong hands?
+[Summary]:The Biden administrationis poised to open up a new front in its effort to safeguard U.S.AI from China and Russia with preliminary plans to placeguardrails around the most advanced AI models,...
+
+[Date]:2024-05-09 16:29:23
+[Headline]:Strategically Rebalance Your Dividend Portfolio In May 2024 For Optimal Risk-Reward Outcomes
+[Summary]:Learn why rebalancing your dividend portfolio is crucial for long-term investment success and discover effective strategies to reduce risk.
+
+[Date]:2024-05-09 16:26:54
+[Headline]:Tracking Ken Fisher's Fisher Asset Management Portfolio - Q1 2024 Update
+[Summary]:Check here to learn more on the latest updates on Fisher's investment portfolio as holdings decrease but value increases, with major stakes in tech giants.
+
+[Date]:2024-05-09 15:52:18
+[Headline]:OpenAI plans to announce Google search competitor on Monday, sources say
+[Summary]:(Reuters) -OpenAI plans to announce its artificial intelligence-powered search product on Monday, according to two sources familiar with the matter, raising the stakes in its competition with search king Google.  Bloomberg and the Information have reported that Microsoft-backed OpenAI is working on a search product to potentially compete with Alphabet's Google and with Perplexity, a well-funded AI search startup.  The announcement could be timed a day before the Tuesday start of Google's annual I/O conference, where the tech giant is expected to unveil a slew of AI-related products.
+
+[Date]:2024-05-09 15:49:32
+[Headline]:Google, Microsoft And Meta Take Three Approaches In The Generative AI Battle. Which Is Best?
+[Summary]:Google stock, Meta and Microsoft are vying for investor dollars as each promotes a different path to generative AI.  "Will they be able to sell (generative AI) software to businesses and consumers well enough to cover what they're paying for all the infrastructure — and make some money for investors on the other end?" said Jeremy C. Owens, tech editor at MarketWatch, on Investor's Business Daily's "Investing with IBD" podcast.  Owens says each of these companies has laid out a distinctive approach to generative AI: Microsoft hopes to rise on pitching AI to its enterprise clients.
+
+[Date]:2024-05-09 15:20:49
+[Headline]:Choosing Your Favorite Dental Procedure: Recession or Inflation?
+[Summary]:If the stock market was a dental patient, its 2024 checkup would produce a large smile
+
+[Date]:2024-05-09 14:21:25
+[Headline]:Google Stares Down Largest Tech Antitrust Ruling In 2 Decades — Is AT&T-Style Breakup Next?
+[Summary]:Closing arguments for the largest antitrust trial to date against Alphabet Inc (NASDAQ:GOOG) (NASDAQ:GOOGL), also known as Google, wrapped up last week. Now, it's up to Judge Amit Mehta to decide on a ruling that could change the fate of the company and others in the big tech space. Mehta, of the U.S. District Court for the District of Columbia, is expected to come up with a decision before the end of the year. The case was put forth by the Justice Department in 2020, together with attorneys gen
+
+[Date]:2024-05-09 11:40:20
+[Headline]:OpenAI Rival Anthropic Defends Partnerships With Amazon, Google
+[Summary]:(Bloomberg) -- Artificial intelligence startup Anthropic said its decision to partner with both Alphabet Inc.’s Google and Amazon.com Inc. ensures it can maintain more “independence” than if it were reliant on one large tech firm, as is the case with rival OpenAI.Most Read from BloombergMicrosoft’s Xbox Is Planning More Cuts After Studio ClosingsAmericans Are Racking Up ‘Phantom Debt’ That Wall Street Can’t Track‘Seriously Underwater’ Home Mortgages Tick Up Across the USArm Slides as Tepid Outlo
+
+[Date]:2024-05-09 11:30:47
+[Headline]:Why Perion Network Stock Was Falling Today
+[Summary]:Investors continued to sell the stock in response to Wednesday's earnings report.
+
+[Date]:2024-05-09 10:59:58
+[Headline]:TikTok will automatically label AI-generated content created on platforms like DALL·E 3
+[Summary]:TikTok is starting to automatically label AI-generated content that was made on other platforms, the company announced on Thursday. With this change, if a creator posts content on TikTok that was created with a service like OpenAI’s DALL·E 3, it will automatically have an “AI-generated” label attached to it to notify viewers that it was created with AI. The social video platform is doing so by implementing Content Credentials, a technology from the Coalition for Content Provenance and Authentici
+
+[Date]:2024-05-09 10:52:46
+[Headline]:Q4 2024 8x8 Inc Earnings Call
+[Summary]:Q4 2024 8x8 Inc Earnings Call
+
+[Date]:2024-05-09 09:24:44
+[Headline]:Microsoft to Invest $3.3 Billion to Build Cloud Computing, AI Infrastructure in Wisconsin
+[Summary]:The company plans to train more than 100,000 residents with essential AI skills.
+
+[Date]:2024-05-09 09:23:10
+[Headline]:Explainer-What risks do advanced AI models pose in the wrong hands?
+[Summary]:The Biden administration is poised to open up a new front in its effort to safeguard U.S. AI from China and Russia with preliminary plans to place guardrails around the most advanced AI models, Reuters reported on Wednesday.  Government and private sector researchers worry U.S. adversaries could use the models, which mine vast amounts of text and images to summarize information and generate content, to wage aggressive cyber attacks or even create potent biological weapons.  Deepfakes - realistic yet fabricated videos created by AI algorithms trained on copious online footage - are surfacing on social media, blurring fact and fiction in the polarized world of U.S. politics.
+
+[Date]:2024-05-09 09:21:22
+[Headline]:Microsoft Shakes Up Xbox Division, Closes Renowned Studios in Major Cost-Cutting Move
+[Summary]:Microsoft Corp (NASDAQ:MSFT) initiated the unplanned closure of several video-game studios within its Xbox division as part of an ongoing broad cost-cutting strategy. According to sources familiar with the plans, this week, Xbox offered voluntary severance agreements to producers, quality assurance testers, and other staff at ZeniMax, which Microsoft acquired in 2020 for $7.5 billion. Additional cuts are likely across the Xbox organization, Bloomberg reports. Employees were surprised by Tuesday’
+
+[Date]:2024-05-09 09:04:41
+[Headline]:4 Key Reasons Microsoft Stock Is Currently A Better Bet Than Apple
+[Summary]:See why Microsoft Corporation is a better stock choice compared to Apple, based on stock valuations and 4 compelling factors. Read more on MSFT and AAPL stocks here.
+
+[Date]:2024-05-09 08:51:40
+[Headline]:Microsoft Leads Magnificent 7 In Reddit Discussion: AI, Market Positioning, Cloud Computing A Hit With Traders
+[Summary]:In the midst of the fervor surrounding U.S. tech stocks, one question lingers: which among the Magnificent Seven stocks stands as the healthiest, most resilient player when the hype fades? Redditor Physioweng’s query sparked a thoughtful discussion, with Microsoft Corp (NASDAQ:MSFT) emerging as a popular choice for its robust fundamentals and strategic positioning. Which Magnificent 7 is the healthiest? byu/Physioweng instocks Microsoft Vs. Google – The Battle For AI Dominance Commentators highl
+
+[Date]:2024-05-09 08:45:42
+[Headline]:The tech giants to benefit from AI bullishness: Strategist
+[Summary]:Chip company Arm Holdings' (ARM) disappointing 2025 forecast could be signaling slowdowns in AI demands. Big Tech companies like Meta (META), Microsoft (MSFT), and Alphabet (GOOG, GOOGL) have all announced major investments in building out their AI infrastructures. While the plans show confidence in the future, will they actually pay off? Bokeh Capital Partners Founder and Chief Investment Officer Kimberly Forrest joins Morning Brief to give insight into the AI sector and discuss which companies are in the best position to actually benefit from AI investments. When asked about when investors will see real payoffs from these big investments from AI, Forrest says: "Building out the data center is part of it, then you're going to have companies like Meta, Microsoft, and Amazon (AMZN), and everybody else is going to pile in and start using the generative AI to maybe increase productivity... And I would look for who do you think is most likely to benefit from using generative AI. And we've just mentioned them, right? Amazon, Meta, and Microsoft, and to me Microsoft is really probably [in] the best position because they'll get people to actually pay for it, not just advertising dollars." For more expert insight and the latest market action, click here to watch this full episode of Morning Brief. This post was written by Nicholas Jacobino
+
+[Date]:2024-05-09 07:28:39
+[Headline]:Orsted: Getting Back On Track
+[Summary]:Orsted had a solid Q1 2024,Â but the fate of LNG industry will decide the future of offshore wind and Orsted's prospects. Read more on DNNGY stock here.
+
+[Date]:2024-05-09 07:11:46
+[Headline]:25 States Where Everyday Americans Earn the Lowest Incomes
+[Summary]:In this article, we will look at the 25 states where everyday Americans earn the lowest incomes. We have also discussed the state of salaries in the US. If you want to skip our detailed analysis, head straight to the 10 States where Everyday Americans Earn the Lowest Incomes. As of 2024, salaries for new […]
+
+[Date]:2024-05-09 06:39:00
+[Headline]:10 Information Technology Stocks With Whale Alerts In Today's Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 06:30:00
+[Headline]:California to tap generative AI tools to increase services access, reduce traffic jams
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 06:07:00
+[Headline]:The 3 Best ETFs to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 06:00:00
+[Headline]:3 Vanguard ETFs That Have Outperformed the S&P 500 and Nasdaq Composite Over the Last Year
+[Summary]:Vanguard ETFs are a low-cost way to achieve diversification and exposure to top stocks.
+
+[Date]:2024-05-09 05:17:00
+[Headline]:French AI Startup, Founded By Former Google And Meta Researchers, Is Up To Challenge Silicon Valley Dominance: Report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 05:13:00
+[Headline]:Microsoft internally debating putting 'Call of Duty' on Game Pass, Verge reports
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 05:10:00
+[Headline]:Microsoft planning more Xbox job cuts following studio closures, Bloomberg says
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 05:10:00
+[Headline]:Moat Stocks React To Inflation And Slowing Growth
+[Summary]:April was a reset month for US equity markets, as investors digested persistent inflation data and declining GDP growth.
+
+[Date]:2024-05-09 05:03:00
+[Headline]:Ken Fisher's Strategic Moves in Q1 2024: A Closer Look at ASML Holding NV
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 03:46:00
+[Headline]:AI Favorite ARM Earnings Show Cracks Appearing In Ultra Bullish AI Story
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 03:22:00
+[Headline]:Market Clubhouse Morning Memo - May 9th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 03:03:00
+[Headline]:OpenAI Is Working On New AI Image Detection Tools In Busy Election Year Worldwide To Tell If Photos Were Made By DALL-E
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-09 02:30:00
+[Headline]:Google: The Recent Surge Is Far From Over
+[Summary]:The market finally realized that Google's tech stack allows it to monetize AI at scale. Read why you should consider staying invested in GOOG stock.
+
+[Date]:2024-05-09 02:10:46
+[Headline]:France's Mistral AI nears deal to raise funds at $6 bln valuation, WSJ reports
+[Summary]:French startup Mistral AI is nearing a deal to raise about $600 million of funds to nearly triple its valuation to $6 billion, the Wall Street Journal reported on Thursday.  Existing investors General Catalyst and Lightspeed Venture Partners are likely to be among the main investors in the funding round, the report said, citing people familiar with the matter.  In February, Microsoft invested $16 million in Mistral and partnered with them to make the startup's artificial intelligence models available through the Azure cloud computing platform.
+
+[Date]:2024-05-09 01:15:00
+[Headline]:Forget The Fed, These Big Dividends May Win No Matter What
+[Summary]:Many investors are struggling to make capital allocation decisions. Discover three undervalued stocks with high dividends that offer attractive long-term returns.
+
+[Date]:2024-05-09 00:25:11
+[Headline]:How dependent is China on US artificial intelligence technology?
+[Summary]:The Biden administrationplans to put guardrails on U.S.-developed artificialintelligence models that power popular chatbots likeChatGPT to safeguard the technology from countries such as Chinaand...
+
+[Date]:2024-05-08 23:54:18
+[Headline]:Futures dip on higher Treasury yields, jobless claims data awaited
+[Summary]:U.S. stock index futures slipped onThursday as Treasury yields rose further ahead of jobless claimsdata that could provide a clearer picture of the FederalReserve's interest rate agenda for the...
+
+[Date]:2024-05-08 23:00:18
+[Headline]:Perion Network (PERI) Q1 2024 Earnings Call Transcript
+[Summary]:PERI earnings call for the period ending March 31, 2024.
+
+[Date]:2024-05-08 21:08:00
+[Headline]:Microsoft and LinkedIn Release the 2024 Work Trend Index on the State of AI at Work in Asia Pacific
+[Summary]:Microsoft Corp. and LinkedIn released the 2024 Work Trend Index, a joint report on the state of AI at work titled, "AI at work is here. Now comes the hard part."
+
+[Date]:2024-05-08 20:51:53
+[Headline]:GitLab: Four Reasons To Buy
+[Summary]:GitLab competes with giants like Microsoft and Atlassian in the highly competitive DevOps industry. Check out the four reasons to be bullish on GTLB stock.
+
+[Date]:2024-05-08 17:00:50
+[Headline]:Tracking William von Mueffling's Cantillon Capital Management Portfolio - Q1 2024 Update
+[Summary]:William von Mueffling's 13F portfolio value increased by approximately 6% to $15.90B in Q1 2024. Click here to read more about Cantillon's holdings and trades.
+
+[Date]:2024-05-08 13:25:13
+[Headline]:Microsoft to shut Africa development centre in Nigeria
+[Summary]:Microsoft is closing down its Africa Development Centre in the continent's most populous nation Nigeria, which will lead to job losses, a spokesperson said on Wednesday.  The centre, based in the commercial capital Lagos was opened in 2022 as part of Microsoft's push to deliver high-end engineering and innovation solutions for the company.  The company said it would, however, continue to operate in Nigeria, continuing to prioritize and invest in strategic growth areas.
+
+[Date]:2024-05-08 12:40:58
+[Headline]:Apple’s iPad event was an AI teaser for its future
+[Summary]:Apple's latest M4 chip is bringing more AI capabilities, providing a look into the company's upcoming WWDC conference.
+
+[Date]:2024-05-08 12:23:00
+[Headline]:Microsoft to Invest Over $3 Billion to Build AI in Wisconsin
+[Summary]:The company has been on a global spending spree, trying to build infrastructure and goodwill for artificial intelligence.
+
+[Date]:2024-05-08 12:07:39
+[Headline]:Biden makes a Wisconsin stop to tout AI — and troll Trump's Foxconn flop
+[Summary]:President Biden made a trip to the swing state of Wisconsin on Wednesday with two goals: tout an AI investment from Microsoft and highlight a past failure from Donald Trump.
+
+[Date]:2024-05-08 03:31:28
+[Headline]:Microsoft to build AI hub on previously-owned Foxconn land in Wisconsin
+[Summary]:Microsoft said it is pouring $3.3 billion into building a data hub in Wisconsin that aims to train employees and manufacturers on how to best use artificial intelligence.
+
+[Date]:2024-05-08 11:36:31
+[Headline]:Microsoft to Invest $3.3 Billion in Wisconsin to Expand Cloud, AI Infrastructure Capacity
+[Summary]:Microsoft to Invest $3.3 Billion in Wisconsin to Expand Cloud, AI Infrastructure Capacity
+
+[Date]:2024-05-08 03:30:00
+[Headline]:Biden Highlights Trump’s Foxconn Failure With Wisconsin Trip
+[Summary]:(Bloomberg) -- President Joe Biden will champion a major Microsoft Corp. investment in swing-state Wisconsin, drawing a contrast with his 2024 rival Donald Trump, whose own plans for a flagship technology project by Foxconn at the same site fizzled.Most Read from BloombergTrump Judge Indefinitely Postpones Documents Case TrialAmericans Are Racking Up ‘Phantom Debt’ That Wall Street Can’t TrackOne Out of Every 24 New York City Residents Is Now a MillionaireTrump’s Private Life Exposed in Intimate
+
+[Date]:2024-05-08 11:23:33
+[Headline]:Tesla probe, Reddit earnings, market outlook: Morning Brief
+[Summary]:Tesla stock (TSLA) is being dragged down lower after US Department of Justice (DOJ) officials are focusing their attention on alleged securities and wire fraud in their ongoing investigation of the EV maker's full self-driving features. In its first-ever quarterly report since going public in March, Reddit (RDDT) beat earnings estimates, noting daily active user growth as the site continues to optimize its AI model across the platform. Uber (UBER), Shopify (SHOP), and Affirm (AFRM) are also taking a hit in Wednesday's session after reporting earnings. Morgan Stanley Global Head of Corporate Credit Research Andrew Sheets joins The Morning Brief to discuss whether market trends are the result of micro or macro drivers. This post was written by Luke Carberry Mogan.
+
+[Date]:2024-05-08 11:07:55
+[Headline]:12 Best Gig Economy Stocks To Buy
+[Summary]:In this article, we discuss the 12 best gig economy stocks to buy. To skip the detailed analysis of the gig economy market, go directly to the 5 Best Gig Economy Stocks To Buy. Gig Economy: An Introduction The gig economy refers to a labor market characterized by short-term, freelance, or independent contractor positions, where […]
+
+[Date]:2024-05-08 10:15:45
+[Headline]:Q1 2024 RingCentral Inc Earnings Call
+[Summary]:Q1 2024 RingCentral Inc Earnings Call
+
+[Date]:2024-05-08 08:30:00
+[Headline]:1 Artificial Intelligence (AI) Stock Down 29% to Buy Right Now Before It Soars 78%
+[Summary]:This chip stock tanked following the release of the company's latest earnings report, but investors shouldn't miss the bigger picture.
+
+[Date]:2024-05-08 08:24:00
+[Headline]:More AI = More Cyberthreats
+[Summary]:The number of data compromises last year increased by 78% from 2022.
+
+[Date]:2024-05-08 08:23:12
+[Headline]:Microsoft to invest over $3B in Wisconsin for AI infrastructure
+[Summary]:Microsoft (MSFT) is set to invest $3.3 billion to build AI infrastructure and training programs in Wisconsin. President Joe Biden will make the announcement with Microsoft president Brad Smith on Wednesday. Yahoo Finance Tech Editor Dan Howley joins The Morning Brief to discuss Microsoft's investment, which includes local education and business development programs. For more expert insight and the latest market action, click here to watch this full episode of Morning Brief. This post was written by Nicholas Jacobino
+
+[Date]:2024-05-08 08:05:00
+[Headline]:With the S&P 500 and Nasdaq Composite at All-Time Highs, Is Now the Worst Time to Buy Stocks in History?
+[Summary]:Microsoft proves why stocks at record highs can still be buys.
+
+[Date]:2024-05-08 07:44:00
+[Headline]:Microsoft announces $3.3 billion investment in Wisconsin to spur artificial intelligence innovation and economic growth
+[Summary]:Microsoft today announced a broad investment package designed to strengthen the role of Southeast Wisconsin as a hub for AI-powered economic activity, innovation, and job creation. These investments include $3.3B in cloud computing and AI infrastructure, the creation of the country's first manufacturing-focused AI co-innovation lab, and an AI skilling initiative to equip more than 100,000 of the state's residents with essential AI skills. President Joe Biden will join Microsoft President Brad Sm
+
+[Date]:2024-05-08 07:42:13
+[Headline]:AudioCodes Ltd. (NASDAQ:AUDC) Q1 2024 Earnings Call Transcript
+[Summary]:AudioCodes Ltd. (NASDAQ:AUDC) Q1 2024 Earnings Call Transcript May 7, 2024 AudioCodes Ltd. misses on earnings expectations. Reported EPS is $0.17 EPS, expectations were $0.2. AUDC isn’t one of the 30 most popular stocks among hedge funds at the end of the third quarter (see the details here). Operator: Good morning everyone and welcome to […]
+
+[Date]:2024-05-08 07:13:11
+[Headline]:Q3 2024 Intapp Inc Earnings Call
+[Summary]:Q3 2024 Intapp Inc Earnings Call
+
+[Date]:2024-05-08 06:55:39
+[Headline]:UPDATE 1-Biden to tout new $3.3 bln Microsoft data center at failed Foxconn site Trump backed
+[Summary]:President Joe Biden will visit the political battleground state of Wisconsin on Wednesday to announce plans by Microsoft Corp to build a $3.3 billion high-tech data center that will create thousands of jobs, the White House said.  The Microsoft facility in Racine County, in southeastern Wisconsin, will be built on the same land where Taiwan electronics manufacturer Foxconn had planned to build a $10 billion factory that former President Donald Trump once called "the eighth wonder of the world," before Foxconn drastically scaled back its plans.
+
+[Date]:2024-05-08 06:50:00
+[Headline]:Trolling Trump on the itinerary as Biden hails multibillion-dollar Microsoft project in Wisconsin
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 06:31:00
+[Headline]:ServiceNow and Microsoft Expand Strategic Alliance, Combining Generative AI Capabilities to Enhance Choice and Flexibility
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 06:24:00
+[Headline]:Want to Get Richer? 3 Best Stocks to Buy Now and Hold Forever
+[Summary]:These three are the best of what the "Magnificent Seven" have to offer.
+
+[Date]:2024-05-08 06:02:00
+[Headline]:Textainer Group Holdings Ltd Faces a Sell-Off in Jeff Auxier's Latest 13F Filings
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 06:00:00
+[Headline]:Gen Zers could swipe millennials’ jobs if they have AI skills, LinkedIn and Microsoft data shows
+[Summary]:Microsoft and LinkedIn research of 31,000 knowledge workers reveals that managers are willing to overlook experienced candidates in favor of digitally savvy young starters.
+
+[Date]:2024-05-08 06:00:00
+[Headline]:Workers are eyeing the exit in 2024 as LinkedIn and Microsoft study warns more people want to quit their jobs now than during the Great Resignation
+[Summary]:Workers who switched jobs are already feeling burned out and undervalued—so yet again, they're looking to pastures new.
+
+[Date]:2024-05-08 06:00:00
+[Headline]:Microsoft and LinkedIn release the 2024 Work Trend Index on the state of AI at work
+[Summary]:On Wednesday, Microsoft Corp. and LinkedIn released the 2024 Work Trend Index, a joint report on the state of AI at work titled, "AI at work is here. Now comes the hard part." The research — based on a survey of 31,000 people across 31 countries, labor and hiring trends on LinkedIn, trillions of Microsoft 365 productivity signals, and research with Fortune 500 customers — shows how, just one year in, AI is influencing the way people work, lead and hire around the world. Microsoft also announced
+
+[Date]:2024-05-08 05:59:00
+[Headline]:MSFT, TSLA, or NVDA: Which Magnificent Seven Stock is the Most Attractive Pick?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 05:45:13
+[Headline]:Q1 2024 Pros Holdings Inc Earnings Call
+[Summary]:Q1 2024 Pros Holdings Inc Earnings Call
+
+[Date]:2024-05-08 05:43:00
+[Headline]:ServiceNow collabs with IBM, Microsoft to combine GenAI capabilities
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 05:33:00
+[Headline]:ServiceNow expands strategic alliance with Microsoft
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 05:15:00
+[Headline]:President Biden Unveils Microsoft’s (NASDAQ:MSFT) Mega Data Center in Wisconsin
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 04:45:00
+[Headline]:Is It Too Late to Buy Alphabet Stock?
+[Summary]:The company just posted stellar quarterly results and its stock remains one of the best values in AI.
+
+[Date]:2024-05-08 04:34:34
+[Headline]:Microsoft: new AI data center in Wisconsin
+[Summary]:Joe Biden announced on Wednesday that he would be traveling to Wisconsin today to formalize a $3.3 billion investment by Microsoft, which plans to establish a new artificial intelligence -related data...
+
+[Date]:2024-05-08 04:19:00
+[Headline]:Disney, Uber, Starbucks, And McDonald's Send A Powerful Signal To Investors But Momo Crowd Oblivious
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 04:16:00
+[Headline]:Arista Networks Surges on Strong Q1 Earnings and Optimistic FY24 Guidance
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 04:15:00
+[Headline]:3 Dividend Stocks That Are Coiled Springs for a Lifetime of Passive Income
+[Summary]:Generating passive income from equities is an excellent way to compound wealth over time.
+
+[Date]:2024-05-08 04:07:00
+[Headline]:Market Clubhouse Morning Memo - May 8th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 03:39:13
+[Headline]:Biden visits Wisconsin to laud a new Microsoft facility, meet voters — and troll Trump
+[Summary]:President Joe Biden raced into yet another battleground state Wednesday, continuing to push a contrast with Donald Trump on economic policy as his own reelection campaign readies a new $14 million advertising blitz aimed in part at Black, Latino and Asian American voters.  Biden traveled to Sturtevant, Wisconsin, where he'll highlight a decision by Microsoft to build a $3.3 billion data center that is expected to create roughly 2,000 jobs.  It's also the spot where Trump, to much fanfare, lauded a plan by Taiwan-based electronics giant Foxconn plan to build a $10 billion manufacturing facility that was supposed to eventually employ 10,000 people.
+
+[Date]:2024-05-08 03:33:00
+[Headline]:AI Adoption In Workplace: Employees Concealing Use Of AI Tools For Fear Of Job Replacement, Microsoft-Led Study Reveals
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 03:02:00
+[Headline]:Connection unit awarded Federal Purchase Agreement worth $125M
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 02:43:00
+[Headline]:Wedbush Analyst Dan Ives Says The World Is In 'Early Stages Of A Fourth Industrial Revolution' And It Is Led By Nvidia CEO Jensen Huang As 'Godfather Of AI'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 02:27:00
+[Headline]:Microsoft announces $3.3B investment in Wisconsin to 'spur AI innovation'
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 01:38:00
+[Headline]:US Mulls Over Regulations To Restrict China's Access To Advanced AI Software Behind Apps Like ChatGPT
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 01:32:00
+[Headline]:Morning Brew: Tesla Announces Expansion Plans, Tech Stocks React
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 01:13:00
+[Headline]:Joe Biden Set To Unveil Microsoft's $3B AI Data Center Plan On Same Wisconsin Land Where Trump Tried To Execute His Mega Foxconn Fantasy
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 01:11:00
+[Headline]:Analysts Offer Insights on Technology Companies: Arista Networks (ANET), Uber Technologies (UBER) and Microsoft (MSFT)
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:36:00
+[Headline]:Biden administration may limit Chinese access to advanced AI models: report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:34:00
+[Headline]:3 Tech Stock Darlings to Scoop Up After Q2 earnings
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:09:00
+[Headline]:Next Bull Wave: 7 Stocks Ready to Dominate in the Upcoming Rally
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:06:00
+[Headline]:Biden to plug $3 billion Microsoft center at Wisconsin site where Trump-touted Foxconn plant flopped
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:06:00
+[Headline]:Perion Network gains on earnings beat, but flags challenges from Microsoft Bing changes
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-08 00:03:00
+[Headline]:Microsoft Stock Alert: 3 Reasons Why MSFT Remains a Standout Investment
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:48:00
+[Headline]:Amazon, Telefonica's Bold Venture To Transform Telecommunications - What's On The Cards?
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:39:00
+[Headline]:Biden lauds new Microsoft center on the same site where Trump's Foxconn project failed
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:37:00
+[Headline]:President Biden to unveil $3.3B Microsoft AI datacenter in Wisconsin
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:30:00
+[Headline]:Biden to unveil $3.3B Microsoft AI datacenter in Wisconsin
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:30:00
+[Headline]:Biden to unveil $3.3 billion Microsoft AI investment in battleground Wisconsin
+[Summary]:President Joe Biden willvisit the political battleground state of Wisconsin on Wednesdayto announce plans by Microsoft Corp to build a $3.3billion high-tech data center that will create thousands...
+
+[Date]:2024-05-07 23:11:00
+[Headline]:Microsoft plans $3.3B AI investment in Wisconsin, WSJ reports
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:07:00
+[Headline]:Microsoft deploys generative AI model for U.S. intel agencies, Bloomberg reports
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 23:05:00
+[Headline]:200 Jobs In Jeopardy As Microsoft Halts Operations At Nigeria Engineering Center Amid Economic Struggles
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 22:56:00
+[Headline]:Microsoft deploysgenerate AI model for U.S. intel agencies, Bloomberg reports
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 22:37:00
+[Headline]:Jeff Auxier's Firm Dissolves Textainer Group Position, Trims Biogen
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 22:08:00
+[Headline]:TOP NEWS: Informa beefs up buyback as sees top-end sales and profits
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 21:41:00
+[Headline]:The 3 Most Undervalued S&P 500 Stocks to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 21:10:00
+[Headline]:AI Boom To Drive Billions In Data Center Investments In APAC: Report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 21:04:00
+[Headline]:3 Data-Driven Stocks to Add to Your Watchlist: RBRK DDOG PLTR
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 20:42:00
+[Headline]:Lords Of The Fallen, Sniper Ghost Warrior Contracts 2 To Join Microsoft's Xbox Game Pass
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 20:34:58
+[Headline]:AI boom set to fuel data centre deals in Asia this year
+[Summary]:Global private equity investors and asset managers are readying for billions of dollars worth of M&A and investments linked to data centres in Asia Pacific, as the artificial intelligence (AI) boom fuels demand for digital infrastructure.  The intense pace of deals in the world's most populous region comes as countries and companies respond to booming demand for AI, calling for more data capacity, industry executives said.  Asia Pacific, including Japan, has led dealmaking activities in the global data centre market this year, with M&A value totalling $840.47 million, more than half of the global amount, LSEG data showed.
+
+[Date]:2024-05-07 20:31:00
+[Headline]:Biden plugs $3 billion Microsoft AI investment at Wisconsin site where Trump-touted Foxconn plant flopped
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 20:13:00
+[Headline]:The 3 Best Metaverse Stocks to Buy in May 2024
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 19:28:00
+[Headline]:Microsoft Scraps Redfall DLC And Offline Mode, Ends Game Development
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 19:28:00
+[Headline]:Datadog's Strong Start To 2024: Analysts Optimistic About Ongoing Market Leadership, 'More/Faster Cloud Software Creation Is Better"
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 19:22:00
+[Headline]:The 3 Best Data Center Stocks to Capitalize on the AI Craze
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 17:40:48
+[Headline]:12 Best Artificial Intelligence Stocks to Buy Now According to Wall Street Analysts
+[Summary]:In this piece, we will take a look at the 12 best artificial intelligence stocks to buy now according to Wall Street analysts. If you want to skip our coverage of the latest developments in the artificial intelligence scene, then you can skip ahead to 5 Best Artificial Intelligence Stocks to Buy Now According to […]
+
+[Date]:2024-05-07 13:32:58
+[Headline]:US State Dept broadens security vendor list amid Microsoft hacking woes
+[Summary]:The U.S. Department of State has been working with a range of security vendors beyond Microsoft since China-linked hackers stole tens of thousands of the department's emails by breaching the tech giant's network last year, a senior official said.  That hack, which compromised some 60,000 State Department emails, including those of Commerce Secretary Gina Raimondo, was one of the worst in recent years against a federal agency and triggered much criticism of Microsoft.
+
+[Date]:2024-05-07 11:39:39
+[Headline]:Are Microsoft and OpenAI becoming full-on frenemies?
+[Summary]:Microsoft and OpenAI have had a complex, codependent relationship. Are they now full-on frenemies?
+
+[Date]:2024-05-07 11:31:30
+[Headline]:Microsoft's Xbox shuts multiple studios, consolidates teams in cost-cutting move
+[Summary]:Studios such as "Hi-Fi Rush" maker Tango Gameworks, headquartered in Tokyo, and Canada-based Alpha Dog will also be closed and some employees will be laid off, Matt Booty, head of Xbox Game Studios said in a memo that was seen by Reuters on Tuesday.  Xbox declined to comment when asked about the number of employees impacted by the layoffs.  Growth in personal computing and console gaming is expected to remain below pre-pandemic levels as gamers record fewer hours of playtime owing to weaker release schedules, data from research firm Newzoo showed.
+
+[Date]:2024-05-07 11:10:15
+[Headline]:Microsoft creates top secret AI tool for US spies
+[Summary]:Microsoft has developed artificial intelligence that can be used by American spies, deeming it safe because it is completely divorced from the internet.
+
+[Date]:2024-05-07 10:59:37
+[Headline]:Update: Microsoft Accused of Unfair Competition in Cloud Services by Spanish Startups Group
+[Summary]:Update: Microsoft Accused of Unfair Competition in Cloud Services by Spanish Startups Group
+
+[Date]:2024-05-07 10:58:13
+[Headline]:Apple: Even A 'Historic' Buyback Program Isn't Going To Move The Needle
+[Summary]:Apple announced $110B stock buyback, boosting AAPL stock by 6%. Biggest stock repurchase announcement in US history. Find out why AAPL stock is a Sell.
+
+[Date]:2024-05-07 10:33:51
+[Headline]:UPDATE 1-Microsoft hit with Spanish startups' complaint about cloud practices
+[Summary]:Microsoft was hit with a Spanish startup group's complaint about its cloud practices to the Spanish antitrust regulator on Tuesday, the latest grievance over its fast-growing cloud computing services and which followed a trade group's EU complaint.  The U.S. tech giant ranks second in the cloud computing sector, behind market leader Amazon but is expected to close the gap rapidly as a clutch of generative AI features powered by OpenAI's technology attract business users.  The Spanish Startup Association, which represents more than 700 startups in Spain, cited a number of allegedly anti-competitive practices by Microsoft in recent years.
+
+[Date]:2024-05-07 09:36:39
+[Headline]:It’s time for Apple to buy—not build—its way into AI
+[Summary]:Big, transformative acquisitions aren’t part of Apple’s playbook. Given how far behind it is in generative AI, Apple may need to rethink that.
+
+[Date]:2024-05-07 09:09:14
+[Headline]:12 Best Large-Cap Growth ETFs
+[Summary]:In this article, we discuss 12 best large-cap growth ETFs. If you want to skip our discussion on growth investing, head over to 5 Best Large-Cap Growth ETFs. Large-cap growth funds focus on investing in big companies, those in the top 70% in terms of market value. Growth funds constitute companies expected to grow their […]
+
+[Date]:2024-05-07 09:02:44
+[Headline]:Kevin O’Leary’s Stock Portfolio: 10 Stock Picks for 2024
+[Summary]:In this article, we discuss the 10 companies to consider in the portfolio of Kevin O’Leary for 2024. If you want to skip our overview of O’Leary’s investment philosophy and learn about some more companies in his stock portfolio, go directly to Kevin O’Leary’s Stock Portfolio: 5 Stock Picks for 2024. Kevin O’Leary, affectionately known […]
+
+[Date]:2024-05-07 09:00:00
+[Headline]:12 Best Investments for Beginners in 2024
+[Summary]:In this article, we will take a look at the 12 best investments for beginners in 2024. To skip our analysis of the recent market trends and market activity, you can go directly to see the 5 Best Investments for Beginners in 2024. With the first quarter of 2024 now concluded, the stock market has […]
+
+[Date]:2024-05-07 08:30:00
+[Headline]:Great News for Microsoft Stock Investors
+[Summary]:Microsoft is demonstrating skill in applying artificial intelligence to meet business needs.
+
+[Date]:2024-05-07 08:00:04
+[Headline]:Unveiling Long and Short-Term Catalysts for Alphabet's Growth Trajectory
+[Summary]:The company's strategic investments, diversifying revenue base and strong cash flow generation will drive up value in the long term
+
+[Date]:2024-05-07 07:57:13
+[Headline]:GenAI investments continue among hyperscalers
+[Summary]:Billion-dollar investments continue among the big players - but keep an eye on OSS
+
+[Date]:2024-05-07 07:36:54
+[Headline]:OpenAI to launch tool to detect images created by DALL-E 3
+[Summary]:The company said the tool correctly identified images created by DALL-E 3 about 98% of the time in internal testing and can handle common modifications such as compression, cropping and saturation changes with minimal impact.  The ChatGPT creator also plans to add tamper-resistant watermarking to mark digital content such as photos or audio with a signal that should be hard to remove.  As part of the efforts, OpenAI has also joined an industry group that includes Google, Microsoft and Adobe and plans to provide a standard that would help trace origin of different media.
+
+[Date]:2024-05-07 07:21:35
+[Headline]:British Microsoft-backed self-driving startup Wayve raises $1 billion, clocking new high in Europe-based AI funding deal
+[Summary]:Wayve’s latest funding round surpasses those of Europe’s prominent generative AI startups like Mistral and Aleph Alpha.
+
+[Date]:2024-05-07 06:54:00
+[Headline]:Apple Steps Up the AI Game with New AI Chips
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 06:41:00
+[Headline]:Microsoft Introduces Isolated AI For US Intelligence To Analyze Secret Data: Report
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 06:36:00
+[Headline]:Microsoft's Xbox Closes 4 Video Game Studios In Bethesda Restructure
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 06:36:00
+[Headline]:10 Information Technology Stocks Whale Activity In Today's Session
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 06:33:51
+[Headline]:Microsoft hit with Spanish startups' complaint about cloud practices
+[Summary]:Microsoft was hitwith a Spanish startup group's complaint about its cloudpractices to the Spanish antitrust regulator on Tuesday, thelatest grievance over its fast-growing cloud computing...
+
+[Date]:2024-05-07 06:30:39
+[Headline]:What Now For AI Stocks? Clues From Microsoft, Google, Amazon, Palantir
+[Summary]:Big Tech earnings from Microsoft, Google, Amazon and Palantir highlight the growth potential of AI stocks.
+
+[Date]:2024-05-07 06:29:00
+[Headline]:Amazon To Invest $9B In Singapore Cloud Infrastructure, Doubling Its Current Investment
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 06:12:00
+[Headline]:Microsoft Layoffs 2024: What to Know About the Latest Bethesda Job Cuts
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 06:02:00
+[Headline]:What You Missed This Week in Video Games
+[Summary]:Looking for stock market analysis and research with proves results? Zacks.com offers in-depth financial research with over 30years of proven results.
+
+[Date]:2024-05-07 05:53:13
+[Headline]:Microsoft and OpenAI launch $2M fund to counter election deepfakes
+[Summary]:Microsoft and OpenAI have announced a $2 million fund to combat the growing risks of AI and deepfakes being used to "deceive the voters and undermine democracy." This year will see a record 2 billion people head to the polls in elections spanning some 50 countries, so there are concerns around the influence that AI will have among voters — particularly those in "vulnerable communities" that may be more susceptible to take what they see at face value. The rise of generative AI, including wildly p
+
+
+
+[Fileings]:
+[Date]:2023-07-24
+[val]:7429763722
+[accn]:0000950170-23-035122
+[fy]:2023
+[fp]:FY
+[form]:10-K
+
+[Date]:2023-10-19
+[val]:7432262329
+[accn]:0000950170-23-054855
+[fy]:2024
+[fp]:Q1
+[form]:10-Q
+
+[Date]:2024-01-25
+[val]:7430436229
+[accn]:0000950170-24-008814
+[fy]:2024
+[fp]:Q2
+[form]:10-Q
+
+[Date]:2024-04-22
+[val]:7432305794
+[accn]:0000950170-24-048288
+[fy]:2024
+[fp]:Q3
+[form]:10-Q
+
+
+
+[Stock Movements]:
+[Date]:2023-05-12 00:00:00
+[Open]:310.54998779296875
+[High]:310.6499938964844
+[Low]:306.6000061035156
+[Close]:308.9700012207031
+[Adj Close]:306.454833984375
+[Volume]:19758100
+
+[Date]:2023-05-15 00:00:00
+[Open]:309.1000061035156
+[High]:309.8999938964844
+[Low]:307.5899963378906
+[Close]:309.4599914550781
+[Adj Close]:306.94085693359375
+[Volume]:16336500
+
+[Date]:2023-05-16 00:00:00
+[Open]:309.8299865722656
+[High]:313.7099914550781
+[Low]:309.8299865722656
+[Close]:311.739990234375
+[Adj Close]:309.2023010253906
+[Volume]:26730300
+
+[Date]:2023-05-17 00:00:00
+[Open]:312.2900085449219
+[High]:314.42999267578125
+[Low]:310.739990234375
+[Close]:314.0
+[Adj Close]:312.1247253417969
+[Volume]:24315000
+
+[Date]:2023-05-18 00:00:00
+[Open]:314.5299987792969
+[High]:319.0400085449219
+[Low]:313.7200012207031
+[Close]:318.5199890136719
+[Adj Close]:316.6177062988281
+[Volume]:27276000
+
+[Date]:2023-05-19 00:00:00
+[Open]:316.739990234375
+[High]:318.75
+[Low]:316.3699951171875
+[Close]:318.3399963378906
+[Adj Close]:316.4388122558594
+[Volume]:27529500
+
+[Date]:2023-05-22 00:00:00
+[Open]:318.6000061035156
+[High]:322.5899963378906
+[Low]:318.010009765625
+[Close]:321.17999267578125
+[Adj Close]:319.2618408203125
+[Volume]:24115700
+
+[Date]:2023-05-23 00:00:00
+[Open]:320.0299987792969
+[High]:322.7200012207031
+[Low]:315.25
+[Close]:315.260009765625
+[Adj Close]:313.3772277832031
+[Volume]:30797200
+
+[Date]:2023-05-24 00:00:00
+[Open]:314.7300109863281
+[High]:316.5
+[Low]:312.6099853515625
+[Close]:313.8500061035156
+[Adj Close]:311.9756164550781
+[Volume]:23384900
+
+[Date]:2023-05-25 00:00:00
+[Open]:323.239990234375
+[High]:326.8999938964844
+[Low]:320.0
+[Close]:325.9200134277344
+[Adj Close]:323.9735412597656
+[Volume]:43301700
+
+[Date]:2023-05-26 00:00:00
+[Open]:324.0199890136719
+[High]:333.3999938964844
+[Low]:323.8800048828125
+[Close]:332.8900146484375
+[Adj Close]:330.9019470214844
+[Volume]:36630600
+
+[Date]:2023-05-30 00:00:00
+[Open]:335.2300109863281
+[High]:335.739990234375
+[Low]:330.5199890136719
+[Close]:331.2099914550781
+[Adj Close]:329.2319641113281
+[Volume]:29503100
+
+[Date]:2023-05-31 00:00:00
+[Open]:332.2900085449219
+[High]:335.94000244140625
+[Low]:327.3299865722656
+[Close]:328.3900146484375
+[Adj Close]:326.4288024902344
+[Volume]:45950600
+
+[Date]:2023-06-01 00:00:00
+[Open]:325.92999267578125
+[High]:333.5299987792969
+[Low]:324.7200012207031
+[Close]:332.5799865722656
+[Adj Close]:330.59375
+[Volume]:26773900
+
+[Date]:2023-06-02 00:00:00
+[Open]:334.25
+[High]:337.5
+[Low]:332.54998779296875
+[Close]:335.3999938964844
+[Adj Close]:333.3968811035156
+[Volume]:25864000
+
+[Date]:2023-06-05 00:00:00
+[Open]:335.2200012207031
+[High]:338.55999755859375
+[Low]:334.6600036621094
+[Close]:335.94000244140625
+[Adj Close]:333.9337158203125
+[Volume]:21307100
+
+[Date]:2023-06-06 00:00:00
+[Open]:335.3299865722656
+[High]:335.3699951171875
+[Low]:332.1700134277344
+[Close]:333.67999267578125
+[Adj Close]:331.68719482421875
+[Volume]:20396200
+
+[Date]:2023-06-07 00:00:00
+[Open]:331.6499938964844
+[High]:334.489990234375
+[Low]:322.5
+[Close]:323.3800048828125
+[Adj Close]:321.4486999511719
+[Volume]:40717100
+
+[Date]:2023-06-08 00:00:00
+[Open]:323.94000244140625
+[High]:326.6400146484375
+[Low]:323.3500061035156
+[Close]:325.260009765625
+[Adj Close]:323.3175048828125
+[Volume]:23277700
+
+[Date]:2023-06-09 00:00:00
+[Open]:324.989990234375
+[High]:329.989990234375
+[Low]:324.4100036621094
+[Close]:326.7900085449219
+[Adj Close]:324.8383483886719
+[Volume]:22514900
+
+[Date]:2023-06-12 00:00:00
+[Open]:328.5799865722656
+[High]:332.1000061035156
+[Low]:325.1600036621094
+[Close]:331.8500061035156
+[Adj Close]:329.86810302734375
+[Volume]:24260300
+
+[Date]:2023-06-13 00:00:00
+[Open]:334.4700012207031
+[High]:336.9800109863281
+[Low]:330.3900146484375
+[Close]:334.2900085449219
+[Adj Close]:332.2935485839844
+[Volume]:22951300
+
+[Date]:2023-06-14 00:00:00
+[Open]:334.3399963378906
+[High]:339.0400085449219
+[Low]:332.80999755859375
+[Close]:337.3399963378906
+[Adj Close]:335.3253479003906
+[Volume]:26003800
+
+[Date]:2023-06-15 00:00:00
+[Open]:337.4800109863281
+[High]:349.8399963378906
+[Low]:337.20001220703125
+[Close]:348.1000061035156
+[Adj Close]:346.0210876464844
+[Volume]:38899100
+
+[Date]:2023-06-16 00:00:00
+[Open]:351.32000732421875
+[High]:351.4700012207031
+[Low]:341.95001220703125
+[Close]:342.3299865722656
+[Adj Close]:340.2855224609375
+[Volume]:46533600
+
+[Date]:2023-06-20 00:00:00
+[Open]:339.30999755859375
+[High]:342.0799865722656
+[Low]:335.8599853515625
+[Close]:338.04998779296875
+[Adj Close]:336.0310974121094
+[Volume]:26375400
+
+[Date]:2023-06-21 00:00:00
+[Open]:336.3699951171875
+[High]:337.7300109863281
+[Low]:332.07000732421875
+[Close]:333.55999755859375
+[Adj Close]:331.5679016113281
+[Volume]:25117800
+
+[Date]:2023-06-22 00:00:00
+[Open]:334.1199951171875
+[High]:340.1199951171875
+[Low]:333.3399963378906
+[Close]:339.7099914550781
+[Adj Close]:337.68115234375
+[Volume]:23556800
+
+[Date]:2023-06-23 00:00:00
+[Open]:334.3599853515625
+[High]:337.9599914550781
+[Low]:333.45001220703125
+[Close]:335.0199890136719
+[Adj Close]:333.0191650390625
+[Volume]:23084700
+
+[Date]:2023-06-26 00:00:00
+[Open]:333.7200012207031
+[High]:336.1099853515625
+[Low]:328.489990234375
+[Close]:328.6000061035156
+[Adj Close]:326.6375427246094
+[Volume]:21520600
+
+[Date]:2023-06-27 00:00:00
+[Open]:331.8599853515625
+[High]:336.1499938964844
+[Low]:329.29998779296875
+[Close]:334.57000732421875
+[Adj Close]:332.5718688964844
+[Volume]:24354100
+
+[Date]:2023-06-28 00:00:00
+[Open]:334.6600036621094
+[High]:337.9800109863281
+[Low]:333.80999755859375
+[Close]:335.8500061035156
+[Adj Close]:333.84423828125
+[Volume]:20259500
+
+[Date]:2023-06-29 00:00:00
+[Open]:334.7099914550781
+[High]:336.1099853515625
+[Low]:332.6199951171875
+[Close]:335.04998779296875
+[Adj Close]:333.0489807128906
+[Volume]:16997000
+
+[Date]:2023-06-30 00:00:00
+[Open]:337.75
+[High]:342.7300109863281
+[Low]:337.20001220703125
+[Close]:340.5400085449219
+[Adj Close]:338.5062255859375
+[Volume]:26823800
+
+[Date]:2023-07-03 00:00:00
+[Open]:339.19000244140625
+[High]:340.8999938964844
+[Low]:336.57000732421875
+[Close]:337.989990234375
+[Adj Close]:335.971435546875
+[Volume]:12508700
+
+[Date]:2023-07-05 00:00:00
+[Open]:335.0899963378906
+[High]:341.6499938964844
+[Low]:334.7300109863281
+[Close]:338.1499938964844
+[Adj Close]:336.1304931640625
+[Volume]:18172400
+
+[Date]:2023-07-06 00:00:00
+[Open]:337.29998779296875
+[High]:342.989990234375
+[Low]:335.5
+[Close]:341.2699890136719
+[Adj Close]:339.23187255859375
+[Volume]:28161200
+
+[Date]:2023-07-07 00:00:00
+[Open]:339.32000732421875
+[High]:341.7900085449219
+[Low]:337.0
+[Close]:337.2200012207031
+[Adj Close]:335.2060546875
+[Volume]:21185300
+
+[Date]:2023-07-10 00:00:00
+[Open]:334.6000061035156
+[High]:335.2300109863281
+[Low]:327.5899963378906
+[Close]:331.8299865722656
+[Adj Close]:329.84820556640625
+[Volume]:32791400
+
+[Date]:2023-07-11 00:00:00
+[Open]:331.05999755859375
+[High]:332.8599853515625
+[Low]:327.0
+[Close]:332.4700012207031
+[Adj Close]:330.48443603515625
+[Volume]:26698200
+
+[Date]:2023-07-12 00:00:00
+[Open]:336.6000061035156
+[High]:341.6499938964844
+[Low]:335.6700134277344
+[Close]:337.20001220703125
+[Adj Close]:335.1861877441406
+[Volume]:29995300
+
+[Date]:2023-07-13 00:00:00
+[Open]:339.55999755859375
+[High]:343.739990234375
+[Low]:339.0199890136719
+[Close]:342.6600036621094
+[Adj Close]:340.61358642578125
+[Volume]:20567200
+
+[Date]:2023-07-14 00:00:00
+[Open]:347.5899963378906
+[High]:351.42999267578125
+[Low]:344.30999755859375
+[Close]:345.239990234375
+[Adj Close]:343.1781311035156
+[Volume]:28302200
+
+[Date]:2023-07-17 00:00:00
+[Open]:345.67999267578125
+[High]:346.989990234375
+[Low]:342.20001220703125
+[Close]:345.7300109863281
+[Adj Close]:343.66522216796875
+[Volume]:20363900
+
+[Date]:2023-07-18 00:00:00
+[Open]:345.8299865722656
+[High]:366.7799987792969
+[Low]:342.1700134277344
+[Close]:359.489990234375
+[Adj Close]:357.3430480957031
+[Volume]:64872700
+
+[Date]:2023-07-19 00:00:00
+[Open]:361.75
+[High]:362.4599914550781
+[Low]:352.44000244140625
+[Close]:355.0799865722656
+[Adj Close]:352.9593505859375
+[Volume]:39732900
+
+[Date]:2023-07-20 00:00:00
+[Open]:353.57000732421875
+[High]:357.9700012207031
+[Low]:345.3699951171875
+[Close]:346.8699951171875
+[Adj Close]:344.7984313964844
+[Volume]:33778400
+
+[Date]:2023-07-21 00:00:00
+[Open]:349.1499938964844
+[High]:350.29998779296875
+[Low]:339.8299865722656
+[Close]:343.7699890136719
+[Adj Close]:341.7169189453125
+[Volume]:69368900
+
+[Date]:2023-07-24 00:00:00
+[Open]:345.8500061035156
+[High]:346.9200134277344
+[Low]:342.30999755859375
+[Close]:345.1099853515625
+[Adj Close]:343.0489196777344
+[Volume]:26678100
+
+[Date]:2023-07-25 00:00:00
+[Open]:347.1099853515625
+[High]:351.8900146484375
+[Low]:345.07000732421875
+[Close]:350.9800109863281
+[Adj Close]:348.8838806152344
+[Volume]:41637700
+
+[Date]:2023-07-26 00:00:00
+[Open]:341.44000244140625
+[High]:344.6700134277344
+[Low]:333.1099853515625
+[Close]:337.7699890136719
+[Adj Close]:335.75274658203125
+[Volume]:58383700
+
+[Date]:2023-07-27 00:00:00
+[Open]:340.4800109863281
+[High]:341.3299865722656
+[Low]:329.04998779296875
+[Close]:330.7200012207031
+[Adj Close]:328.7448425292969
+[Volume]:39635300
+
+[Date]:2023-07-28 00:00:00
+[Open]:333.6700134277344
+[High]:340.010009765625
+[Low]:333.1700134277344
+[Close]:338.3699951171875
+[Adj Close]:336.34918212890625
+[Volume]:28484900
+
+[Date]:2023-07-31 00:00:00
+[Open]:336.9200134277344
+[High]:337.70001220703125
+[Low]:333.3599853515625
+[Close]:335.9200134277344
+[Adj Close]:333.913818359375
+[Volume]:25446000
+
+[Date]:2023-08-01 00:00:00
+[Open]:335.19000244140625
+[High]:338.5400085449219
+[Low]:333.70001220703125
+[Close]:336.3399963378906
+[Adj Close]:334.331298828125
+[Volume]:18311900
+
+[Date]:2023-08-02 00:00:00
+[Open]:333.6300048828125
+[High]:333.6300048828125
+[Low]:326.3599853515625
+[Close]:327.5
+[Adj Close]:325.5440979003906
+[Volume]:27761300
+
+[Date]:2023-08-03 00:00:00
+[Open]:326.0
+[High]:329.8800048828125
+[Low]:325.95001220703125
+[Close]:326.6600036621094
+[Adj Close]:324.7091369628906
+[Volume]:18253700
+
+[Date]:2023-08-04 00:00:00
+[Open]:331.8800048828125
+[High]:335.1400146484375
+[Low]:327.239990234375
+[Close]:327.7799987792969
+[Adj Close]:325.8224182128906
+[Volume]:23727700
+
+[Date]:2023-08-07 00:00:00
+[Open]:328.3699951171875
+[High]:331.1099853515625
+[Low]:327.5199890136719
+[Close]:330.1099853515625
+[Adj Close]:328.1385192871094
+[Volume]:17741500
+
+[Date]:2023-08-08 00:00:00
+[Open]:326.9599914550781
+[High]:328.75
+[Low]:323.0
+[Close]:326.04998779296875
+[Adj Close]:324.1027526855469
+[Volume]:22327600
+
+[Date]:2023-08-09 00:00:00
+[Open]:326.4700012207031
+[High]:327.1099853515625
+[Low]:321.04998779296875
+[Close]:322.2300109863281
+[Adj Close]:320.30560302734375
+[Volume]:22373300
+
+[Date]:2023-08-10 00:00:00
+[Open]:326.0199890136719
+[High]:328.260009765625
+[Low]:321.17999267578125
+[Close]:322.92999267578125
+[Adj Close]:321.00140380859375
+[Volume]:20113700
+
+[Date]:2023-08-11 00:00:00
+[Open]:320.260009765625
+[High]:322.4100036621094
+[Low]:319.2099914550781
+[Close]:321.010009765625
+[Adj Close]:319.0928649902344
+[Volume]:24342600
+
+[Date]:2023-08-14 00:00:00
+[Open]:321.3900146484375
+[High]:324.05999755859375
+[Low]:320.0799865722656
+[Close]:324.0400085449219
+[Adj Close]:322.1047668457031
+[Volume]:18836100
+
+[Date]:2023-08-15 00:00:00
+[Open]:323.0
+[High]:325.0899963378906
+[Low]:320.8999938964844
+[Close]:321.8599853515625
+[Adj Close]:319.9377746582031
+[Volume]:16966300
+
+[Date]:2023-08-16 00:00:00
+[Open]:320.79998779296875
+[High]:324.4200134277344
+[Low]:319.79998779296875
+[Close]:320.3999938964844
+[Adj Close]:319.1607971191406
+[Volume]:20698900
+
+[Date]:2023-08-17 00:00:00
+[Open]:320.5400085449219
+[High]:321.8699951171875
+[Low]:316.2099914550781
+[Close]:316.8800048828125
+[Adj Close]:315.6544494628906
+[Volume]:21257200
+
+[Date]:2023-08-18 00:00:00
+[Open]:314.489990234375
+[High]:318.3800048828125
+[Low]:311.54998779296875
+[Close]:316.4800109863281
+[Adj Close]:315.2559814453125
+[Volume]:24744800
+
+[Date]:2023-08-21 00:00:00
+[Open]:317.92999267578125
+[High]:322.7699890136719
+[Low]:317.0400085449219
+[Close]:321.8800048828125
+[Adj Close]:320.6351013183594
+[Volume]:24040000
+
+[Date]:2023-08-22 00:00:00
+[Open]:325.5
+[High]:326.0799865722656
+[Low]:321.4599914550781
+[Close]:322.4599914550781
+[Adj Close]:321.21282958984375
+[Volume]:16102000
+
+[Date]:2023-08-23 00:00:00
+[Open]:323.82000732421875
+[High]:329.20001220703125
+[Low]:323.4599914550781
+[Close]:327.0
+[Adj Close]:325.73529052734375
+[Volume]:21166400
+
+[Date]:2023-08-24 00:00:00
+[Open]:332.8500061035156
+[High]:332.9800109863281
+[Low]:319.9599914550781
+[Close]:319.9700012207031
+[Adj Close]:318.73248291015625
+[Volume]:23281400
+
+[Date]:2023-08-25 00:00:00
+[Open]:321.4700012207031
+[High]:325.3599853515625
+[Low]:318.79998779296875
+[Close]:322.9800109863281
+[Adj Close]:321.7308349609375
+[Volume]:21684100
+
+[Date]:2023-08-28 00:00:00
+[Open]:325.6600036621094
+[High]:326.1499938964844
+[Low]:321.7200012207031
+[Close]:323.70001220703125
+[Adj Close]:322.44805908203125
+[Volume]:14808500
+
+[Date]:2023-08-29 00:00:00
+[Open]:321.8800048828125
+[High]:328.9800109863281
+[Low]:321.8800048828125
+[Close]:328.4100036621094
+[Adj Close]:327.13983154296875
+[Volume]:19284600
+
+[Date]:2023-08-30 00:00:00
+[Open]:328.6700134277344
+[High]:329.80999755859375
+[Low]:326.45001220703125
+[Close]:328.7900085449219
+[Adj Close]:327.51837158203125
+[Volume]:15222100
+
+[Date]:2023-08-31 00:00:00
+[Open]:329.20001220703125
+[High]:330.9100036621094
+[Low]:326.7799987792969
+[Close]:327.760009765625
+[Adj Close]:326.49237060546875
+[Volume]:26411000
+
+[Date]:2023-09-01 00:00:00
+[Open]:331.30999755859375
+[High]:331.989990234375
+[Low]:326.7799987792969
+[Close]:328.6600036621094
+[Adj Close]:327.38885498046875
+[Volume]:14931200
+
+[Date]:2023-09-05 00:00:00
+[Open]:329.0
+[High]:334.8500061035156
+[Low]:328.6600036621094
+[Close]:333.54998779296875
+[Adj Close]:332.2599182128906
+[Volume]:18553900
+
+[Date]:2023-09-06 00:00:00
+[Open]:333.3800048828125
+[High]:334.4599914550781
+[Low]:330.17999267578125
+[Close]:332.8800048828125
+[Adj Close]:331.5925598144531
+[Volume]:17535800
+
+[Date]:2023-09-07 00:00:00
+[Open]:331.2900085449219
+[High]:333.0799865722656
+[Low]:329.0299987792969
+[Close]:329.9100036621094
+[Adj Close]:328.634033203125
+[Volume]:18381000
+
+[Date]:2023-09-08 00:00:00
+[Open]:330.0899963378906
+[High]:336.1600036621094
+[Low]:329.4599914550781
+[Close]:334.2699890136719
+[Adj Close]:332.9771423339844
+[Volume]:19530100
+
+[Date]:2023-09-11 00:00:00
+[Open]:337.239990234375
+[High]:338.4200134277344
+[Low]:335.42999267578125
+[Close]:337.94000244140625
+[Adj Close]:336.6329650878906
+[Volume]:16583300
+
+[Date]:2023-09-12 00:00:00
+[Open]:335.82000732421875
+[High]:336.7900085449219
+[Low]:331.4800109863281
+[Close]:331.7699890136719
+[Adj Close]:330.48681640625
+[Volume]:17565500
+
+[Date]:2023-09-13 00:00:00
+[Open]:331.30999755859375
+[High]:336.8500061035156
+[Low]:331.1700134277344
+[Close]:336.05999755859375
+[Adj Close]:334.76025390625
+[Volume]:16544400
+
+[Date]:2023-09-14 00:00:00
+[Open]:339.1499938964844
+[High]:340.8599853515625
+[Low]:336.57000732421875
+[Close]:338.70001220703125
+[Adj Close]:337.3900146484375
+[Volume]:20267000
+
+[Date]:2023-09-15 00:00:00
+[Open]:336.9200134277344
+[High]:337.3999938964844
+[Low]:329.6499938964844
+[Close]:330.2200012207031
+[Adj Close]:328.94281005859375
+[Volume]:37666900
+
+[Date]:2023-09-18 00:00:00
+[Open]:327.79998779296875
+[High]:330.3999938964844
+[Low]:326.3599853515625
+[Close]:329.05999755859375
+[Adj Close]:327.78729248046875
+[Volume]:16834200
+
+[Date]:2023-09-19 00:00:00
+[Open]:326.1700134277344
+[High]:329.3900146484375
+[Low]:324.510009765625
+[Close]:328.6499938964844
+[Adj Close]:327.3788757324219
+[Volume]:16505900
+
+[Date]:2023-09-20 00:00:00
+[Open]:329.510009765625
+[High]:329.5899963378906
+[Low]:320.510009765625
+[Close]:320.7699890136719
+[Adj Close]:319.5293884277344
+[Volume]:21436500
+
+[Date]:2023-09-21 00:00:00
+[Open]:319.260009765625
+[High]:325.3500061035156
+[Low]:315.0
+[Close]:319.5299987792969
+[Adj Close]:318.294189453125
+[Volume]:35529500
+
+[Date]:2023-09-22 00:00:00
+[Open]:321.32000732421875
+[High]:321.45001220703125
+[Low]:316.1499938964844
+[Close]:317.010009765625
+[Adj Close]:315.783935546875
+[Volume]:21447900
+
+[Date]:2023-09-25 00:00:00
+[Open]:316.5899963378906
+[High]:317.6700134277344
+[Low]:315.0
+[Close]:317.5400085449219
+[Adj Close]:316.3118896484375
+[Volume]:17836000
+
+[Date]:2023-09-26 00:00:00
+[Open]:315.1300048828125
+[High]:315.8800048828125
+[Low]:310.0199890136719
+[Close]:312.1400146484375
+[Adj Close]:310.9327697753906
+[Volume]:26297600
+
+[Date]:2023-09-27 00:00:00
+[Open]:312.29998779296875
+[High]:314.29998779296875
+[Low]:309.69000244140625
+[Close]:312.7900085449219
+[Adj Close]:311.5802307128906
+[Volume]:19410100
+
+[Date]:2023-09-28 00:00:00
+[Open]:310.989990234375
+[High]:315.4800109863281
+[Low]:309.45001220703125
+[Close]:313.6400146484375
+[Adj Close]:312.4269714355469
+[Volume]:19683600
+
+[Date]:2023-09-29 00:00:00
+[Open]:317.75
+[High]:319.4700012207031
+[Low]:314.9800109863281
+[Close]:315.75
+[Adj Close]:314.52880859375
+[Volume]:24140300
+
+[Date]:2023-10-02 00:00:00
+[Open]:316.2799987792969
+[High]:321.8900146484375
+[Low]:315.17999267578125
+[Close]:321.79998779296875
+[Adj Close]:320.5553894042969
+[Volume]:20570000
+
+[Date]:2023-10-03 00:00:00
+[Open]:320.8299865722656
+[High]:321.3900146484375
+[Low]:311.2099914550781
+[Close]:313.3900146484375
+[Adj Close]:312.17791748046875
+[Volume]:21033500
+
+[Date]:2023-10-04 00:00:00
+[Open]:314.0299987792969
+[High]:320.0400085449219
+[Low]:314.0
+[Close]:318.9599914550781
+[Adj Close]:317.72637939453125
+[Volume]:20720100
+
+[Date]:2023-10-05 00:00:00
+[Open]:319.0899963378906
+[High]:319.9800109863281
+[Low]:314.8999938964844
+[Close]:319.3599853515625
+[Adj Close]:318.12481689453125
+[Volume]:16965600
+
+[Date]:2023-10-06 00:00:00
+[Open]:316.54998779296875
+[High]:329.19000244140625
+[Low]:316.29998779296875
+[Close]:327.260009765625
+[Adj Close]:325.9942932128906
+[Volume]:25645500
+
+[Date]:2023-10-09 00:00:00
+[Open]:324.75
+[High]:330.29998779296875
+[Low]:323.17999267578125
+[Close]:329.82000732421875
+[Adj Close]:328.54437255859375
+[Volume]:19891200
+
+[Date]:2023-10-10 00:00:00
+[Open]:330.9599914550781
+[High]:331.1000061035156
+[Low]:327.6700134277344
+[Close]:328.3900146484375
+[Adj Close]:327.11993408203125
+[Volume]:20557100
+
+[Date]:2023-10-11 00:00:00
+[Open]:331.2099914550781
+[High]:332.82000732421875
+[Low]:329.1400146484375
+[Close]:332.4200134277344
+[Adj Close]:331.13433837890625
+[Volume]:20063200
+
+[Date]:2023-10-12 00:00:00
+[Open]:330.57000732421875
+[High]:333.6300048828125
+[Low]:328.7200012207031
+[Close]:331.1600036621094
+[Adj Close]:329.87921142578125
+[Volume]:19313100
+
+[Date]:2023-10-13 00:00:00
+[Open]:332.3800048828125
+[High]:333.8299865722656
+[Low]:326.3599853515625
+[Close]:327.7300109863281
+[Adj Close]:326.4624938964844
+[Volume]:21072400
+
+[Date]:2023-10-16 00:00:00
+[Open]:331.04998779296875
+[High]:336.1400146484375
+[Low]:330.6000061035156
+[Close]:332.6400146484375
+[Adj Close]:331.3534851074219
+[Volume]:22158000
+
+[Date]:2023-10-17 00:00:00
+[Open]:329.5899963378906
+[High]:333.4599914550781
+[Low]:327.4100036621094
+[Close]:332.05999755859375
+[Adj Close]:330.77569580078125
+[Volume]:18338500
+
+[Date]:2023-10-18 00:00:00
+[Open]:332.489990234375
+[High]:335.5899963378906
+[Low]:328.29998779296875
+[Close]:330.1099853515625
+[Adj Close]:328.833251953125
+[Volume]:23153600
+
+[Date]:2023-10-19 00:00:00
+[Open]:332.1499938964844
+[High]:336.8800048828125
+[Low]:330.9100036621094
+[Close]:331.32000732421875
+[Adj Close]:330.03857421875
+[Volume]:25052100
+
+[Date]:2023-10-20 00:00:00
+[Open]:331.7200012207031
+[High]:331.9200134277344
+[Low]:325.45001220703125
+[Close]:326.6700134277344
+[Adj Close]:325.4065856933594
+[Volume]:25012600
+
+[Date]:2023-10-23 00:00:00
+[Open]:325.4700012207031
+[High]:332.7300109863281
+[Low]:324.3900146484375
+[Close]:329.32000732421875
+[Adj Close]:328.04632568359375
+[Volume]:24374700
+
+[Date]:2023-10-24 00:00:00
+[Open]:331.29998779296875
+[High]:331.8399963378906
+[Low]:327.6000061035156
+[Close]:330.5299987792969
+[Adj Close]:329.25164794921875
+[Volume]:31153600
+
+[Date]:2023-10-25 00:00:00
+[Open]:345.0199890136719
+[High]:346.20001220703125
+[Low]:337.6199951171875
+[Close]:340.6700134277344
+[Adj Close]:339.3524475097656
+[Volume]:55053800
+
+[Date]:2023-10-26 00:00:00
+[Open]:340.5400085449219
+[High]:341.6300048828125
+[Low]:326.94000244140625
+[Close]:327.8900146484375
+[Adj Close]:326.6218566894531
+[Volume]:37828500
+
+[Date]:2023-10-27 00:00:00
+[Open]:330.42999267578125
+[High]:336.7200012207031
+[Low]:328.3999938964844
+[Close]:329.80999755859375
+[Adj Close]:328.534423828125
+[Volume]:29856500
+
+[Date]:2023-10-30 00:00:00
+[Open]:333.4100036621094
+[High]:339.45001220703125
+[Low]:331.8299865722656
+[Close]:337.30999755859375
+[Adj Close]:336.0054016113281
+[Volume]:22828100
+
+[Date]:2023-10-31 00:00:00
+[Open]:338.8500061035156
+[High]:339.0
+[Low]:334.69000244140625
+[Close]:338.1099853515625
+[Adj Close]:336.80230712890625
+[Volume]:20265300
+
+[Date]:2023-11-01 00:00:00
+[Open]:339.7900085449219
+[High]:347.4200134277344
+[Low]:339.6499938964844
+[Close]:346.07000732421875
+[Adj Close]:344.7315368652344
+[Volume]:28158800
+
+[Date]:2023-11-02 00:00:00
+[Open]:347.239990234375
+[High]:348.8299865722656
+[Low]:344.7699890136719
+[Close]:348.32000732421875
+[Adj Close]:346.97283935546875
+[Volume]:24348100
+
+[Date]:2023-11-03 00:00:00
+[Open]:349.6300048828125
+[High]:354.3900146484375
+[Low]:347.3299865722656
+[Close]:352.79998779296875
+[Adj Close]:351.43548583984375
+[Volume]:23624000
+
+[Date]:2023-11-06 00:00:00
+[Open]:353.45001220703125
+[High]:357.5400085449219
+[Low]:353.3500061035156
+[Close]:356.5299987792969
+[Adj Close]:355.15106201171875
+[Volume]:23828300
+
+[Date]:2023-11-07 00:00:00
+[Open]:359.3999938964844
+[High]:362.4599914550781
+[Low]:357.6300048828125
+[Close]:360.5299987792969
+[Adj Close]:359.1356201171875
+[Volume]:25833900
+
+[Date]:2023-11-08 00:00:00
+[Open]:361.67999267578125
+[High]:363.8699951171875
+[Low]:360.54998779296875
+[Close]:363.20001220703125
+[Adj Close]:361.7952880859375
+[Volume]:26767800
+
+[Date]:2023-11-09 00:00:00
+[Open]:362.29998779296875
+[High]:364.7900085449219
+[Low]:360.3599853515625
+[Close]:360.69000244140625
+[Adj Close]:359.29498291015625
+[Volume]:24847300
+
+[Date]:2023-11-10 00:00:00
+[Open]:361.489990234375
+[High]:370.1000061035156
+[Low]:361.07000732421875
+[Close]:369.6700134277344
+[Adj Close]:368.2402648925781
+[Volume]:28042100
+
+[Date]:2023-11-13 00:00:00
+[Open]:368.2200012207031
+[High]:368.4700012207031
+[Low]:365.8999938964844
+[Close]:366.67999267578125
+[Adj Close]:365.2618103027344
+[Volume]:19986500
+
+[Date]:2023-11-14 00:00:00
+[Open]:371.010009765625
+[High]:371.95001220703125
+[Low]:367.3500061035156
+[Close]:370.2699890136719
+[Adj Close]:368.8379211425781
+[Volume]:27683900
+
+[Date]:2023-11-15 00:00:00
+[Open]:371.2799987792969
+[High]:373.1300048828125
+[Low]:367.1099853515625
+[Close]:369.6700134277344
+[Adj Close]:368.9876708984375
+[Volume]:26860100
+
+[Date]:2023-11-16 00:00:00
+[Open]:370.9599914550781
+[High]:376.3500061035156
+[Low]:370.17999267578125
+[Close]:376.1700134277344
+[Adj Close]:375.4756774902344
+[Volume]:27182300
+
+[Date]:2023-11-17 00:00:00
+[Open]:373.6099853515625
+[High]:374.3699951171875
+[Low]:367.0
+[Close]:369.8500061035156
+[Adj Close]:369.1673278808594
+[Volume]:40157000
+
+[Date]:2023-11-20 00:00:00
+[Open]:371.2200012207031
+[High]:378.8699951171875
+[Low]:371.0
+[Close]:377.44000244140625
+[Adj Close]:376.7433166503906
+[Volume]:52465100
+
+[Date]:2023-11-21 00:00:00
+[Open]:375.6700134277344
+[High]:376.2200012207031
+[Low]:371.1199951171875
+[Close]:373.07000732421875
+[Adj Close]:372.3813781738281
+[Volume]:28423100
+
+[Date]:2023-11-22 00:00:00
+[Open]:378.0
+[High]:379.7900085449219
+[Low]:374.9700012207031
+[Close]:377.8500061035156
+[Adj Close]:377.1525573730469
+[Volume]:23345300
+
+[Date]:2023-11-24 00:00:00
+[Open]:377.3299865722656
+[High]:377.9700012207031
+[Low]:375.1400146484375
+[Close]:377.42999267578125
+[Adj Close]:376.7333068847656
+[Volume]:10176600
+
+[Date]:2023-11-27 00:00:00
+[Open]:376.7799987792969
+[High]:380.6400146484375
+[Low]:376.20001220703125
+[Close]:378.6099853515625
+[Adj Close]:377.9111328125
+[Volume]:22179200
+
+[Date]:2023-11-28 00:00:00
+[Open]:378.3500061035156
+[High]:383.0
+[Low]:378.1600036621094
+[Close]:382.70001220703125
+[Adj Close]:381.9936218261719
+[Volume]:20453100
+
+[Date]:2023-11-29 00:00:00
+[Open]:383.760009765625
+[High]:384.29998779296875
+[Low]:377.44000244140625
+[Close]:378.8500061035156
+[Adj Close]:378.15069580078125
+[Volume]:28963400
+
+[Date]:2023-11-30 00:00:00
+[Open]:378.489990234375
+[High]:380.0899963378906
+[Low]:375.4700012207031
+[Close]:378.9100036621094
+[Adj Close]:378.2106018066406
+[Volume]:30554400
+
+[Date]:2023-12-01 00:00:00
+[Open]:376.760009765625
+[High]:378.1600036621094
+[Low]:371.30999755859375
+[Close]:374.510009765625
+[Adj Close]:373.8187255859375
+[Volume]:33020400
+
+[Date]:2023-12-04 00:00:00
+[Open]:369.1000061035156
+[High]:369.5199890136719
+[Low]:362.8999938964844
+[Close]:369.1400146484375
+[Adj Close]:368.4586486816406
+[Volume]:32063300
+
+[Date]:2023-12-05 00:00:00
+[Open]:366.45001220703125
+[High]:373.0799865722656
+[Low]:365.6199951171875
+[Close]:372.5199890136719
+[Adj Close]:371.8323669433594
+[Volume]:23065000
+
+[Date]:2023-12-06 00:00:00
+[Open]:373.5400085449219
+[High]:374.17999267578125
+[Low]:368.0299987792969
+[Close]:368.79998779296875
+[Adj Close]:368.1192321777344
+[Volume]:21182100
+
+[Date]:2023-12-07 00:00:00
+[Open]:368.2300109863281
+[High]:371.45001220703125
+[Low]:366.32000732421875
+[Close]:370.95001220703125
+[Adj Close]:370.2652893066406
+[Volume]:23118900
+
+[Date]:2023-12-08 00:00:00
+[Open]:369.20001220703125
+[High]:374.4599914550781
+[Low]:368.2300109863281
+[Close]:374.2300109863281
+[Adj Close]:373.53924560546875
+[Volume]:20144800
+
+[Date]:2023-12-11 00:00:00
+[Open]:368.4800109863281
+[High]:371.6000061035156
+[Low]:366.1000061035156
+[Close]:371.29998779296875
+[Adj Close]:370.6146240234375
+[Volume]:27708800
+
+[Date]:2023-12-12 00:00:00
+[Open]:370.8500061035156
+[High]:374.4200134277344
+[Low]:370.4599914550781
+[Close]:374.3800048828125
+[Adj Close]:373.68896484375
+[Volume]:24838300
+
+[Date]:2023-12-13 00:00:00
+[Open]:376.0199890136719
+[High]:377.6400146484375
+[Low]:370.7699890136719
+[Close]:374.3699951171875
+[Adj Close]:373.678955078125
+[Volume]:30955500
+
+[Date]:2023-12-14 00:00:00
+[Open]:373.30999755859375
+[High]:373.760009765625
+[Low]:364.1300048828125
+[Close]:365.92999267578125
+[Adj Close]:365.2545471191406
+[Volume]:43277500
+
+[Date]:2023-12-15 00:00:00
+[Open]:366.8500061035156
+[High]:372.3999938964844
+[Low]:366.2799987792969
+[Close]:370.7300109863281
+[Adj Close]:370.04571533203125
+[Volume]:78478200
+
+[Date]:2023-12-18 00:00:00
+[Open]:369.45001220703125
+[High]:373.0
+[Low]:368.67999267578125
+[Close]:372.6499938964844
+[Adj Close]:371.9621276855469
+[Volume]:21802900
+
+[Date]:2023-12-19 00:00:00
+[Open]:371.489990234375
+[High]:373.260009765625
+[Low]:369.8399963378906
+[Close]:373.260009765625
+[Adj Close]:372.571044921875
+[Volume]:20603700
+
+[Date]:2023-12-20 00:00:00
+[Open]:375.0
+[High]:376.0299987792969
+[Low]:370.5299987792969
+[Close]:370.6199951171875
+[Adj Close]:369.9358825683594
+[Volume]:26316700
+
+[Date]:2023-12-21 00:00:00
+[Open]:372.55999755859375
+[High]:374.4100036621094
+[Low]:370.0400085449219
+[Close]:373.5400085449219
+[Adj Close]:372.85052490234375
+[Volume]:17708000
+
+[Date]:2023-12-22 00:00:00
+[Open]:373.67999267578125
+[High]:375.17999267578125
+[Low]:372.7099914550781
+[Close]:374.5799865722656
+[Adj Close]:373.8885803222656
+[Volume]:17091100
+
+[Date]:2023-12-26 00:00:00
+[Open]:375.0
+[High]:376.94000244140625
+[Low]:373.5
+[Close]:374.6600036621094
+[Adj Close]:373.96844482421875
+[Volume]:12673100
+
+[Date]:2023-12-27 00:00:00
+[Open]:373.69000244140625
+[High]:375.05999755859375
+[Low]:372.80999755859375
+[Close]:374.07000732421875
+[Adj Close]:373.3795471191406
+[Volume]:14905400
+
+[Date]:2023-12-28 00:00:00
+[Open]:375.3699951171875
+[High]:376.4599914550781
+[Low]:374.1600036621094
+[Close]:375.2799987792969
+[Adj Close]:374.5872802734375
+[Volume]:14327000
+
+[Date]:2023-12-29 00:00:00
+[Open]:376.0
+[High]:377.1600036621094
+[Low]:373.4800109863281
+[Close]:376.0400085449219
+[Adj Close]:375.34588623046875
+[Volume]:18723000
+
+[Date]:2024-01-02 00:00:00
+[Open]:373.8599853515625
+[High]:375.8999938964844
+[Low]:366.7699890136719
+[Close]:370.8699951171875
+[Adj Close]:370.1854248046875
+[Volume]:25258600
+
+[Date]:2024-01-03 00:00:00
+[Open]:369.010009765625
+[High]:373.260009765625
+[Low]:368.510009765625
+[Close]:370.6000061035156
+[Adj Close]:369.9159240722656
+[Volume]:23083500
+
+[Date]:2024-01-04 00:00:00
+[Open]:370.6700134277344
+[High]:373.1000061035156
+[Low]:367.1700134277344
+[Close]:367.94000244140625
+[Adj Close]:367.2608337402344
+[Volume]:20901500
+
+[Date]:2024-01-05 00:00:00
+[Open]:368.9700012207031
+[High]:372.05999755859375
+[Low]:366.5
+[Close]:367.75
+[Adj Close]:367.0711975097656
+[Volume]:20987000
+
+[Date]:2024-01-08 00:00:00
+[Open]:369.29998779296875
+[High]:375.20001220703125
+[Low]:369.010009765625
+[Close]:374.69000244140625
+[Adj Close]:373.9983825683594
+[Volume]:23134000
+
+[Date]:2024-01-09 00:00:00
+[Open]:372.010009765625
+[High]:375.989990234375
+[Low]:371.19000244140625
+[Close]:375.7900085449219
+[Adj Close]:375.09637451171875
+[Volume]:20830000
+
+[Date]:2024-01-10 00:00:00
+[Open]:376.3699951171875
+[High]:384.1700134277344
+[Low]:376.32000732421875
+[Close]:382.7699890136719
+[Adj Close]:382.0634460449219
+[Volume]:25514200
+
+[Date]:2024-01-11 00:00:00
+[Open]:386.0
+[High]:390.67999267578125
+[Low]:380.3800048828125
+[Close]:384.6300048828125
+[Adj Close]:383.9200439453125
+[Volume]:27850800
+
+[Date]:2024-01-12 00:00:00
+[Open]:385.489990234375
+[High]:388.67999267578125
+[Low]:384.6499938964844
+[Close]:388.4700012207031
+[Adj Close]:387.7529602050781
+[Volume]:21645700
+
+[Date]:2024-01-16 00:00:00
+[Open]:393.6600036621094
+[High]:394.0299987792969
+[Low]:387.6199951171875
+[Close]:390.2699890136719
+[Adj Close]:389.54962158203125
+[Volume]:27202300
+
+[Date]:2024-01-17 00:00:00
+[Open]:387.9800109863281
+[High]:390.1099853515625
+[Low]:384.80999755859375
+[Close]:389.4700012207031
+[Adj Close]:388.7510986328125
+[Volume]:22234100
+
+[Date]:2024-01-18 00:00:00
+[Open]:391.7200012207031
+[High]:393.989990234375
+[Low]:390.1199951171875
+[Close]:393.8699951171875
+[Adj Close]:393.1429748535156
+[Volume]:23392100
+
+[Date]:2024-01-19 00:00:00
+[Open]:395.760009765625
+[High]:398.6700134277344
+[Low]:393.5
+[Close]:398.6700134277344
+[Adj Close]:397.93414306640625
+[Volume]:29272000
+
+[Date]:2024-01-22 00:00:00
+[Open]:400.0199890136719
+[High]:400.6199951171875
+[Low]:393.5899963378906
+[Close]:396.510009765625
+[Adj Close]:395.7781066894531
+[Volume]:27016900
+
+[Date]:2024-01-23 00:00:00
+[Open]:395.75
+[High]:399.3800048828125
+[Low]:393.92999267578125
+[Close]:398.8999938964844
+[Adj Close]:398.1636962890625
+[Volume]:20525900
+
+[Date]:2024-01-24 00:00:00
+[Open]:401.5400085449219
+[High]:405.6300048828125
+[Low]:400.45001220703125
+[Close]:402.55999755859375
+[Adj Close]:401.8169250488281
+[Volume]:24867000
+
+[Date]:2024-01-25 00:00:00
+[Open]:404.32000732421875
+[High]:407.010009765625
+[Low]:402.5299987792969
+[Close]:404.8699951171875
+[Adj Close]:404.1226806640625
+[Volume]:21021200
+
+[Date]:2024-01-26 00:00:00
+[Open]:404.3699951171875
+[High]:406.1700134277344
+[Low]:402.42999267578125
+[Close]:403.92999267578125
+[Adj Close]:403.1844177246094
+[Volume]:17803300
+
+[Date]:2024-01-29 00:00:00
+[Open]:406.05999755859375
+[High]:409.9800109863281
+[Low]:404.3299865722656
+[Close]:409.7200012207031
+[Adj Close]:408.9637145996094
+[Volume]:24510200
+
+[Date]:2024-01-30 00:00:00
+[Open]:412.260009765625
+[High]:413.04998779296875
+[Low]:406.45001220703125
+[Close]:408.5899963378906
+[Adj Close]:407.8358154296875
+[Volume]:33477600
+
+[Date]:2024-01-31 00:00:00
+[Open]:406.9599914550781
+[High]:415.32000732421875
+[Low]:397.2099914550781
+[Close]:397.5799865722656
+[Adj Close]:396.84613037109375
+[Volume]:47871100
+
+[Date]:2024-02-01 00:00:00
+[Open]:401.8299865722656
+[High]:408.0
+[Low]:401.79998779296875
+[Close]:403.7799987792969
+[Adj Close]:403.0346984863281
+[Volume]:30657700
+
+[Date]:2024-02-02 00:00:00
+[Open]:403.80999755859375
+[High]:412.6499938964844
+[Low]:403.55999755859375
+[Close]:411.2200012207031
+[Adj Close]:410.4609680175781
+[Volume]:28245000
+
+[Date]:2024-02-05 00:00:00
+[Open]:409.8999938964844
+[High]:411.1600036621094
+[Low]:403.989990234375
+[Close]:405.6499938964844
+[Adj Close]:404.9012451171875
+[Volume]:25352300
+
+[Date]:2024-02-06 00:00:00
+[Open]:405.8800048828125
+[High]:407.9700012207031
+[Low]:402.9100036621094
+[Close]:405.489990234375
+[Adj Close]:404.74151611328125
+[Volume]:18382600
+
+[Date]:2024-02-07 00:00:00
+[Open]:407.44000244140625
+[High]:414.29998779296875
+[Low]:407.3999938964844
+[Close]:414.04998779296875
+[Adj Close]:413.28570556640625
+[Volume]:22340500
+
+[Date]:2024-02-08 00:00:00
+[Open]:414.04998779296875
+[High]:415.55999755859375
+[Low]:412.5299987792969
+[Close]:414.1099853515625
+[Adj Close]:413.3456115722656
+[Volume]:21225300
+
+[Date]:2024-02-09 00:00:00
+[Open]:415.25
+[High]:420.82000732421875
+[Low]:415.0899963378906
+[Close]:420.54998779296875
+[Adj Close]:419.7737121582031
+[Volume]:22032800
+
+[Date]:2024-02-12 00:00:00
+[Open]:420.55999755859375
+[High]:420.739990234375
+[Low]:414.75
+[Close]:415.260009765625
+[Adj Close]:414.4934997558594
+[Volume]:21202900
+
+[Date]:2024-02-13 00:00:00
+[Open]:404.94000244140625
+[High]:410.07000732421875
+[Low]:403.3900146484375
+[Close]:406.32000732421875
+[Adj Close]:405.57000732421875
+[Volume]:27824900
+
+[Date]:2024-02-14 00:00:00
+[Open]:408.07000732421875
+[High]:409.8399963378906
+[Low]:404.57000732421875
+[Close]:409.489990234375
+[Adj Close]:409.489990234375
+[Volume]:20401200
+
+[Date]:2024-02-15 00:00:00
+[Open]:408.1400146484375
+[High]:409.1300048828125
+[Low]:404.2900085449219
+[Close]:406.55999755859375
+[Adj Close]:406.55999755859375
+[Volume]:21825500
+
+[Date]:2024-02-16 00:00:00
+[Open]:407.9599914550781
+[High]:408.2900085449219
+[Low]:403.44000244140625
+[Close]:404.05999755859375
+[Adj Close]:404.05999755859375
+[Volume]:22281100
+
+[Date]:2024-02-20 00:00:00
+[Open]:403.239990234375
+[High]:404.489990234375
+[Low]:398.010009765625
+[Close]:402.7900085449219
+[Adj Close]:402.7900085449219
+[Volume]:24307900
+
+[Date]:2024-02-21 00:00:00
+[Open]:400.1700134277344
+[High]:402.2900085449219
+[Low]:397.2200012207031
+[Close]:402.17999267578125
+[Adj Close]:402.17999267578125
+[Volume]:18631100
+
+[Date]:2024-02-22 00:00:00
+[Open]:410.19000244140625
+[High]:412.8299865722656
+[Low]:408.57000732421875
+[Close]:411.6499938964844
+[Adj Close]:411.6499938964844
+[Volume]:27009900
+
+[Date]:2024-02-23 00:00:00
+[Open]:415.6700134277344
+[High]:415.8599853515625
+[Low]:408.9700012207031
+[Close]:410.3399963378906
+[Adj Close]:410.3399963378906
+[Volume]:16295900
+
+[Date]:2024-02-26 00:00:00
+[Open]:411.4599914550781
+[High]:412.1600036621094
+[Low]:407.3599853515625
+[Close]:407.5400085449219
+[Adj Close]:407.5400085449219
+[Volume]:16193500
+
+[Date]:2024-02-27 00:00:00
+[Open]:407.989990234375
+[High]:408.32000732421875
+[Low]:403.8500061035156
+[Close]:407.4800109863281
+[Adj Close]:407.4800109863281
+[Volume]:14835800
+
+[Date]:2024-02-28 00:00:00
+[Open]:408.17999267578125
+[High]:409.29998779296875
+[Low]:405.32000732421875
+[Close]:407.7200012207031
+[Adj Close]:407.7200012207031
+[Volume]:13183100
+
+[Date]:2024-02-29 00:00:00
+[Open]:408.6400146484375
+[High]:414.20001220703125
+[Low]:405.9200134277344
+[Close]:413.6400146484375
+[Adj Close]:413.6400146484375
+[Volume]:31947300
+
+[Date]:2024-03-01 00:00:00
+[Open]:411.2699890136719
+[High]:415.8699951171875
+[Low]:410.8800048828125
+[Close]:415.5
+[Adj Close]:415.5
+[Volume]:17800300
+
+[Date]:2024-03-04 00:00:00
+[Open]:413.44000244140625
+[High]:417.3500061035156
+[Low]:412.32000732421875
+[Close]:414.9200134277344
+[Adj Close]:414.9200134277344
+[Volume]:17596000
+
+[Date]:2024-03-05 00:00:00
+[Open]:413.9599914550781
+[High]:414.25
+[Low]:400.6400146484375
+[Close]:402.6499938964844
+[Adj Close]:402.6499938964844
+[Volume]:26919200
+
+[Date]:2024-03-06 00:00:00
+[Open]:402.9700012207031
+[High]:405.1600036621094
+[Low]:398.3900146484375
+[Close]:402.0899963378906
+[Adj Close]:402.0899963378906
+[Volume]:22344100
+
+[Date]:2024-03-07 00:00:00
+[Open]:406.1199951171875
+[High]:409.7799987792969
+[Low]:402.239990234375
+[Close]:409.1400146484375
+[Adj Close]:409.1400146484375
+[Volume]:18718500
+
+[Date]:2024-03-08 00:00:00
+[Open]:407.9599914550781
+[High]:410.4200134277344
+[Low]:404.3299865722656
+[Close]:406.2200012207031
+[Adj Close]:406.2200012207031
+[Volume]:17971700
+
+[Date]:2024-03-11 00:00:00
+[Open]:403.760009765625
+[High]:405.67999267578125
+[Low]:401.260009765625
+[Close]:404.5199890136719
+[Adj Close]:404.5199890136719
+[Volume]:16120800
+
+[Date]:2024-03-12 00:00:00
+[Open]:407.6199951171875
+[High]:415.57000732421875
+[Low]:406.7900085449219
+[Close]:415.2799987792969
+[Adj Close]:415.2799987792969
+[Volume]:22457000
+
+[Date]:2024-03-13 00:00:00
+[Open]:418.1000061035156
+[High]:418.17999267578125
+[Low]:411.45001220703125
+[Close]:415.1000061035156
+[Adj Close]:415.1000061035156
+[Volume]:17115900
+
+[Date]:2024-03-14 00:00:00
+[Open]:420.239990234375
+[High]:427.82000732421875
+[Low]:417.989990234375
+[Close]:425.2200012207031
+[Adj Close]:425.2200012207031
+[Volume]:34157300
+
+[Date]:2024-03-15 00:00:00
+[Open]:419.2900085449219
+[High]:422.6000061035156
+[Low]:412.7900085449219
+[Close]:416.4200134277344
+[Adj Close]:416.4200134277344
+[Volume]:45049800
+
+[Date]:2024-03-18 00:00:00
+[Open]:414.25
+[High]:420.7300109863281
+[Low]:413.7799987792969
+[Close]:417.32000732421875
+[Adj Close]:417.32000732421875
+[Volume]:20106000
+
+[Date]:2024-03-19 00:00:00
+[Open]:417.8299865722656
+[High]:421.6700134277344
+[Low]:415.54998779296875
+[Close]:421.4100036621094
+[Adj Close]:421.4100036621094
+[Volume]:19837900
+
+[Date]:2024-03-20 00:00:00
+[Open]:422.0
+[High]:425.9599914550781
+[Low]:420.6600036621094
+[Close]:425.2300109863281
+[Adj Close]:425.2300109863281
+[Volume]:17860100
+
+[Date]:2024-03-21 00:00:00
+[Open]:429.8299865722656
+[High]:430.82000732421875
+[Low]:427.1600036621094
+[Close]:429.3699951171875
+[Adj Close]:429.3699951171875
+[Volume]:21296200
+
+[Date]:2024-03-22 00:00:00
+[Open]:429.70001220703125
+[High]:429.8599853515625
+[Low]:426.07000732421875
+[Close]:428.739990234375
+[Adj Close]:428.739990234375
+[Volume]:17636500
+
+[Date]:2024-03-25 00:00:00
+[Open]:425.239990234375
+[High]:427.4100036621094
+[Low]:421.6099853515625
+[Close]:422.8599853515625
+[Adj Close]:422.8599853515625
+[Volume]:18060500
+
+[Date]:2024-03-26 00:00:00
+[Open]:425.6099853515625
+[High]:425.989990234375
+[Low]:421.3500061035156
+[Close]:421.6499938964844
+[Adj Close]:421.6499938964844
+[Volume]:16725600
+
+[Date]:2024-03-27 00:00:00
+[Open]:424.44000244140625
+[High]:424.45001220703125
+[Low]:419.010009765625
+[Close]:421.42999267578125
+[Adj Close]:421.42999267578125
+[Volume]:16705000
+
+[Date]:2024-03-28 00:00:00
+[Open]:420.9599914550781
+[High]:421.8699951171875
+[Low]:419.1199951171875
+[Close]:420.7200012207031
+[Adj Close]:420.7200012207031
+[Volume]:21871200
+
+[Date]:2024-04-01 00:00:00
+[Open]:423.95001220703125
+[High]:427.8900146484375
+[Low]:422.2200012207031
+[Close]:424.57000732421875
+[Adj Close]:424.57000732421875
+[Volume]:16316000
+
+[Date]:2024-04-02 00:00:00
+[Open]:420.1099853515625
+[High]:422.3800048828125
+[Low]:417.8399963378906
+[Close]:421.44000244140625
+[Adj Close]:421.44000244140625
+[Volume]:17912000
+
+[Date]:2024-04-03 00:00:00
+[Open]:419.7300109863281
+[High]:423.260009765625
+[Low]:419.0899963378906
+[Close]:420.45001220703125
+[Adj Close]:420.45001220703125
+[Volume]:16502300
+
+[Date]:2024-04-04 00:00:00
+[Open]:424.989990234375
+[High]:428.6700134277344
+[Low]:417.57000732421875
+[Close]:417.8800048828125
+[Adj Close]:417.8800048828125
+[Volume]:19370900
+
+[Date]:2024-04-05 00:00:00
+[Open]:420.010009765625
+[High]:426.510009765625
+[Low]:418.32000732421875
+[Close]:425.5199890136719
+[Adj Close]:425.5199890136719
+[Volume]:16544300
+
+[Date]:2024-04-08 00:00:00
+[Open]:425.1700134277344
+[High]:427.2799987792969
+[Low]:423.29998779296875
+[Close]:424.5899963378906
+[Adj Close]:424.5899963378906
+[Volume]:14272400
+
+[Date]:2024-04-09 00:00:00
+[Open]:426.44000244140625
+[High]:427.739990234375
+[Low]:421.6199951171875
+[Close]:426.2799987792969
+[Adj Close]:426.2799987792969
+[Volume]:12512300
+
+[Date]:2024-04-10 00:00:00
+[Open]:422.19000244140625
+[High]:424.0299987792969
+[Low]:419.70001220703125
+[Close]:423.260009765625
+[Adj Close]:423.260009765625
+[Volume]:16216600
+
+[Date]:2024-04-11 00:00:00
+[Open]:425.82000732421875
+[High]:429.3699951171875
+[Low]:422.3599853515625
+[Close]:427.92999267578125
+[Adj Close]:427.92999267578125
+[Volume]:17966400
+
+[Date]:2024-04-12 00:00:00
+[Open]:424.04998779296875
+[High]:425.17999267578125
+[Low]:419.7699890136719
+[Close]:421.8999938964844
+[Adj Close]:421.8999938964844
+[Volume]:19232100
+
+[Date]:2024-04-15 00:00:00
+[Open]:426.6000061035156
+[High]:426.82000732421875
+[Low]:413.42999267578125
+[Close]:413.6400146484375
+[Adj Close]:413.6400146484375
+[Volume]:20273500
+
+[Date]:2024-04-16 00:00:00
+[Open]:414.57000732421875
+[High]:418.3999938964844
+[Low]:413.7300109863281
+[Close]:414.5799865722656
+[Adj Close]:414.5799865722656
+[Volume]:16765600
+
+[Date]:2024-04-17 00:00:00
+[Open]:417.25
+[High]:418.8800048828125
+[Low]:410.3299865722656
+[Close]:411.8399963378906
+[Adj Close]:411.8399963378906
+[Volume]:15855500
+
+[Date]:2024-04-18 00:00:00
+[Open]:410.6300048828125
+[High]:411.8900146484375
+[Low]:403.95001220703125
+[Close]:404.2699890136719
+[Adj Close]:404.2699890136719
+[Volume]:21029900
+
+[Date]:2024-04-19 00:00:00
+[Open]:404.0299987792969
+[High]:405.4800109863281
+[Low]:397.7699890136719
+[Close]:399.1199951171875
+[Adj Close]:399.1199951171875
+[Volume]:30276500
+
+[Date]:2024-04-22 00:00:00
+[Open]:400.0799865722656
+[High]:402.8500061035156
+[Low]:395.75
+[Close]:400.9599914550781
+[Adj Close]:400.9599914550781
+[Volume]:20286900
+
+[Date]:2024-04-23 00:00:00
+[Open]:404.239990234375
+[High]:408.20001220703125
+[Low]:403.05999755859375
+[Close]:407.57000732421875
+[Adj Close]:407.57000732421875
+[Volume]:15734500
+
+[Date]:2024-04-24 00:00:00
+[Open]:409.55999755859375
+[High]:412.4700012207031
+[Low]:406.7799987792969
+[Close]:409.05999755859375
+[Adj Close]:409.05999755859375
+[Volume]:15065300
+
+[Date]:2024-04-25 00:00:00
+[Open]:394.0299987792969
+[High]:399.8900146484375
+[Low]:388.0299987792969
+[Close]:399.0400085449219
+[Adj Close]:399.0400085449219
+[Volume]:40586500
+
+[Date]:2024-04-26 00:00:00
+[Open]:412.1700134277344
+[High]:413.0
+[Low]:405.760009765625
+[Close]:406.32000732421875
+[Adj Close]:406.32000732421875
+[Volume]:29694700
+
+[Date]:2024-04-29 00:00:00
+[Open]:405.25
+[High]:406.32000732421875
+[Low]:399.19000244140625
+[Close]:402.25
+[Adj Close]:402.25
+[Volume]:19582100
+
+[Date]:2024-04-30 00:00:00
+[Open]:401.489990234375
+[High]:402.1600036621094
+[Low]:389.1700134277344
+[Close]:389.3299865722656
+[Adj Close]:389.3299865722656
+[Volume]:28781400
+
+[Date]:2024-05-01 00:00:00
+[Open]:392.6099853515625
+[High]:401.7200012207031
+[Low]:390.30999755859375
+[Close]:394.94000244140625
+[Adj Close]:394.94000244140625
+[Volume]:23562500
+
+[Date]:2024-05-02 00:00:00
+[Open]:397.6600036621094
+[High]:399.92999267578125
+[Low]:394.6499938964844
+[Close]:397.8399963378906
+[Adj Close]:397.8399963378906
+[Volume]:17709400
+
+[Date]:2024-05-03 00:00:00
+[Open]:402.2799987792969
+[High]:407.1499938964844
+[Low]:401.8599853515625
+[Close]:406.6600036621094
+[Adj Close]:406.6600036621094
+[Volume]:17446700
+
+[Date]:2024-05-06 00:00:00
+[Open]:408.760009765625
+[High]:413.92999267578125
+[Low]:406.3699951171875
+[Close]:413.5400085449219
+[Adj Close]:413.5400085449219
+[Volume]:16996600
+
+[Date]:2024-05-07 00:00:00
+[Open]:414.6600036621094
+[High]:414.6700134277344
+[Low]:409.0899963378906
+[Close]:409.3399963378906
+[Adj Close]:409.3399963378906
+[Volume]:20018200
+
+[Date]:2024-05-08 00:00:00
+[Open]:408.1700134277344
+[High]:412.2300109863281
+[Low]:406.7099914550781
+[Close]:410.5400085449219
+[Adj Close]:410.5400085449219
+[Volume]:11792300
+
+[Date]:2024-05-09 00:00:00
+[Open]:410.57000732421875
+[High]:412.7200012207031
+[Low]:409.1000061035156
+[Close]:412.32000732421875
+[Adj Close]:412.32000732421875
+[Volume]:14689700
+
+[Date]:2024-05-10 00:00:00
+[Open]:412.94000244140625
+[High]:415.3800048828125
+[Low]:411.79998779296875
+[Close]:414.739990234375
+[Adj Close]:414.739990234375
+[Volume]:13395400
+
