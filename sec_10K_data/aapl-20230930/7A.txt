@@ -1,0 +1,46 @@
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+
+The Company is exposed to economic risk from interest rates and foreign exchange rates. The Company uses various strategies to manage these risks; however, they may still impact the Company&#8217;s consolidated financial statements. 
+
+Interest Rate Risk 
+
+The Company is primarily exposed to fluctuations in U.S. interest rates and their impact on the Company&#8217;s investment portfolio and term debt. Increases in interest rates will negatively affect the fair value of the Company&#8217;s investment portfolio and increase the interest expense on the Company&#8217;s term debt. To protect against interest rate risk, the Company may use derivative instruments, offset interest rate&#8211;sensitive assets and liabilities, or control duration of the investment and term debt portfolios. 
+
+The following table sets forth potential impacts on the Company&#8217;s investment portfolio and term debt, including the effects of any associated derivatives, that would result from a hypothetical increase in relevant interest rates as of September 30, 2023 and September 24, 2022 (dollars in millions): 
+
+##TABLE_START 
+
+Interest Rate 
+
+Sensitive Instrument 
+
+Hypothetical Interest 
+
+Rate Increase 
+
+Potential Impact 
+
+2023 2022 
+
+Investment portfolio 
+
+100 basis points, all tenors 
+
+Decline in fair value 
+
+$ 3,089 $ 4,022 Term debt 
+
+100 basis points, all tenors 
+
+Increase in annual interest expense 
+
+$ 194 $ 201 ##TABLE_END
+
+Foreign Exchange Rate Risk 
+
+The Company&#8217;s exposure to foreign exchange rate risk relates primarily to the Company being a net receiver of currencies other than the U.S. dollar. Changes in exchange rates, and in particular a strengthening of the U.S. dollar, will negatively affect the Company&#8217;s net sales and gross margins as expressed in U.S. dollars. Fluctuations in exchange rates may also affect the fair values of certain of the Company&#8217;s assets and liabilities. To protect against foreign exchange rate risk, the Company may use derivative instruments, offset exposures, or adjust local currency pricing of its products and services. However, the Company may choose to not hedge certain foreign currency exposures for a variety of reasons, including accounting considerations or prohibitive cost. 
+
+The Company applied a value-at-risk (&#8220;VAR&#8221;) model to its foreign currency derivative positions to assess the potential impact of fluctuations in exchange rates. The VAR model used a Monte Carlo simulation. The VAR is the maximum expected loss in fair value, for a given confidence interval, to the Company&#8217;s foreign currency derivative positions due to adverse movements in rates. Based on the results of the model, the Company estimates, with 95% confidence, a maximum one-day loss in fair value of $669 million and $1.0 billion as of September 30, 2023 and September 24, 2022, respectively. Changes in the Company&#8217;s underlying foreign currency exposures, which were excluded from the assessment, generally offset changes in the fair values of the Company&#8217;s foreign currency derivatives. 
+
+Apple Inc. | 2023 Form 10-K | 26 
+

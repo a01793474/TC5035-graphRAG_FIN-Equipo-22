@@ -1,0 +1,56 @@
+ ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+We are exposed to financial market risks, including changes in foreign currency exchange rates, interest rates, and equity investment risks. 
+
+Foreign Currency Exchange Risk 
+
+We transact business globally in multiple currencies. International revenues, as well as costs and expenses denominated in foreign currencies, expose us to the risk of fluctuations in foreign currency exchange rates against the U.S. dollar. As discussed below, we enter into derivative instruments to hedge foreign currency risk. Principal currencies hedged included the Australian dollar, British pound, Canadian dollar, Euro, and Japanese yen. For the purpose of analyzing foreign currency exchange risk, we considered the historical trends in foreign currency exchange rates and determined that it was reasonably possible that adverse changes in exchange rates of 10% could be experienced. 
+
+We use foreign currency forward and option contracts to offset the foreign exchange risk on assets and liabilities denominated in currencies other than the functional currency of the subsidiary. These forward and option contracts reduce, but do not entirely eliminate, the effect of foreign currency exchange rate movements on our assets and liabilities. The foreign currency gains and losses on these assets and liabilities are recorded in OI&#38;E, which are offset by the gains and losses on the forward and option contracts. 
+
+If an adverse 10% foreign currency exchange rate change was applied to total monetary assets, liabilities, and commitments denominated in currencies other than the functional currencies at the balance sheet date, it would have resulted in an adverse effect on income before income taxes of approxima tely $136 million and $503 million as of December 31, 2022 and 2023, respectively, after consideration of the effect of foreign exchange contracts in place for the years ended December 31, 2022 and 2023. 
+
+We use foreign currency forward and option contracts, including collars (an option strategy comprised of a combination of purchased and written options) to protect forecasted U.S. dollar-equivalent earnings from changes in foreign currency exchange rates. When the U.S. dollar strengthens, gains from foreign currency forward and option contacts reduce the foreign currency losses related to our earnings. When the U.S. dollar weakens, losses from foreign currency forward and option contracts offset the foreign currency gains related to our earnings. These hedging contracts reduce, but do not entirely eliminate, the effect of foreign currency exchange rate movements. We designate these contracts as cash flow hedges for accounting purposes. We reflect the gains or losses of foreign currency spot rate changes as a component of accumulated other comprehensive income (AOCI) and subsequently reclassify them into revenues to offset the hedged exposures as they occur. 
+
+I f the U.S. dollar weakened by 10% as of December 31, 2022 and 2023, the amount recorded in AOCI related to our cash flow hedges before tax effect would have been approximately $1.3 billion and $1.5 billion lower as of December 31, 2022 and 2023, respectively. The change in the value recorded in AOCI would be expected to offset a corresponding foreign currency change in forecasted hedged revenues when recognized. 
+
+We use foreign exchange forward contracts designated as net investment hedges to hedge the foreign currency risks related to investment in foreign subsidiaries. These forward contracts serve to offset the foreign currency translation risk from our foreign operations. 
+
+If the U.S. dollar weakened by 10%, the amount recorded in cumulative translation adjustment (CTA) within AOCI related to our net investment hedges before tax effect would have been approximately $903 million and $946 million lower as of December 31, 2022 and 2023, respectively. The change in value recorded in CTA would be expected to offset a corresponding foreign currency translation gain or loss from our investment in foreign subsidiaries. 
+
+Interest Rate Risk 
+
+Our Corporate Treasury investment strategy is to achieve a return that w ill allow us to preserve capital and maintain liquidity. We invest primarily in debt securities, including government bonds, corporate debt securities, mortgage-backed and asset-backed securities, money market and other funds, time deposits, and interest rate derivatives. By policy, we limit the amount of credit exposure to any one issuer. Our investments in both fixed rate and floating rate interest earning securities carry a degree of interest rate risk. Fixed rate securities may have their fair market value adversely affected due to a rise in interest rates, while floating rate securities may produce less income than predicted if interest rates fall. Unrealized gains or losses on our marketable debt securities are primarily due to interest rate fluctuations as compared to interest rates at the time of purchase. For certain fixed and variable rate debt securities, we have elected the fair value option for which changes in fair value are recorded in OI&#38;E. We measure securities for which we have not elected the fair value option at fair value with gains and losses recorded in AOCI until the securities are sold, less any expected credit losses. 
+
+45. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+We use value-at-risk (VaR) analysis to determine the potential effect of fluctuations in interest rates on the value of our marketable debt security portfolio. The VaR is the expected loss in fair value, for a given confidence interval, for our investment portfolio due to adverse movements in interest rates. We use a variance/covariance VaR model with 95% confidence interval. The estimated one-day loss in fair value of marketable debt securities as of December 31, 2022 and 2023 are shown below (in millions): 
+
+##TABLE_START &#160; As of December 31, 12-Month Average As of December 31, &#160; 2022 2023 2022 2023 Risk category - interest rate $ 256 $ 296 $ 198 $ 271 ##TABLE_END
+
+Actual future gains and losses associated with our marketable debt security portfolio may differ materially from the sensitivity analyses performed as of December 31, 2022 and 2023 due to the inherent limitations associated with predicting the timing and amount of changes in interest rates and our actual exposures and positions. VaR analysis is not intended to represent actual losses but is used as a risk estimation. 
+
+Equity Investment Risk 
+
+Our marketable and non-marketable equity securities are subject to a wide variety of market-related risks that could substantially reduce or increase the fair value of our holdings. 
+
+Our marketable equity securities are publicly traded stocks or funds and our non-marketable equity securities are investments in privately held companies, some of which are in the startup or development stages. 
+
+We record marketable equity securities not accounted for under the equity method at fair value based on readily determinable market values, of which publicly traded stocks and mutual funds are subject to market price volatility, and represent $5.2 billion and $6.0 billion of our investments as of December 31, 2022 and 2023, respectively. A hypothetical adverse price change of 10% on our December 31, 2023 balance would decrease the fair value of marketable equity securities by $597 million. From time to time, we may enter into derivatives to hedge the market price risk on certain of our marketable equity securities. 
+
+Our non-marketable equity securities not accounted for under the equity method are adjusted to fair value for observable transactions for identical or similar investments of the same issuer or impairment (referred to as the measurement alternative). The fair value measured at the time of the observable transaction is not necessarily an indication of the current fair value as of the balance sheet date. These investments, especially those that are in the early stages, are inherently risky because the technologies or products these companies have under development are typically in the early phases and may never materialize, and they may experience a decline in financial condition, which could result in a loss of a substantial part of our investment in these companies. Valuations of our equity investments in private companies are inherently more complex due to the lack of readily available market data and observable transactions at lower valuations could result in significant losses. In addition, global economic conditions could result in additional volatility. The success of our investment in any private company is also typically dependent on the likelihood of our ability to realize appreciation in the value of investments through liquidity events such as public offerings, acquisitions, private sales or other market events. Changes in the valuation of non-marketable equity securities may not directly correlate with changes in valuation of marketable equity securities. As of December 31, 2022 and 2023, the carrying value of our non-marketable equity securities, which were accounted for under the measurement alternative, was $28.5 billion and $28.8 billion, respectively. 
+
+The carrying values of our equity method investments, which totaled approximately $1.7 billion as of December 31, 2022 and 2023, generally do not fluctuate based on market price changes. However, these investments could be impaired if the carrying value exceeds the fair value and is not expected to recover. 
+
+For additional information about our equity investments, see Note 1 and Note 3 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+46. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+

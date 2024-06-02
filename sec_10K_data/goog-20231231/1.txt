@@ -1,0 +1,244 @@
+ ITEM 1. BUSINESS 
+
+Overview 
+
+As our founders Larry and Sergey wrote in the original founders' letter, "Google is not a conventional company. We do not intend to become one." That unconventional spirit has been a driving force throughout our history, inspiring us to tackle big problems and invest in moonshots. It led us to be a pioneer in the development of AI and, since 2016, an AI-first company. We continue this work under the leadership of Alphabet and Google CEO, Sundar Pichai. 
+
+Alphabet is a collection of businesses &#8212; the largest of which is Google. We report Google in two segments, Google Services and Google Cloud, and all non-Google businesses collectively as Other Bets. Alphabet's structure is about helping each of our businesses prosper through strong leaders and independence. 
+
+Access and Technology for Everyone 
+
+The Internet is one of the world&#8217;s most powerful equalizers; it propels ideas, people, and businesses large and small. Our mission to organize the world&#8217;s information and make it universally accessible and useful is as relevant today as it was when we were founded in 1998. Since then, we have evolved from a company that helps people find answers to a company that also helps people get things done. 
+
+We are focused on building an even more helpful Google for everyone, and we aspire to give everyone the tools they need to increase their knowledge, health, happiness, and success. Google Search helps people find information and make sense of the world in more natural and intuitive ways, with trillions of searches on Google every year. YouTube provides people with entertainment, information, and opportunities to learn something new. Google Assistant offers the best way to get things done seamlessly across different devices, providing intelligent help throughout a person's day, no matter where they are. Google Cloud helps customers solve today&#8217;s business challenges, improve productivity, reduce costs, and unlock new growth engines. We are continually innovating and building new products and features that will help our users, partners, customers, and communities and have invested more than $150 billion in research and development in the last five years in support of these efforts. 
+
+Making AI Helpful for Everyone 
+
+AI is a transformational technology that can bring meaningful and positive change to people and societies across the world, and for our business. At Google, we have been bringing AI into our products and services for more than a decade and making them available to our users. Our journey began in 2001, when machine learning was first incorporated into Google Search to suggest better spellings to users searching the web. Today, AI in our products is 
+
+4. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+used by billions of people globally through features like autocomplete suggestions in Google Search; translation across 133 languages in Google Translate; and organization, searching, and editing in Google Photos. 
+
+Large language models (LLMs) are an exciting aspect of our work in AI based on deep learning architectures, such as the Transformer, a neural network architecture that we introduced in 2017 that helped with language understanding. This led to the Bidirectional Encoder Representations from Transformers, or BERT, in 2019 that helped Search understand the intent of user search queries better than ever before. 
+
+Google was a company built in the cloud, and we continue to invest in our Google Cloud offerings, including Google Cloud Platform and Google Workspace, to help organizations stay at the forefront of AI innovation with our AI-optimized infrastructure, mature AI platform and world-class models, and assistive agents. 
+
+We believe AI can solve some of the hardest societal, scientific and engineering challenges of our time. For example, in 2020, Google DeepMind&#8217;s AlphaFold system solved a 50-year-old protein folding challenge. Since then, we have open-sourced to the scientific community 200 million of AlphaFold&#8217;s protein structures which are used to work on everything from accelerating new malaria vaccines to advancing cancer drug discovery and developing plastic-eating enzymes. As another example, AI can also have a transformative effect on climate progress by providing helpful information, predicting climate-related events, and optimizing climate action. Using advanced AI and geospatial analysis, Google Research has developed flood forecasting models that can provide early warning and real-time flooding information to communities and individuals. 
+
+As AI continues to improve rapidly, we are focused on giving helpful features to our users and customers as we deliver on our mission to organize the world&#8217;s information and make it universally accessible and useful. With a bold and responsible approach, we continue to take the next steps to make this technology even more helpful for everyone. 
+
+Deliver the Most Advanced, Safe, and Responsible AI 
+
+We aim to build the most advanced, safe, and responsible AI with models that are developed, trained, and rigorously tested at scale powered by our continued investment in AI technical infrastructure. In December 2023, we launched Gemini, our most capable and general model. It was built from the ground up to be multimodal, which means it can generalize and seamlessly understand, operate across, and combine different types of information, including text, code, audio, images, and video. Our teams across Alphabet will leverage Gemini, as well as other AI models we have previously developed and announced, across our business to deliver the best product and service experiences for our users, advertisers, partners, customers, and developers. 
+
+We believe our approach to AI must be both bold and responsible. That means developing AI in a way that maximizes the positive benefits to society while addressing the challenges, guided by our AI Principles. We published these in 2018, as one of the first companies to articulate principles that put beneficial use, users, safety, and avoidance of harms above business considerations. While there is natural tension between being bold and being responsible, we believe it is possible &#8212; and in fact critical &#8212; to embrace that tension productively. 
+
+Enable Organizations and Developers to Innovate on Google Cloud 
+
+AI is not only a powerful enabler, it is also a major platform shift. Globally, businesses from startups to large enterprises, and the public sector are thinking about how to drive transformation. That is why we are focused on making it easy and scalable for others to innovate, and grow, with AI. That means providing the most advanced computing infrastructure and expanding access to Google&#8217;s latest AI models that have been rigorously tested in our own products. Our Vertex AI platform gives developers the ability to train, tune, augment, and deploy applications using generative AI models and services such as Enterprise Search and Conversations. Duet AI for Google Cloud provides pre-packaged AI agents that assist developers to write, test, document, and operate software. 
+
+Improve Knowledge, Learning, Creativity, and Productivity 
+
+Things that we now consider routine &#8211; like spell check, mobile check deposit, or Google Search, Google Translate, and Google Maps &#8211; all use AI. As AI continues to improve rapidly, we are focused on giving helpful features to our users as we continue to deliver on our mission to organize the world&#8217;s information and make it universally accessible and useful. 
+
+While we have been integrating AI into our products for years, we are now embedding the power of generative AI to continue helping our users express themselves and get things done. For example, Duet AI in Google Workspace helps users write, organize, visualize, accelerate workflows, and have richer meetings. Bard allows users to collaborate with experimental AI with new features that include image capabilities, coding support, and app integration. Dream Screen, a new experimental feature in YouTube, allows for the creation of AI-generated video or image backgrounds to Shorts by typing an idea into a prompt. 
+
+5. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+We also know businesses of all sizes around the world rely on Google Ads to find customers and grow their businesses &#8212; and we make that even easier with AI. With Performance Max, advertisers simply tell us their campaign goals and share their creative assets, and AI will automatically produce and run a highly effective ad campaign across all of Google&#8217;s properties, to meet their budget. Product Studio brings the benefits of AI to businesses of all sizes, helping them easily create uniquely-tailored imagery featuring their products &#8212; for free. Additionally, we are experimenting with Search and Shopping ads that are directly integrated into the AI-powered snapshot and conversational mode in Search Generative Experience. 
+
+Build the Most Helpful Personal Computing Platforms and Devices 
+
+Over the years, our Pixel phones have incorporated AI compute directly into the device and built experiences on top of it. Our latest Pixel devices were built around AI, bringing the best AI-assistive experiences to our users, such as Best Take, Magic Editor, and Audio Magic Eraser. As we look ahead, we are designing our Android and Chrome operating systems with new AI-forward user experiences. 
+
+Moonshots 
+
+Many companies get comfortable doing what they have always done, making only incremental changes. This incrementalism leads to irrelevance over time, especially in technology, where change tends to be revolutionary, not evolutionary. People thought we were crazy when we acquired YouTube and Android and when we launched Chrome, but those efforts have matured into major platforms for digital video and mobile devices and a safer, popular browser. Our early investments in AI started out as moonshots but are now incorporated into our core products and central to future developments. We continue to look toward the future and to invest for the long term, most notably for the application of AI to our products and services, as well as other frontier technologies such as quantum computing. As we said in the original founders' letter, we will not shy away from high-risk, high-reward projects that we believe in, as they are the key to our long-term success. 
+
+Privacy and Security 
+
+We make it a priority to protect the privacy and security of our products, users, and customers, even if there are near-term financial consequences. We do this by continuously investing in building products that are secure by default; strictly upholding responsible data practices that emphasize privacy by design; and building easy-to-use settings that put people in control. We are continually enhancing these efforts over time, whether by enabling users to auto-delete their data, giving them tools, such as My Ad Center, to control their ad experience, or advancing anti-malware, anti-phishing, and password security features. 
+
+Google 
+
+For reporting purposes Google comprises two segments: Google Services and Google Cloud. 
+
+Google Services 
+
+Serving Our Users 
+
+We have always been committed to building helpful products that can improve the lives of millions of people worldwide. Our product innovations are what make our services widely used, and our brand one of the most recognized in the world. Google Services' core products and platforms include ads, Android, Chrome, devices, Gmail, Google Drive, Google Maps, Google Photos, Google Play, Search, and YouTube, with broad and growing adoption by users around the world. 
+
+Our products and services have come a long way since the company was founded more than 25 years ago. While Google Search started as a way to find web pages, organized into ten blue links, we have driven technical advancements and product innovations that have transformed Google Search into a dynamic, multimodal experience. We first expanded from traditional desktop browsers into mobile web search, making it easier to navigate on smaller screens. As new types of content surfaced on the internet, Universal Search made it possible to search multiple content types, like news, images, videos, and more, to deliver rich, relevant results. The introduction of new search modalities, like voice and visual search, made it easier for people to express their curiosity in natural and intuitive ways. We took that a step further with multisearch, which lets people search with text and images at the same time. Large language models like BERT and Multitask Unified Models, or MUMs, have made it possible to express more natural language queries, vastly improving the quality of results. Each advancement has made it easier and more natural for people to find what they are looking for. 
+
+This drive to make information more accessible and helpful has led us over the years to improve the discovery and creation of digital content both on the web and through platforms like Google Play and YouTube. People are consuming many forms of digital content, including watching videos, streaming TV, playing games, listening to music, 
+
+6. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+reading books, and using apps. Working with content creators and partners, we continue to build new ways for people around the world to create and find great digital content. 
+
+Fueling all of these great digital experiences are extraordinary platforms and devices. That is why we continue to invest in platforms like our Android mobile operating system, Chrome browser, and Chrome operating system, as well as growing our family of devices. We see tremendous potential for devices to be helpful and make people's lives easier by combining the best of our AI, software, and hardware. This potential is reflected in our latest generation of devices, such as the new Pixel 8 and Pixel 8 Pro, and the Pixel Watch 2. Creating products and services that people rely on every day is a journey that we are investing in for the long-term. 
+
+How We Make Money 
+
+We have built world-class advertising technologies for advertisers, agencies, and publishers to power their digital marketing businesses. Our advertising solutions help millions of companies grow their businesses through our wide range of products across devices and formats, and we aim to ensure positive user experiences by serving the right ads at the right time and by building deep partnerships with brands and agencies. AI has been foundational to our advertising business for more than a decade. Products like Performance Max and Product Studio use the full power of our AI to help advertisers find untapped and incremental conversion opportunities. 
+
+Google Services generates revenues primarily by delivering both performance and brand advertising that appears on Google Search &#38; other properties, YouTube, and Google Network partners' properties ("Google Network properties"). We continue to invest in both performance and brand advertising and seek to improve the measurability of advertising so advertisers understand the effectiveness of their campaigns. 
+
+&#8226; Performance advertising creates and delivers relevant ads that users will click on leading to direct engagement with advertisers. Performance advertising lets our advertisers connect with users while driving measurable results. Our ads tools allow performance advertisers to create simple text-based ads. 
+
+&#8226; Brand advertising helps enhance users' awareness of and affinity for advertisers' products and services, through videos, text, images, and other interactive ads that run across various devices. We help brand advertisers deliver digital videos and other types of ads to specific audiences for their brand-building marketing campaigns. 
+
+We have allocated substantial resources to stopping bad advertising practices and protecting users on the web. We focus on creating the best advertising experiences for our users and advertisers in many ways, including filtering out invalid traffic, removing billions of bad ads from our systems every year, and closely monitoring the sites, apps, and videos where ads appear and blocklisting them when necessary to ensure that ads do not fund bad content. 
+
+In addition, Google Services increasingly generates revenues from products and services beyond advertising, including: 
+
+&#8226; consumer subscriptions, which primarily include revenues from YouTube services, such as YouTube TV, YouTube Music and Premium, and NFL Sunday Ticket, as well as Google One; 
+
+&#8226; platforms , which primarily include revenues from Google Play from the sales of apps and in-app purchases; and 
+
+&#8226; devices, which primarily include sales of the Pixel family of devices. 
+
+Google Cloud 
+
+Through our Google Cloud Platform and Google Workspace offerings, Google Cloud generates revenues primarily from consumption-based fees and subscriptions for infrastructure, platform, collaboration tools and other cloud services. Customers use five key capabilities from Google Cloud. 
+
+&#8226; AI-optimized Infrastructure: provides open, reliable, and scalable compute, networking, and storage to enable customers to run workloads anywhere &#8212; on our Cloud, at the edge, or in their data centers. It can be used to migrate and modernize IT systems and to train and serve various types of AI models. 
+
+&#8226; Cybersecurity: helps customers detect, protect, and respond to a broad range of cybersecurity threats, with AI integrated to further strengthen security outcomes, prioritize which threats to investigate, and identify attack paths, as well as accelerate resolution of cybersecurity threats. 
+
+&#8226; Databases and Analytics: provides a variety of different types of databases &#8212; relational, key-value, in-memory &#8212; to store and manage data for different types of applications. Our Data Cloud also unifies data lakes, data warehouses, data governance, and advanced machine learning into a single platform that can analyze data across any cloud. 
+
+7. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+&#8226; Collaboration Tools: Google Workspace and Duet AI in Google Workspace provide easy-to-use, secure communication and collaboration tools, including apps like Gmail, Docs, Drive, Calendar, Meet, and more. These tools enable secure hybrid and remote work, boosting productivity and collaboration. AI has been used in Google Workspace for years to improve grammar, efficiency, security, and more with features like Smart Reply, Smart Compose, and malware and phishing protection in Gmail. Duet AI in Google Workspace helps users write, organize, visualize, accelerate workflows, and have richer meetings. 
+
+&#8226; AI Platform and Duet AI for Google Cloud: Our Vertex AI platform gives developers the ability to train, tune, augment, and deploy applications using generative AI models and services such as Enterprise Search and Conversations. Duet AI for Google Cloud provides pre-packaged AI agents that assist developers to write, test, document, and operate software. 
+
+Other Bets 
+
+Across Alphabet, we are also using technology to try to solve big problems that affect a wide variety of industries from improving transportation and health technology to exploring solutions to address climate change. Alphabet&#8217;s investment in the portfolio of Other Bets includes businesses that are at various stages of development, ranging from those in the R&#38;D phase to those that are in the beginning stages of commercialization. Our goal is for them to become thriving, successful businesses. Other Bets operate as independent companies and some of them have their own boards with independent members and outside investors. While these early-stage businesses naturally come with considerable uncertainty, some of them are already generating revenue and making important strides in their industries. Revenues from Other Bets are generated primarily from the sale of healthcare-related services and internet services. 
+
+Competition 
+
+Our business is characterized by rapid change as well as new and disruptive technologies. We face formidable competition in every aspect of our business, including, among others, from: 
+
+&#8226; general purpose search engines and information services; 
+
+&#8226; vertical search engines and e-commerce providers for queries related to travel, jobs, and health, which users may navigate directly to rather than go through Google; 
+
+&#8226; online advertising platforms and networks; 
+
+&#8226; other forms of advertising, such as billboards, magazines, newspapers, radio, and television as our advertisers typically advertise in multiple media, both online and offline; 
+
+&#8226; digital content and application platform providers; 
+
+&#8226; providers of enterprise cloud services; 
+
+&#8226; developers and providers of AI products and services; 
+
+&#8226; companies that design, manufacture, and market consumer hardware products, including businesses that have developed proprietary platforms; 
+
+&#8226; providers of digital video services; 
+
+&#8226; social networks, which users may rely on for product or service referrals, rather than seeking information through traditional search engines; 
+
+&#8226; providers of workspace communication and connectivity products; and 
+
+&#8226; digital assistant providers. 
+
+Competing successfully depends heavily on our ability to develop and distribute innovative products and technologies to the marketplace across our businesses. For example, for advertising, competing successfully depends on attracting and retaining: 
+
+&#8226; users, for whom other products and services are literally one click away, largely on the basis of the relevance of our advertising, as well as the general usefulness, security, and availability of our products and services; 
+
+&#8226; advertisers, primarily based on our ability to generate sales leads, and ultimately customers, and to deliver their advertisements in an efficient and effective manner across a variety of distribution channels; and 
+
+&#8226; content providers, primarily based on the quality of our advertiser base, our ability to help these partners generate revenues from advertising, and the terms of our agreements with them. 
+
+8. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+For additional information about competition, see Item 1A Risk Factors of this Annual Report on Form 10-K. 
+
+Ongoing Commitment to Sustainability 
+
+We believe that every business has the opportunity and obligation to protect our planet. Sustainability is one of our core values at Google, and we strive to build sustainability into everything we do. We have been a leader on sustainability and climate change since Google&#8217;s founding more than 25 years ago. 
+
+Our sustainability work is focused on empowering individuals to take action, working together with our partners and customers, and working to reduce our carbon footprint across our operations and supply chain. 
+
+In 2020, we shared our aspiration to help individuals, cities, and other partners collectively reduce one gigaton of their carbon equivalent emissions annually by 2030. This is an ambitious vision that we have set to push us to contribute meaningfully to helping with climate solutions beyond our own operations and value chain. 
+
+In 2021, we set an ambitious goal to achieve net-zero emissions across all of our operations and value chain, by 2030. To accomplish this, we aim to reduce 50% of our combined Scope 1, Scope 2 (market-based), and Scope 3 absolute emissions (versus our 2019 baseline) before 2030, and plan to invest in nature-based and technology-based carbon removal solutions to neutralize our remaining emissions. We have formally committed to the Science Based Targets initiative to seek their validation of our absolute emissions reduction target. 
+
+One of the key levers for reducing emissions from our operations is transitioning to clean energy. Since 2017, we have matched 100% of the electricity consumption of our global operations with purchases of renewable energy on an annual basis. However, because of differences in the availability of renewable energy sources like solar and wind across the regions where we operate&#8212;and because of the variable supply of these resources&#8212;we still need to rely on carbon-emitting energy sources that power local grids. That is why we set a goal to run on 24/7 carbon-free energy (CFE) on every grid where we operate by 2030. 
+
+Achieving net-zero emissions and 24/7 CFE by 2030 are extremely ambitious goals. We also know that our path to net-zero emissions will not be easy or linear. Some of our plans may take years to deliver results, particularly where they involve building new large-scale infrastructure with long lead times. So as our business continues to evolve, we expect our emissions to rise before dropping towards our absolute emissions reduction target. 
+
+To benefit the people and places where we operate, we have set goals to replenish 120% of the freshwater volume we consume, on average, across our offices and data centers by 2030 and to help restore and improve the quality of water and health of ecosystems in the communities where we operate. 
+
+We also aim to maximize the reuse of finite resources across our operations, products, and supply chains. Our circularity principles focus on designing out waste from the start, keeping materials in use for as long as possible, and promoting healthy materials&#8212;for our data centers, workplaces, and products. 
+
+More information on our approach to sustainability can be found in our annual sustainability reports, including Google&#8217;s Environmental Report. The contents of our sustainability reports are not incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC. For additional information about risks and uncertainties applicable to our commitments to attain certain sustainability goals, see Item 1A Risk Factors of this Annual Report on Form 10-K. 
+
+Culture and Workforce 
+
+We are a company of curious, talented, and passionate people. We embrace collaboration and creativity, and encourage the iteration of ideas to address complex challenges in technology and society. 
+
+Our people are critical for our continued success, so we work hard to create an environment where employees can have fulfilling careers, and be happy, healthy, and productive. We offer industry-leading benefits and programs to take care of the diverse needs of our employees and their families, including opportunities for career growth and development, resources to support their financial health, and access to excellent healthcare choices. Our competitive compensation programs help us to attract and retain top candidates, and we will continue to invest in recruiting talented people to technical and non-technical roles, and rewarding them well. We provide a variety of high quality training and support to managers to build and strengthen their capabilities-&#8211;ranging from courses for new managers, to learning resources that help them provide feedback and manage performance, to coaching and individual support. 
+
+At Alphabet, we are committed to making diversity, equity, and inclusion part of everything we do and to growing a workforce that is representative of the users we serve. More information on Google&#8217;s approach to diversity can be found in our annual diversity reports, available publicly at diversity.google. The contents of our diversity reports are not incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC. 
+
+9. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+As of December 31, 2023, Alphabet had 182,502 employees. We have work councils and statutory employee representation obligations in certain countries, and we are committed to supporting protected labor rights, maintaining an open culture, and listening to all employees. Supporting healthy and open dialogue is central to how we work, and we communicate information about the company through multiple internal channels to our employees. 
+
+When necessary we contract with businesses around the world to provide specialized services where we do not have appropriate in-house expertise or resources, often in fields that require specialized training like cafe operations, content moderation, customer support, and physical security. We also contract with temporary staffing agencies when we need to cover short-term leaves, when we have spikes in business needs, or when we need to quickly incubate special projects. We choose our partners and staffing agencies carefully, and review their compliance with Google&#8217;s Supplier Code of Conduct. We continually make improvements to promote a respectful and positive working environment for everyone &#8212; employees, vendors, and temporary staff alike. 
+
+Government Regulation 
+
+We are subject to numerous United States (U.S.) federal, state, and local, as well as foreign laws and regulations covering a wide variety of subjects, and the scope of this coverage continues to broaden with continuing new legal and regulatory developments in the U.S. and internationally. Like other companies in the technology industry, we face increasingly heightened scrutiny from both U.S. and foreign governments with respect to our compliance with laws and regulations. Many of these laws and regulations are evolving and their applicability and scope, as interpreted by the courts, remain uncertain. Particularly with regard to AI; climate change and sustainability; competition; consumer protection; content moderation; data privacy and security; news publications; and reporting on human capital and diversity, we have seen an increase in new and evolving laws and regulations, as well as related enforcement actions and investigations, being proposed and implemented in recent years by legislative and regulatory bodies around the world. 
+
+Our compliance with these laws and regulations may be onerous and could, individually or in the aggregate, increase our cost of doing business, make our products and services less useful, limit our ability to pursue certain business models, cause us to change our business practices, affect our competitive position relative to our peers, and/or otherwise harm our business, reputation, financial condition, and operating results. 
+
+For additional information about government regulation applicable to our business, see Item 1A Risk Factors; Trends in Our Business and Financial Effect in Part II, Item 7; and Legal Matters in Note 10 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K. 
+
+Intellectual Property 
+
+We rely on various intellectual property laws, confidentiality procedures and contractual provisions to protect our proprietary technology and our brand. We have registered, and applied for the registration of, U.S. and international trademarks, service marks, domain names, and copyrights. We have also filed patent applications in the U.S. and foreign countries covering certain of our technology, and acquired patent assets to supplement our portfolio. We have licensed in the past, and expect that we may license in the future, certain of our rights to other parties. For additional information, see Item 1A Risk Factors of this Annual Report on Form 10-K. 
+
+Available Information 
+
+Our website is located at www.abc.xyz, and our investor relations website is located at www.abc.xyz/investor. Access to our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and our Proxy Statements, and any amendments to these reports, is available on our investor relations website, free of charge, after we file or furnish them with the SEC and they are available on the SEC's website at www.sec.gov. 
+
+We webcast via our investor relations website our earnings calls and certain events we participate in or host with members of the investment community. Our investor relations website also provides notifications of news or announcements regarding our financial performance and other items that may be material or of interest to our investors, including SEC filings, investor events, press and earnings releases, and blogs. We also share Google news and product updates on Google's Keyword blog at https://www.blog.google/, which may be of interest or material to our investors. Further, corporate governance information, including our certificate of incorporation, bylaws, governance guidelines, board committee charters, and code of conduct, is also available on our investor relations website under the heading "Governance." The content of our websites are not incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC, and any references to our websites are intended to be inactive textual references only. 
+
+10. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+

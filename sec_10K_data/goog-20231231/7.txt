@@ -1,0 +1,644 @@
+ ITEM 7. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Please read the following discussion and analysis of our financial condition and results of operations together with &#8220;Note about Forward-Looking Statements,&#8221; Part I, Item 1 "Business," Part I, Item 1A "Risk Factors," and our consolidated financial statements and related notes included under Item 8 of this Annual Report on Form 10-K. 
+
+The following section generally discusses 2023 results compared to 2022 results. Discussion of 2022 results compared to 2021 results to the extent not included in this report can be found in Item 7 of our 2022 Annual Report on Form 10-K. 
+
+Understanding Alphabet&#8217;s Financial Results 
+
+Alphabet is a collection of businesses &#8212; the largest of which is Google. We report Google in two segments, Google Services and Google Cloud; we also report all non-Google businesses collectively as Other Bets. For additional information on our segments, see Part I, Item 1 Business and Note 15 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+Trends in Our Business and Financial Effect 
+
+The following long-term trends have contributed to the results of our consolidated operations, and we anticipate that they will continue to affect our future results: 
+
+&#8226; Users' behaviors and advertising continue to shift online as the digital economy evolves. 
+
+The continuing evolution of the online world has contributed to the growth of our business and our revenues since inception. We expect that this evolution will continue to benefit our business and our revenues, although at a slower pace than we have experienced historically, in particular after the outsized growth in our advertising revenues during the COVID-19 pandemic. In addition, we face increasing competition for user engagement and advertisers, which may affect our revenues. 
+
+&#8226; Users continue to access our products and services using diverse devices and modalities, which allows for new advertising formats that may benefit our revenues but adversely affect our margins. 
+
+Our users are accessing our products and services via diverse devices and modalities, such as smartphones, wearables, connected TVs, and smart home devices, and want to be able to be connected no matter where they are or what they are doing. We are focused on expanding our products and services to stay in front of these trends in order to maintain and grow our business. 
+
+We benefit from advertising revenues generated from different channels, including mobile, and newer advertising formats. The margins from these channels and newer products have generally been lower than those from traditional desktop search. Additionally, as the market for a particular device type or modality matures, our advertising revenues may be affected. For example, changing dynamics within the global smartphone market, such as increased market saturation in developed countries, can affect our mobile advertising revenues. 
+
+We expect TAC paid to our distribution partners and Google Network partners to increase as our revenues grow and TAC as a percentage of our advertising revenues ("TAC rate") to be affected by changes in device mix; geographic mix; partner agreement terms; partner mix; the percentage of queries channeled through paid access points; product mix; the relative revenue growth rates of advertising revenues from different channels; and revenue share terms. 
+
+We expect these trends to continue to affect our revenues and put pressure on our margins. 
+
+&#8226; As online advertising evolves, we continue to expand our product offerings, which may affect our monetization. 
+
+As interactions between users and advertisers change, and as online user behavior evolves, we continue to expand our product offerings to serve these changing needs, which may affect our monetization. For example, revenues from ads on YouTube and Google Play monetize at a lower rate than our traditional search ads. We also expect to continue to incorporate AI innovations into our products, such as AI in Search, that could affect our monetization trends. When developing new products and services we generally focus first on user experience and then on monetization. 
+
+&#8226; As users in developing economies increasingly come online, our revenues from international markets continue to increase, and may require continued investments. In addition, movements in foreign exchange rates affect such revenues. 
+
+29. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+The shift to online, as well as the advent of the multi-device world, has brought opportunities outside of the U.S., including in emerging markets, such as India. We continue to invest heavily and develop localized versions of our products and advertising programs relevant to our users in these markets. This has led to a trend of increased revenues from emerging markets. We expect that our results will continue to be affected by our performance in these markets, particularly as low-cost mobile devices become more available. This trend could affect our revenues as developing markets initially monetize at a lower rate than more mature markets. 
+
+International revenues represent a significant portion of our revenues and are subject to fluctuations in foreign currency exchange rates relative to the U.S. dollar. While we have a foreign exchange risk management program designed to reduce our exposure to these fluctuations, this program does not fully offset their effect on our revenues and earnings. 
+
+&#8226; The revenues that we derive beyond advertising are increasing and may adversely affect our margins. 
+
+Revenues from cloud, consumer subscriptions, platforms, and devices, which may have differing characteristics than our advertising revenues, have grown over time, and we expect this trend to continue as we focus on expanding our products and services. The margins on these revenues vary significantly and are generally lower than the margins on our advertising revenues. For example, sales of our devices adversely affect our consolidated margins due to pressures on pricing and higher cost of sales. 
+
+&#8226; As we continue to serve our users and expand our businesses, we will invest heavily in operating and capital expenditures. 
+
+We continue to make significant research and development investments in areas of strategic focus as we seek to develop new, innovative offerings, improve our existing offerings, and rapidly and responsibly deploy AI across our businesses. We also expect to increase, relative to 2023, our investment in our technical infrastructure, including servers, network equipment, and data centers, to support the growth of our business and our long-term initiatives, in particular in support of AI products and services. In addition, acquisitions and strategic investments contribute to the breadth and depth of our offerings, expand our expertise in engineering and other functional areas, and build strong partnerships around strategic initiatives. 
+
+&#8226; We continue to face an evolving regulatory environment, and we are subject to claims, lawsuits, investigations, and other forms of potential legal liability, which could affect our business practices and financial results. 
+
+Changes in social, political, economic, tax, and regulatory conditions or in laws and policies governing a wide range of topics and related legal matters, including investigations, lawsuits, and regulatory actions, have resulted in fines and caused us to change our business practices. As these global trends continue, our cost of doing business may increase, our ability to pursue certain business models or offer certain products or services may be limited, and we may need to change our business practices to comply with evolving regulatory and legal matters. Examples include the antitrust complaints filed by the U.S. Department of Justice and a number of state Attorneys General; legislative proposals and pending litigation in the U.S., EU, and around the world that could diminish or eliminate safe harbor protection for websites and online platforms; and the Digital Markets Act and Digital Services Act in Europe and various legislative proposals in the U.S. focused on large technology platforms. For additional information, see Item 1A Risk Factors and Legal Matters in Note 10 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K. 
+
+&#8226; Our employees are critical to our success and we expect to continue investing in them. 
+
+Our employees are among our best assets and are critical for our continued success. We expect to continue hiring talented employees around the globe and to provide competitive compensation programs. For additional information, see Culture and Workforce in Part I, Item 1 Business of this Annual Report on Form 10-K. 
+
+Revenues and Monetization Metrics 
+
+We generate revenues by delivering relevant, cost-effective online advertising; cloud-based solutions that provide enterprise customers of all sizes with infrastructure and platform services as well as communication and collaboration tools; sales of other products and services, such as apps and in-app purchases, and devices; and fees received for consumer subscription-based products. For additional information on how we recognize revenue, see Note 1 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+In addition to the long-term trends and their financial effect on our business discussed above, fluctuations in our revenues have been, and may continue to be, affected by a combination of general factors, including: 
+
+&#8226; changes in foreign currency exchange rates; 
+
+30. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+&#8226; changes in pricing, such as those resulting from changes in fee structures, discounts, and customer incentives; 
+
+&#8226; general economic conditions and various external dynamics, including geopolitical events, regulations, and other measures and their effect on advertiser, consumer, and enterprise spending; 
+
+&#8226; new product and service launches; and 
+
+&#8226; seasonality. 
+
+Additionally, fluctuations in our revenues generated from advertising ("Google advertising"), revenues from other sources ("Google subscriptions, platforms, and devices revenues"), Google Cloud, and Other Bets revenues have been, and may continue to be, affected by other factors unique to each set of revenues, as described below. 
+
+Google Services 
+
+Google Services revenues consist of Google advertising as well as Google subscriptions, platforms, and devices revenues. 
+
+Google Advertising 
+
+Google advertising revenues are comprised of the following: 
+
+&#8226; Google Search &#38; other, which includes revenues generated on Google search properties (including revenues from traffic generated by search distribution partners who use Google.com as their default search in browsers, toolbars, etc.), and other Google owned and operated properties like Gmail, Google Maps, and Google Play; 
+
+&#8226; YouTube ads, which includes revenues generated on YouTube properties; and 
+
+&#8226; Google Network, which includes revenues generated on Google Network properties participating in AdMob, AdSense, and Google Ad Manager. 
+
+We use certain metrics to track how well traffic across various properties is monetized as it relates to our advertising revenues: paid clicks and cost-per-click pertain to traffic on Google Search &#38; other properties, while impressions and cost-per-impression pertain to traffic on our Google Network properties. 
+
+Paid clicks represent engagement by users and include clicks on advertisements by end-users on Google search properties and other Google owned and operated properties including Gmail, Google Maps, and Google Play. Cost-per-click is defined as click-driven revenues divided by our total number of paid clicks and represents the average amount we charge advertisers for each engagement by users. 
+
+Impressions include impressions displayed to users on Google Network properties participating primarily in AdMob, AdSense, and Google Ad Manager. Cost-per-impression is defined as impression-based and click-based revenues divided by our total number of impressions, and represents the average amount we charge advertisers for each impression displayed to users. 
+
+As our business evolves, we periodically review, refine, and update our methodologies for monitoring, gathering, and counting the number of paid clicks and the number of impressions, and for identifying the revenues generated by the corresponding click and impression activity. 
+
+Fluctuations in our advertising revenues, as well as the change in paid clicks and cost-per-click on Google Search &#38; other properties and the change in impressions and cost-per-impression on Google Network properties and the correlation between these items have been, and may continue to be, affected by factors in addition to the general factors described above, such as: 
+
+&#8226; advertiser competition for keywords; 
+
+&#8226; changes in advertising quality, formats, delivery or policy; 
+
+&#8226; changes in device mix; 
+
+&#8226; seasonal fluctuations in internet usage, advertising expenditures, and underlying business trends, such as traditional retail seasonality; and 
+
+&#8226; traffic growth in emerging markets compared to more mature markets and across various verticals and channels. 
+
+31. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+Google Subscriptions, Platforms, and Devices 
+
+Google subscriptions, platforms, and devices revenues are comprised of the following: 
+
+&#8226; consumer subscriptions, which primarily include revenues from YouTube services, such YouTube TV, YouTube Music and Premium, and NFL Sunday Ticket, as well as Google One; 
+
+&#8226; platforms, which primarily include revenues from Google Play from the sales of apps and in-app purchases; 
+
+&#8226; devices, which primarily include sales of the Pixel family of devices; and 
+
+&#8226; other products and services. 
+
+Fluctuations in our Google subscriptions, platforms, and devices revenues have been, and may continue to be, affected by factors in addition to the general factors described above, such as changes in customer usage and demand, number of subscribers, and fluctuations in the timing of product launches. 
+
+Google Cloud 
+
+Google Cloud revenues are comprised of the following: 
+
+&#8226; Google Cloud Platform, which generates consumption-based fees and subscriptions for infrastructure, platform, and other services. These services provide access to solutions such as cybersecurity, databases, analytics, and AI offerings including our AI infrastructure, Vertex AI platform, and Duet AI for Google Cloud; 
+
+&#8226; Google Workspace, which includes subscriptions for cloud-based communication and collaboration tools for enterprises, such as Calendar, Gmail, Docs, Drive, and Meet, with integrated features like Duet AI in Google Workspace; and 
+
+&#8226; other enterprise services. 
+
+Fluctuations in our Google Cloud revenues have been, and may continue to be, affected by factors in addition to the general factors described above, such as customer usage. 
+
+Other Bets 
+
+Revenues from Other Bets are generated primarily from the sale of healthcare-related services and internet services. 
+
+Costs and Expenses 
+
+Our cost structure has two components: cost of revenues and operating expenses. Our operating expenses include costs related to R&#38;D, sales and marketing, and general and administrative functions. Certain of our costs and expenses, including those associated with the operation of our technical infrastructure as well as components of our operating expenses, are generally less variable in nature and may not correlate to changes in revenue. Additionally, fluctuations in compensation expenses may not directly correlate with changes in headcount, in particular due to annual stock-based compensation (SBC) awards that generally vest over four years. 
+
+Cost of Revenues 
+
+Cost of revenues is comprised of TAC and other costs of revenues. 
+
+&#8226; TAC includes: 
+
+&#9702; amounts paid to our distribution partners who make available our search access points and services. Our distribution partners include browser providers, mobile carriers, original equipment manufacturers, and software developers; and 
+
+&#9702; amounts paid to Google Network partners primarily for ads displayed on their properties. 
+
+&#8226; Other cost of revenues primarily includes: 
+
+&#9702; compensation expense related to our data centers and other operations such as content review and customer and product support; 
+
+&#9702; content acquisition costs, which are payments to content providers from whom we license video and other content for distribution on YouTube and Google Play (we pay fees to these content providers based on revenues generated or a flat fee); 
+
+&#9702; depreciation expense related to our technical infrastructure; and 
+
+&#9702; inventory and other costs related to the devices we sell. 
+
+32. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+TAC as a percentage of revenues generated from ads placed on Google Network properties are significantly higher than TAC as a percentage of revenues generated from ads placed on Google Search &#38; other properties, because most of the advertiser revenues from ads served on Google Network properties are paid as TAC to our Google Network partners. 
+
+Operating Expenses 
+
+Operating expenses are generally incurred during our normal course of business, which we categorize as either R&#38;D, sales and marketing, or general and administrative. 
+
+The main components of our R&#38;D expenses are: 
+
+&#8226; compensation expenses for engineering and technical employees responsible for R&#38;D related to our existing and new products and services; 
+
+&#8226; depreciation; and 
+
+&#8226; third-party services fees primarily relating to consulting and outsourced services in support of our engineering and product development efforts. 
+
+The main components of our sales and marketing expenses are: 
+
+&#8226; compensation expenses for employees engaged in sales and marketing, sales support, and certain customer service functions; and 
+
+&#8226; spending relating to our advertising and promotional activities in support of our products and services. 
+
+The main components of our general and administrative expenses are: 
+
+&#8226; compensation expenses for employees in finance, human resources, information technology, legal, and other administrative support functions; 
+
+&#8226; expenses relating to legal matters, including certain fines and settlements; and 
+
+&#8226; third-party services fees, including audit, consulting, outside legal, and other outsourced administrative services. 
+
+Other Income (Expense), Net 
+
+OI&#38;E, net primarily consists of interest income (expense), the effect of foreign currency exchange gains (losses), net gains (losses) and impairment on our marketable and non-marketable securities, performance fees, and income (loss) and impairment from our equity method investments. 
+
+For additional information, including how we account for our investments and factors that can drive fluctuations in the value of our investments, see Note 1 and Note 3 of the Notes to Consolidated Financial Statements included in Part II, Item 8 as well as Item 7A Quantitative and Qualitative Disclosures About Market Risk of this Annual Report on Form 10-K. 
+
+Provision for Income Taxes 
+
+Provision for income taxes represents the estimated amount of federal, state, and foreign income taxes incurred in the U.S. and the many jurisdictions in which we operate. The provision includes the effect of reserve provisions and changes to reserves that are considered appropriate as well as the related net interest and penalties. 
+
+For additional information, including a reconciliation of the U.S. federal statutory rate to our effective tax rate, see Note 14 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+33. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+Executive Overview 
+
+The following table summarizes our consolidated financial results (in millions, except for per share information and percentages): 
+
+##TABLE_START Year Ended December 31, 2022 2023 $ Change % Change Consolidated revenues $ 282,836 $ 307,394 $ 24,558 9 % 
+
+Change in consolidated constant currency revenues (1) 
+
+10 % Cost of revenues $ 126,203 $ 133,332 $ 7,129 6 % Operating expenses $ 81,791 $ 89,769 $ 7,978 10 % Operating income $ 74,842 $ 84,293 $ 9,451 13 % Operating margin 26 % 27 % 1 % Other income (expense), net $ (3,514) $ 1,424 $ 4,938 NM Net income $ 59,972 $ 73,795 $ 13,823 23 % Diluted EPS $ 4.56 $ 5.80 $ 1.24 27 % ##TABLE_END NM = Not Meaningful 
+
+(1) See "Use of Non-GAAP Constant Currency Information" below for details relating to our use of constant currency information. 
+
+&#8226; Revenues were $307.4 billion, an increase of 9% year over year, primarily driven by an increase in Google Services revenues of $19.0 billion, or 8%, and an increase in Google Cloud revenues of $6.8 billion, or 26%. 
+
+&#8226; Total constant currency revenues, which exclude the effect of hedging, increased 10% year over year. 
+
+&#8226; Cost of revenues was $133.3 billion, an increase of 6% year over year, primarily driven by increases in content acquisition costs, compensation expenses, and TAC. The increase in compensation expenses included charges related to employee severance associated with the reduction in our workforce. Additionally, cost of revenues benefited from a reduction in depreciation due to the change in estimated useful lives of our servers and network equipment. 
+
+&#8226; Operating expenses were $89.8 billion, an increase of 10% year over year, primarily driven by an increase in compensation expenses and charges related to our office space optimization efforts. The increase in compensation expenses was largely the result of charges related to employee severance associated with the reduction in our workforce and an increase in SBC expense. Operating expenses benefited from the change in the estimated useful lives of our servers and certain network equipment. 
+
+Other Information: 
+
+&#8226; In January 2023, we announced a reduction of our workforce, and as a result we recorded employee severance and related charges of $2.1 billion for the year ended December 31, 2023. In addition, we are taking actions to optimize our global office space. As a result, exit charges recorded during the year ended December 31, 2023, were $1.8 billion. In addition to these exit charges, for the year ended December 31, 2023, we incurred $269 million in accelerated rent and accelerated depreciation. For additional information, see Note 8 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+&#8226; In January 2023, we completed an assessment of the useful lives of our servers and network equipment, resulting in a change in the estimated useful life of our servers and certain network equipment to six years. The effect of this change was a reduction in depreciation expense of $3.9 billion for the year ended December 31, 2023, recognized primarily in cost of revenues and R&#38;D expenses. For additional information, see Note 1 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+34. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+&#8226; On July 21, 2023, the IRS announced a rule change allowing taxpayers to temporarily apply the regulations in effect prior to 2022 related to U.S. federal foreign tax credits. This announcement applies to foreign taxes paid or accrued in the fiscal years 2022 and 2023. A cumulative one-time adjustment applicable to the prior period for this tax rule change was recorded in 2023 and is reflected in our effective tax rate of 13.9% for the year ended December 31, 2023. 
+
+&#8226; Repurchases of Class A and Class C shares were $62.2 billion for the year ended December 31, 2023. For additional information, see Note 11 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+&#8226; Operating cash flow was $101.7 billion for the year ended December 31, 2023. 
+
+&#8226; Capital expenditures, which primarily reflected investments in technical infrastructure, were $32.3 billion for the year ended December 31, 2023. 
+
+&#8226; As of December 31, 2023, we had 182,502 employees. 
+
+Financial Results 
+
+Revenues 
+
+The following table presents revenues by type (in millions): 
+
+##TABLE_START Year Ended December 31, 2022 2023 Google Search &#38; other $ 162,450 $ 175,033 YouTube ads 29,243 31,510 Google Network 32,780 31,312 Google advertising 224,473 237,855 Google subscriptions, platforms, and devices 
+
+29,055 34,688 Google Services total 253,528 272,543 Google Cloud 26,280 33,088 Other Bets 1,068 1,527 Hedging gains (losses) 1,960 236 Total revenues $ 282,836 $ 307,394 ##TABLE_END
+
+Google Services 
+
+Google advertising revenues 
+
+Google Search &#38; other 
+
+Google Search &#38; other revenues increased $12.6 billion from 2022 to 2023. The overall growth was driven by interrelated factors including increases in search queries resulting from growth in user adoption and usage on mobile devices; growth in advertiser spending; and improvements we have made in ad formats and delivery. 
+
+YouTube ads 
+
+YouTube ads revenues increased $2.3 billion from 2022 to 2023. The growth was driven by our brand and direct response advertising products, both of which benefited from increased spending by our advertisers. 
+
+Google Network 
+
+Google Network revenues decreased $1.5 billion from 2022 to 2023, primarily driven by a decrease in Google Ad Manager and AdSense revenues. 
+
+35. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+Monetization Metrics 
+
+The following table presents changes in monetization metrics for Google Search &#38; other revenues (paid clicks and cost-per-click) and Google Network revenues (impressions and cost-per-impression), expressed as a percentage, from 2022 to 2023: 
+
+##TABLE_START Google Search &#38; other Paid clicks change 7 % Cost-per-click change 1 % Google Network Impressions change 
+
+(5) % Cost-per-impression change 
+
+0 % ##TABLE_END
+
+Changes in paid clicks and impressions are driven by a number of interrelated factors, including changes in advertiser spending; ongoing product and policy changes; and, as it relates to paid clicks, fluctuations in search queries resulting from changes in user adoption and usage, primarily on mobile devices. 
+
+Changes in cost-per-click and cost-per-impression are driven by a number of interrelated factors including changes in device mix, geographic mix, advertiser spending, ongoing product and policy changes, product mix, property mix, and changes in foreign currency exchange rates. 
+
+Google subscriptions, platforms, and devices 
+
+Google subscriptions, platforms, and devices revenues increased $5.6 billion from 2022 to 2023 primarily driven by growth in subscriptions, largely for YouTube services. The growth in YouTube services was primarily due to an increase in paid subscribers. 
+
+Google subscriptions, platforms, and devices revenues increased $1.0 billion from 2021 to 2022 primarily driven by growth in subscription and device revenues, partially offset by a decrease in platform revenues. The growth in subscriptions was largely for YouTube services, primarily due to an increase in paid subscribers. The growth in device revenues was primarily driven by increased sales of Pixel devices. The decrease in platform revenues was primarily due to Google Play, driven by the fee structure changes we announced in 2021 as well as a decrease in buyer spending. Additionally, the overall increase in Google subscriptions, platforms, and devices revenues was adversely affected by the unfavorable effect of foreign currency exchange rates. 
+
+Google Cloud 
+
+Google Cloud revenues increased $6.8 billion from 2022 to 2023. Growth was primarily driven by Google Cloud Platform followed by Google Workspace offerings. Google Cloud's infrastructure and platform services were the largest drivers of growth in Google Cloud Platform. 
+
+Revenues by Geography 
+
+The following table presents revenues by geography as a percentage of revenues, determined based on the addresses of our customers: 
+
+##TABLE_START &#160; Year Ended December 31, &#160; 2022 2023 United States 48 % 47 % EMEA 29 % 30 % APAC 16 % 17 % Other Americas 6 % 6 % Hedging gains (losses) 1 % 0 % ##TABLE_END
+
+For additional information, see Note 2 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+36. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+Use of Non-GAAP Constant Currency Information 
+
+International revenues, which represent a significant portion of our revenues, are generally transacted in multiple currencies and therefore are affected by fluctuations in foreign currency exchange rates. 
+
+The effect of currency exchange rates on our business is an important factor in understanding period-to-period comparisons. We use non-GAAP constant currency revenues ("constant currency revenues") and non-GAAP percentage change in constant currency revenues ("percentage change in constant currency revenues") for financial and operational decision-making and as a means to evaluate period-to-period comparisons. We believe the presentation of results on a constant currency basis in addition to U.S. Generally Accepted Accounting Principles (GAAP) results helps improve the ability to understand our performance, because it excludes the effects of foreign currency volatility that are not indicative of our core operating results. 
+
+Constant currency information compares results between periods as if exchange rates had remained constant period over period. We define constant currency revenues as revenues excluding the effect of foreign currency exchange rate movements ("FX Effect") as well as hedging activities, which are recognized at the consolidated level. We use constant currency revenues to determine the constant currency revenue percentage change on a year-on-year basis. Constant currency revenues are calculated by translating current period revenues using prior year comparable period exchange rates, as well as excluding any hedging effects realized in the current period. 
+
+Constant currency revenue percentage change is calculated by determining the change in current period revenues over prior year comparable period revenues where current period foreign currency revenues are translated using prior year comparable period exchange rates and hedging effects are excluded from revenues of both periods. 
+
+These results should be considered in addition to, not as a substitute for, results reported in accordance with GAAP. Results on a constant currency basis, as we present them, may not be comparable to similarly titled measures used by other companies and are not a measure of performance presented in accordance with GAAP. 
+
+The following table presents the foreign currency exchange effect on international revenues and total revenues (in millions, except percentages): 
+
+##TABLE_START Year Ended December 31, 2023 % Change from Prior Period Year Ended December 31, Less FX Effect Constant Currency Revenues As Reported Less Hedging Effect Less FX Effect Constant Currency Revenues 2022 2023 United States $ 134,814 $ 146,286 $ 0 $ 146,286 9 % 0 % 9 % EMEA 82,062 91,038 460 90,578 11 % 1 % 10 % APAC 47,024 51,514 (1,759) 53,273 10 % (3) % 13 % Other Americas 16,976 18,320 (654) 18,974 8 % (4) % 12 % 
+
+Revenues, excluding hedging effect 
+
+280,876 307,158 (1,953) 309,111 9 % (1) % 10 % Hedging gains (losses) 1,960 236 Total revenues (1) 
+
+$ 282,836 $ 307,394 $ 309,111 9 % 0 % (1) % 10 % ##TABLE_END
+
+(1) Total constant currency revenues of $309.1 billion for 2023 increased $28.2 billion compared to $280.9 billion in revenues, excluding hedging effect, for 2022. 
+
+EMEA revenue growth was favorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar weakening relative to the Euro, partially offset by the U.S. dollar strengthening relative to the Turkish lira. 
+
+APAC revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the Japanese yen. 
+
+Other Americas revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the Argentine peso. 
+
+37. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+Costs and Expenses 
+
+Cost of Revenues 
+
+The following table presents cost of revenues, including TAC (in millions, except percentages): 
+
+##TABLE_START &#160; Year Ended December 31, &#160; 2021 2022 2023 TAC $ 45,566 $ 48,955 $ 50,886 Other cost of revenues 65,373 77,248 82,446 Total cost of revenues $ 110,939 $ 126,203 $ 133,332 Total cost of revenues as a percentage of revenues 43 % 45 % 43 % ##TABLE_END
+
+Cost of revenues increased $7.1 billion from 2022 to 2023 due to an increase in other cost of revenues and TAC of $5.2 billion and $1.9 billion, respectively. 
+
+The increase in TAC from 2022 to 2023 was largely due to an increase in TAC paid to distribution partners, primarily driven by growth in revenues subject to TAC. The TAC rate decreased from 21.8% to 21.4% from 2022 to 2023 primarily due to a revenue mix shift from Google Network properties to Google Search &#38; other properties. The TAC rate on Google Search &#38; other revenues and the TAC rate on Google Network revenues were both substantially consistent from 2022 to 2023. 
+
+The increase in other cost of revenues from 2022 to 2023 was primarily due to increases in content acquisition costs, largely for YouTube, and compensation expenses, which included $479 million of charges related to employee severance associated with the reduction in our workforce. Additionally, other cost of revenues benefited from a reduction in depreciation expense due to the change in estimated useful lives of our servers and network equipment. 
+
+The increase in other cost of revenues of $11.9 billion from 2021 to 2022 was primarily due to increases in device costs, compensation expenses, depreciation, and equipment-related expenses. 
+
+Research and Development 
+
+The following table presents R&#38;D expenses (in millions, except percentages): 
+
+##TABLE_START &#160; Year Ended December 31, &#160; 2022 2023 Research and development expenses $ 39,500 $ 45,427 Research and development expenses as a percentage of revenues 14 % 15 % ##TABLE_END
+
+R&#38;D expenses increased $5.9 billion from 2022 to 2023 primarily driven by an increase in compensation expenses of $2.9 billion, $870 million in charges related to our office space optimization efforts, and an increase in depreciation expense of $722 million. The $2.9 billion increase in compensation expenses was largely the result of a 4% increase in average headcount, after adjusting for roles affected by the reduction in our workforce, and an increase in SBC expense. Additionally, the increase in compensation expenses included $848 million in employee severance charges associated with the reduction in our workforce. The $722 million increase in depreciation expense reflected an offsetting benefit of the change in the estimated useful lives of our servers and network equipment. 
+
+Sales and Marketing 
+
+The following table presents sales and marketing expenses (in millions, except percentages): 
+
+##TABLE_START &#160; Year Ended December 31, &#160; 2022 2023 Sales and marketing expenses $ 26,567 $ 27,917 Sales and marketing expenses as a percentage of revenues 9 % 9 % ##TABLE_END
+
+Sales and marketing expenses increased $1.4 billion from 2022 to 2023, primarily driven by an increase in compensation expenses of $1.6 billion, partially offset by a decrease in advertising and promotional activities of $441 million. The $1.6 billion increase in compensation expenses was largely the result of $497 million in employee severance charges associated with the reduction in our workforce in addition to a combination of other factors, none of which were individually significant. 
+
+38. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+General and Administrative 
+
+The following table presents general and administrative expenses (in millions, except percentages): 
+
+##TABLE_START &#160; Year Ended December 31, &#160; 2022 2023 General and administrative expenses $ 15,724 $ 16,425 General and administrative expenses as a percentage of revenues 6 % 5 % ##TABLE_END
+
+General and administrative expenses increased $701 million from 2022 to 2023, primarily driven by an increase in compensation expenses of $416 million, which was largely the result of $264 million in employee severance charges associated with the reduction in our workforce in addition to a combination of other factors, none of which were individually significant. 
+
+Segment Profitability 
+
+The following table presents segment operating income (loss) (in millions). 
+
+##TABLE_START Year Ended December 31, 2022 2023 Operating income (loss): Google Services $ 82,699 $ 95,858 Google Cloud (1,922) 1,716 Other Bets (4,636) (4,095) Alphabet-level activities (1) 
+
+(1,299) (9,186) Total income from operations $ 74,842 $ 84,293 ##TABLE_END
+
+(1) In addition to the costs included in Alphabet-level activities, hedging gains (losses) related to revenue were $2.0 billion and $236 million in 2022 and 2023, respectively. For the year ended December 31, 2023, Alphabet-level activities include charges related to the reduction in force and our office space optimization efforts totaling $3.9 billion. In addition, for the year ended December 31, 2023, we incurred $269 million in accelerated rent and accelerated depreciation. For additional information relating to our workforce reduction and other initiatives, see Note 8 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. For additional information relating to our segments, see Note 15 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+Google Services 
+
+Google Services operating income increased $13.2 billion from 2022 to 2023. The increase in operating income was primarily driven by an increase in revenues, partially offset by an increase in content acquisition costs and compensation expenses including an increase in SBC expense. Additionally, operating income benefited from a reduction in costs driven by the change in the estimated useful lives of our servers and certain network equipment. 
+
+Google Cloud 
+
+Google Cloud operating income of $1.7 billion for 2023 compared to an operating loss of $1.9 billion for 2022 represents an increase of $3.6 billion. The increase in operating income was primarily driven by an increase in revenues, partially offset by an increase in compensation expenses largely driven by headcount growth. Additionally, operating income benefited from a reduction in costs driven by the change in the estimated useful lives of our servers and certain network equipment. 
+
+Other Bets 
+
+Other Bets operating loss decreased $541 million from 2022 to 2023 primarily due to growth in revenues as well as a reduction in valuation-based compensation liabilities related to Other Bet companies. 
+
+Other Income (Expense), Net 
+
+The following table presents OI&#38;E, (in millions): 
+
+39. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+##TABLE_START &#160; Year Ended December 31, &#160; 2022 2023 Interest income $ 2,174 $ 3,865 
+
+Interest expense 
+
+(357) (308) Foreign currency exchange gain (loss), net (654) (1,238) Gain (loss) on debt securities, net (2,064) (1,215) Gain (loss) on equity securities, net (3,455) 392 Performance fees 798 257 Income (loss) and impairment from equity method investments, net (337) (628) Other 381 299 Other income (expense), net $ (3,514) $ 1,424 ##TABLE_END
+
+OI&#38;E, net increased $4.9 billion from 2022 to 2023. The increase was primarily due to fluctuations in the value of equity securities reflecting market driven changes in the value of our marketable equity securities, investment specific event driven changes in our non-marketable equity securities, and increased interest income due to interest rates. 
+
+For additional information, see Note 7 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+Provision for Income Taxes 
+
+The following table presents provision for income taxes (in millions, except for effective tax rate): 
+
+##TABLE_START &#160; Year Ended December 31, &#160; 2022 2023 Income before provision for income taxes $ 71,328 $ 85,717 Provision for income taxes $ 11,356 $ 11,922 Effective tax rate 15.9 % 13.9 % ##TABLE_END
+
+In 2023, the Internal Revenue Services (IRS) issued a rule change allowing taxpayers to temporarily apply the regulations in effect prior to 2022 related to U.S. federal foreign tax credits, as well as a separate rule change with interim guidance on the capitalization and amortization of R&#38;D expenses. A cumulative one-time adjustment applicable to the prior period for these tax rule changes was recorded in 2023. 
+
+The effective tax rate decreased from 2022 to 2023, reflecting the effect of the two tax rule changes described above, particularly the change related to foreign tax credits. The effect of these tax rule changes was partially offset by changes in uncertain tax benefits and a decrease in the U.S. federal Foreign Derived Intangible Income tax deduction. 
+
+The OECD is coordinating negotiations among more than 140 countries with the goal of achieving consensus around substantial changes to international tax policies, including the implementation of a minimum global effective tax rate of 15%. While various countries have implemented the legislation as of January 1, 2024, we do not expect a resulting material change to our income tax provision for the 2024 fiscal year. As additional jurisdictions enact such legislation, we expect our effective tax rate and cash tax payments could increase in future years. 
+
+Financial Condition 
+
+Cash, Cash Equivalents, and Marketable Securities 
+
+As of December 31, 2023 , we had $110.9 billion in cash, cash equivalents, and short-term marketable securities. Ca sh equivalents and marketable securities a re comprised of time deposits, money market funds, highly liquid government bonds, corporate debt securities, mortgage-backed and asset-backed securities, and marketable equity securities. 
+
+Sources, Uses of Cash and Related Trends 
+
+Our principal sources of liquidity are cash, cash equivalents, and marketable securities, as well as the cash flow that we generate from operations. The primary use of capital continues to be to invest for the long-term growth of the business. We regularly evaluate our cash and capital structure, including the size, pace, and form of capital return to stockholders. 
+
+40. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+The following table presents our cash flows (in millions): ##TABLE_START &#160; Year Ended December 31, &#160; 2022 2023 Net cash provided by operating activities $ 91,495 $ 101,746 Net cash used in investing activities $ (20,298) $ (27,063) Net cash used in financing activities $ (69,757) $ (72,093) ##TABLE_END
+
+Cash Provided by Operating Activities 
+
+Our largest source of cash provided by operations are advertising revenues generated by Google Search &#38; other properties, Google Network properties, and YouTube properties. In Google Services, we also generate cash through consumer subscriptions and the sale of apps and in-app purchases and devices. In Google Cloud we generate cash through consumption-based fees and subscriptions for infrastructure, platform, collaboration tools, and other cloud services. 
+
+Our primary uses of cash from operating activities include payments to distribution and Google Network partners, to employees for compensation, and to content providers. Other uses of cash from operating activities include payments to suppliers for devices, to tax authorities for income taxes, and other general corporate expenditures. 
+
+Net cash provided by operating activities increased from 2022 to 2023 due to the increase in cash received from customers, partially offset by increases in cash paid for cost of revenues and operating expenses. 
+
+Cash Used in Investing Activities 
+
+Cash provided by investing activities consists primarily of maturities and sales of investments in marketable and non-marketable securities. Cash used in investing activities consists primarily of purchases of marketable and non-marketable securities, purchases of property and equipment, and payments for acquisitions. 
+
+Net cash used in investing activities increased from 2022 to 2023 due to a decrease in maturities and sales of marketable securities, partially offset by a decrease in payments for acquisitions. 
+
+Cash Used in Financing Activities 
+
+Cash provided by financing activities consists primarily of proceeds from issuance of debt and proceeds from the sale of interests in consolidated entities. Cash used in financing activities consists primarily of repurchases of stock, net payments related to stock-based award activities, and repayments of debt. 
+
+Net cash used in financing activities increased from 2022 to 2023 due to an increase in repurchases of stock. 
+
+Liquidity and Material Cash Requirements 
+
+We expect existing cash, cash equivalents, short-term marketable securities, cash flows from operations and financing activities to continue to be sufficient to fund our operating activities and cash commitments for investing and financing activities for at least the next 12 months and thereafter for the foreseeable future. 
+
+Capital Expenditures and Leases 
+
+We make investments in land and buildings for data centers and offices and information technology assets through purchases of property and equipment and lease arrangements to provide capacity for the growth of our services and products. 
+
+Capital Expenditures 
+
+Our capital investments in property and equipment consist primarily of the following major categories: 
+
+&#8226; technical infrastructure, which consists of our investments in servers and network equipment for computing, storage, and networking requirements for ongoing business activities, including AI, (collectively referred to as our information technology assets) and data center land and building construction; and 
+
+&#8226; office facilities, ground-up development projects, and building improvements (also referred to as "fit-outs"). 
+
+Construction in progress consists primarily of technical infrastructure and office facilities which have not yet been placed in service. The time frame from date of purchase to placement in service of these assets may extend from months to years. For example, our data center construction projects are generally multi-year projects with multiple phases, where we acquire land and buildings, construct buildings, and secure and install information technology assets. 
+
+41. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+During the years ended December 31, 2022 and 2023, we spent $31.5 billion and $32.3 billion on capital expenditures, respectively. We expect to increase, relative to 2023, our investment in our technical infrastructure, including servers, network equipment, and data centers, to support the growth of our business and our long-term initiatives, in particular in support of AI products and services. Depreciation of our property and equipment commences when the deployment of such assets are completed and are ready for our intended use. Land is not depreciated. For the years ended December 31, 2022 and 2023, our depreciation on property and equipment were $13.5 billion and $11.9 billion, respectively. 
+
+Leases 
+
+For the years ended December 31, 2022 and 2023, we recognized total operating lease assets of $4.4 billion and $2.9 billion, respectively. As of December 31, 2023, the amount of total future lease payments under operating leases, which had a weighted average remaining lease term of eight years, was $17.7 billion, of which $3.2 billion is short-term. As of December 31, 2023, we have entered into leases that have not yet commenced with future short-term and long-term lease payments of $657 million and $3.3 billion, that are not yet recorded on our Consolidated Balance Sheets. These leases will commence between 2024 and 2026 with non-cancelable lease terms of one to 25 years. 
+
+For the years ended December 31, 2022 and 2023, our operating lease expenses (including variable lease costs) were $3.7 billion and $4.5 billion, respectively. Finance lease costs were not material for the years ended December 31, 2022 and 2023. For additional information, see Note 4 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+Financing 
+
+We have a short-term debt financing program of up to $10.0 billion through the issuance of commercial paper. Net proceeds from this program are used for general corporate purposes. As of December 31, 2023, we had no commercial paper outstanding. 
+
+As of December 31, 2023, we had $10.0 billion of revolving credit facilities, $4.0 billion expiring in April 2024 and $6.0 billion expiring in April 2028. The interest rates for all credit facilities are determined based on a formula using certain market rates, as well as our progress toward the achievement of certain sustainability goals . No amounts have been borrowed under the credit facilities. 
+
+As of December 31, 2023, we had senior unsecured notes outstanding with a total carrying value of $12.9 billion with short-term and long-term future interest payments of $214 million and $3.6 billion, respectively. For additional information, see Note 6 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+We primarily utilize contract manufacturers for the assembly of our servers used in our technical infrastructure and devices we sell. We have agreements where we may purchase components directly from suppliers and then supply these components to contract manufacturers for use in the assembly of the servers and devices. Certain of these arrangements result in a portion of the cash received from and paid to the contract manufacturers to be presented as financing activities in the Consolidated Statements of Cash Flows included in Item 8 of this Annual Report on Form 10-K. 
+
+Share Repurchase Program 
+
+During 2023 we repurchased and subsequently retired 528 million shares for $62.2 billion. 
+
+In April 2023, the Board of Directors of Alphabet authorized the company to repurchase up to an additional $70.0 billion of its Class A and Class C shares. As of December 31, 2023, $36.3 billion remains available for Class A and Class C share repurchases. 
+
+The following table presents Class A and Class C shares repurchased and subsequently retired (in millions): 
+
+##TABLE_START Year Ended December 31, 2022 Year Ended December 31, 2023 Shares Amount Shares Amount Class A share repurchases 61 $ 6,719 78 $ 9,316 Class C share repurchases 469 52,577 450 52,868 Total share repurchases (1) 
+
+530 $ 59,296 528 $ 62,184 ##TABLE_END (1) Shares repurchased include unsettled repurchases as of December 31, 2023. 
+
+For additional information, see Note 11 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+42. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+European Commission Fines 
+
+In 2017, 2018 and 2019, the EC announced decisions that certain actions taken by Google infringed European competition law and imposed fines of &#8364;2.4 billion ($2.7 billion as of June 27, 2017), &#8364;4.3 billion ($5.1 billion as of June 30, 2018), and &#8364;1.5 billion ($1.7 billion as of March 20, 2019), respectively. On September 14, 2022, the General Court reduced the 2018 fine from &#8364;4.3 billion to &#8364;4.1 billion. We subsequently filed an appeal to the European Court of Justice. 
+
+While each EC decision is under appeal, we included the fines in accrued expenses and other current liabilities on our Consolidated Balance Sheets as we provided bank guarantees (in lieu of a cash payment) for the fines. For additional information, see Note 10 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+Taxes 
+
+As of December 31, 2023 , we had income taxes payabl e of $4.2 billion, of which $2.1 billion was short-term, related to a one-time transition tax payable incurred as a result of the U.S. Tax Cuts and Jobs Act ("Tax Act"). As permitted by the Tax Act, we will pay the transition tax in annual interest-free installments through 2025. We also have long-term taxes payable of $6.3 billion primarily related to uncertain tax positions as of December 31, 2023 . 
+
+Purchase Commitments and Other Contractual Obligations 
+
+As of December 31, 2023, we had material purchase commitments and other contractual obligations of $45.9 billion , of which $31.6 billion was short-term. These amounts primarily consist of purchase orders for certain technical infrastructure as well as the non-cancelable portion or the minimum cancellation fee in certain agreements related to commitments to purchase licenses, including content licenses, inventory and network capacity. For those agreements with variable terms, we do not estimate the non-cancelable obligation beyond any minimum quantities and/or pricing as of December 31, 2023. In certain instances, the amount of our contractual obligations may change based on the expected timing of order fulfillment from our suppliers. For more information related to our content licenses, see Note 10 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+In addition, we regularly enter into multi-year, non-cancellable agreements to purchase renewable energy and energy attributes, such as renewable energy certificates. These agreements do not include a minimum dollar commitment. The amounts to be paid under these agreements are based on the actual volumes to be generated and are not readily determinable. 
+
+Critical Accounting Estimates 
+
+We prepare our consolidated financial statements in accordance with GAAP. In doing so, we have to make estimates and assumptions. Our critical accounting estimates are those estimates that involve a significant level of uncertainty at the time the estimate was made, and changes in them have had or are reasonably likely to have a material effect on our financial condition or results of operations. Accordingly, actual results could differ materially from our estimates. We base our estimates on past experience and other assumptions that we believe are reasonable under the circumstances, and we evaluate these estimates on an ongoing basis. We have reviewed our critical accounting estimates with the Audit and Compliance Committee of our Board of Directors. 
+
+For a summary of significant accounting policies and the effect on our financial statements, see Note 1 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+Fair Value Measurements of Non-Marketable Equity Securities 
+
+We measure certain financial instruments at fair value on a nonrecurring basis, consisting primarily of our non-marketable equity securities. These investments are accounted for under the measurement alternative method ("the measurement alternative") and are measured at cost, less impairment, subject to upward and downward adjustments resulting from observable price changes for identical or similar investments of the same issuer. These adjustments require quantitative assessments of the fair value of our securities, which may require the use of unobservable inputs. Adjustments are determined primarily based on a market approach as of the transaction date and involve the use of estimates using the best information available, which may include cash flow projections or other available market data. 
+
+Non-marketable equity securities are also evaluated for impairment, based on qualitative factors including the companies' financial and liquidity position and access to capital resources, among others. When indicators of impairment exist, we prepare quantitative measurements of the fair value of our equity investments using a market approach or an income approach, which requires judgment and the use of unobservable inputs, including discount rates, investee revenues and costs, and comparable market data of private and public companies, among others. 
+
+43. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
+When the quantitative remeasurements of fair value indicate an impairment exists, we write down the investment to its current fair value. 
+
+We also have compensation arrangements with payouts based on realized returns from certain investments, i.e. performance fees. We record compensation expense based on the estimated payouts on an ongoing basis, which may result in expense recognized before investment returns are realized and compensation is paid and may require the use of unobservable inputs. 
+
+Property and Equipment 
+
+We assess the reasonableness of the useful lives of our property and equipment periodically as well as when other changes occur, such as when there are changes to ongoing business operations, changes in the planned use and utilization of assets, or technological advancements, that could indicate a change in the period over which we expect to benefit from the assets. 
+
+Income Taxes 
+
+We are subject to income taxes in the U.S. and foreign jurisdictions. Significant judgment is required in evaluating our uncertain tax positions and determining our provision for income taxes. 
+
+Recording an uncertain tax position involves various qualitative considerations, including evaluation of comparable and resolved tax exposures, applicability of tax laws, and likelihood of settlement. We evaluate uncertain tax positions periodically, considering changes in facts and circumstances, such as new regulations or recent judicial opinions, as well as the status of audit activities by taxing authorities. Although we believe we have adequately reserved for our uncertain tax positions, no assurance can be given that the final tax outcome of these matters will not be different. To the extent that the final tax outcome of these matters is different than the amounts recorded, such differences will affect the provision for income taxes and the effective tax rate in the period in which such determination is made. 
+
+The provision for income taxes includes the effect of reserve provisions and changes to reserves as well as the related net interest and penalties. In addition, we are subject to the continuous examination of our income tax returns by the IRS and other tax authorities which may assert assessments against us. We regularly assess the likelihood of adverse outcomes resulting from these examinations and assessments to determine the adequacy of our provision for income taxes. 
+
+Loss Contingencies 
+
+We are regularly subject to claims, lawsuits, regulatory and government investigations, other proceedings, and consent orders involving competition, intellectual property, privacy, data security, tax and related compliance, labor and employment, commercial disputes, content generated by our users, goods and services offered by advertisers or publishers using our platforms, personal injury consumer protection, and other matters. Certain of these matters include speculative claims for substantial or indeterminate amounts of damages. We record a liability when we believe that it is probable that a loss has been incurred and the amount can be reasonably estimated. If we determine that a loss is reasonably possible and the loss or range of loss can be estimated, we disclose the possible loss in Note 10 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+We evaluate, on a regular basis, developments in our legal matters that could affect the amount of liability that has been previously accrued, and the matters and related reasonably possible losses disclosed, and make adjustments and changes to our disclosures. Significant judgment is required to determine both the likelihood and the estimated amount of a loss related to such matters. Until the final resolution of such matters, there may be an exposure to loss in excess of the amount recorded, and such amounts could be material. 
+
+Change in Accounting Estimate 
+
+In January 2023, we completed an assessment of the useful lives of our servers and network equipment resulting in a change in the estimated useful life of our servers and certain network equipment to six years. This change in accounting estimate was effective beginning fiscal year 2023. For additional information, see Note 1 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. 
+
+44. 
+
+##TABLE_START 
+
+Alphabet Inc. ##TABLE_END
+
