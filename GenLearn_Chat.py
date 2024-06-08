@@ -210,7 +210,7 @@ title_col, empty_col, img_col = st.columns([2, 1, 2])
 with title_col:
     st.title("GraphRAG - GenLearn for 10K SEC Data")
 with img_col:
-    st.image("./GenLearn_logo.jpg", width=500)
+    st.image("./GenLearn_logo.jpg", width=350)
 
 # Adding the live link
 st.markdown("[Source URL](https://github.com/a01793474/TC5035-graphRAG_FIN-Equipo-22/tree/main/sec_10K_data/aapl-20230930)")
