@@ -46,7 +46,7 @@ except Exception as e:
 parent_query = """
 MATCH (node)<-[:HAS_CHILD]-(parent)
 WITH parent, max(score) AS score // deduplicate parents
-RETURN parent.text AS text, score, {} AS metadata LIMIT 1
+RETURN parent.text AS text, score, parent.id AS parent_id_string, {parent_id_string: parent.id} AS metadata LIMIT 1
 """
 
 try:
@@ -63,7 +63,7 @@ except Exception as e:
 hypothetic_question_query = """
 MATCH (node)<-[:HAS_QUESTION]-(parent)
 WITH parent, max(score) AS score // deduplicate parents
-RETURN parent.text AS text, score, {} AS metadata
+RETURN parent.text AS text, score, parent.id AS parent_id_string, {parent_id_string: parent.id} AS metadata
 """
 
 try:
@@ -80,7 +80,7 @@ except Exception as e:
 summary_query = """
 MATCH (node)<-[:HAS_SUMMARY]-(parent)
 WITH parent, max(score) AS score // deduplicate parents
-RETURN parent.text AS text, score, {} AS metadata
+RETURN parent.text AS text, score, parent.id AS parent_id_string, {parent_id_string: parent.id} AS metadata
 """
 
 try:
@@ -135,18 +135,55 @@ except Exception as e:
     print(f"Failed to initialize vector_summary: {e}")
     vector_summary = None
 
-def query_graph(user_input):
+def retrieve_metadata(user_input, retriever):
+    try:
+        print("Retrieving metadata with input:", user_input)  # Debugging print statement
+
+        result = None
+        if retriever == "Typical RAG retriever" and typical_rag:
+            result = typical_rag.similarity_search_with_score(user_input, k=1)
+        elif retriever == "Parent retriever" and parent_vectorstore:
+            result = parent_vectorstore.similarity_search_with_score(user_input, k=1)
+        elif retriever == "Hypothetic questions retriever" and hypothetic_question_vectorstore:
+            result = hypothetic_question_vectorstore.similarity_search_with_score(user_input, k=1)
+        elif retriever == "Summary retriever" and summary_vectorstore:
+            result = summary_vectorstore.similarity_search_with_score(user_input, k=1)
+        else:
+            print(f"{retriever} is not initialized")
+            return None
+
+        print("Raw retrieval result:", result)  # Debugging print statement
+
+        if result and isinstance(result, list) and len(result) > 0:
+            metadata = result[0][0].metadata
+            print(f"Metadata retrieved: {metadata}")
+            return metadata
+        else:
+            print("No metadata retrieved")
+            return None
+    except Exception as e:
+        print(f"Error during metadata retrieval: {e}")
+        return None
+
+def query_graph(user_input, retriever):
     try:
         print("Invoking vector function with input:", user_input)  # Debugging print statement
 
-        # Assuming vector_parent.invoke is a synchronous call and returns a result
-        if vector_parent:
+        result = None
+        if retriever == "Typical RAG retriever" and vector_typrag:
+            result = vector_typrag.invoke(user_input)
+        elif retriever == "Parent retriever" and vector_parent:
             result = vector_parent.invoke(user_input)
-            print("Result from vector function:", result)  # Debugging print statement
-            return result
+        elif retriever == "Hypothetic questions retriever" and vector_hypquestion:
+            result = vector_hypquestion.invoke(user_input)
+        elif retriever == "Summary retriever" and vector_summary:
+            result = vector_summary.invoke(user_input)
         else:
-            print("vector_parent is not initialized")
-            return {"result": "vector_parent is not initialized"}
+            print(f"{retriever} is not initialized")
+            return {"result": f"{retriever} is not initialized"}
+
+        print("Result from vector function:", result)  # Debugging print statement
+        return result
     except Exception as e:
         print(f"Error during query_graph: {e}")
         return {"result": f"Error processing the request: {str(e)}"}
@@ -165,13 +202,25 @@ if "last_time_taken" not in st.session_state:
     st.session_state.last_time_taken = 0.0
 if "question_asked" not in st.session_state:
     st.session_state.question_asked = False
+if "retriever" not in st.session_state:
+    st.session_state.retriever = "Typical RAG retriever"  # Default retriever
 
 title_col, empty_col, img_col = st.columns([2, 1, 2])
 
 with title_col:
     st.title("GraphRAG - GenLearn for 10K SEC Data")
 with img_col:
-    st.image("./GenLearn_logo.jpg", width=210)
+    st.image("./GenLearn_logo.jpg", width=300)
+
+# Adding the live link
+st.markdown("[Source URL](https://github.com/a01793474/TC5035-graphRAG_FIN-Equipo-22/tree/main/sec_10K_data/aapl-20230930)")
+
+# Add a dropdown list for retriever selection
+st.session_state.retriever = st.selectbox(
+    "Select Retriever",
+    ["Typical RAG retriever", "Parent retriever", "Hypothetic questions retriever", "Summary retriever"],
+    index=["Typical RAG retriever", "Parent retriever", "Hypothetic questions retriever", "Summary retriever"].index(st.session_state.retriever)
+)
 
 def submit():
     user_input = st.session_state.input
@@ -179,10 +228,17 @@ def submit():
     start = timer()
 
     try:
-        result = query_graph(user_input)
+        # First, retrieve metadata separately
+        metadata = retrieve_metadata(user_input, st.session_state.retriever)
+        source_id = metadata.get("parent_id_string", "Unknown") if metadata else "Unknown"
+
+        # Then, get the answer using RetrievalQA
+        result = query_graph(user_input, st.session_state.retriever)
+        print(f"Debug result: {result}")  # Debugging print statement
         answer = result["result"]
-        st.session_state.system_msgs.append(answer)
-        st.session_state.last_result = answer
+        answer_with_source = f"{answer} (Source ID: {source_id})"
+        st.session_state.system_msgs.append(answer_with_source)
+        st.session_state.last_result = answer_with_source
     except Exception as e:
         result = {"result": f"Error processing the request: {str(e)}"}
         st.session_state.system_msgs.append(result["result"])
@@ -205,13 +261,13 @@ col1, col2 = st.columns([1, 1])
 # Display the chat history
 with col1:
     if st.session_state["user_msgs"]:
-        st.markdown("### User Questions")
+        st.markdown("### Questions")
         for i in range(len(st.session_state["user_msgs"]) - 1, -1, -1):
             message(st.session_state["user_msgs"][i], is_user=True)
 
 with col2:
     if st.session_state["system_msgs"]:
-        st.markdown("### GenLearn Answers")
+        st.markdown("### Answers")
         for i in range(len(st.session_state["system_msgs"]) - 1, -1, -1):
             message(st.session_state["system_msgs"][i], is_user=False)
 
