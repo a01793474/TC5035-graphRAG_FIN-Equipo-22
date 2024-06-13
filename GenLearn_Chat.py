@@ -215,6 +215,7 @@ with img_col:
 # Adding the live link
 st.markdown("[Source URL](https://github.com/a01793474/TC5035-graphRAG_FIN-Equipo-22/tree/main/sec_10K_data/aapl-20230930)")
 
+
 # Add a dropdown list for retriever selection
 st.session_state.retriever = st.selectbox(
     "Select Retriever",
