@@ -7,32 +7,51 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings, AzureOpenAIEmbeddings
 from neo4j.exceptions import ClientError
 from time import sleep
 
-# Load environment variables from .env file
-load_dotenv('.env', override=True)
+# Configure the Streamlit page layout
+st.set_page_config(layout="wide")
 
-# Azure OpenAI endpoint and API key from environment variables
-AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
-AZURE_OPENAI_API_KEY = os.getenv("AZURE_OPENAI_API_KEY")
+# Load environment variables from .env file
+@st.cache_resource
+def load_environment_variables():
+    load_dotenv('.env', override=True)
+    return {
+        "AZURE_OPENAI_ENDPOINT": os.getenv("AZURE_OPENAI_ENDPOINT"),
+        "AZURE_OPENAI_API_KEY": os.getenv("AZURE_OPENAI_API_KEY"),
+        "NEO4J_URI": os.getenv("NEO4J_URI"),
+        "NEO4J_USERNAME": os.getenv("NEO4J_USERNAME"),
+        "NEO4J_PASSWORD": os.getenv("NEO4J_PASSWORD"),
+    }
+
+env_vars = load_environment_variables()
+
+# Azure OpenAI credentials from environment variables
+AZURE_OPENAI_ENDPOINT = env_vars["AZURE_OPENAI_ENDPOINT"]
+AZURE_OPENAI_API_KEY = env_vars["AZURE_OPENAI_API_KEY"]
 
 # Embeddings configuration
 embedding_dimension = 1536
 embeddings = AzureOpenAIEmbeddings(azure_deployment="text-embedding-3", api_version="2024-02-01", dimensions=embedding_dimension)
 
 # Language model configuration
-llm = AzureChatOpenAI(azure_deployment='chat_gtp_35', api_version="2023-05-15", temperature=0)
+llm = AzureChatOpenAI(azure_deployment='Chat_gpt_4', api_version="2023-05-15", temperature=0)
 
 # Neo4j database credentials from environment variables
-NEO4J_URI = os.getenv("NEO4J_URI")
-NEO4J_USERNAME = os.getenv("NEO4J_USERNAME")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
+NEO4J_URI = env_vars["NEO4J_URI"]
+NEO4J_USERNAME = env_vars["NEO4J_USERNAME"]
+NEO4J_PASSWORD = env_vars["NEO4J_PASSWORD"]
 
-# Attempt to connect to Neo4j database
-try:
-    graph = Neo4jGraph(url=NEO4J_URI, username=NEO4J_USERNAME, password=NEO4J_PASSWORD)
-    sleep(5)  # Give some time for the connection to stabilize
-except ClientError as e:
-    print(f"Failed to connect to Neo4j: {e}")
-    graph = None
+# Connect to Neo4j database
+@st.cache_resource
+def connect_to_neo4j(uri, username, password):
+    try:
+        graph = Neo4jGraph(url=uri, username=username, password=password)
+        sleep(5)  # Give some time for the connection to stabilize
+        return graph
+    except ClientError as e:
+        print(f"Failed to connect to Neo4j: {e}")
+        return None
+
+graph = connect_to_neo4j(NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD)
 
 from langchain_community.vectorstores import Neo4jVector
 
@@ -43,30 +62,41 @@ RETURN parent.text AS text, score, parent.id AS parent_id_string, {parent_id_str
 """
 
 # Initialize Parent retriever
-try:
-    parent_vectorstore = Neo4jVector.from_existing_index(
-        embeddings,
-        index_name="parent_document",
-        retrieval_query=parent_query,
-    )
-except Exception as e:
-    print(f"Failed to initialize parent retriever: {e}")
-    parent_vectorstore = None
+@st.cache_resource
+def initialize_parent_retriever(_embeddings, parent_query):
+    try:
+        parent_vectorstore = Neo4jVector.from_existing_index(
+            _embeddings,
+            index_name="parent_document",
+            retrieval_query=parent_query,
+        )
+        return parent_vectorstore
+    except Exception as e:
+        print(f"Failed to initialize parent retriever: {e}")
+        return None
+
+parent_vectorstore = initialize_parent_retriever(embeddings, parent_query)
 
 from langchain.chains import RetrievalQA
 
 # Initialize RetrievalQA for Parent retriever
-try:
-    vector_parent = RetrievalQA.from_chain_type(
-        llm=llm,
-        chain_type="stuff",
-        retriever=parent_vectorstore.as_retriever()
-    )
-except Exception as e:
-    print(f"Failed to initialize vector_parent: {e}")
-    vector_parent = None
+@st.cache_resource
+def initialize_retrieval_qa(_llm, _parent_vectorstore):
+    try:
+        vector_parent = RetrievalQA.from_chain_type(
+            llm=_llm,
+            chain_type="stuff",
+            retriever=_parent_vectorstore.as_retriever()
+        )
+        return vector_parent
+    except Exception as e:
+        print(f"Failed to initialize vector_parent: {e}")
+        return None
+
+vector_parent = initialize_retrieval_qa(llm, parent_vectorstore)
 
 # Function to retrieve folder metadata based on parent ID
+@st.cache_data
 def retrieve_folder_metadata(parent_id):
     folder_query = """
     MATCH (parent:Parent {id: $parent_id})-[:GRAND_FATHER]->(folder:Folder)
@@ -124,9 +154,6 @@ def query_graph(user_input):
         print(f"Error during query_graph: {e}")
         return [{"result": f"Error processing the request: {str(e)}"}]
 
-# Configure the Streamlit page layout
-st.set_page_config(layout="wide")
-
 # Initialize session state variables
 if "user_msgs" not in st.session_state:
     st.session_state.user_msgs = []
@@ -150,7 +177,7 @@ with img_col:
     st.image("./GenLearn_logo.jpg", width=350)
 
 # Add a link to the source URL
-st.markdown("[Source URL](https://github.com/a01793474/TC5035-graphRAG_FIN-Equipo-22/tree/main/sec_10K_data/)")
+st.markdown("[Source URL](https://github.com/a01793474/TC5035-graphRAG_FIN-Equipo-22/tree/main/sec_10K_data)")
 
 # Define the submit function
 def submit():
@@ -166,7 +193,7 @@ def submit():
             for metadata in parent_metadata_list:
                 parent_id = metadata.get("parent_id_string", "Unknown")
                 folder_name = retrieve_folder_metadata(parent_id)
-                source_info.append(f"{folder_name} Section_ID {parent_id}")
+                source_info.append(f"{folder_name} Section_ID: {parent_id}")
         else:
             source_info.append("Unknown Source")
 
