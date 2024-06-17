@@ -55,7 +55,7 @@ graph = connect_to_neo4j(NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD)
 
 from langchain_community.vectorstores import Neo4jVector
 
-# Parent retriever query
+# Parent retriever query 
 parent_query = """
 MATCH (node)<-[:HAS_CHILD]-(parent)
 RETURN parent.text AS text, score, parent.id AS parent_id_string, {parent_id_string: parent.id} AS metadata LIMIT 1
